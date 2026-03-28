@@ -844,5 +844,29 @@
     "institution": "SecurityToday",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "162": {
+    "typ": "primaer",
+    "institution": "NATO ACT",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "163": {
+    "typ": "primaer",
+    "institution": "BMI",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "164": {
+    "typ": "primaer",
+    "institution": "BMI / Bundestag",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "165": {
+    "typ": "sekundaer",
+    "institution": "Clingendael Institute",
+    "jahr": 2024,
+    "evidenzgrad": "hoch"
   }
 }
