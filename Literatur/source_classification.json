@@ -802,5 +802,47 @@
     "institution": "Feuerwehr Fachjournal",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "155": {
+    "typ": "grau",
+    "institution": "Taylor Wessing",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "156": {
+    "typ": "grau",
+    "institution": "GOERG Rechtsanwaelte",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "157": {
+    "typ": "sekundaer",
+    "institution": "BayIKa / Prof. Gebbeken",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
+  },
+  "158": {
+    "typ": "grau",
+    "institution": "BABZ / BBK",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
+  },
+  "159": {
+    "typ": "grau",
+    "institution": "Deutscher Staedtetag",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "160": {
+    "typ": "journalistisch",
+    "institution": "Langenhagener News",
+    "jahr": 2026,
+    "evidenzgrad": "niedrig"
+  },
+  "161": {
+    "typ": "journalistisch",
+    "institution": "SecurityToday",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }

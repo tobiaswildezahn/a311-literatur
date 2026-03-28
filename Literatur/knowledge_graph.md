@@ -4,10 +4,10 @@ Stand: 2026-03-28
 
 ## Statistik
 
-- **134** Dokumente im Korpus
+- **141** Dokumente im Korpus
 - **1149** unique externe URLs
 - **54** Dokumente mit geteilten Quellen
-- **80** isolierte Dokumente (keine geteilten URLs)
+- **87** isolierte Dokumente (keine geteilten URLs)
 - **51** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -46,8 +46,8 @@ Stand: 2026-03-28
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
 | https://www.instagram.com/bbk_bund | 101, 76 |
-| https://www.hochwasserzentralen.de | 101, 141 |
 | https://twitter.com/BBK_Bund | 101, 76 |
+| https://www.hochwasserzentralen.de | 101, 141 |
 | https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021 | 103, 104 |
 
 ## Meistgenutzte Domaenen
@@ -81,10 +81,10 @@ Stand: 2026-03-28
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 31 | 23% |
-| Sekundaerquelle | 23 | 17% |
-| Graue Literatur | 42 | 31% |
-| Journalistische Quelle | 30 | 22% |
+| Primaerquelle | 31 | 22% |
+| Sekundaerquelle | 24 | 17% |
+| Graue Literatur | 46 | 33% |
+| Journalistische Quelle | 32 | 23% |
 | Tertiaerquelle | 6 | 4% |
 | Aktivistische Quelle | 2 | 1% |
 
@@ -92,9 +92,9 @@ Stand: 2026-03-28
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 46 | 34% |
-| mittel | 63 | 47% |
-| niedrig | 25 | 19% |
+| hoch | 46 | 33% |
+| mittel | 69 | 49% |
+| niedrig | 26 | 18% |
 
 ### Farbcodierung im Graph
 
@@ -243,6 +243,13 @@ Stand: 2026-03-28
 | 148 | CIMIC_Factsheet_Resilience | grau | NATO CIMIC COE | 2025 | mittel |
 | 151 | GMF_NATO_Societal | grau | German Marshall Fund | 2025 | mittel |
 | 153 | Bayern_Landesamt_Bevoelkerungsschutz | journalistisch | Feuerwehr Fachjournal | 2026 | mittel |
+| 155 | Taylor_Wessing_KRITIS | grau | Taylor Wessing | 2026 | mittel |
+| 156 | GOERG_KRITIS_DachG | grau | GOERG Rechtsanwaelte | 2026 | mittel |
+| 157 | Gebbeken_Schutzraumstrategie | sekundaer | BayIKa / Prof. Gebbeken | 2025 | mittel |
+| 158 | BABZ_Jahresprogramm_2026 | grau | BABZ / BBK | 2025 | mittel |
+| 159 | Staedtetag_Bevoelkerungsschutz | grau | Deutscher Staedtetag | 2026 | mittel |
+| 160 | INTERSCHUTZ_2026 | journalistisch | Langenhagener News | 2026 | niedrig |
+| 161 | SecurityToday_KRITIS_Fristen | journalistisch | SecurityToday | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -284,6 +291,13 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 145: Bundestag_Innenetat_2026 (primaer)
 - 151: GMF_NATO_Societal (grau)
 - 153: Bayern_Landesamt_Bevoelkerungsschutz (journalistisch)
+- 155: Taylor_Wessing_KRITIS (grau)
+- 156: GOERG_KRITIS_DachG (grau)
+- 157: Gebbeken_Schutzraumstrategie (sekundaer)
+- 158: BABZ_Jahresprogramm_2026 (grau)
+- 159: Staedtetag_Bevoelkerungsschutz (grau)
+- 160: INTERSCHUTZ_2026 (journalistisch)
+- 161: SecurityToday_KRITIS_Fristen (journalistisch)
 - 18: Roedl_KRITIS_Betreiber (grau)
 - 20: RadioHH_Bevoelkerungsschutz_Umbau (journalistisch)
 - 21: BV_HH_Nord (primaer)
