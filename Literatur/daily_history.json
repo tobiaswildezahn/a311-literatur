@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-03-28T10:27:32.928596",
-  "run_count": 0,
+  "last_run": "2026-03-28T10:43:45.139219",
+  "run_count": 1,
   "corpus_state": {
-    "total_docs": 129,
-    "total_urls": 1208,
-    "unique_urls": 1145,
-    "connected_docs": 53,
-    "isolated_docs": 76,
-    "edges": 47
+    "total_docs": 134,
+    "total_urls": 1228,
+    "unique_urls": 1149,
+    "connected_docs": 54,
+    "isolated_docs": 80,
+    "edges": 51
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -551,8 +551,10 @@
     "https://www.bundesregierung.de/breg-de/aktuelles/stromausfall-blackout-2129818",
     "https://www.bundesregierung.de/breg-de/aktuelles/stromausfall-unterstuetzung-des-bundes-2401638",
     "https://www.bundesregierung.de/breg-de/themen/umgang-mit-desinformation",
+    "https://www.bundesregierung.de/breg-en/news/cabinet-kritis-umbrella-law-2404992",
     "https://www.bundestag.de/ausschuesse/inneres/anhoerungen/1127628-1127628",
     "https://www.bundestag.de/dokumente/textarchiv/2024/kw12-de-zivilschutz-994512",
+    "https://www.bundestag.de/dokumente/textarchiv/2025/kw39-de-inneres-1104132",
     "https://www.bundestag.de/dokumente/textarchiv/2025/kw45-de-kritische-anlagen-1116726",
     "https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002",
     "https://www.bundestag.de/presse/hib/kurzmeldungen-1097648",
@@ -710,6 +712,7 @@
     "https://www.faz.net/aktuell/gesellschaft/ungluecke/stromausfall-in-berlin-zehntausende-verbringen-winternacht-in-eisiger-kaelte-und-dunkelheit-accg-200405238.html",
     "https://www.faz.net/aktuell/rhein-main/wo-gibt-es-in-hessen-hochwasser-19759157.html",
     "https://www.feuerwehr-fachjournal.de/ehrenamt-im-thw-starkes-engagement-starke-einsaetze/",
+    "https://www.feuerwehr-fachjournal.de/erstes-landesamt-fuer-bevoelkerungsschutz-startet-am-15-april-2026",
     "https://www.feuerwehr-fachjournal.de/tag/ehrenamt/",
     "https://www.feuerwehr-fachjournal.de/tag/engagement/",
     "https://www.feuerwehr-fachjournal.de/tag/hochwasser/",
@@ -744,6 +747,7 @@
     "https://www.gfz-potsdam.de/presse",
     "https://www.gfz-potsdam.de/presse/meldungen/detailansicht/anlaesslich-der-hochwasserlage-in-sueddeutschland",
     "https://www.gfz-potsdam.de/presse/meldungen/detailansicht/fragen-und-antworten-zur-aktuellen-hochwasserlage-in-deutschland",
+    "https://www.gmfus.org/news/nato-and-societal-resilience-all-hands-deck-age-war",
     "https://www.gmx.net/magazine/politik/inland/wegner-wankt-tennis-match-folgen-41763218",
     "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CAIQw7AJahcKEwiIpZHu69j_AhUAAAAAHQAAAAAQBg&url=https%3A%2F%2Fwww.lawa.de%2Fdocuments%2Flawa-empfehlungen_aufstellung_hw-gefahrenkarten_und_hw-risikokarten_2_1552298996.pdf&psig=AOvVaw3eCTNYUeFOHQ9moOGdmJXF&ust=1687590745812965&opi=89978449",
     "https://www.gov.nt.ca/sites/flagship/files/documents/pan-territorial\\\\_vision\\\\_for\\\\_sustainable\\\\_development\\\\_en.pdf",
@@ -1224,6 +1228,46 @@
     "https://zoes-bund.de/publikationen/gruenbuch-zmz/"
   ],
   "processed_sources": [],
-  "search_log": [],
-  "failed_downloads": []
+  "search_log": [
+    {
+      "date": "2026-03-28",
+      "queries_executed": 14,
+      "results_found": 15,
+      "new_relevant": 12,
+      "downloaded": 5,
+      "failed": 5
+    }
+  ],
+  "failed_downloads": [
+    {
+      "url": "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2025/09/haushalt2026.html",
+      "reason": "HTTP 400",
+      "first_attempted": "2026-03-28",
+      "retry_count": 1
+    },
+    {
+      "url": "https://www.act.nato.int/article/resilience-and-civil-preparedness-in-nato/",
+      "reason": "HTTP 403",
+      "first_attempted": "2026-03-28",
+      "retry_count": 1
+    },
+    {
+      "url": "https://www.innenministerkonferenz.de/IMK/DE/termine/to-beschluesse/2025-06-13_DOK/TOP_57.pdf",
+      "reason": "HTML statt PDF",
+      "first_attempted": "2026-03-28",
+      "retry_count": 1
+    },
+    {
+      "url": "https://www.buergerschaft-hh.de/parldok/dokument/88496/",
+      "reason": "Server disconnect",
+      "first_attempted": "2026-03-28",
+      "retry_count": 1
+    },
+    {
+      "url": "https://www.clingendael.org/publication/nato-and-need-strengthen-resilience-dutch-case",
+      "reason": "HTTP 403",
+      "first_attempted": "2026-03-28",
+      "retry_count": 1
+    }
+  ]
 }
