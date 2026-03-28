@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-03-28T10:43:45.139219",
-  "run_count": 1,
+  "last_run": "2026-03-28T11:24:24.416541",
+  "run_count": 2,
   "corpus_state": {
-    "total_docs": 134,
+    "total_docs": 141,
     "total_urls": 1228,
     "unique_urls": 1149,
     "connected_docs": 54,
-    "isolated_docs": 80,
+    "isolated_docs": 87,
     "edges": 51
   },
   "known_urls": [
@@ -15,17 +15,21 @@
     "http://Krisinformation.se",
     "http://Lilla.krisinformation.se",
     "http://MSB.se",
+    "http://berichte.bmelv-statistik.de/SGT-0100060-2008.xls",
+    "http://berichte.bmelv-statistik.de/SGT-0100080-2008.xls",
     "http://cgsc.contentdm.oclc.org/cdm/singleitem/collection/p124201coll1/id/504/rec/10",
     "http://ch.oddb.org/de/gcc/resolve/",
     "http://doi.org/10.25592/uhhfdm.16346",
     "http://dro.dur.ac.uk/6522/1/6522.pdf",
     "http://fruehwarnung.hochwasser-rlp.de/",
     "http://krisinformation.se",
+    "http://means.By",
     "http://metis.unibw.de",
     "http://msb.se",
     "http://nui.epp.eurostat.ec.europa.eu/nui/submitView",
     "http://silk-project.de",
     "http://silk-tool.de",
+    "http://strategicstudiesinstitute",
     "http://strategicstudiesinstitute.Army.mil/index.cfm/articles//Is-Strategy-Really-A-Lost-Art/2013/09/13",
     "http://twitter.com/share?text=Wie%20sichert%20Deutschland%20seine%20kritische%20Infrastruktur%20in%20Zeiten%20wachsender%20Bedrohungen%3F&url=https%3A%2F%2Fde.europarabct.com%2F%3Fp%3D88816",
     "http://warontherocks.com/2014/12/can-political",
@@ -111,6 +115,7 @@
     "https://carnegieendowment.org/research/2025/08/participatory-war-and-its-challenges-for-total-defense?lang=en",
     "https://cdainstitute.ca/embracing-innovation-to",
     "https://cdainstitute.ca/embracing-innovation-to-strengthen-canadas-leadership-in-nato/",
+    "https://civil-protection",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/funding-evaluations/financing-civil-protection_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/what/civil-protection/emergency-response-coordination-centre-ercc_en",
@@ -159,6 +164,7 @@
     "https://de.wikipedia.org/wiki/Liste_von_Hochwasser-Ereignissen",
     "https://de.wikipedia.org/wiki/Operationsplan_Deutschland",
     "https://de.wikipedia.org/wiki/Projekt",
+    "https://defence-industry-space",
     "https://defence-industry-space.ec.europa.eu/eu-defence-industry/military-mobility_en",
     "https://defence-network.com/oplan-deu-zivile-akteure-geheimhaltung/",
     "https://defence24.com/geopolitics/ready-for-war-swedens-total-defence",
@@ -204,6 +210,7 @@
     "https://dokumente.landtag.rlp.de/landtag/plenarprotokolle/4-P-18.pdf",
     "https://drmkc.jrc.ec.europa.eu/",
     "https://drmkc.jrc.ec.europa.eu/risk-data-hub",
+    "https://dserver",
     "https://dserver.bundestag.de/btd/06/033/0603345.pdf",
     "https://dserver.bundestag.de/btd/17/041/1704178.pdf",
     "https://dserver.bundestag.de/btd/17/056/1705672.pdf",
@@ -254,11 +261,13 @@
     "https://grafkerssenbrock.com/tag/krisenmanagement",
     "https://grafkerssenbrock.com/tag/kritische-infrastruktur",
     "https://hess.copernicus.org/articles/19/309/2015/",
+    "https://hochwassermanage",
     "https://hochwassermanagement.rlp-um",
     "https://hochwassermanagement.rlp-umwelt.de/servlet/is/200041/",
     "https://hochwassermanagement.rlp-umwelt.de/servlet/is/200042/",
     "https://hochwassermanagement.rlp-umwelt.de/servlet/is/8662",
     "https://hochwasserzentralen.info/",
+    "https://home",
     "https://home-affairs.ec.europa.eu/policies/internal-security/counter-terrorism-and-radicalisation/protection/critical-infrastructure-resilience-eu-level_en",
     "https://ici.radio-canada.ca/rci/en/news/2170636/carney-to-announce-canada-will-meet-2-nato-spending-target-by",
     "https://ici.radio-canada.ca/rci/en/news/2170636/carney-to-announce-canada-will-meet-2-nato-spending-target-by-march",
@@ -378,6 +387,7 @@
     "https://udo.lubw.baden-wuerttemberg.de/public/p/hwrm_hwgk_uf",
     "https://valtioneuvosto.fi/-/1410869/suomessa-on-vaestonsuojapaikkoja-noin-4-8-miljoonalle-ihmiselle?languageId=en_US",
     "https://veranstaltungen.handelsblatt.com/journal/themengebiete/cyber-security-datenschutz",
+    "https://warnung-der-bevoelkerun",
     "https://warnung-der-bevoelkerung.de/",
     "https://warnung.bund.de/meldungen",
     "https://warontherocks.com/",
@@ -386,6 +396,7 @@
     "https://web.archive.org/web/20040222232353/http://www.au.af.mil/au/awc/awcgate/ssi/stratrma.pdf",
     "https://web.archive.org/web/20040222232353/http:/www.au.af.mil/au/awc/awcgate/ssi/stratrma.pdf",
     "https://wp.table.media/wp-content/uploads/2025/06/13125056/German_MFF_Position_June_2025_-_GER_version.pdf",
+    "https://www",
     "https://www.act.nato.int/article/a-new-resilience-data-analytics-tool/",
     "https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021",
     "https://www.aerzteblatt.de/news/205-arztpraxen-liegen-im-berliner-stromausfallgebiet-fb74ac63-9776-4cb5-89e6-344a42982037",
@@ -1187,6 +1198,14 @@
       "new_relevant": 12,
       "downloaded": 5,
       "failed": 5
+    },
+    {
+      "date": "2026-03-28",
+      "queries_executed": 11,
+      "results_found": 10,
+      "new_relevant": 8,
+      "downloaded": 7,
+      "failed": 1
     }
   ],
   "failed_downloads": [
@@ -1194,28 +1213,34 @@
       "url": "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2025/09/haushalt2026.html",
       "reason": "HTTP 400",
       "first_attempted": "2026-03-28",
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "url": "https://www.act.nato.int/article/resilience-and-civil-preparedness-in-nato/",
       "reason": "HTTP 403",
       "first_attempted": "2026-03-28",
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "url": "https://www.innenministerkonferenz.de/IMK/DE/termine/to-beschluesse/2025-06-13_DOK/TOP_57.pdf",
       "reason": "HTML statt PDF",
       "first_attempted": "2026-03-28",
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "url": "https://www.buergerschaft-hh.de/parldok/dokument/88496/",
       "reason": "Server disconnect",
       "first_attempted": "2026-03-28",
-      "retry_count": 1
+      "retry_count": 2
     },
     {
       "url": "https://www.clingendael.org/publication/nato-and-need-strengthen-resilience-dutch-case",
+      "reason": "HTTP 403",
+      "first_attempted": "2026-03-28",
+      "retry_count": 2
+    },
+    {
+      "url": "https://shape.nato.int/news-archive/2026/partnering-to-strengthen-resilience-natos-military-strategic-partnerships-conference-2026-kicks-off-in-sarajevo",
       "reason": "HTTP 403",
       "first_attempted": "2026-03-28",
       "retry_count": 1
