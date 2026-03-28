@@ -43,9 +43,9 @@ Stand: 2026-03-28
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
-| https://www.hochwasserzentralen.de | 101, 141 |
-| https://www.instagram.com/bbk_bund | 101, 76 |
 | https://twitter.com/BBK_Bund | 101, 76 |
+| https://www.instagram.com/bbk_bund | 101, 76 |
+| https://www.hochwasserzentralen.de | 101, 141 |
 | https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021 | 103, 104 |
 | https://www.dstgb.de/themen/klimaschutz-und-klimaanpassung | 106, 108 |
 | https://dokumente.landtag.rlp.de/landtag/drucksachen/10000-18.pdf | 110, 111 |
@@ -65,8 +65,8 @@ Stand: 2026-03-28
 | bundesregierung.de | 6 | 01, 11, 12, 17, 85, 97 |
 | de.wikipedia.org | 6 | 100, 123, 60, 61, 85, 99 |
 | instagram.com | 6 | 101, 110, 17, 64, 71, 76 |
-| tagesschau.de | 5 | 100, 13, 49, 79, 93 |
 | youtube.com | 5 | 100, 141, 17, 85, 87 |
+| tagesschau.de | 5 | 100, 13, 49, 79, 93 |
 | twitter.com | 5 | 101, 111, 65, 76, 84 |
 | doi.org | 5 | 102, 30, 65, 83, 96 |
 | umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |

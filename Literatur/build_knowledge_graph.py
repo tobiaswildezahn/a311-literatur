@@ -22,11 +22,10 @@ from urllib.parse import urlparse
 MD_DIR = Path(__file__).parent / "md"
 DEFAULT_MIN_SHARED = 2  # Mindestanzahl geteilter URLs fuer eine Kante
 
-# Quellenklassifikation nach wissenschaftlichen Standards
-SOURCE_CLASSIFICATION = {
-    "01": {"typ": "primaer", "institution": "Bundesregierung", "jahr": 2023, "evidenzgrad": "hoch"},
-    "02": {"typ": "primaer", "institution": "BMI/BMVg", "jahr": 2024, "evidenzgrad": "hoch"},
-    "04": {"typ": "primaer", "institution": "BMVg", "jahr": 2024, "evidenzgrad": "hoch"},
+# Quellenklassifikation — extern in source_classification.json
+_cls_path = Path(__file__).parent / "source_classification.json"
+SOURCE_CLASSIFICATION = json.load(open(_cls_path, encoding="utf-8")) if _cls_path.exists() else {}
+_REMOVED_LEGACY_DICT = {
     "05": {"typ": "primaer", "institution": "BMI/Bundesregierung", "jahr": 2016, "evidenzgrad": "hoch"},
     "06": {"typ": "primaer", "institution": "Deutscher Bundestag", "jahr": 2024, "evidenzgrad": "hoch"},
     "07": {"typ": "primaer", "institution": "BMI/Bundesregierung", "jahr": 2026, "evidenzgrad": "hoch"},
