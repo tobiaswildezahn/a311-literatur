@@ -1,0 +1,1322 @@
+{
+  "documents": {
+    "01": {
+      "path": "01_Nationale_Sicherheitsstrategie_Zusammenfassung.md",
+      "aliases": [
+        "Nationale Sicherheitsstrategie Zusammenfassung",
+        "Zusammenfassung"
+      ]
+    },
+    "02": {
+      "path": "02_RRGV_Rahmenrichtlinien_Gesamtverteidigung.md",
+      "aliases": [
+        "RRGV Rahmenrichtlinien Gesamtverteidigung",
+        "Rahmenrichtlinien für die Gesamtverteidigung"
+      ]
+    },
+    "04": {
+      "path": "04_BMVg_PM_Gesamtverteidigung.md",
+      "aliases": [
+        "BMVg PM Gesamtverteidigung"
+      ]
+    },
+    "05": {
+      "path": "05_KZV_2016_Info.md",
+      "aliases": [
+        "KZV 2016 Info",
+        "Konzeption Zivile Verteidigung"
+      ]
+    },
+    "06": {
+      "path": "06_BT_Risikoanalyse_Zivilschutz_2023.md",
+      "aliases": [
+        "BT Risikoanalyse Zivilschutz"
+      ]
+    },
+    "07": {
+      "path": "07_BT_Risikoanalyse_Chemische_Kampfstoffe_2025.md",
+      "aliases": [
+        "BT Risikoanalyse Chemische Kampfstoffe"
+      ]
+    },
+    "08": {
+      "path": "08_BBK_Risikoanalysen_Uebersicht.md",
+      "aliases": [
+        "BBK Risikoanalysen Uebersicht",
+        "Risikoanalysen Bund und Länder"
+      ]
+    },
+    "100": {
+      "path": "100_Wikipedia_Hochwasser_Sueddeutschland_2024.md",
+      "aliases": [
+        "Wikipedia Hochwasser Sueddeutschland"
+      ]
+    },
+    "101": {
+      "path": "101_BBK_Hochwasser_Niedersachsen.md",
+      "aliases": [
+        "BBK Hochwasser Niedersachsen",
+        "BBK unterstützt betroffene Länder in der aktuellen Hochwasserlage"
+      ]
+    },
+    "102": {
+      "path": "102_UFZ_Hochwasser_Sueddeutschland.md",
+      "aliases": [
+        "UFZ Hochwasser Sueddeutschland"
+      ]
+    },
+    "103": {
+      "path": "103_UBA_Hitzemortalitaet.md",
+      "aliases": [
+        "UBA Hitzemortalitaet",
+        "GE-I-2: Hitzebedingte Todesfälle"
+      ]
+    },
+    "104": {
+      "path": "104_RKI_Hitzemortalitaet.md",
+      "aliases": [
+        "RKI Hitzemortalitaet",
+        "Wochenbericht zur hitze­bedingten Morta­lität"
+      ]
+    },
+    "105": {
+      "path": "105_bpb_Klimaanpassungspolitik.md",
+      "aliases": [
+        "bpb Klimaanpassungspolitik"
+      ]
+    },
+    "106": {
+      "path": "106_DStGB_Klimaanpassungsgesetz.md",
+      "aliases": [
+        "DStGB Klimaanpassungsgesetz"
+      ]
+    },
+    "107": {
+      "path": "107_GDV_Naturgefahrenstatistik_2024.md",
+      "aliases": [
+        "GDV Naturgefahrenstatistik",
+        "GDV-Naturgefahrenstatistik 2024: Hochwasserschäden mehr als verdoppelt"
+      ]
+    },
+    "108": {
+      "path": "108_DStGB_Waldbrandjahr_2022.md",
+      "aliases": [
+        "DStGB Waldbrandjahr"
+      ]
+    },
+    "10": {
+      "path": "10_BBK_Magazin_2024_20Jahre.md",
+      "aliases": [
+        "BBK Magazin 2024 20Jahre",
+        "15 Jahre Risikoanalyse im Bevölkerungsschutz – 2009 bis heute"
+      ]
+    },
+    "110": {
+      "path": "110_BlickAktuell_Abschlussbericht_Ahrtal.md",
+      "aliases": [
+        "BlickAktuell Abschlussbericht Ahrtal"
+      ]
+    },
+    "111": {
+      "path": "111_SPD_RLP_Abschlussbericht_UA.md",
+      "aliases": [
+        "SPD RLP Abschlussbericht UA",
+        "Pressemitteilung."
+      ]
+    },
+    "112": {
+      "path": "112_BBK_Magazin_Hochwasser_2021.md",
+      "aliases": [
+        "BBK Magazin Hochwasser",
+        "Hochwasser 2021: Was folgt aus den Erkenntnissen?"
+      ]
+    },
+    "113": {
+      "path": "113_Bundesregierung_Zwischenbericht_Flut_2021.md",
+      "aliases": [
+        "Bundesregierung Zwischenbericht Flut",
+        "Zwischenbericht zur Flutkatastrophe 2021: Katastrophenhilfe, Soforthilfen und Wiederaufbau"
+      ]
+    },
+    "114": {
+      "path": "114_BBK_LUEKEX_2026_Start.md",
+      "aliases": [
+        "BBK LUEKEX 2026 Start",
+        "Start ins Übungsjahr für LÜKEX 2026: Rekord an teilnehmenden Organisationen"
+      ]
+    },
+    "115": {
+      "path": "115_Behoerden_Spiegel_LUEKEX_2026.md",
+      "aliases": [
+        "Behoerden Spiegel LUEKEX"
+      ]
+    },
+    "116": {
+      "path": "116_Finanznachrichten_LUEKEX_2026.md",
+      "aliases": [
+        "Finanznachrichten LUEKEX",
+        "[Die Krisenmanagementübung LÜKEX 2026 verzeichnet Rekord an teilnehmenden Organisationen]"
+      ]
+    },
+    "117": {
+      "path": "117_Staedtetag_KRITIS_Klimawandel.md",
+      "aliases": [
+        "Staedtetag KRITIS Klimawandel",
+        "Wie sich Städte für künftige Krisen wappnen können"
+      ]
+    },
+    "118": {
+      "path": "118_BBK_Klimaanpassung_Hitzevorsorge.md",
+      "aliases": [
+        "BBK Klimaanpassung Hitzevorsorge",
+        "Bundesbehörden vertiefen Zusammenarbeit zur Klimaanpassung - Hitzevorsorge im Fokus"
+      ]
+    },
+    "119": {
+      "path": "119_Feuerwehr_Fachjournal_THW_2025.md",
+      "aliases": [
+        "Feuerwehr Fachjournal THW",
+        "THW blickt auf starkes Jahr 2025 und 75 Jahre Engagement für den Bevölkerungsschutz zurück"
+      ]
+    },
+    "11": {
+      "path": "11_Bundesregierung_Stromausfall_Risikoanalyse.md",
+      "aliases": [
+        "Bundesregierung Stromausfall Risikoanalyse"
+      ]
+    },
+    "120": {
+      "path": "120_VATM_Cell_Broadcast.md",
+      "aliases": [
+        "VATM Cell Broadcast"
+      ]
+    },
+    "121": {
+      "path": "121_Protector_GeKoB.md",
+      "aliases": [
+        "Protector GeKoB",
+        "Das Gemeinsame Kompetenzzentrum Bevölkerungsschutz"
+      ]
+    },
+    "122": {
+      "path": "122_Publicus_GeKoB.md",
+      "aliases": [
+        "Publicus GeKoB",
+        "Das Gemeinsame Kompetenzzentrum Bevölkerungsschutz"
+      ]
+    },
+    "123": {
+      "path": "123_Bundesrechnungshof_GeKoB.md",
+      "aliases": [
+        "Bundesrechnungshof GeKoB",
+        "Abschließende Mitteilung an das Bundesministerium des Innern und für Heimat und das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe über die Prüfung"
+      ]
+    },
+    "124": {
+      "path": "124_SIFO_Fachkongress_2025.md",
+      "aliases": [
+        "SIFO Fachkongress",
+        "Zivile Sicherheitsforschung auf dem Fachkongress „Forschung für den Bevölkerungsschutz“"
+      ]
+    },
+    "125": {
+      "path": "125_Polizei_HH_BBK_Ratgeber.md",
+      "aliases": [
+        "Polizei HH BBK Ratgeber"
+      ]
+    },
+    "126": {
+      "path": "126_Kommunal_Nachwuchsprobleme_Feuerwehr.md",
+      "aliases": [
+        "Kommunal Nachwuchsprobleme Feuerwehr",
+        "Nachwuchsprobleme bei der Feuerwehr"
+      ]
+    },
+    "127": {
+      "path": "127_Blaulicht_Ehrenamt.md",
+      "aliases": [
+        "Blaulicht Ehrenamt"
+      ]
+    },
+    "128": {
+      "path": "128_Feuerwehr_Fachjournal_THW_Ehrenamt.md",
+      "aliases": [
+        "Feuerwehr Fachjournal THW Ehrenamt",
+        "Ehrenamt im THW: starkes Engagement, starke Einsätze"
+      ]
+    },
+    "12": {
+      "path": "12_BT_Drs_20_5112_Bevoelkerungsschutz.md",
+      "aliases": [
+        "BT Drs 20 5112 Bevoelkerungsschutz"
+      ]
+    },
+    "131": {
+      "path": "131_BBK_Magazin_Zivile_Verteidigung_2025.md",
+      "aliases": [
+        "BBK Magazin Zivile Verteidigung"
+      ]
+    },
+    "132": {
+      "path": "132_LeMonde_Nord_Stream.md",
+      "aliases": [
+        "LeMonde Nord Stream",
+        "Der Fall Nord Stream"
+      ]
+    },
+    "133": {
+      "path": "133_ZDF_Unterseekabel_Sabotage.md",
+      "aliases": [
+        "ZDF Unterseekabel Sabotage",
+        "Unterseekabel beschädigt — Sabotage-Ermittlungen eingeleitet"
+      ]
+    },
+    "134": {
+      "path": "134_Landkreistag_OPLAN_Zivilschutz.md",
+      "aliases": [
+        "Landkreistag OPLAN Zivilschutz",
+        "Operationsplan und Zivilschutz: „Wir müssen vorbereitet sein“"
+      ]
+    },
+    "135": {
+      "path": "135_SchweizBauer_Schutzraeume.md",
+      "aliases": [
+        "SchweizBauer Schutzraeume",
+        "Wegen Kriegen: Bundesrat will Schutzräume erneuern"
+      ]
+    },
+    "136": {
+      "path": "136_SPD_Bevoelkerungsschutz_2021.md",
+      "aliases": [
+        "SPD Bevoelkerungsschutz",
+        "Zukunft des Bevölkerungsschutzes – Update statt Systemwechsel"
+      ]
+    },
+    "13": {
+      "path": "13_BT_Drs_20_11895_Gesamtverteidigung.md",
+      "aliases": [
+        "BT Drs 20 11895 Gesamtverteidigung"
+      ]
+    },
+    "14": {
+      "path": "14_BT_1Lesung_KRITIS.md",
+      "aliases": [
+        "BT 1Lesung KRITIS"
+      ]
+    },
+    "15": {
+      "path": "15_BT_Beschluss_KRITIS_Dachgesetz.md",
+      "aliases": [
+        "BT Beschluss KRITIS Dachgesetz"
+      ]
+    },
+    "16": {
+      "path": "16_Datenschutz_Notizen_KRITIS.md",
+      "aliases": [
+        "Datenschutz Notizen KRITIS",
+        "KRITIS-Dachgesetz: Überblick, parlamentarischer Stand und fachliche Kritik"
+      ]
+    },
+    "17": {
+      "path": "17_Bayika_Gebbeken_KRITIS.md",
+      "aliases": [
+        "Bayika Gebbeken KRITIS"
+      ]
+    },
+    "18": {
+      "path": "18_Roedl_KRITIS_Betreiber.md",
+      "aliases": [
+        "Roedl KRITIS Betreiber",
+        "Bundestag beschließt KRITIS-Dachgesetz (KRITISDachG): Was Betreiber kritischer Anlagen jetzt wissen müssen."
+      ]
+    },
+    "20": {
+      "path": "20_RadioHH_Bevoelkerungsschutz_Umbau.md",
+      "aliases": [
+        "RadioHH Bevoelkerungsschutz Umbau",
+        "Bevölkerungsschutz in Hamburg soll \"komplett umgebaut werden\""
+      ]
+    },
+    "22": {
+      "path": "22_NATO_Resilience_Article3.md",
+      "aliases": [
+        "NATO Resilience Article3",
+        "NATO Resilience, Civil Preparedness and Article 3"
+      ]
+    },
+    "24": {
+      "path": "24_CIMIC_Factsheet_Resilience.md",
+      "aliases": [
+        "CIMIC Factsheet Resilience",
+        "Resilience through Civil Preparedness"
+      ]
+    },
+    "28": {
+      "path": "28_IOS_Eighth_Baseline_Requirement.md",
+      "aliases": [
+        "IOS Eighth Baseline Requirement",
+        "Ebook: The Eighth Baseline Requirement: Resilient Civilians in Hybrid Threats and Warfare"
+      ]
+    },
+    "29": {
+      "path": "29_NATO_CPG_Seminar_Stockholm.md",
+      "aliases": [
+        "NATO CPG Seminar Stockholm",
+        "2024 NATO CIVIL PROTECTION GROUP SEMINAR"
+      ]
+    },
+    "30": {
+      "path": "30_Bertelsmann_NATO_Resilience_Spending.md",
+      "aliases": [
+        "Bertelsmann NATO Resilience Spending",
+        "What's in a Number? Making NATO's 1.5% Spending Goal Work for European Resilience"
+      ]
+    },
+    "31": {
+      "path": "31_NAADSN_7BLR_Policy_Primer.md",
+      "aliases": [
+        "NAADSN 7BLR Policy Primer",
+        "Military Spending, NATO's Seven Baseline Requirements, and Infrastructure"
+      ]
+    },
+    "33": {
+      "path": "33_JRC_Cross_Border_Risks.md",
+      "aliases": [
+        "JRC Cross Border Risks"
+      ]
+    },
+    "34": {
+      "path": "34_EU_TAFF_Civil_Protection.md",
+      "aliases": [
+        "EU TAFF Civil Protection",
+        "Technical Assistance Financing Facility"
+      ]
+    },
+    "36": {
+      "path": "36_Parameters_Bad_Strategy.md",
+      "aliases": [
+        "Parameters Bad Strategy",
+        "Ends+Ways+Means=(Bad) Strategy"
+      ]
+    },
+    "37": {
+      "path": "37_Parameters_Repliken.md",
+      "aliases": [
+        "Parameters Repliken",
+        "[The US Army War College Quarterly: Parameters]"
+      ]
+    },
+    "38": {
+      "path": "38_MWI_Beyond_Ends_Ways_Means.md",
+      "aliases": [
+        "MWI Beyond Ends Ways Means",
+        "Beyond Ends, Ways, and Means: We Need a Better Strategic Framework to Win in an Era of Great Power Competition"
+      ]
+    },
+    "39": {
+      "path": "39_WarRoom_Models_Metaphors.md",
+      "aliases": [
+        "WarRoom Models Metaphors",
+        "Wrong and Useful: Models and Metaphors for Strategy"
+      ]
+    },
+    "40": {
+      "path": "40_StrategyCentral_Bad_Strategy.md",
+      "aliases": [
+        "StrategyCentral Bad Strategy"
+      ]
+    },
+    "41": {
+      "path": "41_DTIC_Lykke_Development.md",
+      "aliases": [
+        "DTIC Lykke Development",
+        "REPORT DOCUMENTATION PAGE *Form Approved*"
+      ]
+    },
+    "42": {
+      "path": "42_Marshall_Lykke_AWC_Model.md",
+      "aliases": [
+        "Marshall Lykke AWC Model"
+      ]
+    },
+    "44": {
+      "path": "44_IMK_AG_Bericht_2025.md",
+      "aliases": [
+        "IMK AG Bericht",
+        "Bericht der Bund/Länder offene-Arbeitsgruppe Zivile Verteidigung / Zivil-Militärische Zusammenarbeit"
+      ]
+    },
+    "45": {
+      "path": "45_BBK_Hybride_Bedrohungen.md",
+      "aliases": [
+        "BBK Hybride Bedrohungen",
+        "Hybride Bedrohungen"
+      ]
+    },
+    "46": {
+      "path": "46_BBK_Sabotage.md",
+      "aliases": [
+        "BBK Sabotage",
+        "Sabotage"
+      ]
+    },
+    "47": {
+      "path": "47_BfV_Sabotage_Nachrichtendienste.md",
+      "aliases": [
+        "BfV Sabotage Nachrichtendienste",
+        "Die neue Bedrohung: Sabotage durch fremde Nachrichtendienste."
+      ]
+    },
+    "48": {
+      "path": "48_Correctiv_Hybride_Kriegfuehrung.md",
+      "aliases": [
+        "Correctiv Hybride Kriegfuehrung"
+      ]
+    },
+    "49": {
+      "path": "49_Correctiv_Vorsorge_Kriegspanik.md",
+      "aliases": [
+        "Correctiv Vorsorge Kriegspanik"
+      ]
+    },
+    "50": {
+      "path": "50_Bayern_Hybride_Bedrohungen_Unternehmen.md",
+      "aliases": [
+        "Bayern Hybride Bedrohungen Unternehmen"
+      ]
+    },
+    "51": {
+      "path": "51_Handelsblatt_Hybride_Kriegfuehrung.md",
+      "aliases": [
+        "Handelsblatt Hybride Kriegfuehrung"
+      ]
+    },
+    "52": {
+      "path": "52_Pravda_Germans_Russia_Threat.md",
+      "aliases": [
+        "Pravda Germans Russia Threat"
+      ]
+    },
+    "53": {
+      "path": "53_Blogist_Cyberangriffe_KRITIS.md",
+      "aliases": [
+        "Blogist Cyberangriffe KRITIS"
+      ]
+    },
+    "54": {
+      "path": "54_BSI_Lagebericht_2025.md",
+      "aliases": [
+        "BSI Lagebericht",
+        "BSI-Lagebericht 2025: die aktuelle Cybersicherheitslage"
+      ]
+    },
+    "55": {
+      "path": "55_CPM_OPLAN_Einfuehrung.md",
+      "aliases": [
+        "CPM OPLAN Einfuehrung",
+        "Operationsplan Deutschland — Eine Einführung"
+      ]
+    },
+    "56": {
+      "path": "56_CPM_OPLAN_Zivile_Akteure.md",
+      "aliases": [
+        "CPM OPLAN Zivile Akteure",
+        "OPLAN DEU – Zivile Akteure zwischen Geheimhaltung und Pflicht"
+      ]
+    },
+    "57": {
+      "path": "57_CPM_Hilfsorganisationen_OPLAN.md",
+      "aliases": [
+        "CPM Hilfsorganisationen OPLAN",
+        "Wo stehen die Hilfsorganisationen im OPLAN?"
+      ]
+    },
+    "58": {
+      "path": "58_Behoerden_Spiegel_Gesamtverteidigung.md",
+      "aliases": [
+        "Behoerden Spiegel Gesamtverteidigung"
+      ]
+    },
+    "59": {
+      "path": "59_Reservistenverband_Gesamtverteidigung.md",
+      "aliases": [
+        "Reservistenverband Gesamtverteidigung",
+        "Kabinett beschließt neuen Rahmen für die Gesamtverteidigung"
+      ]
+    },
+    "60": {
+      "path": "60_Wikipedia_OPLAN_Deutschland.md",
+      "aliases": [
+        "Wikipedia OPLAN Deutschland"
+      ]
+    },
+    "61": {
+      "path": "61_Wikipedia_Host_Nation_Support.md",
+      "aliases": [
+        "Wikipedia Host Nation Support"
+      ]
+    },
+    "62": {
+      "path": "62_Correctiv_Bundeswehr_Kriegstuechtigkeit.md",
+      "aliases": [
+        "Correctiv Bundeswehr Kriegstuechtigkeit"
+      ]
+    },
+    "63": {
+      "path": "63_Sachgebiet5_Gesamtverteidigung_Weckruf.md",
+      "aliases": [
+        "Sachgebiet5 Gesamtverteidigung Weckruf"
+      ]
+    },
+    "64": {
+      "path": "64_PwC_MSC_Gesamtstaatliche_Resilienz.md",
+      "aliases": [
+        "PwC MSC Gesamtstaatliche Resilienz",
+        "Deutschlands Schritte zu gesamtstaatlicher Resilienz"
+      ]
+    },
+    "65": {
+      "path": "65_DGAP_Zeitenwende_Zivile_Verteidigung.md",
+      "aliases": [
+        "DGAP Zeitenwende Zivile Verteidigung",
+        "Zeitenwende – auch in der zivilen Verteidigung"
+      ]
+    },
+    "66": {
+      "path": "66_DGAP_Gesamtverteidigung_Ernstfall.md",
+      "aliases": [
+        "DGAP Gesamtverteidigung Ernstfall",
+        "Gesamtverteidigung: Annäherung an den Ernstfall"
+      ]
+    },
+    "67": {
+      "path": "67_DGAP_Schutzraumkonzept.md",
+      "aliases": [
+        "DGAP Schutzraumkonzept",
+        "Nationales Schutzraumkonzept – Was Deutschland von seinen Nachbarn lernen kann"
+      ]
+    },
+    "68": {
+      "path": "68_Metis_Studie39_Gesamtverteidigung.md",
+      "aliases": [
+        "Metis Studie39 Gesamtverteidigung",
+        "Zusammenfassung eue sicherheitspolitische Herausforderungen erfordern Konzepte der Gesamtverteidigung für die Widerstandsfähigkeit, Resilienz und letztlich Überlebensfähigkeit moderner Gesellschaften. Neue Kriegsformen als auch die Implikationen des Klimawandels machen eine grundlegende Reform der Gesamtverteidigung in Deutschland unausweichlich. Die vorliegende Studie diskutiert das bestehende Konzept, identifiziert Defizite und bietet Handlungsempfehlungen, um die Kriegs- und Resilienztüchtigkeit Deutschlands nachhaltig zu stärken."
+      ]
+    },
+    "69": {
+      "path": "69_Boell_Nordic_Baltic_Total_Defence.md",
+      "aliases": [
+        "Boell Nordic Baltic Total Defence"
+      ]
+    },
+    "70": {
+      "path": "70_ISDP_Total_Defence_Comparative.md",
+      "aliases": [
+        "ISDP Total Defence Comparative"
+      ]
+    },
+    "71": {
+      "path": "71_Krisennavigator_Katastrophenschutzumfrage_2024.md",
+      "aliases": [
+        "Krisennavigator Katastrophenschutzumfrage"
+      ]
+    },
+    "72": {
+      "path": "72_BBK_KRITIS_Gefahren.md",
+      "aliases": [
+        "BBK KRITIS Gefahren",
+        "KRITIS-Gefahren­"
+      ]
+    },
+    "73": {
+      "path": "73_BBK_Stromausfall_Themenseite.md",
+      "aliases": [
+        "BBK Stromausfall Themenseite",
+        "Stromausfall"
+      ]
+    },
+    "74": {
+      "path": "74_BBK_Stromausfall_Detail.md",
+      "aliases": [
+        "BBK Stromausfall Detail",
+        "Stromausfall"
+      ]
+    },
+    "75": {
+      "path": "75_BBK_Risikomanagement_KRITIS.md",
+      "aliases": [
+        "BBK Risikomanagement KRITIS",
+        "Risikomanagement in Kritischen Infrastrukturen"
+      ]
+    },
+    "76": {
+      "path": "76_BBK_Notstromleitfaden.md",
+      "aliases": [
+        "BBK Notstromleitfaden",
+        "Bevölkerungsschutz und Normung im Einklang"
+      ]
+    },
+    "77": {
+      "path": "77_bpb_Blackout_KRITIS.md",
+      "aliases": [
+        "bpb Blackout KRITIS"
+      ]
+    },
+    "78": {
+      "path": "78_ZDF_Blackout_Gefahr.md",
+      "aliases": [
+        "ZDF Blackout Gefahr"
+      ]
+    },
+    "79": {
+      "path": "79_EnBW_Blackout_Szenario.md",
+      "aliases": [
+        "EnBW Blackout Szenario",
+        "Blackout: Wie realistisch ist das Szenario für Deutschland wirklich?"
+      ]
+    },
+    "80": {
+      "path": "80_Tonline_Blackout_Phasen.md",
+      "aliases": [
+        "Tonline Blackout Phasen"
+      ]
+    },
+    "81": {
+      "path": "81_Produktion_Blackout_Industrie.md",
+      "aliases": [
+        "Produktion Blackout Industrie",
+        "Szenario Blackout: Was tut die Industrie bei Stromausfall?"
+      ]
+    },
+    "82": {
+      "path": "82_MarktMittelstand_Blackout.md",
+      "aliases": [
+        "MarktMittelstand Blackout"
+      ]
+    },
+    "83": {
+      "path": "83_ESKP_Klimawandel_KRITIS.md",
+      "aliases": [
+        "ESKP Klimawandel KRITIS",
+        "Die Relevanz des Klimawandels für „Kritische Infrastrukturen“"
+      ]
+    },
+    "84": {
+      "path": "84_ECCT_Deutschland_KRITIS_Sicherung.md",
+      "aliases": [
+        "ECCT Deutschland KRITIS Sicherung",
+        "Wie sichert Deutschland seine kritische Infrastruktur in Zeiten wachsender Bedrohungen?"
+      ]
+    },
+    "85": {
+      "path": "85_Wikipedia_Brandanschlag_Berlin_2026.md",
+      "aliases": [
+        "Wikipedia Brandanschlag Berlin"
+      ]
+    },
+    "86": {
+      "path": "86_Tagesspiegel_Stromausfall_Berlin.md",
+      "aliases": [
+        "Tagesspiegel Stromausfall Berlin"
+      ]
+    },
+    "87": {
+      "path": "87_CleanThinking_Vulkangruppe.md",
+      "aliases": [
+        "CleanThinking Vulkangruppe",
+        "Vulkangruppe legt Berlin lahm: Linksradikale sabotieren Stromnetz"
+      ]
+    },
+    "88": {
+      "path": "88_GrafKerssenbrock_Krisenmanagement.md",
+      "aliases": [
+        "GrafKerssenbrock Krisenmanagement",
+        "Analyse des Krisenmanagements beim Berliner Stromausfall Januar 2026"
+      ]
+    },
+    "89": {
+      "path": "89_BKA_Zeugenaufruf_Brandanschlag.md",
+      "aliases": [
+        "BKA Zeugenaufruf Brandanschlag",
+        "Öffentlicher Zeugenaufruf zum Brandanschlag auf die Stromversorgung in Berlin: Belohnung für Hinweise aus der Bevölkerung"
+      ]
+    },
+    "90": {
+      "path": "90_ZDF_AfD_FalseFlag.md",
+      "aliases": [
+        "ZDF AfD FalseFlag",
+        "Stromausfall: Was ist dran an AfD- und False-Flag-Gerüchten?"
+      ]
+    },
+    "91": {
+      "path": "91_Tonline_Infrastrukturschutz.md",
+      "aliases": [
+        "Tonline Infrastrukturschutz"
+      ]
+    },
+    "92": {
+      "path": "92_ND_Infrastrukturen_kaputtgespart.md",
+      "aliases": [
+        "ND Infrastrukturen kaputtgespart",
+        "Stromausfall in Berlin: »Infrastrukturen wurden kaputtgespart«"
+      ]
+    },
+    "93": {
+      "path": "93_SecurityInsider_Stromausfall.md",
+      "aliases": [
+        "SecurityInsider Stromausfall"
+      ]
+    },
+    "94": {
+      "path": "94_inFranken_Stromausfall_Angst.md",
+      "aliases": [
+        "inFranken Stromausfall Angst"
+      ]
+    },
+    "95": {
+      "path": "95_DWD_Faktenpapier_Extremwetter.md",
+      "aliases": [
+        "DWD Faktenpapier Extremwetter",
+        "Faktenpapier 2025 zu Extremwetter in Deutschland"
+      ]
+    },
+    "96": {
+      "path": "96_DWD_Faktenpapier_Vollversion.md",
+      "aliases": [
+        "DWD Faktenpapier Vollversion"
+      ]
+    },
+    "97": {
+      "path": "97_Bundesregierung_Flut_Ahrtal.md",
+      "aliases": [
+        "Bundesregierung Flut Ahrtal"
+      ]
+    },
+    "98": {
+      "path": "98_bpb_Flut_Ahr_2021.md",
+      "aliases": [
+        "bpb Flut Ahr"
+      ]
+    },
+    "99": {
+      "path": "99_Greenpeace_Jahrhunderthochwasser.md",
+      "aliases": [
+        "Greenpeace Jahrhunderthochwasser",
+        "Was ist ein Jahrhunderthochwasser?"
+      ]
+    }
+  },
+  "references": [
+    {
+      "from": "02",
+      "to": "05",
+      "count": 1
+    },
+    {
+      "from": "04",
+      "to": "02",
+      "count": 2
+    },
+    {
+      "from": "04",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "05",
+      "to": "02",
+      "count": 1
+    },
+    {
+      "from": "06",
+      "to": "05",
+      "count": 1
+    },
+    {
+      "from": "08",
+      "to": "05",
+      "count": 2
+    },
+    {
+      "from": "10",
+      "to": "05",
+      "count": 1
+    },
+    {
+      "from": "10",
+      "to": "74",
+      "count": 1
+    },
+    {
+      "from": "110",
+      "to": "01",
+      "count": 1
+    },
+    {
+      "from": "111",
+      "to": "01",
+      "count": 1
+    },
+    {
+      "from": "114",
+      "to": "74",
+      "count": 1
+    },
+    {
+      "from": "117",
+      "to": "74",
+      "count": 1
+    },
+    {
+      "from": "119",
+      "to": "74",
+      "count": 2
+    },
+    {
+      "from": "11",
+      "to": "74",
+      "count": 4
+    },
+    {
+      "from": "121",
+      "to": "122",
+      "count": 6
+    },
+    {
+      "from": "121",
+      "to": "74",
+      "count": 1
+    },
+    {
+      "from": "122",
+      "to": "121",
+      "count": 1
+    },
+    {
+      "from": "122",
+      "to": "05",
+      "count": 1
+    },
+    {
+      "from": "12",
+      "to": "05",
+      "count": 6
+    },
+    {
+      "from": "12",
+      "to": "122",
+      "count": 1
+    },
+    {
+      "from": "12",
+      "to": "02",
+      "count": 1
+    },
+    {
+      "from": "132",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "133",
+      "to": "46",
+      "count": 6
+    },
+    {
+      "from": "136",
+      "to": "74",
+      "count": 1
+    },
+    {
+      "from": "136",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "136",
+      "to": "05",
+      "count": 1
+    },
+    {
+      "from": "13",
+      "to": "45",
+      "count": 2
+    },
+    {
+      "from": "13",
+      "to": "05",
+      "count": 1
+    },
+    {
+      "from": "13",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "13",
+      "to": "02",
+      "count": 2
+    },
+    {
+      "from": "17",
+      "to": "74",
+      "count": 1
+    },
+    {
+      "from": "17",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "17",
+      "to": "45",
+      "count": 1
+    },
+    {
+      "from": "20",
+      "to": "45",
+      "count": 2
+    },
+    {
+      "from": "20",
+      "to": "46",
+      "count": 2
+    },
+    {
+      "from": "30",
+      "to": "05",
+      "count": 1
+    },
+    {
+      "from": "40",
+      "to": "36",
+      "count": 1
+    },
+    {
+      "from": "44",
+      "to": "45",
+      "count": 3
+    },
+    {
+      "from": "44",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "44",
+      "to": "02",
+      "count": 1
+    },
+    {
+      "from": "45",
+      "to": "46",
+      "count": 3
+    },
+    {
+      "from": "46",
+      "to": "45",
+      "count": 7
+    },
+    {
+      "from": "47",
+      "to": "46",
+      "count": 10
+    },
+    {
+      "from": "47",
+      "to": "45",
+      "count": 2
+    },
+    {
+      "from": "48",
+      "to": "45",
+      "count": 2
+    },
+    {
+      "from": "48",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "49",
+      "to": "45",
+      "count": 2
+    },
+    {
+      "from": "49",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "49",
+      "to": "74",
+      "count": 2
+    },
+    {
+      "from": "50",
+      "to": "45",
+      "count": 3
+    },
+    {
+      "from": "50",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "51",
+      "to": "45",
+      "count": 3
+    },
+    {
+      "from": "52",
+      "to": "45",
+      "count": 2
+    },
+    {
+      "from": "53",
+      "to": "45",
+      "count": 2
+    },
+    {
+      "from": "54",
+      "to": "01",
+      "count": 1
+    },
+    {
+      "from": "54",
+      "to": "45",
+      "count": 2
+    },
+    {
+      "from": "55",
+      "to": "05",
+      "count": 1
+    },
+    {
+      "from": "57",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "59",
+      "to": "02",
+      "count": 2
+    },
+    {
+      "from": "59",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "63",
+      "to": "74",
+      "count": 1
+    },
+    {
+      "from": "64",
+      "to": "02",
+      "count": 1
+    },
+    {
+      "from": "66",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "66",
+      "to": "02",
+      "count": 1
+    },
+    {
+      "from": "67",
+      "to": "74",
+      "count": 1
+    },
+    {
+      "from": "67",
+      "to": "02",
+      "count": 1
+    },
+    {
+      "from": "68",
+      "to": "01",
+      "count": 1
+    },
+    {
+      "from": "68",
+      "to": "45",
+      "count": 1
+    },
+    {
+      "from": "68",
+      "to": "02",
+      "count": 3
+    },
+    {
+      "from": "68",
+      "to": "05",
+      "count": 2
+    },
+    {
+      "from": "72",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "73",
+      "to": "74",
+      "count": 14
+    },
+    {
+      "from": "74",
+      "to": "73",
+      "count": 13
+    },
+    {
+      "from": "77",
+      "to": "74",
+      "count": 12
+    },
+    {
+      "from": "78",
+      "to": "74",
+      "count": 3
+    },
+    {
+      "from": "78",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "79",
+      "to": "74",
+      "count": 17
+    },
+    {
+      "from": "79",
+      "to": "46",
+      "count": 4
+    },
+    {
+      "from": "80",
+      "to": "74",
+      "count": 7
+    },
+    {
+      "from": "81",
+      "to": "74",
+      "count": 6
+    },
+    {
+      "from": "82",
+      "to": "74",
+      "count": 1
+    },
+    {
+      "from": "83",
+      "to": "74",
+      "count": 1
+    },
+    {
+      "from": "84",
+      "to": "74",
+      "count": 1
+    },
+    {
+      "from": "85",
+      "to": "74",
+      "count": 9
+    },
+    {
+      "from": "85",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "86",
+      "to": "74",
+      "count": 52
+    },
+    {
+      "from": "87",
+      "to": "74",
+      "count": 12
+    },
+    {
+      "from": "87",
+      "to": "46",
+      "count": 5
+    },
+    {
+      "from": "88",
+      "to": "74",
+      "count": 13
+    },
+    {
+      "from": "88",
+      "to": "46",
+      "count": 2
+    },
+    {
+      "from": "89",
+      "to": "74",
+      "count": 3
+    },
+    {
+      "from": "89",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "90",
+      "to": "74",
+      "count": 6
+    },
+    {
+      "from": "90",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "91",
+      "to": "74",
+      "count": 2
+    },
+    {
+      "from": "91",
+      "to": "46",
+      "count": 5
+    },
+    {
+      "from": "92",
+      "to": "74",
+      "count": 4
+    },
+    {
+      "from": "92",
+      "to": "46",
+      "count": 1
+    },
+    {
+      "from": "93",
+      "to": "74",
+      "count": 11
+    },
+    {
+      "from": "93",
+      "to": "46",
+      "count": 2
+    },
+    {
+      "from": "94",
+      "to": "74",
+      "count": 10
+    },
+    {
+      "from": "96",
+      "to": "01",
+      "count": 1
+    }
+  ],
+  "graph_mermaid": "```mermaid\ngraph LR\n    86[\"86\"]\n    74[\"74\"]\n    86 -->|52x| 74\n    79[\"79\"]\n    79 -->|17x| 74\n    73[\"73\"]\n    73 -->|14x| 74\n    74 -->|13x| 73\n    88[\"88\"]\n    88 -->|13x| 74\n    77[\"77\"]\n    77 -->|12x| 74\n    87[\"87\"]\n    87 -->|12x| 74\n    93[\"93\"]\n    93 -->|11x| 74\n    47[\"47\"]\n    46[\"46\"]\n    47 -->|10x| 46\n    94[\"94\"]\n    94 -->|10x| 74\n    85[\"85\"]\n    85 -->|9x| 74\n    45[\"45\"]\n    46 -->|7x| 45\n    80[\"80\"]\n    80 -->|7x| 74\n    121[\"121\"]\n    122[\"122\"]\n    121 -->|6x| 122\n    12[\"12\"]\n    05[\"05\"]\n    12 -->|6x| 05\n    133[\"133\"]\n    133 -->|6x| 46\n    81[\"81\"]\n    81 -->|6x| 74\n    90[\"90\"]\n    90 -->|6x| 74\n    87 -->|5x| 46\n    91[\"91\"]\n    91 -->|5x| 46\n    11[\"11\"]\n    11 -->|4x| 74\n    79 -->|4x| 46\n    92[\"92\"]\n    92 -->|4x| 74\n    44[\"44\"]\n    44 -->|3x| 45\n    45 -->|3x| 46\n    50[\"50\"]\n    50 -->|3x| 45\n    51[\"51\"]\n    51 -->|3x| 45\n    68[\"68\"]\n    02[\"02\"]\n    68 -->|3x| 02\n    78[\"78\"]\n    78 -->|3x| 74\n    89[\"89\"]\n    89 -->|3x| 74\n    04[\"04\"]\n    04 -->|2x| 02\n    08[\"08\"]\n    08 -->|2x| 05\n    119[\"119\"]\n    119 -->|2x| 74\n    13[\"13\"]\n    13 -->|2x| 45\n    13 -->|2x| 02\n    20[\"20\"]\n    20 -->|2x| 45\n    20 -->|2x| 46\n    47 -->|2x| 45\n    48[\"48\"]\n    48 -->|2x| 45\n    49[\"49\"]\n    49 -->|2x| 45\n    49 -->|2x| 74\n    52[\"52\"]\n    52 -->|2x| 45\n    53[\"53\"]\n    53 -->|2x| 45\n    54[\"54\"]\n    54 -->|2x| 45\n    59[\"59\"]\n    59 -->|2x| 02\n    68 -->|2x| 05\n    88 -->|2x| 46\n    91 -->|2x| 74\n    93 -->|2x| 46\n    02 --> 05\n    04 --> 46\n    05 --> 02\n    06[\"06\"]\n    06 --> 05\n    10[\"10\"]\n    10 --> 05\n    10 --> 74\n    110[\"110\"]\n    01[\"01\"]\n    110 --> 01\n    111[\"111\"]\n    111 --> 01\n    114[\"114\"]\n    114 --> 74\n    117[\"117\"]\n    117 --> 74\n    121 --> 74\n    122 --> 121\n    122 --> 05\n    12 --> 122\n    12 --> 02\n    132[\"132\"]\n    132 --> 46\n    136[\"136\"]\n    136 --> 74\n    136 --> 46\n    136 --> 05\n    13 --> 05\n    13 --> 46\n    17[\"17\"]\n    17 --> 74\n    17 --> 46\n    17 --> 45\n    30[\"30\"]\n    30 --> 05\n    40[\"40\"]\n    36[\"36\"]\n    40 --> 36\n    44 --> 46\n    44 --> 02\n    48 --> 46\n    49 --> 46\n    50 --> 46\n    54 --> 01\n    55[\"55\"]\n    55 --> 05\n    57[\"57\"]\n    57 --> 46\n    59 --> 46\n    63[\"63\"]\n    63 --> 74\n    64[\"64\"]\n    64 --> 02\n    66[\"66\"]\n    66 --> 46\n    66 --> 02\n    67[\"67\"]\n    67 --> 74\n    67 --> 02\n    68 --> 01\n    68 --> 45\n    72[\"72\"]\n    72 --> 46\n    78 --> 46\n    82[\"82\"]\n    82 --> 74\n    83[\"83\"]\n    83 --> 74\n    84[\"84\"]\n    84 --> 74\n    85 --> 46\n    89 --> 46\n    90 --> 46\n    92 --> 46\n    96[\"96\"]\n    96 --> 01\n```"
+}

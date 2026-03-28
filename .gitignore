@@ -1,0 +1,16 @@
+# PDFs und HTML-Originale (nur Markdown wird getrackt)
+*.pdf
+*.html
+*.htm
+
+# System
+.DS_Store
+__pycache__/
+*.pyc
+
+# Temporaere Dateien
+/tmp/
+*.tmp
+
+# Lokale Notizen (nicht fuer Repo)
+*.docx
