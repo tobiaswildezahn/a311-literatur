@@ -772,5 +772,35 @@
     "institution": "BMI/BMVg",
     "jahr": 2024,
     "evidenzgrad": "hoch"
+  },
+  "144": {
+    "typ": "primaer",
+    "institution": "Bundesregierung",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "145": {
+    "typ": "primaer",
+    "institution": "Deutscher Bundestag",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "148": {
+    "typ": "grau",
+    "institution": "NATO CIMIC COE",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
+  },
+  "151": {
+    "typ": "grau",
+    "institution": "German Marshall Fund",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
+  },
+  "153": {
+    "typ": "journalistisch",
+    "institution": "Feuerwehr Fachjournal",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }

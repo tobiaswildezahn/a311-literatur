@@ -4,51 +4,51 @@ Stand: 2026-03-28
 
 ## Statistik
 
-- **129** Dokumente im Korpus
-- **1145** unique externe URLs
-- **53** Dokumente mit geteilten Quellen
-- **76** isolierte Dokumente (keine geteilten URLs)
-- **47** Verbindungen (mind. 2 geteilte URLs)
+- **134** Dokumente im Korpus
+- **1149** unique externe URLs
+- **54** Dokumente mit geteilten Quellen
+- **80** isolierte Dokumente (keine geteilten URLs)
+- **51** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
 
 | Dok | Label | Verbindungen |
 |-----|-------|-------------|
+| 30 | Bertelsmann_NATO_Resilience | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 85 | Wikipedia_Brandanschlag_Berlin | 5 |
-| 30 | Bertelsmann_NATO_Resilience | 5 |
 | 141 | UA_Flut_RLP | 4 |
 | 60 | Wikipedia_OPLAN_Deutschland | 4 |
+| 148 | CIMIC_Factsheet_Resilience | 4 |
+| 24 | CIMIC_Factsheet_Resilience | 4 |
+| 31 | NAADSN_7BLR_Policy | 4 |
+| 69 | Boell_Nordic_Baltic | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 | 17 | Bayika_Gebbeken_KRITIS | 4 |
 | 87 | CleanThinking_Vulkangruppe | 3 |
 | 16 | Datenschutz_Notizen_KRITIS | 3 |
 | 79 | EnBW_Blackout_Szenario | 3 |
-| 24 | CIMIC_Factsheet_Resilience | 3 |
-| 31 | NAADSN_7BLR_Policy | 3 |
-| 69 | Boell_Nordic_Baltic | 3 |
 | 66 | DGAP_Gesamtverteidigung_Ernstfall | 3 |
-| 08 | BBK_Risikoanalysen_Uebersicht | 2 |
 
 ## Meistzitierte externe Quellen
 
 | URL | Dokumente |
 |-----|-----------|
+| https://www.nato.int/cps/en/natohq/topics_132722.htm | 148, 24, 30, 31, 69 |
 | https://www.youtube.com/watch | 100, 141, 85, 87 |
+| https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 30, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
-| https://www.nato.int/cps/en/natohq/topics_132722.htm | 24, 30, 31, 69 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
-| https://www.nato.int/cps/en/natohq/topics_50093.htm | 24, 30, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 31 |
 | https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376 | 04, 05 |
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
-| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.instagram.com/bbk_bund | 101, 76 |
 | https://www.hochwasserzentralen.de | 101, 141 |
+| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021 | 103, 104 |
-| https://www.dstgb.de/themen/klimaschutz-und-klimaanpassung | 106, 108 |
-| https://dokumente.landtag.rlp.de/landtag/drucksachen/10000-18.pdf | 110, 111 |
 
 ## Meistgenutzte Domaenen
 
@@ -57,23 +57,23 @@ Stand: 2026-03-28
 | bbk.bund.de | 26 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | bmi.bund.de | 13 | 04, 08, 112, 12, 13, 141, 17, 30, 50, 59... |
 | dserver.bundestag.de | 11 | 06, 07, 08, 14, 15, 17, 30, 66, 73, 74... |
-| bundestag.de | 9 | 06, 07, 14, 15, 16, 17, 49, 79, 91 |
+| bundestag.de | 10 | 06, 07, 14, 145, 15, 16, 17, 49, 79, 91 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
+| nato.int | 8 | 148, 22, 24, 29, 30, 31, 61, 69 |
+| bundesregierung.de | 7 | 01, 11, 12, 144, 17, 85, 97 |
 | dwd.de | 7 | 100, 102, 103, 131, 141, 95, 96 |
 | bundeswehr.de | 7 | 131, 60, 61, 62, 63, 64, 66 |
-| nato.int | 7 | 22, 24, 29, 30, 31, 61, 69 |
-| bundesregierung.de | 6 | 01, 11, 12, 17, 85, 97 |
 | de.wikipedia.org | 6 | 100, 123, 60, 61, 85, 99 |
 | instagram.com | 6 | 101, 110, 17, 64, 71, 76 |
-| youtube.com | 5 | 100, 141, 17, 85, 87 |
 | tagesschau.de | 5 | 100, 13, 49, 79, 93 |
+| youtube.com | 5 | 100, 141, 17, 85, 87 |
 | twitter.com | 5 | 101, 111, 65, 76, 84 |
 | doi.org | 5 | 102, 30, 65, 83, 96 |
 | umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
 | bmvg.de | 4 | 04, 05, 45, 65 |
+| t-online.de | 4 | 100, 80, 85, 91 |
 | swr.de | 4 | 100, 102, 141, 60 |
 | zeit.de | 4 | 100, 49, 85, 87 |
-| t-online.de | 4 | 100, 80, 85, 91 |
 
 ## Quellenklassifikation
 
@@ -81,19 +81,19 @@ Stand: 2026-03-28
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 29 | 22% |
-| Sekundaerquelle | 23 | 18% |
-| Graue Literatur | 40 | 31% |
-| Journalistische Quelle | 29 | 22% |
-| Tertiaerquelle | 6 | 5% |
-| Aktivistische Quelle | 2 | 2% |
+| Primaerquelle | 31 | 23% |
+| Sekundaerquelle | 23 | 17% |
+| Graue Literatur | 42 | 31% |
+| Journalistische Quelle | 30 | 22% |
+| Tertiaerquelle | 6 | 4% |
+| Aktivistische Quelle | 2 | 1% |
 
 ### Verteilung nach Evidenzgrad
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 44 | 34% |
-| mittel | 60 | 47% |
+| hoch | 46 | 34% |
+| mittel | 63 | 47% |
 | niedrig | 25 | 19% |
 
 ### Farbcodierung im Graph
@@ -238,6 +238,11 @@ Stand: 2026-03-28
 | 141 | UA_Flut_RLP | primaer | Landtag RLP / UA 18/1 | 2024 | hoch |
 | 142 | NATO_Strategic_Concept | primaer | NATO | 2022 | hoch |
 | 143 | RRGV_2024_Volltext | primaer | BMI/BMVg | 2024 | hoch |
+| 144 | KRITIS_DachG_Inkrafttreten | primaer | Bundesregierung | 2026 | hoch |
+| 145 | Bundestag_Innenetat_2026 | primaer | Deutscher Bundestag | 2025 | hoch |
+| 148 | CIMIC_Factsheet_Resilience | grau | NATO CIMIC COE | 2025 | mittel |
+| 151 | GMF_NATO_Societal | grau | German Marshall Fund | 2025 | mittel |
+| 153 | Bayern_Landesamt_Bevoelkerungsschutz | journalistisch | Feuerwehr Fachjournal | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -275,6 +280,10 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 140: Weissbuch_Zivile_Verteidigung (primaer)
 - 142: NATO_Strategic_Concept (primaer)
 - 143: RRGV_2024_Volltext (primaer)
+- 144: KRITIS_DachG_Inkrafttreten (primaer)
+- 145: Bundestag_Innenetat_2026 (primaer)
+- 151: GMF_NATO_Societal (grau)
+- 153: Bayern_Landesamt_Bevoelkerungsschutz (journalistisch)
 - 18: Roedl_KRITIS_Betreiber (grau)
 - 20: RadioHH_Bevoelkerungsschutz_Umbau (journalistisch)
 - 21: BV_HH_Nord (primaer)
@@ -344,6 +353,7 @@ graph LR
     D116["116: Finanznachrichten_LUEKEX_2026<br/>JOU | 8 URLs"]
     D14["14: BT_1Lesung_KRITIS<br/>PRI | 3 URLs"]
     D141["141: UA_Flut_RLP<br/>PRI | 95 URLs"]
+    D148["148: CIMIC_Factsheet_Resilience<br/>GRA | 16 URLs"]
     D15["15: BT_Beschluss_KRITIS<br/>PRI | 3 URLs"]
     D16["16: Datenschutz_Notizen_KRITIS<br/>SEK | 25 URLs"]
     D17["17: Bayika_Gebbeken_KRITIS<br/>GRA | 32 URLs"]
@@ -377,16 +387,19 @@ graph LR
     D94["94: inFranken_Stromausfall_Angst<br/>JOU | 4 URLs"]
     D95["95: DWD_Faktenpapier_Extremwetter<br/>GRA | 1 URLs"]
     D96["96: DWD_Faktenpapier_Vollversion<br/>PRI | 27 URLs"]
+    D148 ==>|16| D24
     D115 ==>|8| D58
     D36 ==>|5| D37
+    D148 ==>|4| D31
     D24 ==>|4| D31
     D30 ==>|3| D31
     D100 -->|2| D85
     D85 -->|2| D87
     D101 -->|2| D76
+    D148 -->|2| D30
+    D24 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
-    D24 -->|2| D30
     D30 -->|2| D33
     D36 -->|2| D40
     D65 -->|2| D66
@@ -395,11 +408,11 @@ graph LR
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
+    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D102
     D100 -->|1| D60
     D60 -->|1| D85
     D101 -->|1| D141
@@ -408,15 +421,16 @@ graph LR
     D110 -->|1| D111
     D112 -->|1| D116
     D11 -->|1| D94
+    D148 -->|1| D69
+    D24 -->|1| D69
+    D30 -->|1| D69
+    D31 -->|1| D69
     D15 -->|1| D16
     D15 -->|1| D17
     D15 -->|1| D79
     D16 -->|1| D79
     D17 -->|1| D79
     D17 -->|1| D93
-    D24 -->|1| D69
-    D30 -->|1| D69
-    D31 -->|1| D69
     D30 -->|1| D66
     D48 -->|1| D49
     D59 -->|1| D60
@@ -427,7 +441,7 @@ graph LR
     style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D96 fill:#2563eb,color:#fff
     style D102,D112,D16,D33,D36,D37,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
     style D100,D60,D85 fill:#6b7280,color:#fff
-    style D101,D106,D108,D17,D24,D30,D31,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
+    style D101,D106,D108,D148,D17,D24,D30,D31,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
     style D110,D115,D116,D48,D49,D58,D59,D62,D80,D87,D90,D91,D93,D94 fill:#059669,color:#fff
     style D111 fill:#dc2626,color:#fff
 ```
