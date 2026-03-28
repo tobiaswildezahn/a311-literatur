@@ -17,8 +17,8 @@ Stand: 2026-03-28
 | 30 | Bertelsmann_NATO_Resilience | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 85 | Wikipedia_Brandanschlag_Berlin | 5 |
-| 141 | UA_Flut_RLP | 4 |
 | 60 | Wikipedia_OPLAN_Deutschland | 4 |
+| 141 | UA_Flut_RLP | 4 |
 | 148 | CIMIC_Factsheet_Resilience | 4 |
 | 24 | CIMIC_Factsheet_Resilience | 4 |
 | 31 | NAADSN_7BLR_Policy | 4 |
@@ -71,9 +71,9 @@ Stand: 2026-03-28
 | doi.org | 5 | 102, 30, 65, 83, 96 |
 | umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
 | bmvg.de | 4 | 04, 05, 45, 65 |
-| t-online.de | 4 | 100, 80, 85, 91 |
 | swr.de | 4 | 100, 102, 141, 60 |
 | zeit.de | 4 | 100, 49, 85, 87 |
+| t-online.de | 4 | 100, 80, 85, 91 |
 
 ## Quellenklassifikation
 
@@ -408,13 +408,13 @@ graph LR
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
-    D100 -->|1| D102
+    D100 -->|1| D60
+    D60 -->|1| D85
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D60
-    D60 -->|1| D85
+    D100 -->|1| D102
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108
