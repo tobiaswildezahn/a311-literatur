@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-03-28
+Stand: 2026-03-29
 
 ## Statistik
 
-- **145** Dokumente im Korpus
-- **1176** unique externe URLs
+- **149** Dokumente im Korpus
+- **1180** unique externe URLs
 - **56** Dokumente mit geteilten Quellen
-- **89** isolierte Dokumente (keine geteilten URLs)
+- **93** isolierte Dokumente (keine geteilten URLs)
 - **57** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -45,8 +45,8 @@ Stand: 2026-03-28
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
-| https://www.hochwasserzentralen.de | 101, 141 |
 | https://www.instagram.com/bbk_bund | 101, 76 |
+| https://www.hochwasserzentralen.de | 101, 141 |
 | https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021 | 103, 104 |
 
@@ -64,16 +64,16 @@ Stand: 2026-03-28
 | dwd.de | 7 | 100, 102, 103, 131, 141, 95, 96 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
 | bundeswehr.de | 7 | 131, 60, 61, 62, 63, 64, 66 |
-| de.wikipedia.org | 6 | 100, 123, 60, 61, 85, 99 |
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
+| de.wikipedia.org | 6 | 100, 123, 60, 61, 85, 99 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
+| dgap.org | 6 | 166, 167, 169, 65, 66, 67 |
 | tagesschau.de | 5 | 100, 13, 49, 79, 93 |
-| doi.org | 5 | 102, 30, 65, 83, 96 |
 | umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
+| doi.org | 5 | 102, 30, 65, 83, 96 |
 | linkedin.com | 5 | 117, 165, 17, 64, 87 |
 | bmvg.de | 4 | 04, 05, 45, 65 |
 | swr.de | 4 | 100, 102, 141, 60 |
-| zeit.de | 4 | 100, 49, 85, 87 |
 
 ## Quellenklassifikation
 
@@ -82,9 +82,9 @@ Stand: 2026-03-28
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
 | Primaerquelle | 34 | 23% |
-| Sekundaerquelle | 25 | 17% |
-| Graue Literatur | 46 | 32% |
-| Journalistische Quelle | 32 | 22% |
+| Sekundaerquelle | 28 | 19% |
+| Graue Literatur | 47 | 32% |
+| Journalistische Quelle | 32 | 21% |
 | Tertiaerquelle | 6 | 4% |
 | Aktivistische Quelle | 2 | 1% |
 
@@ -93,8 +93,8 @@ Stand: 2026-03-28
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
 | hoch | 50 | 34% |
-| mittel | 69 | 48% |
-| niedrig | 26 | 18% |
+| mittel | 72 | 48% |
+| niedrig | 27 | 18% |
 
 ### Farbcodierung im Graph
 
@@ -254,6 +254,10 @@ Stand: 2026-03-28
 | 163 | BMI_Meilenstein_Sicherheitspolitik | primaer | BMI | 2025 | hoch |
 | 164 | BMI_Plenardebatte_Haushalt | primaer | BMI / Bundestag | 2025 | hoch |
 | 165 | Clingendael_NATO_Resilience | sekundaer | Clingendael Institute | 2024 | hoch |
+| 166 | DGAP_Zeitenwende_Verteidigungspolitik | sekundaer | DGAP | 2022 | mittel |
+| 167 | DGAP_Action_Plan | sekundaer | DGAP | 2021 | mittel |
+| 168 | IT_Matchmaker_KRITIS | grau | IT-Matchmaker / Atoria | 2025 | niedrig |
+| 169 | DGAP_Nationale_Risikoanalyse | sekundaer | DGAP | 2025 | mittel |
 
 ## Isolierte Dokumente
 
@@ -304,6 +308,10 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 162: NATO_ACT_Resilience (primaer)
 - 163: BMI_Meilenstein_Sicherheitspolitik (primaer)
 - 164: BMI_Plenardebatte_Haushalt (primaer)
+- 166: DGAP_Zeitenwende_Verteidigungspolitik (sekundaer)
+- 167: DGAP_Action_Plan (sekundaer)
+- 168: IT_Matchmaker_KRITIS (grau)
+- 169: DGAP_Nationale_Risikoanalyse (sekundaer)
 - 18: Roedl_KRITIS_Betreiber (grau)
 - 20: RadioHH_Bevoelkerungsschutz_Umbau (journalistisch)
 - 21: BV_HH_Nord (primaer)

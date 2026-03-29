@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-03-28T11:24:24.416541",
-  "run_count": 2,
+  "last_run": "2026-03-29T05:09:38.431683",
+  "run_count": 3,
   "corpus_state": {
-    "total_docs": 141,
-    "total_urls": 1228,
-    "unique_urls": 1149,
-    "connected_docs": 54,
-    "isolated_docs": 87,
-    "edges": 51
+    "total_docs": 149,
+    "total_urls": 1262,
+    "unique_urls": 1180,
+    "connected_docs": 56,
+    "isolated_docs": 93,
+    "edges": 57
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -174,9 +174,14 @@
     "https://dgap.org/de/forschung/expertise/sicherheit",
     "https://dgap.org/de/forschung/programme/europa-zentrum",
     "https://dgap.org/de/forschung/programme/zentrum-fuer-sicherheit-und-verteidigung",
+    "https://dgap.org/de/forschung/publikationen/die-aussen-und-sicherheitspolitik-des-rassemblement-national",
+    "https://dgap.org/de/forschung/publikationen/die-neue-strategische-ausrichtung-der-usa-worauf-deutschland-besonders",
     "https://dgap.org/de/forschung/publikationen/gesamtverteidigung-annaeherung-den-ernstfall",
     "https://dgap.org/de/forschung/publikationen/nationales-schutzraumkonzept-was-deutschland-von-seinen-nachbarn-lernen",
+    "https://dgap.org/de/forschung/publikationen/sicherheitspolitik-mit-strategie",
     "https://dgap.org/de/forschung/publikationen/zeitenwende-auch-der-zivilen-verteidigung",
+    "https://dgap.org/de/forschung/publikationen/zeitenwende-der-verteidigungspolitik",
+    "https://dgap.org/en/research/publications/action-plan-security-and-defense-policy",
     "https://dgap.org/system/files/article_pdfs/02-Essay_Gesamtverteidigung-online.pdf",
     "https://digital-strategy.ec.europa.eu/en/policies/nis2",
     "https://digital-strategy.ec.europa.eu/en/policies/nis2-directive",
@@ -288,6 +293,7 @@
     "https://landesrecht.rlp.de/bsrp/document/jlr-Brand_KatSchGRPV14P1/format/xsl/part/S?oi=fnmKGyPWUB&sourceP=%7B%22source%22%3A%22Link%22%7D",
     "https://landesrecht.rlp.de/bsrp/document/jlr-HWasMeldeVRPpP1/format/xsl/part/S?oi=wTsFaqb6ak&sourceP=%7B%22source%22%3A%22Link%22%7D",
     "https://landesrecht.rlp.de/bsrp/document/jlr-VwVGRPrahmen/format/xsl/part/R?oi=fnmKGyPWUB&sourceP=%7B%22source%22%3A%22Link%22%7D",
+    "https://langenhagener-news.de/interschutz-2026-bevoelkerungsschutz-im-fokus/",
     "https://legal.vogel.de/legal-cockpit/vcg-vogel-communications-group/dse/vcg-datenschutzerklaerung-zentral/#datenabgleich",
     "https://lfks.rlp.de/fileadmin/LFKS/Downloads/Gesetze/FueRi.pdf",
     "https://live.handelsblatt.com/hybride-kriegsfuehrung-europas-sicherheitspolitischer-realitaetscheck/",
@@ -315,6 +321,7 @@
     "https://network.bepress.com/hgg/discipline/504?utm_source=press.armywarcollege.edu%2Fparameters%2Fvol47%2Fiss1%2F14&utm_medium=PDF&utm_campaign=PDFCoverPages",
     "https://network.bepress.com/hgg/discipline/861?utm_source=press.armywarcollege.edu%2Fparameters%2Fvol46%2Fiss4%2F9&utm_medium=PDF&utm_campaign=PDFCoverPages",
     "https://network.bepress.com/hgg/discipline/861?utm_source=press.armywarcollege.edu%2Fparameters%2Fvol47%2Fiss1%2F14&utm_medium=PDF&utm_campaign=PDFCoverPages",
+    "https://news.it-matchmaker.com/7-schritte-schuetzen-kuenftig-kritische-infrastruktur/",
     "https://newsroom.vodafone.de/politik-und-gesellschaft/darum-schrillen-am-donnerstag-viele-millionen-handys-gleichzeitig",
     "https://nhess.copernicus.org/articles/23/973/2023/",
     "https://nhess.copernicus.org/articles/23/973/2023/.*",
@@ -1206,6 +1213,14 @@
       "new_relevant": 8,
       "downloaded": 7,
       "failed": 1
+    },
+    {
+      "date": "2026-03-29",
+      "queries": 11,
+      "results": 40,
+      "new": 4,
+      "downloaded": 4,
+      "failed": 0
     }
   ],
   "failed_downloads": [

@@ -868,5 +868,29 @@
     "institution": "Clingendael Institute",
     "jahr": 2024,
     "evidenzgrad": "hoch"
+  },
+  "166": {
+    "typ": "sekundaer",
+    "institution": "DGAP",
+    "jahr": 2022,
+    "evidenzgrad": "mittel"
+  },
+  "167": {
+    "typ": "sekundaer",
+    "institution": "DGAP",
+    "jahr": 2021,
+    "evidenzgrad": "mittel"
+  },
+  "168": {
+    "typ": "grau",
+    "institution": "IT-Matchmaker / Atoria",
+    "jahr": 2025,
+    "evidenzgrad": "niedrig"
+  },
+  "169": {
+    "typ": "sekundaer",
+    "institution": "DGAP",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
   }
 }
