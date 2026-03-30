@@ -892,5 +892,41 @@
     "institution": "DGAP",
     "jahr": 2025,
     "evidenzgrad": "mittel"
+  },
+  "170": {
+    "typ": "primaer",
+    "institution": "EU Council",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "171": {
+    "typ": "primaer",
+    "institution": "DWD",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "172": {
+    "typ": "grau",
+    "institution": "BBK",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "173": {
+    "typ": "grau",
+    "institution": "BBK",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "174": {
+    "typ": "grau",
+    "institution": "Wirtschaftsrat CDU",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "175": {
+    "typ": "grau",
+    "institution": "BDEW/VKU",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }

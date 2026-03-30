@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-03-29
+Stand: 2026-03-30
 
 ## Statistik
 
-- **149** Dokumente im Korpus
-- **1180** unique externe URLs
+- **155** Dokumente im Korpus
+- **1186** unique externe URLs
 - **56** Dokumente mit geteilten Quellen
-- **93** isolierte Dokumente (keine geteilten URLs)
+- **99** isolierte Dokumente (keine geteilten URLs)
 - **57** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -45,32 +45,32 @@ Stand: 2026-03-29
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
+| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.instagram.com/bbk_bund | 101, 76 |
 | https://www.hochwasserzentralen.de | 101, 141 |
-| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021 | 103, 104 |
 
 ## Meistgenutzte Domaenen
 
 | Domain | Anzahl Dokumente | Dok-IDs |
 |--------|-----------------|---------|
-| bbk.bund.de | 26 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
+| bbk.bund.de | 28 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | bmi.bund.de | 13 | 04, 08, 112, 12, 13, 141, 17, 30, 50, 59... |
 | dserver.bundestag.de | 11 | 06, 07, 08, 14, 15, 17, 30, 66, 73, 74... |
 | bundestag.de | 10 | 06, 07, 14, 145, 15, 16, 17, 49, 79, 91 |
 | nato.int | 9 | 148, 165, 22, 24, 29, 30, 31, 61, 69 |
+| dwd.de | 8 | 100, 102, 103, 131, 141, 171, 95, 96 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | bundesregierung.de | 7 | 01, 11, 12, 144, 17, 85, 97 |
-| dwd.de | 7 | 100, 102, 103, 131, 141, 95, 96 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
 | bundeswehr.de | 7 | 131, 60, 61, 62, 63, 64, 66 |
-| youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | de.wikipedia.org | 6 | 100, 123, 60, 61, 85, 99 |
+| youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
 | dgap.org | 6 | 166, 167, 169, 65, 66, 67 |
 | tagesschau.de | 5 | 100, 13, 49, 79, 93 |
-| umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
 | doi.org | 5 | 102, 30, 65, 83, 96 |
+| umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
 | linkedin.com | 5 | 117, 165, 17, 64, 87 |
 | bmvg.de | 4 | 04, 05, 45, 65 |
 | swr.de | 4 | 100, 102, 141, 60 |
@@ -81,9 +81,9 @@ Stand: 2026-03-29
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 34 | 23% |
-| Sekundaerquelle | 28 | 19% |
-| Graue Literatur | 47 | 32% |
+| Primaerquelle | 36 | 23% |
+| Sekundaerquelle | 28 | 18% |
+| Graue Literatur | 51 | 33% |
 | Journalistische Quelle | 32 | 21% |
 | Tertiaerquelle | 6 | 4% |
 | Aktivistische Quelle | 2 | 1% |
@@ -92,9 +92,9 @@ Stand: 2026-03-29
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 50 | 34% |
-| mittel | 72 | 48% |
-| niedrig | 27 | 18% |
+| hoch | 52 | 34% |
+| mittel | 76 | 49% |
+| niedrig | 27 | 17% |
 
 ### Farbcodierung im Graph
 
@@ -258,6 +258,12 @@ Stand: 2026-03-29
 | 167 | DGAP_Action_Plan | sekundaer | DGAP | 2021 | mittel |
 | 168 | IT_Matchmaker_KRITIS | grau | IT-Matchmaker / Atoria | 2025 | niedrig |
 | 169 | DGAP_Nationale_Risikoanalyse | sekundaer | DGAP | 2025 | mittel |
+| 170 | EU_Council_Hybrid | primaer | EU Council | 2026 | hoch |
+| 171 | DWD_AICON_KI | primaer | DWD | 2026 | hoch |
+| 172 | BBK_Aktionsreihe_Selbstschutz | grau | BBK | 2026 | mittel |
+| 173 | BBK_ISF_Projekt | grau | BBK | 2026 | mittel |
+| 174 | Wirtschaftsrat_Cybersicherheit_2026 | grau | Wirtschaftsrat CDU | 2026 | mittel |
+| 175 | BDEW_VKU_KRITIS | grau | BDEW/VKU | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -312,6 +318,12 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 167: DGAP_Action_Plan (sekundaer)
 - 168: IT_Matchmaker_KRITIS (grau)
 - 169: DGAP_Nationale_Risikoanalyse (sekundaer)
+- 170: EU_Council_Hybrid (primaer)
+- 171: DWD_AICON_KI (primaer)
+- 172: BBK_Aktionsreihe_Selbstschutz (grau)
+- 173: BBK_ISF_Projekt (grau)
+- 174: Wirtschaftsrat_Cybersicherheit_2026 (grau)
+- 175: BDEW_VKU_KRITIS (grau)
 - 18: Roedl_KRITIS_Betreiber (grau)
 - 20: RadioHH_Bevoelkerungsschutz_Umbau (journalistisch)
 - 21: BV_HH_Nord (primaer)
@@ -439,9 +451,9 @@ graph LR
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
+    D100 -->|1| D102
     D100 -->|1| D60
     D60 -->|1| D85
-    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
