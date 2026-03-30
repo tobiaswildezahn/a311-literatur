@@ -1,4 +1,4 @@
-# PDFs und HTML-Originale (nur Markdown wird getrackt)
+# PDF-Originale und HTML (nur Markdown wird getrackt)
 *.pdf
 *.html
 *.htm
@@ -12,8 +12,30 @@ __pycache__/
 /tmp/
 *.tmp
 
-# Inbox fuer manuelle Downloads (wird lokal verarbeitet, nicht committed)
+# Inbox (wird lokal verarbeitet, nicht committed)
 Literatur/inbox/
 
-# Lokale Notizen (nicht fuer Repo)
-*.docx
+# PDF-Archiv (Originale liegen lokal, zu gross fuer Git)
+Literatur/pdf/
+
+# Alte Kategorie-Ordner (Originale, nicht getrackt)
+Literatur/01_*/
+Literatur/02_*/
+Literatur/03_*/
+Literatur/04_*/
+Literatur/05_*/
+Literatur/06_*/
+Literatur/07_*/
+Literatur/08_*/
+Literatur/09_*/
+Literatur/10_*/
+Literatur/11_*/
+Literatur/12_*/
+Literatur/13_*/
+Literatur/14_*/
+
+# LaunchAgent Logs
+Literatur/daily_reports/launchd_*.log
+
+# Output-Ordner (lokale Arbeitsdokumente)
+output/
