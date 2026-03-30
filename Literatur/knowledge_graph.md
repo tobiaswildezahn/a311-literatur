@@ -4,10 +4,10 @@ Stand: 2026-03-30
 
 ## Statistik
 
-- **179** Dokumente im Korpus
-- **1211** unique externe URLs
+- **180** Dokumente im Korpus
+- **1213** unique externe URLs
 - **57** Dokumente mit geteilten Quellen
-- **122** isolierte Dokumente (keine geteilten URLs)
+- **123** isolierte Dokumente (keine geteilten URLs)
 - **57** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -39,15 +39,15 @@ Stand: 2026-03-30
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 30, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
-| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
 | https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
 | https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376 | 04, 05 |
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
+| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.instagram.com/bbk_bund | 101, 76 |
 | https://www.hochwasserzentralen.de | 101, 141 |
-| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021 | 103, 104 |
 
 ## Meistgenutzte Domaenen
@@ -59,8 +59,8 @@ Stand: 2026-03-30
 | dserver.bundestag.de | 11 | 06, 07, 08, 14, 15, 17, 30, 66, 73, 74... |
 | bundestag.de | 10 | 06, 07, 14, 145, 15, 16, 17, 49, 79, 91 |
 | nato.int | 9 | 148, 165, 22, 24, 29, 30, 31, 61, 69 |
-| spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | dwd.de | 8 | 100, 102, 103, 131, 141, 171, 95, 96 |
+| spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | bundeswehr.de | 8 | 131, 197, 60, 61, 62, 63, 64, 66 |
 | bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
@@ -81,7 +81,7 @@ Stand: 2026-03-30
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 41 | 23% |
+| Primaerquelle | 42 | 23% |
 | Sekundaerquelle | 28 | 16% |
 | Graue Literatur | 51 | 28% |
 | Journalistische Quelle | 32 | 18% |
@@ -92,7 +92,7 @@ Stand: 2026-03-30
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 57 | 32% |
+| hoch | 58 | 32% |
 | mittel | 76 | 42% |
 | niedrig | 27 | 15% |
 
@@ -288,6 +288,7 @@ Stand: 2026-03-30
 | 197 | Arbeitspapier_Sicherheitspolitik | unbekannt | ? | None | unbekannt |
 | 198 | NSR_Geschaeftsordnung | unbekannt | ? | None | unbekannt |
 | 199 | Finnland_Turvallisuuskomitea | unbekannt | ? | None | unbekannt |
+| 200 | Finnland_Security_Strategy | primaer | Finnish Government / Security Committee | 2025 | hoch |
 
 ## Isolierte Dokumente
 
@@ -372,6 +373,7 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 196: MPK_Staatsmodernisierung (unbekannt)
 - 198: NSR_Geschaeftsordnung (unbekannt)
 - 20: RadioHH_Bevoelkerungsschutz_Umbau (journalistisch)
+- 200: Finnland_Security_Strategy (primaer)
 - 21: BV_HH_Nord (primaer)
 - 22: NATO_Resilience_Article3 (primaer)
 - 28: IOS_Eighth_Baseline (sekundaer)
@@ -501,11 +503,11 @@ graph LR
     D07 -->|1| D08
     D100 -->|1| D60
     D60 -->|1| D85
-    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
+    D100 -->|1| D102
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108

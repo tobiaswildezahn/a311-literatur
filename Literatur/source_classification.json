@@ -958,5 +958,11 @@
     "institution": "Freie und Hansestadt Hamburg",
     "jahr": 1966,
     "evidenzgrad": "hoch"
+  },
+  "200": {
+    "typ": "primaer",
+    "institution": "Finnish Government / Security Committee",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
   }
 }
