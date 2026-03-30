@@ -1,3 +1,15 @@
+---
+nr: 139
+title: In case of crisis or war
+datum: 2024-01-01
+institution: MSB Schweden
+typ: primaer
+evidenzgrad: hoch
+thema: KRITIS/Infrastrukturschutz
+ebene: international
+schlagworte: ["totalverteidigung", "selbstversorgung", "zivilschutz-broschuere", "psychologische-verteidigung", "wehrpflicht"]
+zusammenfassung: "Schwedens staatliche Broschüre an alle Haushalte erklärt Totalverteidigung, Warnsysteme, Schutzräume und Eigenvorsorge für mindestens eine Woche. Sie betont die Pflicht aller Einwohner zwischen 16 und 70 zur Landesverteidigung."
+---
 # In case of crisis or war
 This brochure is distributed to every household in Sweden on behalf of the Swedish government. The Swedish Civil Contingencies Agency (MSB) is responsible for the content.
 

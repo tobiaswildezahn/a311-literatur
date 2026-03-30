@@ -1,16 +1,16 @@
 ---
 nr: 119
 title: THW blickt auf starkes Jahr 2025 und 75 Jahre Engagement für den Bevölkerungsschutz zurück - Feuerwehr Fachjournal
-description: Bonn, 15.01.2026. THW - Die Zusage für 200 finanzierte Baumaßnahmen, zahlreiche Zivilschutzübungen, fortgesetzte Unterstützung der Ukraine sowie vielfältige
-category: Übungen/Warnung
-source: feuerwehr-fachjournal.de
+datum: 2026-01-15
+institution: THW
+typ: grau
+evidenzgrad: mittel
+thema: Warnung/Uebungen/GeKoB
+ebene: bund
+schlagworte: ["übungen-warnung"]
+zusammenfassung: Bonn, 15.01.2026. THW - Die Zusage für 200 finanzierte Baumaßnahmen, zahlreiche Zivilschutzübungen, fortgesetzte Unterstützung der Ukraine sowie vielfältige
 url: "https://www.feuerwehr-fachjournal.de/thw-blickt-auf-starkes-jahr-2025-und-75-jahre-engagement-fuer-den-bevoelkerungsschutz-zurueck/"
-date: 2026-01-15
-slug: Feuerwehr_Fachjournal_THW_2025
-tags: [Übungen/Warnung]
-type: html-source
 ---
-
 # THW blickt auf starkes Jahr 2025 und 75 Jahre Engagement für den Bevölkerungsschutz zurück
 
 **Bonn, 15.01.2026. THW – Die Zusage für 200 finanzierte Baumaßnahmen, zahlreiche Zivilschutzübungen, fortgesetzte Unterstützung der Ukraine sowie vielfältige Einsätze im In- und Ausland haben das Jahr 2025 der Bundesanstalt Technischen Hilfswerk (THW) geprägt.**

@@ -1,3 +1,15 @@
+---
+nr: 153
+title: Erstes Landesamt für Bevölkerungsschutz startet am 15. April 2026
+datum: 2026-01-01
+institution: Feuerwehr Fachjournal
+typ: journalistisch
+evidenzgrad: mittel
+thema: Ehrenamt/Personal/BOS
+ebene: bund
+schlagworte: ["landesamt", "bayern", "behoerdenstruktur", "zentralisierung"]
+zusammenfassung: "Bayern gründet zum 15. April 2026 das erste Landesamt für Bevölkerungsschutz in Deutschland und schafft damit eine zentrale Landesbehörde zur Koordination von Feuerwehr-, Rettungs- und Katastrophenschutz."
+---
 # Erstes Landesamt für Bevölkerungsschutz startet am 15. April 2026
 
 **Veröffentlicht:** 24. März 2026

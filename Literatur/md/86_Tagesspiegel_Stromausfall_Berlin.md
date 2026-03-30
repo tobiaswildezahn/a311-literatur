@@ -1,14 +1,14 @@
 ---
 nr: 86
-title: "Großer [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) nach Brandanschlag: Versorgung für Zehntausende im Südwesten Berlins bis Donnerstag unterbrochen – Bezirk öffnet Wärmestuben"
-description: Megastromausfall seit Samstagmorgen in Steglitz-Zehlendorf. Fünf Hochspannungskabel durch beschädigt, Polizei prüft Bekennerschreiben. Nahverkehr eingeschränkt. Alle Entwicklungen im Liveblog.
-category: Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026
-source: tagesspiegel.de
-url: "https://www.tagesspiegel.de/berlin/grosser-stromausfall-nach-brandanschlag-versorgung-fur-zehntausende-im-sudwesten-berlins-bis-donnerstag-unterbrochen--bezirk-offnet-warmestuben-15098242.html"
-date: 2026-01-03
-slug: Tagesspiegel_Stromausfall_Berlin
-tags: [Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026]
-type: html-source
+title: ---
+datum: 2026-01-01
+institution: Tagesspiegel
+typ: journalistisch
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["stromausfall-berlin", "brandanschlag-kabelbruecke", "steglitz-zehlendorf", "liveblog", "notversorgung"]
+zusammenfassung: "Liveblog zum Berliner Stromausfall ab 3. Januar 2026 mit Echtzeit-Updates zu Reparatur, Nahverkehr, Wärmestuben und Betroffenenlage in Steglitz-Zehlendorf nach dem Brandanschlag auf die Kabelbrücke am Heizkraftwerk Lichterfelde."
 ---
 
 45.000 Haushalte und 2000 Gewerbebetriebe im Südwesten von Berlin sind seit Samstagmorgen ohne Strom. Betroffen von dem [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) sind **weite Teile von Steglitz-Zehlendorf.** Polizei und Feuerwehr sind im Großeinsatz.

@@ -35,3 +35,9 @@ Nr. 3 (BMI PM Gesamtverteidigung) wurde bereits als .txt gespeichert.
 |-----|-----------|-----------|-----|---------|
 | N1 | `04_NATO_International` | `NATO_Strategic_Concept_2022.pdf` | https://www.nato.int/strategic-concept/ | 404 bei Direkt-PDF, Seite aufrufen und PDF-Link suchen |
 | N2 | `01_Strategiepapiere_Bund` | `RRGV_2024_BMI_Volltext.pdf` | https://www.bmi.bund.de/RRGV | BMI blockiert Bots, manuell Cmd+S als PDF |
+
+## Ergaenzung 2026-03-30 — Fehlgeschlagene PDF-Konvertierungen
+
+| Nr. | Dateiname | Pfad | Hinweis |
+|-----|-----------|------|---------|
+| 200 | `VN_2025_3.pdf` | `Literatur/inbox/VN_2025_3.pdf` | lldr-Konvertierung fehlgeschlagen (153 Seiten, zu gross). Manuelle Konvertierung oder Splitting in Teilkapitel erforderlich. |

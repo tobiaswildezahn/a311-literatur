@@ -1,16 +1,16 @@
 ---
 nr: 20
 title: "Bevölkerungsschutz in Hamburg soll \"komplett umgebaut werden\""
-description: "[Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md) nehmen zu, die innere und äußere Sicherheit ist aus Sicht des rot-grünen Senats kaum mehr trennbar. Für ihn ist damit klar: Der Bevölkerungsschutz muss deutlich verbessert werden."
-category: Hamburg
-source: radiohamburg.de
+datum: 2024-01-01
+institution: Radio Hamburg
+typ: journalistisch
+evidenzgrad: niedrig
+thema: Bevoelkerungsschutz allgemein
+ebene: land
+schlagworte: ["hamburg"]
+zusammenfassung: "Hybride Bedrohungen nehmen zu, die innere und äußere Sicherheit ist aus Sicht des rot-grünen Senats kaum mehr trennbar. Für ihn ist damit klar: Der Bevölkerungsschutz muss deutlich verbessert werden."
 url: "https://www.radiohamburg.de/aktuelles/hamburg/Bev%C3%B6lkerungsschutz-in-Hamburg-soll-komplett-umgebaut-werden-id1187843.html"
-author: Radio Hamburg
-slug: RadioHH_Bevoelkerungsschutz_Umbau
-tags: [Hamburg]
-type: html-source
 ---
-
 25\. September 2024 – Mira Oetinger
 
 Neuausrichtung

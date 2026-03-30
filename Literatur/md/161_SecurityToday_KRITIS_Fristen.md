@@ -1,3 +1,15 @@
+---
+nr: 161
+title: "KRITIS-Dachgesetz in Kraft: Was Betreiber kritischer Anlagen bis Juli 2026 umsetzen müssen"
+datum: 2026-01-01
+institution: SecurityToday
+typ: journalistisch
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-dachgesetz", "cer-richtlinie", "registrierungspflicht", "bcm", "physische-resilienz", "bussgeld"]
+zusammenfassung: "Umfassender Praxisleitfaden zum KRITIS-Dachgesetz: Rund 2.000 Betreiber in 11 Sektoren müssen sich bis 17. Juli 2026 beim BBK registrieren und erstmals physische Schutzmaßnahmen, BCM und Meldepflichten sektorübergreifend umsetzen."
+---
 # KRITIS-Dachgesetz in Kraft: Was Betreiber kritischer Anlagen bis Juli 2026 umsetzen müssen
 
 **Veröffentlicht:** 15. März 2026

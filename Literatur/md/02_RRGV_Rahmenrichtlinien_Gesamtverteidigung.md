@@ -1,12 +1,15 @@
 ---
 nr: 2
 title: Rahmenrichtlinien f�r die Gesamtverteidigung
-category: Strategiepapiere Bund
-slug: RRGV_Rahmenrichtlinien_Gesamtverteidigung
-tags: [Strategiepapiere Bund]
-type: html-source
+datum: 2024-01-01
+institution: BMI/BMVg
+typ: primaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["gesamtverteidigung", "zivil-militaerische-zusammenarbeit", "alarmplanung", "rrgv"]
+zusammenfassung: "Die RRGV 2024 regeln das Zusammenwirken von ziviler und militärischer Verteidigung im Rahmen der Gesamtverteidigung. Sie definieren Zuständigkeiten von Bund und Ländern, Alarmplanung, Übungen und Grundstrukturen für den Verteidigungsfall."
 ---
-
 # Rahmenrichtlinien für die Gesamtverteidigung
 
 ## __LINK_PLACEHOLDER_0__

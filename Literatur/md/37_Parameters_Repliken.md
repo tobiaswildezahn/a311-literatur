@@ -1,12 +1,15 @@
 ---
 nr: 37
 title: "[The US Army War College Quarterly: Parameters](https://press.armywarcollege.edu/parameters)"
-category: Strategietheorie (Lykke)
-slug: Parameters_Repliken
-tags: [Strategietheorie (Lykke)]
-type: pdf-source
+datum: 2017-01-01
+institution: US Army War College / Parameters
+typ: sekundaer
+evidenzgrad: hoch
+thema: Strategietheorie
+ebene: international
+schlagworte: ["lykke-modell-debatte", "ends-ways-means", "clausewitz", "policy-und-risiko"]
+zusammenfassung: "Vier Repliken auf Meisers Kritik am Lykke-Modell. Miller/Rogers verteidigen den Ausbildungswert des Modells, Park betont die fehlende Rolle von Policy und Risiko, Owen argumentiert clausewitzianisch, Meiser bekräftigt seine Position einer Theory of Success."
 ---
-
 # [The US Army War College Quarterly: Parameters](https://press.armywarcollege.edu/parameters)
 
 [Volume 47](https://press.armywarcollege.edu/parameters/vol47) Number 1 [Parameters Spring 2017](https://press.armywarcollege.edu/parameters/vol47/iss1)

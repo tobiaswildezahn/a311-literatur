@@ -1,14 +1,16 @@
 ---
 nr: 100
 title: Hochwasser in Süddeutschland 2024 – Wikipedia
-category: Klimawandel/Extremwetter
-source: de.wikipedia.org
+datum: 2024-01-01
+institution: Wikipedia
+typ: tertiaer
+evidenzgrad: niedrig
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: "Dokumentation des Hochwassers in Süddeutschland 2024 durch eine Vb-Wetterlage mit Jahrhundertniederschlägen. Sechs Todesopfer, über 4,1 Mrd. Euro Schaden, 15 bayerische Landkreise riefen den Katastrophenfall aus. THW war drei Wochen mit 5.000 Helfern im Einsatz."
 url: "https://de.wikipedia.org/wiki/Hochwasser_in_S%C3%BCddeutschland_2024"
-slug: Wikipedia_Hochwasser_Sueddeutschland_2024
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 Hochwasser in Süddeutschland 2024
 ---
 [[Bild: Niederschlagsverteilung innerhalb von 120 Stunden (30. Mai – 3. Juni 2024) nach Radar- und Stationsdaten des DWD]](/wiki/Datei:DWD_RADOLAN_and_stations_precipitation_southern_Germany_2024-05-30_to_2024-06-03.png "Niederschlagsverteilung innerhalb von 120 Stunden \(30. Mai – 3. Juni 2024\) nach Radar- und Stationsdaten des DWD")Niederschlagsverteilung innerhalb von 120 Stunden (30. Mai – 3. Juni 2024) nach Radar- und Stationsdaten des [DWD](/wiki/Deutscher_Wetterdienst "Deutscher Wetterdienst")

@@ -1,3 +1,15 @@
+---
+nr: 156
+title: "KRITIS-Dachgesetz: Neuer bundeseinheitlicher Rechtsrahmen für den physischen Schutz kritischer Infrastrukturen tritt in Kraft"
+datum: 2026-01-01
+institution: GOERG Rechtsanwaelte
+typ: grau
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["cer-richtlinie", "kritis-dachgesetz", "physischer-schutz", "laenderoeffnungsklausel", "meldepflicht-24h"]
+zusammenfassung: "Juristische Analyse des KRITIS-DachG als Umsetzung der EU CER-Richtlinie. Kritisiert werden der hohe Schwellenwert von 500.000 Versorgten, fehlende Kongruenz zwischen physischem und digitalem Schutz und offene Rechtsverordnungen."
+---
 # KRITIS-Dachgesetz: Neuer bundeseinheitlicher Rechtsrahmen für den physischen Schutz kritischer Infrastrukturen tritt in Kraft
 
 **Berlin, 09.03.2026**

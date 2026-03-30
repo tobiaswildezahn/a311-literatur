@@ -1,17 +1,17 @@
 ---
 nr: 98
-title: Nach der Flut an der Ahr 2021 | Hintergrund aktuell
-description: Über 180 Menschen starben bei der Flut in Rheinland-Pfalz und Nordrhein-Westfalen im Juli 2021. Ein Überblick über den Stand des Wiederaufbaus und die politische Aufarbeitung zwei Jahre danach.
-category: Klimawandel/Extremwetter
-source: bpb.de
+title: "Nach der Flut an der Ahr 2021 | Hintergrund aktuell"
+datum: 2023-07-10
+institution: bpb
+typ: tertiaer
+evidenzgrad: mittel
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: Über 180 Menschen starben bei der Flut in Rheinland-Pfalz und Nordrhein-Westfalen im Juli 2021. Ein Überblick über den Stand des Wiederaufbaus und die politische Aufarbeitung zwei Jahre danach.
 url: "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/522893/nach-der-flut-an-der-ahr-2021/"
-author: Bundeszentrale für politische Bildung
-date: 2023-07-10
-slug: bpb_Flut_Ahr_2021
-tags: [Klimawandel/Extremwetter]
-type: html-source
+autor: Bundeszentrale für politische Bildung
 ---
-
 Über 180 Menschen starben bei der Flut in Rheinland-Pfalz und Nordrhein-Westfalen im Juli 2021. Ein Überblick über den Stand des Wiederaufbaus und die politische Aufarbeitung zwei Jahre danach.
 
 Nach [Interner Link: Starkregenfällen verursachte eine Flutkatastrophe am 14. und 15. Juli 2021](/kurz-knapp/hintergrund-aktuell/337277/jahrhunderthochwasser-2021-in-deutschland/) vor allem in Rheinland-Pfalz und Nordrhein-Westfalen, aber auch in Bayern, Baden-Württemberg und Sachsen extreme Verwüstungen. Die Flut zählt zu den schwersten Naturkatastrophen der letzten Jahrzehnte, der Wiederaufbau ist noch lange nicht abgeschlossen. Wie die Regionen widerstandsfähiger gegen Hochwasser aufgebaut werden können, wird an vielen Orten diskutiert. Auch die politische Aufarbeitung der Flut dauert zwei Jahre danach noch an.

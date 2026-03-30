@@ -1,14 +1,16 @@
 ---
 nr: 120
 title: "Premiere für Cell Broadcast: Neues Katastrophen-Warnsystem erstmals in Deutschland eingesetzt – VATM – Verband der Anbieter im Digital- und Telekommunikationsmarkt e. V."
-category: Übungen/Warnung
-source: vatm.de
+datum: 2023-01-01
+institution: VATM / Vodafone
+typ: grau
+evidenzgrad: mittel
+thema: Warnung/Uebungen/GeKoB
+ebene: bund
+schlagworte: ["übungen-warnung"]
+zusammenfassung: "Bericht zum ersten operativen Einsatz von Cell Broadcast in Deutschland am 25. Februar 2023 bei Hochwasser in Lübeck. Vodafone implementierte die Technologie in allen 26.500 Mobilfunkstationen. Funktioniert auch bei Netzüberlastung und ohne App."
 url: "https://www.vatm.de/premiere-fuer-cell-broadcast-neues-katastrophen-warnsystem-erstmals-in-deutschland-eingesetzt/"
-slug: VATM_Cell_Broadcast
-tags: [Übungen/Warnung]
-type: html-source
 ---
-
 ## 28 Feb. Premiere für Cell Broadcast: Neues Katastrophen-Warnsystem erstmals in Deutschland eingesetzt
 
 Posted at 10:40h in [2023-Unternehmensnachrichten](https://www.vatm.de/category/unternehmensnachrichten/2023-unternehmensnachrichten/) by [Claudia Schmitz](https://www.vatm.de/author/schmitz/) __

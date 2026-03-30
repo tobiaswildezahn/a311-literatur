@@ -1,15 +1,14 @@
 ---
 nr: 90
-title: "[[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md): Was ist dran an AfD- und False-Flag-Gerüchten?"
-description: ZDF-Faktencheck zu Gerüchten um eine AfD-Anfrage und False-Flag-Theorien zum Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026.
-category: Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026
-source: zdfheute.de
-url: https://www.zdfheute.de/politik/deutschland/anschlag-berlin-stromausfall-afd-anfrage-faktencheck-100.html
-author: Jan Schneider
-date: 2026-01-06
-slug: ZDF_AfD_FalseFlag
-tags: [Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026]
-type: web-fetch
+title: "Stromausfall: Was ist dran an AfD- und False-Flag-Gerüchten?"
+datum: 2026-01-01
+institution: ZDF
+typ: journalistisch
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["faktencheck", "false-flag-theorie", "bekennerschreiben-analyse", "desinformation", "vulkangruppe-authentizitaet"]
+zusammenfassung: "ZDF-Faktencheck zu Gerüchten um den Berliner Stromausfall 2026: Eine AfD-Anfrage enthielt keine sicherheitsrelevanten Infrastrukturdaten. Die linguistische Analyse von zehn Vulkangruppe-Schreiben bestätigt die Authentizität; keine Belege für False-Flag."
 ---
 
 # Stromausfall: Was ist dran an AfD- und False-Flag-Gerüchten?

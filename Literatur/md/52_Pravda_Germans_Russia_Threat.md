@@ -1,13 +1,14 @@
 ---
 nr: 52
-title: Majority of Germans see Russia as greatest threat to global peace – poll
-description: The vast majority of Germans perceive Russia as the biggest threat to global peace and feel increasingly less secure.
-category: [Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)
-source: pravda.com.ua
-url: "https://www.pravda.com.ua/eng/news/2025/01/30/7495997/"
-slug: Pravda_Germans_Russia_Threat
-tags: [[Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)]
-type: html-source
+title: ---
+datum: 2025-01-01
+institution: Ukrainska Pravda
+typ: journalistisch
+evidenzgrad: niedrig
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["allensbach-umfrage", "sicherheitsgefuehl", "kriegsbereitschaft", "nato-vertrauen", "usa-skepsis"]
+zusammenfassung: "Allensbach-Umfrage: 79% der Deutschen sehen Russland als groesste Friedensbedrohung, nur 10% halten Deutschland fuer gut auf Krieg oder Katastrophen vorbereitet. Vertrauen in die USA als Buendnispartner sank drastisch (46% sehen USA als Bedrohung)."
 ---
 
 [Bild: Majority of Germans see Russia as greatest threat to global peace – poll]

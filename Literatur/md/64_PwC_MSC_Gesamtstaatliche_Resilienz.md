@@ -1,16 +1,17 @@
 ---
 nr: 64
 title: Deutschlands gesamtstaatliche Resilienz
-description: Strategy& zeigt notwendige Schritte auf dem Weg zu glaubwürdiger Abschreckung für Deutschland auf.
-category: Think Tanks
-source: strategyand.pwc.com
+datum: 2024-01-01
+institution: "Strategy& (PwC) / MSC"
+typ: grau
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["think-tanks"]
+zusammenfassung: "Strategy& zeigt notwendige Schritte auf dem Weg zu glaubwürdiger Abschreckung für Deutschland auf."
 url: "https://www.strategyand.pwc.com/de/de/branchen/luft-raumfahrt-verteidigung/deutschlands-gesamtstaatliche-resilienz.html"
-author: Strategy&
-slug: PwC_MSC_Gesamtstaatliche_Resilienz
-tags: [Think Tanks]
-type: html-source
+autor: "Strategy&"
 ---
-
 Ergebnisse laden
 
 Keine Suchergebnisse gefunden

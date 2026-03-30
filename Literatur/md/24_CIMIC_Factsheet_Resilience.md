@@ -1,12 +1,15 @@
 ---
 nr: 24
-title: "Resilience through Civil Preparedness"
-category: NATO/International
-slug: CIMIC_Factsheet_Resilience
-tags: [NATO/International]
-type: pdf-source
+title: Resilience through Civil Preparedness
+datum: 2018-01-01
+institution: NATO CIMIC COE
+typ: grau
+evidenzgrad: mittel
+thema: NATO/International
+ebene: nato
+schlagworte: ["civil-preparedness", "baseline-requirements", "artikel-3-nato", "warschauer-gipfel"]
+zusammenfassung: "NATO-CIMIC-Factsheet zu Resilienz durch Civil Preparedness. Erläutert die Verankerung in Artikel 3 des NATO-Vertrags, die sieben Baseline Requirements und die Abhängigkeit militärischer Operationen von zivilen Ressourcen (90% Militärtransport durch zivile Mittel)."
 ---
-
 # Resilience through Civil Preparedness
 *Concepts, Interoperability and Capability Branch 2018*
 

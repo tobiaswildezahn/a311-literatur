@@ -1,15 +1,16 @@
 ---
 nr: 66
 title: "Gesamtverteidigung: Annäherung an den Ernstfall"
-category: Think Tanks
-source: dgap.org
+datum: 2025-02-12
+institution: DGAP
+typ: sekundaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["think-tanks", "rrgv-2024", "wehrpflicht", "bundeswehr-personalstaerke", "parlamentsarmee", "bartels"]
+zusammenfassung: "DGAP-Essay von Hans-Peter Bartels zur Gesamtverteidigung: analysiert Defizite bei Bundeswehr-Personal (182.000 vs. 250.000 Bedarf), Material und Reservestrukturen. Fordert Vorrang militaerischer Verteidigungsfaehigkeit und Rueckkehr zur kollektiven Verteidigung."
 url: "https://dgap.org/de/forschung/publikationen/gesamtverteidigung-annaeherung-den-ernstfall"
-date: 2025-02-12
-slug: DGAP_Gesamtverteidigung_Ernstfall
-tags: [Think Tanks]
-type: html-source
 ---
-
 #  Gesamtverteidigung: Annäherung an den Ernstfall
 
 Zum Wiederaufleben der militärischen und der zivilen Verteidigung in Deutschland. Eine Bestandsaufnahme

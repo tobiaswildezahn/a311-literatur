@@ -1,17 +1,17 @@
 ---
 nr: 55
-title: "Operationsplan Deutschland – Eine Einführung"
-description: Oberst Schaus führt in den Operationsplan Deutschland ein und betont die Notwendigkeit gesamtstaatlicher Verteidigungsfähigkeit und zivil-militärischer Zusammenarbeit.
-category: OPLAN/Gesamtverteidigung
-source: security-network.com
-url: https://security-network.com/operationsplan-deutschland-eine-einfuehrung/
-author: Oberst i. G. Armin Schaus
-date: 2025-04-10
-slug: CPM_OPLAN_Einfuehrung
-tags: [OPLAN/Gesamtverteidigung]
-type: web-fetch
+title: Operationsplan Deutschland – Eine Einführung
+datum: 2025-04-10
+institution: security-network.com
+typ: grau
+evidenzgrad: mittel
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["oplan-gesamtverteidigung"]
+zusammenfassung: Oberst Schaus führt in den Operationsplan Deutschland ein und betont die Notwendigkeit gesamtstaatlicher Verteidigungsfähigkeit und zivil-militärischer Zusammenarbeit.
+url: "https://security-network.com/operationsplan-deutschland-eine-einfuehrung/"
+autor: Oberst i. G. Armin Schaus
 ---
-
 # Operationsplan Deutschland — Eine Einführung
 
 Oberst i. G. Armin Schaus, Abteilungsleiter J9 im Operativen Führungskommando der Bundeswehr, untersucht Deutschlands Operationsplan Deutschland (OPLAN DEU) — eine umfassende Verteidigungsstrategie als Reaktion auf Russlands Invasion der Ukraine und die veränderte europäische Sicherheitslage.

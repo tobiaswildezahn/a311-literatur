@@ -1,12 +1,15 @@
 ---
 nr: 30
 title: "What's in a Number? Making NATO's 1.5% Spending Goal Work for European Resilience"
-category: NATO/International
-slug: Bertelsmann_NATO_Resilience_Spending
-tags: [NATO/International]
-type: pdf-source
+datum: 2025-01-01
+institution: Bertelsmann Stiftung
+typ: grau
+evidenzgrad: mittel
+thema: NATO/International
+ebene: bund
+schlagworte: ["nato-5-prozent-ziel", "1-5-prozent-civil-preparedness", "den-haag-gipfel", "fragmentierung"]
+zusammenfassung: "Analyse des geplanten NATO-Ausgabenziels von 1,5% BIP für zivile Verteidigungsbereiche. Warnt vor fragmentierter Umsetzung und Creative Accounting. Empfiehlt NATO-weiten Capability-Planning-Prozess und EU-Koordinierung über das UCPM."
 ---
-
 Europe´s Future | June 18. 2025
 
 # What's in a Number? Making NATO's 1.5% Spending Goal Work for European Resilience

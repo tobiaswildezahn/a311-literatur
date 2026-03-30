@@ -1,15 +1,14 @@
 ---
 nr: 54
-title: "BSI-Lagebericht 2025: Cyberbedrohungen nehmen weiter zu"
-description: [Zusammenfassung](01_Nationale_Sicherheitsstrategie_Zusammenfassung.md) des BSI-Lageberichts 2025 mit 119 neuen Schwachstellen pro Tag, Ransomware-Trends und dem Ausblick auf das "Jahr des Surface Managements" 2026.
-category: [Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)
-source: it-service.network
-url: https://it-service.network/blog/2025/11/19/bsi-lagebericht-2025/
-author: Sandra Morgenroth
-date: 2025-11-19
-slug: BSI_Lagebericht_2025
-tags: [[Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)]
-type: web-fetch
+title: "BSI-Lagebericht 2025: die aktuelle Cybersicherheitslage"
+datum: 2025-01-01
+institution: it-service.network
+typ: sekundaer
+evidenzgrad: niedrig
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["schwachstellenmanagement", "surface-management", "zero-trust", "angriffsflaechen", "119-schwachstellen-tag"]
+zusammenfassung: "Zusammenfassung des BSI-Lageberichts 2025: 119 neue Schwachstellen pro Tag (+24%), 950 Ransomware-Angriffe, 48% der KRITIS-Betreiber ohne Angriffserkennungssysteme. BSI erklaert 2026 zum Jahr des Surface Managements."
 ---
 
 # BSI-Lagebericht 2025: die aktuelle Cybersicherheitslage

@@ -1,16 +1,16 @@
 ---
 nr: 6
 title: Deutscher Bundestag - Bundestag berät Bericht zur Risiko­analyse für den Zivil­schutz 2023
-description: Der Bundestag hat am Donnerstag, 21. März 2024, erstmals den „Bericht zur Risikoanalyse für den Zivilschutz 2023“ beraten, den die Bundesregierung als Unterrichtung (20/10476) vorgelegt hat. Danach werden aufgrund der „sicherheitspolitischen Zeitenwende“ zukünftig Szenarien mit Relevanz für die z...
-category: Strategiepapiere Bund
-source: bundestag.de
+datum: 2024-03-21
+institution: Deutscher Bundestag
+typ: primaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["strategiepapiere-bund"]
+zusammenfassung: Der Bundestag hat am Donnerstag, 21. März 2024, erstmals den „Bericht zur Risikoanalyse für den Zivilschutz 2023“ beraten, den die Bundesregierung als Unterrichtung (20/10476) vorgelegt hat. Danach werden aufgrund der „sicherheitspolitischen Zeitenwende“ zukünftig Szenarien mit Relevanz für die z...
 url: "https://www.bundestag.de/dokumente/textarchiv/2024/kw12-de-zivilschutz-994512"
-date: 21.03.2024
-slug: BT_Risikoanalyse_Zivilschutz_2023
-tags: [Strategiepapiere Bund]
-type: html-source
 ---
-
 Der Bundestag hat am **Donnerstag, 21. März 2024,** erstmals den „Bericht zur Risikoanalyse für den **Zivilschutz 2023** “ beraten, den die Bundesregierung als Unterrichtung ([__20/10476](https://dserver.bundestag.de/btd/20/104/2010476.pdf "Die PDF-Datei Drucksache 20/10476 öffnet sich in einem neuen Fenster")) vorgelegt hat. Danach werden aufgrund der „sicherheitspolitischen Zeitenwende“ zukünftig Szenarien mit Relevanz für die zivile Verteidigung, insbesondere für den Zivilschutz, Gegenstand der durchzuführenden Risikoanalysen sein. Im Anschluss an die Debatte wurde die Vorlage zur weiteren Beratung an den Ausschuss für Inneres und Heimat überwiesen.
 
 ## Vier Teilszenarios

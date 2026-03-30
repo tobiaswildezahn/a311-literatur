@@ -1,12 +1,15 @@
 ---
 nr: 41
 title: "RETHINKING STRATEGY: ART LYKKE AND THE DEVELOPMENT OF THE ENDS, WAYS, MEANS MODEL OF STRATEGY"
-category: Strategietheorie (Lykke)
-slug: DTIC_Lykke_Development
-tags: [Strategietheorie (Lykke)]
-type: pdf-source
+datum: 2022-01-01
+institution: US Army CGSC
+typ: sekundaer
+evidenzgrad: hoch
+thema: Strategietheorie
+ebene: international
+schlagworte: ["lykke-modell-entstehung", "army-war-college", "weinberger-doktrin", "post-vietnam"]
+zusammenfassung: "Historische Analyse der Entstehung des Lykke-Modells. Webb argumentiert, dass das Modell nicht wegen inhaltlicher Stärke, sondern durch Lykkes Kontrolle über den AWC-Lehrtext und die spezifischen Umstände der 1980er Jahre (Weinberger-Doktrin) akzeptiert wurde."
 ---
-
 ## RETHINKING STRATEGY: ART LYKKE AND THE DEVELOPMENT OF THE ENDS, WAYS, MEANS MODEL OF STRATEGY
 
 A thesis presented to the Faculty of the U.S. Army Command and General Staff College in partial fulfillment of the requirements for the degree

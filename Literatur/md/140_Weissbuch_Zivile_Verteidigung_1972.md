@@ -1,3 +1,15 @@
+---
+nr: 140
+title: Bundesrepublik Deutschland Der Bundeskanzler
+datum: 1972-01-01
+institution: Bundesregierung (Brandt)
+typ: primaer
+evidenzgrad: hoch
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["kalter-krieg", "zivilschutz-historisch", "gesamtverteidigung-1972", "vorneverteidigung", "wehrgeographie"]
+zusammenfassung: "Das Weißbuch 1972 definiert zivile Verteidigung als untrennbaren Teil der Gesamtverteidigung im Kalten Krieg. Es analysiert wehrgeographische Verwundbarkeit und betont die Notwendigkeit ziviler Vorkehrungen für begrenzte Konflikte."
+---
 # Bundesrepublik Deutschland Der Bundeskanzler
 Bonn, den 14. April 1972
 

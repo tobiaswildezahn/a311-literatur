@@ -1,16 +1,16 @@
 ---
 nr: 80
 title: "Die sechs Phasen eines Blackouts: Von diesem Moment an wird es gefährlich"
-description: Ein internes Papier der Berufsfeuerwehren beschreibt in sechs Phasen, wie sich ein [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) auswirkt. Und ab welchem Moment es gefährlich wird.
-category: KRITIS/Blackout
-source: t-online.de
+datum: 2022-10-17
+institution: t-online
+typ: journalistisch
+evidenzgrad: niedrig
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-blackout"]
+zusammenfassung: "Ein internes Papier der Berufsfeuerwehren beschreibt in sechs Phasen, wie sich ein [Stromausfall](73_BBK_Stromausfall_Themenseite.md) auswirkt. Und ab welchem Moment es gefährlich wird."
 url: "https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_100065458/stromausfall-katastrophenszenario-die-sechs-phasen-eines-blackouts.html"
-date: 2022-10-17
-slug: Tonline_Blackout_Phasen
-tags: [KRITIS/Blackout]
-type: html-source
 ---
-
 ## Drohendes Stromdesaster
 
 Blackout – Von diesem Moment an wird es brenzlig

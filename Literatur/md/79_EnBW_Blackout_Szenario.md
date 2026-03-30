@@ -1,15 +1,16 @@
 ---
 nr: 79
 title: "Blackout: Reale Risiken und Schutzmaßnahmen | EnBW"
-description: "Erfahren Sie hier alles über Blackouts: Ursachen, reale Risiken und Hintergründe zu Vorsorgemaßnahmen der Netzbetreiber."
-category: KRITIS/Blackout
-source: enbw.com
+datum: 2024-01-01
+institution: EnBW
+typ: grau
+evidenzgrad: niedrig
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-blackout"]
+zusammenfassung: "Erfahren Sie hier alles über Blackouts: Ursachen, reale Risiken und Hintergründe zu Vorsorgemaßnahmen der Netzbetreiber."
 url: "https://www.enbw.com/unternehmen/themen/netze/blackout.html"
-slug: EnBW_Blackout_Szenario
-tags: [KRITIS/Blackout]
-type: html-source
 ---
-
 ECO*Journal
 
 # Blackout: Wie realistisch ist das Szenario für Deutschland wirklich?

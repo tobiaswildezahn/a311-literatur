@@ -1,12 +1,15 @@
 ---
 nr: 112
 title: "Hochwasser 2021: Was folgt aus den Erkenntnissen?"
-category: Klimawandel/Extremwetter
-slug: BBK_Magazin_Hochwasser_2021
-tags: [Klimawandel/Extremwetter]
-type: pdf-source
+datum: 2023-01-01
+institution: BBK / HoWaS2021-Konsortium
+typ: sekundaer
+evidenzgrad: hoch
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: "Ergebnisse des BMBF-Forschungsprojekts HoWaS2021 zur Aufarbeitung des Hochwassers 2021. Ein Drittel der Betroffenen erhielt keine Warnung, 85% unterschätzten die Ereignisstärke. Identifiziert Defizite bei MoWaS, ÖR-Fernsehen und Social-Media-Nutzung durch BOS."
 ---
-
 # Hochwasser 2021: Was folgt aus den Erkenntnissen?
 
 **In der Folge des Hochwassers im Juli 2021 mit seinen massiven Auswirkungen wurden viele wissenschaftliche Auswertungen mit unterschiedlichen Fragestellungen durchgeführt. Auch das Bundesministerium für Bildung und Forschung (BMBF) fördert aktuell eine Sondermaßnahme, an der u.a. das BBK beteiligt ist. An unseren Beitrag in der vorherigen Ausgabe dieses Magazins anschließend geben wir weitere Einblicke in erste Ergebnisse aus dem Projekt HoWaS2021.**

@@ -1,3 +1,15 @@
+---
+nr: 175
+title: "KRITIS-Gipfel 2026: Gemeinsam für eine resiliente Infrastruktur"
+datum: 2026-01-01
+institution: BDEW/VKU
+typ: grau
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["energie-wasser-resilienz", "interdisziplinaerer-austausch", "gemeinschaftsaufgabe", "praxisloesungen"]
+zusammenfassung: "BDEW und VKU veranstalteten einen interdisziplinären KRITIS-Gipfel in Berlin zur kollektiven Resilienz von Energie- und Wasserversorgung mit Fokus auf Vernetzung zwischen Politik, Wirtschaft und Sicherheitsorganen."
+---
 # KRITIS-Gipfel 2026: Gemeinsam für eine resiliente Infrastruktur
 
 **Datum:** 10. März 2026

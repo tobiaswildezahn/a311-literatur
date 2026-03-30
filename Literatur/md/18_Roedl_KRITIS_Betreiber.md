@@ -1,16 +1,16 @@
 ---
 nr: 18
 title: "Bundestag beschließt KRITIS-Dachgesetz (KRITISDachG): Was Betreiber kritischer Anlagen jetzt wissen müssen."
-description: "KRITIS-Dachgesetz: Überblick zu Anwendungsbereich, Pflichten und Fristen für Betreiber kritischer Infrastrukturen nach Umsetzung der EU-CER-Richtlinie."
-category: KRITIS-Dachgesetz
-source: roedl.com
+datum: 2026-02-17
+institution: "Roedl & Partner"
+typ: grau
+evidenzgrad: mittel
+thema: Recht/Gesetzgebung
+ebene: bund
+schlagworte: ["kritis-dachgesetz"]
+zusammenfassung: "KRITIS-Dachgesetz: Überblick zu Anwendungsbereich, Pflichten und Fristen für Betreiber kritischer Infrastrukturen nach Umsetzung der EU-CER-Richtlinie."
 url: "https://www.roedl.com/insights/bundestag-beschliesst-kritis-dachgesetz-kritisdachg/"
-date: 2026-02-17
-slug: Roedl_KRITIS_Betreiber
-tags: [KRITIS-Dachgesetz]
-type: html-source
 ---
-
 Veröffentlicht am 2. Februar 2026
 
 Lesedauer ca. 3 Minuten

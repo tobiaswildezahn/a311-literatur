@@ -1,18 +1,18 @@
 ---
 nr: 127
 title: "Helden des Alltags: Ehrenamt bei Feuerwehr, THW und Rettungsdienst ist unverzichtbar"
-description: "Am heutigen Tag des Ehrenamtes, dem 5. Dezember 2023, rückt die unverzichtbare Arbeit der Ehrenamtlichen in den Fokus, insbesondere diejenigen in den Bereichen der Freiwilligen Feuerwehr, des Technischen Hilfswerks (THW) und der Rettungsorganisationen.
-
-Die Freiwillige Feuerwehr spielt in Deutschl"
-category: Ehrenamt/Personal
-source: blaulicht-magazin.net
+datum: 2023-12-05
+institution: Blaulicht Magazin
+typ: journalistisch
+evidenzgrad: niedrig
+thema: Ehrenamt/Personal/BOS
+ebene: bund
+schlagworte: ["ehrenamt-personal"]
+zusammenfassung: >-
+  Am heutigen Tag des Ehrenamtes, dem 5. Dezember 2023, rückt die unverzichtbare Arbeit der Ehrenamtlichen in den Fokus, insbesondere diejenigen in den Bereichen der Freiwilligen Feuerwehr, des Technischen Hilfswerks (THW) und der Rettungsorganisationen.
+  Die Freiwillige Feuerwehr spielt in Deutschl
 url: "https://blaulicht-magazin.net/helden-des-alltags-ehrenamt-bei-feuerwehr-thw-und-rettungsdienst-ist-unverzichtbar/"
-date: 2023-12-05
-slug: Blaulicht_Ehrenamt
-tags: [Ehrenamt/Personal]
-type: html-source
 ---
-
 Am heutigen Tag des Ehrenamtes, dem 5. Dezember 2023, rückt die unverzichtbare Arbeit der Ehrenamtlichen in den Fokus, insbesondere diejenigen in den Bereichen der Freiwilligen Feuerwehr, des Technischen Hilfswerks (THW) und der Rettungsorganisationen.
 
 Die Freiwillige Feuerwehr spielt in Deutschland eine entscheidende Rolle. Gegenüber der weit über 23.000 Freiwilligen Feuerwehren gibt es deutschlandweit lediglich 114 Berufsfeuerwehren. Die Anzahl der Mitglieder in den Freiwilligen Feuerwehren belaufen sich auf beeindruckende eine Million Mitglieder, während in den Berufsfeuerwehren nur knapp über 35.000 Personen tätig sind. Dies verdeutlicht eindrucksvoll, wie sehr Deutschland auf das ehrenamtliche Engagement in diesem Bereich angewiesen ist​​.

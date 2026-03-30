@@ -1,15 +1,16 @@
 ---
 nr: 33
 title: Cross-border and emerging risks
-description: "From food security to armed conflict: JRC research for EU resilience."
-category: NATO/International
-source: joint-research-centre.ec.europa.eu
+datum: 2024-01-01
+institution: EU JRC
+typ: sekundaer
+evidenzgrad: hoch
+thema: NATO/International
+ebene: eu
+schlagworte: ["grenzueberschreitende-risiken", "megatrends", "katastrophenresilienz", "ucpm", "emerging-risks"]
+zusammenfassung: "From food security to armed conflict: JRC research for EU resilience."
 url: "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/cross-border-and-emerging-risks-2024-06-04_en"
-slug: JRC_Cross_Border_Risks
-tags: [NATO/International]
-type: html-source
 ---
-
 [Bild: Bridge Pflimlin over the Rhine between France and Germany near Strasbourg]
 
 A [new report](https://publications.jrc.ec.europa.eu/repository/handle/JRC137818) published by the European Commission’s Joint Research Centre (JRC) to support, amongst others, the Union Disaster Resilience Goals in the area of civil protection legal framework, shows that Europe is facing a variety of risks with cross-border impacts.

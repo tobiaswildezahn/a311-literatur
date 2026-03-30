@@ -1,16 +1,16 @@
 ---
 nr: 22
-title: "NATO Resilience, Civil Preparedness and Article 3"
-description: Umfassende NATO-Seite zu Resilienz, ziviler Vorsorge und Artikel 3 des Nordatlantikvertrags mit den sieben Baseline Requirements für nationale Resilienz.
-category: NATO/International
-source: nato.int
-url: https://www.nato.int/en/what-we-do/deterrence-and-defence/resilience-civil-preparedness-and-article-3
-date: 2024-11-13
-slug: NATO_Resilience_Article3
-tags: [NATO/International]
-type: web-fetch
+title: NATO Resilience, Civil Preparedness and Article 3
+datum: 2024-11-13
+institution: NATO
+typ: primaer
+evidenzgrad: hoch
+thema: NATO/International
+ebene: nato
+schlagworte: ["nato-resilienz", "baseline-requirements", "zivile-vorsorge", "kritische-infrastruktur", "artikel-3", "zivilschutz-militaerisch"]
+zusammenfassung: Umfassende NATO-Seite zu Resilienz, ziviler Vorsorge und Artikel 3 des Nordatlantikvertrags mit den sieben Baseline Requirements für nationale Resilienz.
+url: "https://www.nato.int/en/what-we-do/deterrence-and-defence/resilience-civil-preparedness-and-article-3"
 ---
-
 # NATO Resilience, Civil Preparedness and Article 3
 
 Each NATO member country needs to be resilient in order to withstand a major shock such as a natural disaster, failure of critical infrastructure, or a hybrid or armed attack. Resilience is defined as "the individual and collective capacity to prepare for, resist, respond to and quickly recover from shocks and disruptions, and to ensure the continuity of the Alliance's activities."

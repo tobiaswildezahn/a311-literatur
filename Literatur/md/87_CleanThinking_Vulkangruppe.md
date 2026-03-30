@@ -1,14 +1,14 @@
 ---
 nr: 87
-title: "Vulkangruppe: [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) Berlin ist linksradikale [Sabotage](46_BBK_Sabotage.md)"
-description: Linksradikale der Vulkangruppe sabotieren Berlins Stromnetz. 45.000 Haushalte ohne Strom. WELT-Poschardt beklagt grünes Bäume-Pflanzen.
-category: Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026
-source: cleanthinking.de
-url: "https://www.cleanthinking.de/vulkangruppe-stromausfall-berlin-2026/"
-date: 2026-01-04
-slug: CleanThinking_Vulkangruppe
-tags: [Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026]
-type: html-source
+title: "Vulkangruppe legt Berlin lahm: Linksradikale sabotieren Stromnetz"
+datum: 2026-01-01
+institution: Cleanthinking.de
+typ: journalistisch
+evidenzgrad: niedrig
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["vulkangruppe", "sabotage-stromnetz", "bekennerschreiben", "medienkritik", "energiewende-instrumentalisierung"]
+zusammenfassung: "Kommentar zum Berliner Stromausfall 2026, der die Selbstgerechtigkeit der Vulkangruppe und die ideologische Instrumentalisierung durch WELT-Herausgeber Poschardt kritisiert. Beide Seiten schadeten der Energiewende als konstruktivem Infrastrukturprojekt."
 ---
 
 [Bild: Vulkangruppe verursacht [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) Berlin Januar 2026 - Teile der Stadt sind dunkel (KI-Foto)] So sieht "das beschissenste Berlin" aus, Herr Poschardt – nur ohne beheizte Oldtimergarage. (Symbolbild)

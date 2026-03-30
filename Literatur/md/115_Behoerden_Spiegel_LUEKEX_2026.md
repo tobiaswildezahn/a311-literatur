@@ -1,17 +1,17 @@
 ---
 nr: 115
 title: LÜKEX 2026 mit Rekordbeteiligung
-description: Übungen gewinnen langsam, aber sicher bei Verwaltungen mehr Bedeutung. Dementsprechend kann die LÜKEX 2026 eine Rekordbeteiligung verzeichnen. Über 150 Organisationen beteiligen sich an der größten gemeinsamen Übung von Bund und Ländern. Zehn Bundesländer mit etwa 55 Landesministerien sowie mehr als 20 Bundesbehörden aus verschiedenen Ressorts üben aktiv mit. Hinzu kommen Hilfsorganisationen, Betreiber Kritischer Infrastrukturen und […]
-category: Übungen/Warnung
-source: behoerden-spiegel.de
+datum: 2026-02-05
+institution: Behoerden Spiegel
+typ: journalistisch
+evidenzgrad: mittel
+thema: Warnung/Uebungen/GeKoB
+ebene: bund
+schlagworte: ["übungen-warnung"]
+zusammenfassung: Übungen gewinnen langsam, aber sicher bei Verwaltungen mehr Bedeutung. Dementsprechend kann die LÜKEX 2026 eine Rekordbeteiligung verzeichnen. Über 150 Organisationen beteiligen sich an der größten gemeinsamen Übung von Bund und Ländern. Zehn Bundesländer mit etwa 55 Landesministerien sowie mehr ...
 url: "https://www.behoerden-spiegel.de/2026/02/05/luekex-2026-mit-rekordbeteiligung/"
-author: Bennet Biskup-Klawon
-date: 2026-02-05
-slug: Behoerden_Spiegel_LUEKEX_2026
-tags: [Übungen/Warnung]
-type: html-source
+autor: Bennet Biskup-Klawon
 ---
-
 \- Anzeige -
 
 \- Anzeige -

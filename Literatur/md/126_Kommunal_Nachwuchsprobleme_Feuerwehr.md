@@ -1,15 +1,16 @@
 ---
 nr: 126
 title: Nachwuchsprobleme bei der Feuerwehr
-description: "Die Freiwillige Feuerwehr hat häufig ein Problem: einen chronischen Nachwuchsmangel. Doch was können Städte und Gemeinden dagegen tun? Die wichtigsten Lösungsvorschläge im Kurzüberblick"
-category: Ehrenamt/Personal
-source: kommunal.de
+datum: 2017-01-01
+institution: kommunal.de
+typ: journalistisch
+evidenzgrad: niedrig
+thema: Ehrenamt/Personal/BOS
+ebene: kommune
+schlagworte: ["ehrenamt-personal"]
+zusammenfassung: "Die Freiwillige Feuerwehr hat häufig ein Problem: einen chronischen Nachwuchsmangel. Doch was können Städte und Gemeinden dagegen tun? Die wichtigsten Lösungsvorschläge im Kurzüberblick"
 url: "https://kommunal.de/nachwuchsprobleme-bei-der-feuerwehr"
-slug: Kommunal_Nachwuchsprobleme_Feuerwehr
-tags: [Ehrenamt/Personal]
-type: html-source
 ---
-
 Wie kann die Freiwillige Feuerwehr vor Ort auch in ein paar Jahren noch bestehen?
 
 #  Nachwuchsprobleme bei der Feuerwehr

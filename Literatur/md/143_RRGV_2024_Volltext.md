@@ -1,3 +1,15 @@
+---
+nr: 143
+title: Rahmenrichtlinien für die Gesamtverteidigung - Gesamtverteidigungsrichtlinien - (RRGV)
+datum: 2024-01-01
+institution: BMI/BMVg
+typ: primaer
+evidenzgrad: hoch
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["gesamtverteidigung-richtlinien", "integrierte-sicherheit", "zivil-militaerisch", "konzeption-zivile-verteidigung", "drehscheibe-deutschland"]
+zusammenfassung: "Die RRGV 2024 ersetzen die Fassung von 1989 und beschreiben die zivilen und militärischen Aspekte der Gesamtverteidigung. Sie fordern enge Verzahnung von KZV und militärischer Planung unter dem Leitbild Integrierter Sicherheit."
+---
 # Rahmenrichtlinien für die Gesamtverteidigung - Gesamtverteidigungsrichtlinien - (RRGV)
 
 # Einleitung[1](#page-4-1)

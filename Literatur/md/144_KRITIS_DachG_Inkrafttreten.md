@@ -1,3 +1,15 @@
+---
+nr: 144
+title: Stronger Protection of Critical Infrastructure
+datum: 2026-01-01
+institution: Bundesregierung
+typ: primaer
+evidenzgrad: hoch
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-dachgesetz", "sektoruebergreifend", "mindeststandards", "resilienzstrategie", "schwellenwert-500000"]
+zusammenfassung: "Das KRITIS-Dachgesetz etabliert erstmals bundeseinheitliche physische Schutzstandards für neun kritische Sektoren. Betreiber mit Versorgungsrelevanz ab 500.000 Personen müssen Risikoanalysen und Resilienzmaßnahmen umsetzen."
+---
 # Stronger Protection of Critical Infrastructure
 
 **Date:** Thursday, 29 January 2026

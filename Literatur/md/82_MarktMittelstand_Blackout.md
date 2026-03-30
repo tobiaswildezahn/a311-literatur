@@ -1,15 +1,16 @@
 ---
 nr: 82
 title: "Ein Anschlag, ein Ausfall, ein Problem: Wie leicht Deutschland im Blackout landet"
-description: Der Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) macht sichtbar, wie fragil Deutschlands Energie- und Daseinsvorsorge ist – und warum Resilienz jetzt Sicherheitsstrategie sein muss.
-category: KRITIS/Blackout
+datum: 2026-01-08
+institution: Markt und Mittelstand
+typ: journalistisch
+evidenzgrad: niedrig
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-blackout"]
+zusammenfassung: "Der Berliner [Stromausfall](73_BBK_Stromausfall_Themenseite.md) macht sichtbar, wie fragil Deutschlands Energie- und Daseinsvorsorge ist – und warum Resilienz jetzt Sicherheitsstrategie sein muss."
 url: /kritische-infrastruktur-droht-ein-blackout-in-ganz-deutschland
-date: 2026-01-08
-slug: MarktMittelstand_Blackout
-tags: [KRITIS/Blackout]
-type: html-source
 ---
-
 ##  Ähnliche Artikel
 
 [ [Bild: Mehrere orange-weiße Verkehrskegel stehen auf einer Baustelle vor Baumaschinen.]  Schulden und Steuern  Haushalt 2026 steht, doch die Zweifel wachsen: Wie sinnvoll wird das Geld verwendet? IW-Studie: Fast die Hälfte des Sondervermögens wird umgeschichtet statt investiert – mit Folgen für Infrastruktur und Unternehmen.  Die Einigung für den Bundeshaushalt 2026 ist da. Aber eine IW-Studie zeigt die massive Zweckentfremdung staatlicher Mittel: Bis zur Hälfte des Sondervermögens wird nur umgeschichtet statt investiert.  ](/politik/iw-studie-zweckentfremdete-staatsgelder-sondervermoegen "Haushalt 2026 steht, doch die Zweifel wachsen: Wie sinnvoll wird das Geld verwendet?")

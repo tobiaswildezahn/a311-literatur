@@ -1,3 +1,15 @@
+---
+nr: 158
+title: Jahresprogramm 2026 der Bundesakademie für Bevölkerungsschutz und Zivile Verteidigung (BABZ)
+datum: 2025-01-01
+institution: BABZ / BBK
+typ: grau
+evidenzgrad: mittel
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["cbrn-schutz", "fortbildung", "hybride-formate", "fuehrungskraefte", "zivile-verteidigung"]
+zusammenfassung: "Die BABZ legt im Jahresprogramm 2026 den Schwerpunkt auf CBRN-Schutz und zivile Verteidigung mit verstärkt hybriden Lernformaten für Fach- und Führungskräfte aus Bund, Ländern und Hilfsorganisationen."
+---
 # Jahresprogramm 2026 der Bundesakademie für Bevölkerungsschutz und Zivile Verteidigung (BABZ)
 
 **Autor:** Andre Schild

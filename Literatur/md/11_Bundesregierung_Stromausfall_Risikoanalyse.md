@@ -1,13 +1,14 @@
 ---
 nr: 11
-title: [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) – eine Risikoanalyse
-description: Die Stromversorgung in Deutschland gehört zu den sichersten weltweit. Wie hoch ist dennoch das Risiko für einen Blackout?
-category: Strategiepapiere Bund
-source: bundesregierung.de
-url: "https://www.bundesregierung.de/breg-de/aktuelles/stromausfall-blackout-2129818"
-slug: Bundesregierung_Stromausfall_Risikoanalyse
-tags: [Strategiepapiere Bund]
-type: html-source
+title: ---
+datum: 2023-01-01
+institution: Bundesregierung/BBK
+typ: primaer
+evidenzgrad: hoch
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["blackout", "versorgungssicherheit", "energieinfrastruktur", "eigenvorsorge"]
+zusammenfassung: "Informationsseite der Bundesregierung zum Blackout-Risiko. Deutschland hat eines der sichersten Stromnetze weltweit (13 Min. Ausfall/Jahr). Großflächige Stromausfälle bleiben sehr unwahrscheinlich, private Vorsorge wird dennoch empfohlen."
 ---
 
 [Bild: Strommasten]

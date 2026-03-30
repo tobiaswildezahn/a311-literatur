@@ -1,17 +1,17 @@
 ---
 nr: 56
-title: "OPLAN DEU – Zivile Akteure zwischen Geheimhaltung und Pflicht"
-description: Analyse der Herausforderungen für Feuerwehren, Hilfsorganisationen und Kommunen bei der Umsetzung des Operationsplans Deutschland.
-category: OPLAN/Gesamtverteidigung
-source: defence-network.com
-url: https://defence-network.com/oplan-deu-zivile-akteure-geheimhaltung/
-author: André Luhmer
-date: 2025-08-24
-slug: CPM_OPLAN_Zivile_Akteure
-tags: [OPLAN/Gesamtverteidigung]
-type: web-fetch
+title: OPLAN DEU – Zivile Akteure zwischen Geheimhaltung und Pflicht
+datum: 2025-08-24
+institution: defence-network.com
+typ: grau
+evidenzgrad: mittel
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["oplan-gesamtverteidigung"]
+zusammenfassung: Analyse der Herausforderungen für Feuerwehren, Hilfsorganisationen und Kommunen bei der Umsetzung des Operationsplans Deutschland.
+url: "https://defence-network.com/oplan-deu-zivile-akteure-geheimhaltung/"
+autor: André Luhmer
 ---
-
 # OPLAN DEU – Zivile Akteure zwischen Geheimhaltung und Pflicht
 
 Mit dem Operationsplan Deutschland (OPLAN DEU) hat die Bundeswehr erstmals einen umfassenden Rahmen für die militärische Landes- und Bündnisverteidigung auf deutschem Boden geschaffen. Während die sicherheitspolitische Notwendigkeit unbestritten scheint, sorgt die Umsetzung auf kommunaler und regionaler Ebene für Unsicherheit.

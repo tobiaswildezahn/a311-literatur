@@ -1,14 +1,16 @@
 ---
 nr: 60
 title: Operationsplan Deutschland – Wikipedia
-category: OPLAN/Gesamtverteidigung
-source: de.wikipedia.org
+datum: 2025-01-01
+institution: Wikipedia
+typ: tertiaer
+evidenzgrad: niedrig
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["oplan-deu", "terrfuekdo", "heimatschutzregimenter", "zivil-militaerische-zusammenarbeit", "bodemann"]
+zusammenfassung: "Wikipedia-Artikel zum Operationsplan Deutschland (OPLAN DEU): fuehrt militaerische Landes-/Buendnisverteidigung mit zivilen Unterstuetzungsleistungen zusammen. Seit 2023 unter GenLt Bodemann entwickelt, Erstfassung seit Maerz 2024, als Verschlusssache eingestuft."
 url: "https://de.wikipedia.org/wiki/Operationsplan_Deutschland"
-slug: Wikipedia_OPLAN_Deutschland
-tags: [OPLAN/Gesamtverteidigung]
-type: html-source
 ---
-
 Der **Operationsplan Deutschland** ([Abk](/wiki/Abk%C3%BCrzung "Abkürzung").: **OPLAN DEU**) ist ein [Operationsplan](/wiki/Operationsplan "Operationsplan") zur Verteidigung von für die Aufrechterhaltung der Verteidigungsfähigkeit [benötigter Infrastruktur](/wiki/Kritische_Infrastrukturen "Kritische Infrastrukturen") der [Bundesrepublik Deutschland](/wiki/Deutschland "Deutschland") im [Spannungs-](/wiki/Spannungsfall "Spannungsfall") und [Verteidigungsfall](/wiki/Verteidigungsfall_\(Deutschland\) "Verteidigungsfall \(Deutschland\)"). Er führt die zentralen militärischen Anteile der [Landes-](/wiki/Landesverteidigung "Landesverteidigung") und [Bündnisverteidigung](/wiki/Kollektive_Verteidigung "Kollektive Verteidigung") in Deutschland mit den dafür erforderlichen zivilen Unterstützungsleistungen in einem operativ ausführbaren Plan zusammen.
 
 Laut Aussage des Territorialen Führungskommandos der Bundeswehr definiert sich der Operationsplan Deutschland als _„eine Reaktion auf die sich verschärfende sicherheitspolitische Lage in Europa. Er führt die zentralen militärischen Anteile der Landes- und Bündnisverteidigung in Deutschland mit den dafür erforderlichen zivilen Unterstützungsleistungen in einem operativ ausführbaren Plan zusammen. Er trifft damit die planerische Vorsorge dafür, dass im Krisen- und Konfliktfall nach erfolgter politischer Entscheidung zielgerichtet und im verfassungsrechtlichen Rahmen gehandelt werden kann. In ihm werden Verfahren, Abläufe und Zuständigkeiten festgelegt, um gemeinsam mit anderen staatlichen und zivilen Akteuren Deutschland, dessen territoriale Integrität und seine Bürgerinnen und Bürger zu schützen und zu verteidigen sowie den Aufmarsch der alliierten Streitkräfte über und durch Deutschland an die NATO-Ostflanke sicherzustellen. Das Ziel ist die schnelle Handlungsfähigkeit über alle Ressort- und Ländergrenzen hinweg.“_

@@ -1,15 +1,16 @@
 ---
 nr: 108
 title: "Feuerwehr-Zwischenbilanz: Rekord-Waldbrandjahr 2022"
-description: In diesem Sommer hat es in Deutschlands Wäldern besonders oft gebrannt. Insgesamt sind 4300 Hektar betroffen. Der Deutsche Feuerwehrverband und die AGDW Die Waldeigentümer haben auf der Bundespressekonferenz am 26.08.2022 in Berlin davor gewarnt, dass es noch schlimmer werden könnte. Sie haben eine engere Zusammenarbeit angekündigt und fordern eine bessere Ausstattung für die Feuerwehr, mehr Waldpflege, aktiven Waldumbau und ein staatliches Unterstützungsprogramm zur Waldbrandprävention.
-category: Klimawandel/Extremwetter
-source: dstgb.de
+datum: 2022-01-01
+institution: DStGB / DFV
+typ: grau
+evidenzgrad: mittel
+thema: Klimawandel/Naturgefahren
+ebene: kommune
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: In diesem Sommer hat es in Deutschlands Wäldern besonders oft gebrannt. Insgesamt sind 4300 Hektar betroffen. Der Deutsche Feuerwehrverband und die AGDW Die Waldeigentümer haben auf der Bundespressekonferenz am 26.08.2022 in Berlin davor gewarnt, dass es noch schlimmer werden könnte. Sie haben ei...
 url: "https://www.dstgb.de/themen/klimaschutz-und-klimaanpassung/aktuelles/feuerwehr-zwischenbilanz-rekord-waldbrandjahr-2022/"
-slug: DStGB_Waldbrandjahr_2022
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 In diesem Sommer hat es in Deutschlands Wäldern besonders oft gebrannt. Insgesamt sind 4300 Hektar betroffen. Der Deutsche Feuerwehrverband und die AGDW Die Waldeigentümer haben auf der Bundespressekonferenz am 26.08.2022 in Berlin davor gewarnt, dass es noch schlimmer werden könnte. Sie haben eine engere Zusammenarbeit angekündigt und fordern eine bessere Ausstattung für die Feuerwehr, mehr Waldpflege, aktiven Waldumbau und ein staatliches Unterstützungsprogramm zur Waldbrandprävention.
 
 31\. August 2022

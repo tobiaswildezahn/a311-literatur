@@ -1,17 +1,17 @@
 ---
 nr: 58
 title: Der neue Rahmen der Gesamtverteidigung
-description: 35 Jahre ist es her, dass die Bundesregierung zuletzt die Rahmenbedingungen der Gesamtverteidigung festlegte. Heute ist die Welt eine andere. Vergangenen Mittwoch legte die Bundesregierung die Überarbeitung der Rahmenrichtlinien der Gesamtverteidigung (RRGV) vor. In ihnen ist festgelegt, welche Maßnahmen einzuleiten sind, um die Unabhängigkeit und Souveränität Deutschlands in Krisen- und Konfliktsituationen zu sichern.Die Ideen der […]
-category: OPLAN/Gesamtverteidigung
-source: behoerden-spiegel.de
+datum: 2024-06-10
+institution: Behoerden Spiegel
+typ: journalistisch
+evidenzgrad: niedrig
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["oplan-gesamtverteidigung"]
+zusammenfassung: 35 Jahre ist es her, dass die Bundesregierung zuletzt die Rahmenbedingungen der Gesamtverteidigung festlegte. Heute ist die Welt eine andere. Vergangenen Mittwoch legte die Bundesregierung die Überarbeitung der Rahmenrichtlinien der Gesamtverteidigung (RRGV) vor. In ihnen ist festgelegt, welche M...
 url: "https://www.behoerden-spiegel.de/2024/06/10/der-neue-rahmen-der-gesamtverteidigung/"
-author: Jonas Brandstetter
-date: 2024-06-10
-slug: Behoerden_Spiegel_Gesamtverteidigung
-tags: [OPLAN/Gesamtverteidigung]
-type: html-source
+autor: Jonas Brandstetter
 ---
-
 \- Anzeige -
 
 \- Anzeige -

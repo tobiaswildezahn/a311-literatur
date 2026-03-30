@@ -1,15 +1,16 @@
 ---
 nr: 107
 title: "GDV-Naturgefahrenstatistik 2024: Hochwasserschäden mehr als verdoppelt"
-description: Die deutschen Versicherer verzeichnen einen deutlichen Anstieg bei Elementarschäden. Vor allem in Süddeutschland richteten Überschwemmungen hohe Schäden an.
-category: Klimawandel/Extremwetter
-source: gdv.de
+datum: 2025-01-01
+institution: GDV
+typ: primaer
+evidenzgrad: hoch
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: Die deutschen Versicherer verzeichnen einen deutlichen Anstieg bei Elementarschäden. Vor allem in Süddeutschland richteten Überschwemmungen hohe Schäden an.
 url: "https://www.gdv.de/gdv/medien/medieninformationen/gdv-naturgefahrenstatistik-2024-hochwasserschaeden-mehr-als-verdoppelt-188734"
-slug: GDV_Naturgefahrenstatistik_2024
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 Schaden & Unfall
 
 # GDV-Naturgefahrenstatistik 2024: Hochwasserschäden mehr als verdoppelt

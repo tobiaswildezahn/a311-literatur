@@ -1,13 +1,15 @@
 ---
 nr: 21
 title: 22-0221 - Zuständigkeiten und Maßnahmen im Bereich Zivils... - Hamburg-Nord
-description: Der russische Angriffskrieg auf die Ukraine, Terrorismus und Bedrohungen durch Cyberangriffe haben in jüngster Zeit die Sicherheitslage in Europa d...
-category: Hamburg
-slug: BV_HH_Nord_Zivilschutz
-tags: [Hamburg]
-type: html-source
+datum: 2022-01-01
+institution: BV Hamburg-Nord
+typ: primaer
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: land
+schlagworte: ["hamburg"]
+zusammenfassung: Der russische Angriffskrieg auf die Ukraine, Terrorismus und Bedrohungen durch Cyberangriffe haben in jüngster Zeit die Sicherheitslage in Europa d...
 ---
-
 ## **22-0221**
 
 [ __](https://sitzungsdienst-hamburg-nord.hamburg.de/bi/vo020.asp?VOLFDNR=1014331 "In Allris öffnen")

@@ -1,14 +1,14 @@
 ---
 nr: 88
-title: Analyse des Krisenmanagements beim [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026
-description: Einblick in das Krisenmanagement nach dem [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) in Berlin am 3. Januar 2026 - Katastrophenschutz
-category: Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026
-source: grafkerssenbrock.com
-url: "https://grafkerssenbrock.com/analyse-des-krisenmanagements-beim-berliner-stromausfall-januar-2026"
-date: 2026-01-08
-slug: GrafKerssenbrock_Krisenmanagement
-tags: [Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026]
-type: html-source
+title: Analyse des Krisenmanagements beim Berliner Stromausfall Januar 2026
+datum: 2026-01-01
+institution: GrafKerssenbrock.com
+typ: grau
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["krisenmanagement-berlin", "grossschadenslage", "single-point-of-failure", "n-1-prinzip", "hotelunterbringung"]
+zusammenfassung: "Detailanalyse des Krisenmanagements beim Berliner Stromausfall Januar 2026. Bewertet Wegners Krisenreaktion, fehlende Netzredundanzen als Single Point of Failure, die Ausrufung der Grossschadenslage und Kosten der Bevölkerungsschutz-Massnahmen."
 ---
 
 [Strafrecht](https://grafkerssenbrock.com/category/strafrecht), [Verteidigung](https://grafkerssenbrock.com/category/verteidigung)

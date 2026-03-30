@@ -1,16 +1,16 @@
 ---
 nr: 111
 title: Abschlussbericht des Untersuchungsausschusses veröffentlicht
-description: Versäumnisse im Landkreis während und vor Flutkatastrophe
-category: Klimawandel/Extremwetter
-source: spdfraktion-rlp.de
+datum: 2024-03-15
+institution: SPD-Fraktion RLP
+typ: aktivistisch
+evidenzgrad: niedrig
+thema: Klimawandel/Naturgefahren
+ebene: land
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: Versäumnisse im Landkreis während und vor Flutkatastrophe
 url: "https://www.spdfraktion-rlp.de/presse/mitteilungen/abschlussbericht-des-untersuchungsausschusses-veroeffentlicht"
-date: 2024-03-15
-slug: SPD_RLP_Abschlussbericht_UA
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 [ [Bild: SPD-Landtagsfraktion Rheinland-Pfalz] ](/ "link zur Startseite")
 
 #

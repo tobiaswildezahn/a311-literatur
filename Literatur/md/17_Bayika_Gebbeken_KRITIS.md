@@ -1,14 +1,16 @@
 ---
 nr: 17
 title: Bundestag beschließt Kritis-Dachgesetz zum Schutz kritischer Infrastrukturen
-category: KRITIS-Dachgesetz
-source: bayika.de
+datum: 2026-01-01
+institution: BayIKa-Bau / Prof. Gebbeken
+typ: grau
+evidenzgrad: mittel
+thema: Recht/Gesetzgebung
+ebene: bund
+schlagworte: ["kritis-dachgesetz", "physischer-schutz", "eu-richtlinie-2557", "mindeststandards"]
+zusammenfassung: "Kommentar von Prof. Gebbeken zum KRITIS-Dachgesetz (Jan. 2026). Das Gesetz setzt EU-Richtlinie 2022/2557 um und schafft sektorübergreifende Mindeststandards. Kritik: Es ist eine reine Verfahrensordnung ohne konkrete Schutzziele oder Bedrohungsdefinitionen."
 url: "https://www.bayika.de/de/aktuelles/meldungen/2026-01-29_Bundestag-beschliesst-Kritis-Dachgesetz-zum-Schutz-kritischer-Infrastrukturen-Kommentar-Prof-Dr-Norbert-Gebbeken.php"
-slug: Bayika_Gebbeken_KRITIS
-tags: [KRITIS-Dachgesetz]
-type: html-source
 ---
-
 * [Presse](/de/presse/)
   * [Newsletter](/de/newsletter/)
   * [Kontakt](/de/kammer/ansprechpartner/)

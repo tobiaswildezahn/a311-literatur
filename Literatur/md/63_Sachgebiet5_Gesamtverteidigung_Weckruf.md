@@ -1,14 +1,16 @@
 ---
 nr: 63
-title: Gesamtverteidigung neu denken – Ein Weckruf für Staat und Gesellschaft – Sachgebiet 5 | Kommunikation. Krisenmanagement. Bevölkerungsschutz.
-category: OPLAN/Gesamtverteidigung
-source: sachgebiet5.de
+title: "Gesamtverteidigung neu denken – Ein Weckruf für Staat und Gesellschaft – Sachgebiet 5 | Kommunikation. Krisenmanagement. Bevölkerungsschutz."
+datum: 2025-01-01
+institution: sachgebiet5.de
+typ: grau
+evidenzgrad: niedrig
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["lgan-studie-2023", "uebungsmosaik", "krisenkommunikation", "stab-nationale-resilienz", "kommunale-resilienz"]
+zusammenfassung: "Blogbeitrag zur LGAN-Studie 2023: fordert Stab fuer Nationale Resilienz im Bundeskanzleramt, gesamtstaatliches Lagebild und Bundeszentrum Uebung Gesamtverteidigung. Betont kommunale Ebene als Mosaikstein und strategische Krisenkommunikation als Schluessel."
 url: "https://www.sachgebiet5.de/2025/07/14/gesamtverteidigung-neu-denken-ein-weckruf-fuer-staat-und-gesellschaft/"
-slug: Sachgebiet5_Gesamtverteidigung_Weckruf
-tags: [OPLAN/Gesamtverteidigung]
-type: html-source
 ---
-
 **„Kämpfen können, um nicht kämpfen zu müssen“ – dieses Motto zieht sich wie ein roter Faden durch das aktuelle Verständnis von Gesamtverteidigung. Doch was bedeutet das für uns als Gesellschaft – jenseits von Bundeswehr, Ministerien und NATO-Strategien?**
 
 Die sicherheitspolitischen Rahmenbedingungen haben sich in den letzten Jahren drastisch verändert. Der russische Angriffskrieg gegen die Ukraine, zunehmende hybride Bedrohungen und eine spürbare Verschiebung des globalen Gleichgewichts fordern ein neues Denken: nicht nur in militärischen, sondern vor allem auch in zivilgesellschaftlichen und kommunalen Strukturen.

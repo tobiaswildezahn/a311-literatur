@@ -1,12 +1,14 @@
 ---
 nr: 122
-title: [Das Gemeinsame Kompetenzzentrum Bevölkerungsschutz](121_Protector_GeKoB.md) (GeKoB) | PUBLICUS
-category: Übungen/Warnung
-source: publicus.boorberg.de
-url: "https://publicus.boorberg.de/das-gemeinsame-kompetenzzentrum-bevoelkerungsschutz-gekob/"
-slug: Publicus_GeKoB
-tags: [Übungen/Warnung]
-type: html-source
+title: Das Gemeinsame Kompetenzzentrum Bevölkerungsschutz (GeKoB)
+datum: 2024-01-01
+institution: Publicus / Boorberg
+typ: grau
+evidenzgrad: mittel
+thema: Warnung/Uebungen/GeKoB
+ebene: bund
+schlagworte: ["gekob", "lenkungskreis", "ressourcenregister", "digitales-lagebild", "zentralstellenfunktion-bbk"]
+zusammenfassung: "Detaillierter Überblick über Aufbau und Wirkbetrieb des GeKoB aus dem Deutschen Polizeiblatt. Beschreibt Lenkungskreis, Tandem-Leitung, Ressourcenregister für Spezialressourcen und das Fachverfahren Digitales Lagebild als zentrale Arbeitsschwerpunkte."
 ---
 
 09.08.2024

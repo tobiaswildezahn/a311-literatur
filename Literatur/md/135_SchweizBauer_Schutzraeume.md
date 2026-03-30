@@ -1,17 +1,17 @@
 ---
 nr: 135
 title: "Wegen Kriegen: Bundesrat will Schutzräume erneuern"
-description: Die Schweiz modernisiert ihre Schutzräume aufgrund der verschlechterten Sicherheitslage. 200 Anlagen sollen in 15 Jahren für 220 Millionen Franken erneuert werden.
-category: Weitere Kontextquellen
-source: schweizerbauer.ch
-url: https://www.schweizerbauer.ch/artikel/politik-wirtschaft/agrarpolitik/wegen-kriegen-bundesrat-will-schutzraeume-erneuern
-author: sda
-date: 2024-10-24
-slug: SchweizBauer_Schutzraeume
-tags: [Weitere Kontextquellen]
-type: web-fetch
+datum: 2024-10-24
+institution: Schweizer Bauer
+typ: journalistisch
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["weitere-kontextquellen"]
+zusammenfassung: Die Schweiz modernisiert ihre Schutzräume aufgrund der verschlechterten Sicherheitslage. 200 Anlagen sollen in 15 Jahren für 220 Millionen Franken erneuert werden.
+url: "https://www.schweizerbauer.ch/artikel/politik-wirtschaft/agrarpolitik/wegen-kriegen-bundesrat-will-schutzraeume-erneuern"
+autor: sda
 ---
-
 # Wegen Kriegen: Bundesrat will Schutzräume erneuern
 
 Aufgrund der sich verschlechternden globalen Sicherheitslage – insbesondere des andauernden Krieges in der Ukraine und anderer regionaler Konflikte – will der Schweizer Bundesrat die Schutzräume modernisieren. Die Regierung plant, in den nächsten 15 Jahren rund 200 Schutzanlagen für geschätzte 220 Millionen Schweizer Franken zu erneuern.

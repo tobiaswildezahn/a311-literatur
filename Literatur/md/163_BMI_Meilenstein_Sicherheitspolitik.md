@@ -1,3 +1,15 @@
+---
+nr: 163
+title: "\"Ein Meilenstein für die Sicherheitspolitik in Deutschland.\""
+datum: 2025-01-01
+institution: BMI
+typ: primaer
+evidenzgrad: hoch
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["haushalt-2026", "einzelplan-06", "drohnenabwehr", "zivilschutz-budget", "bbk-finanzierung"]
+zusammenfassung: "BMI-Meldung zum Haushalt 2026: 15,4 Mrd. Euro für Inneres, davon 2 Mrd. Euro für Zivil- und Bevölkerungsschutz (BBK ca. 610 Mio., THW ca. 643 Mio.) mit Schwerpunkt auf Drohnenabwehr und hybrider Bedrohungsabwehr."
+---
 BMI - Alle Meldungen - &#034;Ein Meilenstein für die Sicherheitspolitik in Deutschland.&#034;
  
  

@@ -1,13 +1,14 @@
 ---
 nr: 121
-title: [Das Gemeinsame Kompetenzzentrum Bevölkerungsschutz](122_Publicus_GeKoB.md)
-description: [Das Gemeinsame Kompetenzzentrum Bevölkerungsschutz](122_Publicus_GeKoB.md) wurde von Bund und Ländern gegründet, um den Bevölkerungsschutz auch in Katastrophen zu optimieren.
-category: Übungen/Warnung
-source: protector.de
-url: "https://www.protector.de/das-gemeinsame-kompetenzzentrum-bevoelkerungsschutz"
-slug: Protector_GeKoB
-tags: [Übungen/Warnung]
-type: html-source
+title: Das Gemeinsame Kompetenzzentrum Bevölkerungsschutz
+datum: 2023-01-01
+institution: Protector.de
+typ: journalistisch
+evidenzgrad: mittel
+thema: Warnung/Uebungen/GeKoB
+ebene: bund
+schlagworte: ["gekob", "bund-laender-kooperation", "verwaltungsvereinbarung", "lagebild-bevoelkerungsschutz", "kooperationsplattform"]
+zusammenfassung: "Beschreibung des 2022 gegründeten Gemeinsamen Kompetenzzentrums Bevölkerungsschutz (GeKoB) beim BBK. Erklärt Struktur, Aufgaben und Rollenverständnis der Bund-Länder-Kooperationsplattform ohne Behördeneigenschaft im Alltag und in Krisenlagen."
 ---
 
 Hier wird dann der random embed adition Banner reingeladen

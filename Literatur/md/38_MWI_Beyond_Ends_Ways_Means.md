@@ -1,17 +1,17 @@
 ---
 nr: 38
 title: "Beyond Ends, Ways, and Means: We Need a Better Strategic Framework to Win in an Era of Great Power Competition - Modern War Institute"
-description: Ends, ways, and means. Over the past three decades, these three words have become longhand for “strategy”; yet, too often, the formula has let us down. It was in May 1989 that Col. Arthur F Lykke Jr., a US Army War College professor and retired colonel, published a paper entitled “Defining Military Strategy” and offered
-category: Strategietheorie (Lykke)
-source: mwi.westpoint.edu
+datum: 2020-09-03
+institution: Modern War Institute / West Point
+typ: sekundaer
+evidenzgrad: mittel
+thema: Strategietheorie
+ebene: international
+schlagworte: ["strategietheorie-(lykke)"]
+zusammenfassung: Ends, ways, and means. Over the past three decades, these three words have become longhand for “strategy”; yet, too often, the formula has let us down. It was in May 1989 that Col. Arthur F Lykke Jr., a US Army War College professor and retired colonel, published a paper entitled “Defining Milita...
 url: "https://mwi.westpoint.edu/beyond-ends-ways-and-means-we-need-a-better-strategic-framework-to-win-in-an-era-of-great-power-competition/"
-author: Iain King
-date: 2020-09-03
-slug: MWI_Beyond_Ends_Ways_Means
-tags: [Strategietheorie (Lykke)]
-type: html-source
+autor: Iain King
 ---
-
 # Beyond Ends, Ways, and Means: We Need a Better Strategic Framework to Win in an Era of Great Power Competition
 
 [Iain King](https://mwi.westpoint.edu/author/iain-king/ "Posts by Iain King") | 09.03.20

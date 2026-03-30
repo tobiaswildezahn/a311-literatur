@@ -1,15 +1,14 @@
 ---
 nr: 53
-title: ": Cyberangriffe auf kritische Infrastruktur: Warum der Schutz jetzt Priorität hat"
-description: "Cyberangriffe auf kritische Infrastruktur: Warum der Schutz jetzt Priorität hat"
-category: [Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)
-source: blogist.de
-url: "https://www.blogist.de/cyberangriffe-auf-kritische-infrastruktur-warum-der-schutz-jetzt-prioritaet-hat/"
-author: Alexander Matow
-date: 2025-07-31
-slug: Blogist_Cyberangriffe_KRITIS
-tags: [[Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)]
-type: html-source
+title: ---
+datum: 2025-01-01
+institution: blogist.de
+typ: journalistisch
+evidenzgrad: niedrig
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["bsi-meldungen", "ransomware", "dunkelfeld-cybercrime", "ki-abwehr", "769-vorfaelle"]
+zusammenfassung: "Uebersicht zum Anstieg der BSI-gemeldeten KRITIS-Cybervorfaelle auf 769 im Jahr 2024 (+43%). Benennt 203 Mrd. EUR Gesamtschaden, geschaetztes 90%-Dunkelfeld und die Doppelrolle von KI als Abwehr- und Angriffswerkzeug."
 ---
 
 [Sicherheit](https://www.blogist.de/category/sicherheit/ "Sicherheit") __[ Alexander Matow](https://www.blogist.de/author/publish/ "Beiträge von Alexander Matow") __[ 31\. Juli 2025](https://www.blogist.de/2026/07 "Datum-Zeit") __[0 Kommentare](https://www.blogist.de/cyberangriffe-auf-kritische-infrastruktur-warum-der-schutz-jetzt-prioritaet-hat/#respond "Anzahl der Kommentare")

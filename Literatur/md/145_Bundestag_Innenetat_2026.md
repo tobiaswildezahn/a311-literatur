@@ -1,3 +1,15 @@
+---
+nr: 145
+title: "Bundestag: 16 Milliarden Euro für den Innenetat 2026"
+datum: 2025-01-01
+institution: Deutscher Bundestag
+typ: primaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["haushalt-2026", "bbk-etat", "thw-etat", "zivilschutz-finanzierung", "drohnenabwehr"]
+zusammenfassung: "Der Innenetat 2026 umfasst 15,76 Mrd. Euro. Das BBK erhält 606 Mio. Euro, das THW 728 Mio. Euro. Minister Dobrindt bezeichnete den Haushalt als sicherheitspolitische Zeitenwende mit Fokus auf Zivilschutz und Drohnenabwehr."
+---
 # Bundestag: 16 Milliarden Euro für den Innenetat 2026
 
 **Source:** Bundestag Textarchiv

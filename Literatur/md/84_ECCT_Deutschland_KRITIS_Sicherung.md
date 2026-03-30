@@ -1,17 +1,17 @@
 ---
 nr: 84
 title: Wie sichert Deutschland seine kritische Infrastruktur in Zeiten wachsender Bedrohungen? - European Centre for Counterterrorism and Intelligence Studies
-description: Deutschland Und wenn man dabei sozial verantwortlich auch an die Menschen um einem herum denke, wäre eine Notlage
-category: KRITIS/Blackout
-source: de.europarabct.com
+datum: 2026-01-11
+institution: ECCT
+typ: grau
+evidenzgrad: niedrig
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-blackout"]
+zusammenfassung: Deutschland Und wenn man dabei sozial verantwortlich auch an die Menschen um einem herum denke, wäre eine Notlage
 url: "https://de.europarabct.com/?p=88816"
-author: hzem.G
-date: 2026-01-11
-slug: ECCT_Deutschland_KRITIS_Sicherung
-tags: [KRITIS/Blackout]
-type: html-source
+autor: hzem.G
 ---
-
 **Follow us on Twitter**
 
 [Tweets by European_ct](https://twitter.com/European_ct)

@@ -1,15 +1,16 @@
 ---
 nr: 75
 title: Risikomanagement in Kritischen Infrastrukturen
-description: "Mit Hilfe des Risikomanagements können mögliche Ereignisse im Hinblick auf ihre zu erwartenden Auswirkungen untersucht werden. Risiken werden analysiert und bewertet. Anhand daraus gewonnener Ergebnisse lassen sich Gegenmaßnahmen zum Schutz Kritischer Infrastrukturen (kurz: KRITIS) ableiten und umsetzen."
-category: KRITIS/Blackout
-source: bbk.bund.de
+datum: 2024-01-01
+institution: BBK
+typ: grau
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-blackout"]
+zusammenfassung: "Mit Hilfe des Risikomanagements können mögliche Ereignisse im Hinblick auf ihre zu erwartenden Auswirkungen untersucht werden. Risiken werden analysiert und bewertet. Anhand daraus gewonnener Ergebnisse lassen sich Gegenmaßnahmen zum Schutz Kritischer Infrastrukturen (kurz: KRITIS) ableiten und u..."
 url: "https://www.bbk.bund.de/DE/Themen/Kritische-Infrastrukturen/Schutzkonzepte-KRITIS/Risikomanagement-KRITIS/risikomanagement-kritis_node.html"
-slug: BBK_Risikomanagement_KRITIS
-tags: [KRITIS/Blackout]
-type: html-source
 ---
-
 #  Risikomanagement in Kritischen Infrastrukturen
 
 Mit Hilfe des Risikomanagements können mögliche Ereignisse im Hinblick auf ihre zu erwartenden Auswirkungen untersucht werden. Risiken werden analysiert und bewertet. Anhand daraus gewonnener Ergebnisse lassen sich Gegenmaßnahmen zum Schutz Kritischer Infrastrukturen (kurz: KRITIS) ableiten und umsetzen.

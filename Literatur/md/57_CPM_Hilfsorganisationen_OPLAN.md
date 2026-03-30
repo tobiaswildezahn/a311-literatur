@@ -1,17 +1,17 @@
 ---
 nr: 57
-title: "Wo stehen die Hilfsorganisationen im OPLAN?"
-description: Analyse der Rolle von Hilfsorganisationen im Operationsplan Deutschland mit Fokus auf Personalengpässe, veraltete Ausstattung und Finanzierungslücken.
-category: OPLAN/Gesamtverteidigung
-source: security-network.com
-url: https://security-network.com/wo-stehen-die-hilfsorganisationen-im-oplan/
-author: Alexander Graf von Gneisenau
-date: 2025-05-01
-slug: CPM_Hilfsorganisationen_OPLAN
-tags: [OPLAN/Gesamtverteidigung]
-type: web-fetch
+title: Wo stehen die Hilfsorganisationen im OPLAN?
+datum: 2025-05-01
+institution: security-network.com
+typ: grau
+evidenzgrad: mittel
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["oplan-gesamtverteidigung"]
+zusammenfassung: Analyse der Rolle von Hilfsorganisationen im Operationsplan Deutschland mit Fokus auf Personalengpässe, veraltete Ausstattung und Finanzierungslücken.
+url: "https://security-network.com/wo-stehen-die-hilfsorganisationen-im-oplan/"
+autor: Alexander Graf von Gneisenau
 ---
-
 # Wo stehen die Hilfsorganisationen im OPLAN?
 
 Europa, insbesondere Deutschland, befindet sich in einem hybriden Konflikt mit autoritären Regimen, die die bestehende Weltordnung verändern wollen. Diese Akteure setzen Desinformationskampagnen, gezielte Tötungen, [Sabotage](46_BBK_Sabotage.md), Drohungen, Cyberangriffe und Spionage ein. Der Ukraine-Krieg unterstreicht, wie wichtig es für Staaten und Allianzen wie NATO und EU ist, Resilienz und Verteidigungsfähigkeit aufrechtzuerhalten.

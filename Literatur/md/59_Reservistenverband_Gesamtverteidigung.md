@@ -1,16 +1,16 @@
 ---
 nr: 59
 title: Kabinett beschließt neuen Rahmen für die Gesamtverteidigung - Reservistenverband
-description: Das Bundeskabinett hat die neuen [Rahmenrichtlinien für die Gesamtverteidigung](02_RRGV_Rahmenrichtlinien_Gesamtverteidigung.md) (RRGV) beschlossen. Die Überarbeitung dieser Richtlinien ist ein wichtiger Schritt zur Stärkung der nationalen Sicherheit. Die neuen Richtlinien lösen die RRGV von 1989 ab.
-category: OPLAN/Gesamtverteidigung
-source: reservistenverband.de
+datum: 2024-06-06
+institution: Reservistenverband
+typ: journalistisch
+evidenzgrad: niedrig
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["oplan-gesamtverteidigung"]
+zusammenfassung: Das Bundeskabinett hat die neuen Rahmenrichtlinien für die Gesamtverteidigung (RRGV) beschlossen. Die Überarbeitung dieser Richtlinien ist ein wichtiger Schritt zur Stärkung der nationalen Sicherheit. Die neuen Richtlinien lösen die RRGV von 1989 ab.
 url: "https://www.reservistenverband.de/magazin-die-reserve/kabinett-beschliesst-neuen-rahmen-fuer-die-gesamtverteidigung/"
-date: 2024-06-06
-slug: Reservistenverband_Gesamtverteidigung
-tags: [OPLAN/Gesamtverteidigung]
-type: html-source
 ---
-
 * * *
 
 [Gesellschaft](https://www.reservistenverband.de/kategorie/die-reserve/gesellschaft/)

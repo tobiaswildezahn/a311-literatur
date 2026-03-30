@@ -1,12 +1,15 @@
 ---
 nr: 136
-title: "Zukunft des Bevölkerungsschutzes – Update statt Systemwechsel"
-category: Weitere Kontextquellen
-slug: SPD_Bevoelkerungsschutz_2021
-tags: [Weitere Kontextquellen]
-type: pdf-source
+title: Zukunft des Bevölkerungsschutzes – Update statt Systemwechsel
+datum: 2021-01-01
+institution: SPD-Bundestagsfraktion
+typ: grau
+evidenzgrad: niedrig
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["kooperationsgebot", "konkurrierende-gesetzgebung", "bbk-reform", "depotstrukturen", "foederalismus"]
+zusammenfassung: "Die SPD-Fraktion fordert ein Kooperationsgebot statt -verbot im Katastrophenschutz, die Verankerung in der konkurrierenden Gesetzgebung und den Ausbau des BBK zur Sicherheitsbehörde mit bundesweiten Depotstrukturen."
 ---
-
 # Zukunft des Bevölkerungsschutzes – Update statt Systemwechsel
 | Einordnung 2                                                                                                  |  |
 |---------------------------------------------------------------------------------------------------------------|--|

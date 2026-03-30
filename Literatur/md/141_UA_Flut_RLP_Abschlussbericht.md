@@ -1,3 +1,15 @@
+---
+nr: 141
+title: Bericht
+datum: 2024-01-01
+institution: Landtag RLP / UA 18/1
+typ: primaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: land
+schlagworte: ["ahrtal-flut", "untersuchungsausschuss", "krisenmanagement-versagen", "warnung-defizite", "einsatzleitung"]
+zusammenfassung: "Der Abschlussbericht des UA 18/1 untersucht die Flutkatastrophe 2021 im Ahrtal, insbesondere Warnung, Einsatzleitung und politische Verantwortung der Landesregierung Rheinland-Pfalz und ihrer nachgeordneten Behörden."
+---
 **Drucksache 18/10000** zu Drucksache 18/1068 zu Drucksache 18/1220 02.08.2024
 
 **Untersuchungsausschuss 18/1 "Flutkatastrophe"**

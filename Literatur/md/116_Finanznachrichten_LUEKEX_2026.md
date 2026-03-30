@@ -1,15 +1,16 @@
 ---
 nr: 116
 title: Die Krisenmanagementübung LÜKEX 2026 verzeichnet Rekord an teilnehmenden Organisationen
-description: Bonn (ots) - Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) startet mit intensiven Vorbereitungen in das Übungsjahr 2026 für die Länder- und Ressortübergreifende Krisenmanagementübung
-category: Übungen/Warnung
-source: finanznachrichten.de
+datum: 2026-01-01
+institution: Finanznachrichten.de
+typ: journalistisch
+evidenzgrad: niedrig
+thema: Warnung/Uebungen/GeKoB
+ebene: bund
+schlagworte: ["übungen-warnung"]
+zusammenfassung: Bonn (ots) - Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) startet mit intensiven Vorbereitungen in das Übungsjahr 2026 für die Länder- und Ressortübergreifende Krisenmanagementübung
 url: "https://www.finanznachrichten.de/nachrichten-2026-01/67545850-die-krisenmanagementuebung-luekex-2026-verzeichnet-rekord-an-teilnehmenden-organisationen-007.htm"
-slug: Finanznachrichten_LUEKEX_2026
-tags: [Übungen/Warnung]
-type: html-source
 ---
-
 Anzeige
 
 ❌

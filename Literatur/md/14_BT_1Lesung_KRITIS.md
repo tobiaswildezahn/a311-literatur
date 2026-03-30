@@ -1,17 +1,17 @@
 ---
 nr: 14
 title: Deutscher Bundestag - Bundestag uneins bei Gesetz zur Stärkung kritischer Anlagen
-description: Der Bundestag hat am Donnerstag, 6. November 2025, den Gesetzentwurf der Bundesregierung „zur Umsetzung der Richtlinie (EU) 2022 / 2557 und zur Stärkung der Resilienz kritischer Anlagen“ (Kritis-Dachgesetz, 21/2510) in erster Lesung beraten. Nach der Debatte überwiesen die Abgeordneten den Entwur...
-category: KRITIS-Dachgesetz
-source: bundestag.de
+datum: 2025-11-06
+institution: Deutscher Bundestag
+typ: primaer
+evidenzgrad: hoch
+thema: Recht/Gesetzgebung
+ebene: bund
+schlagworte: ["kritis-dachgesetz"]
+zusammenfassung: Der Bundestag hat am Donnerstag, 6. November 2025, den Gesetzentwurf der Bundesregierung „zur Umsetzung der Richtlinie (EU) 2022 / 2557 und zur Stärkung der Resilienz kritischer Anlagen“ (Kritis-Dachgesetz, 21/2510) in erster Lesung beraten. Nach der Debatte überwiesen die Abgeordneten den Entwur...
 url: "https://www.bundestag.de/dokumente/textarchiv/2025/kw45-de-kritische-anlagen-1116726"
-author: Götz Hausding
-date: 06.11.2025
-slug: BT_1Lesung_KRITIS
-tags: [KRITIS-Dachgesetz]
-type: html-source
+autor: Götz Hausding
 ---
-
 Der Bundestag hat am **Donnerstag, 11. September 2025** , erstmals einen Gesetzentwurf zur **Umsetzung der NIS-2-Richtlinie** und zur Regelung wesentlicher **Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung** ([__21/1501](https://dserver.bundestag.de/btd/21/015/2101501.pdf "Die PDF-Datei Drucksache 21/1501 öffnet sich in einem neuen Fenster")) beraten. Im Anschluss an die einstündige erste Lesung wurde die Vorlage zur weiteren Beratung an die Ausschüsse überwiesen. Die Federführung liegt beim Innenausschuss.
 
 ## Regierung: Die Bedrohungslage ist angespannt

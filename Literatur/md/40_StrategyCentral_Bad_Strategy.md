@@ -1,14 +1,14 @@
 ---
 nr: 40
-title: [Ends+Ways+Means=(Bad) Strategy](36_Parameters_Bad_Strategy.md)
-description: "By Jeffrey Meiser, Ph.D.This article was originally published by US Army War College Parameters vol. 46, Number 4, Winter 2016 (doi:10.55540/0031-1723.3000). It is republished here with the generous consent of the author.Over the past two years, American military leaders have repeatedly highlighted the need to develop leaders with strong critical and creative thinking skills who will enable the United States to field a superior joint force over the next decade. These efforts imply the US defense"
-category: Strategietheorie (Lykke)
-source: strategycentral.io
-url: "https://www.strategycentral.io/post/ends-ways-means-bad-strategy"
-date: 2024-07-13
-slug: StrategyCentral_Bad_Strategy
-tags: [Strategietheorie (Lykke)]
-type: html-source
+title: ---
+datum: 2024-01-01
+institution: StrategyCentral / J. Meiser
+typ: sekundaer
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: international
+schlagworte: ["lykke-modell-kritik", "ends-ways-means", "whole-of-government", "theory-of-success"]
+zusammenfassung: "Wiederveröffentlichung von Meisers Parameters-Artikel auf StrategyCentral. Kritisiert das Lykke-Modell als kreativitätshemmend und den Whole-of-Government-Ansatz als schematische Ressourcenverteilung statt echter strategischer Analyse."
 ---
 
 _By Jeffrey Meiser, Ph.D._

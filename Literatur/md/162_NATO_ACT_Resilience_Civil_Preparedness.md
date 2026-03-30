@@ -1,3 +1,15 @@
+---
+nr: 162
+title: Articles
+datum: 2025-01-01
+institution: NATO ACT
+typ: primaer
+evidenzgrad: hoch
+thema: NATO/International
+ebene: nato
+schlagworte: ["artikel-3", "baseline-requirements", "civil-preparedness", "layered-resilience", "resilience-committee"]
+zusammenfassung: "NATO ACT erläutert das Resilienz-Konzept der Allianz: Sieben Baseline Requirements seit 2016, das Resilience Committee als Steuerungsgremium und die Verzahnung ziviler Vorsorge mit militärischer Verteidigungsfähigkeit."
+---
 Resilience and Civil Preparedness in NATO - NATO&#039;s ACT
 
  

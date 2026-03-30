@@ -1,15 +1,16 @@
 ---
 nr: 114
 title: "Start ins Übungsjahr für LÜKEX 2026: Rekord an teilnehmenden Organisationen"
-description: "Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (kurz: BBK) startet mit intensiven Vorbereitungen in das Übungsjahr 2026 für die Länder- und Ressortübergreifende Krisenmanagementübung (kurz: LÜKEX) – mit über 150 teilnehmenden Organisationen die größte gemeinsame Übung von Bund und Ländern zur Bewältigung komplexer Krisenlagen. Die zentrale Kernübung ist für November 2026 geplant."
-category: Übungen/Warnung
-source: bbk.bund.de
+datum: 2026-01-01
+institution: BBK
+typ: grau
+evidenzgrad: mittel
+thema: Warnung/Uebungen/GeKoB
+ebene: bund
+schlagworte: ["übungen-warnung"]
+zusammenfassung: "Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (kurz: BBK) startet mit intensiven Vorbereitungen in das Übungsjahr 2026 für die Länder- und Ressortübergreifende Krisenmanagementübung (kurz: LÜKEX) – mit über 150 teilnehmenden Organisationen die größte gemeinsame Übung von Bund und Län..."
 url: "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/01/pm-28-start-luekex-26.html"
-slug: BBK_LUEKEX_2026_Start
-tags: [Übungen/Warnung]
-type: html-source
 ---
-
 #  Start ins Übungsjahr für LÜKEX 2026: Rekord an teilnehmenden Organisationen
 
 28.01.2026 Pressemitteilung

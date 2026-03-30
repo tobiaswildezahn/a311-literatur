@@ -1,12 +1,15 @@
 ---
 nr: 31
 title: "Military Spending, NATO's Seven Baseline Requirements, and Infrastructure"
-category: NATO/International
-slug: NAADSN_7BLR_Policy_Primer
-tags: [NATO/International]
-type: pdf-source
+datum: 2025-01-01
+institution: NAADSN
+typ: grau
+evidenzgrad: mittel
+thema: NATO/International
+ebene: nato
+schlagworte: ["7-baseline-requirements", "nato-5-prozent", "dual-use-infrastruktur", "resilience-committee", "kanada"]
+zusammenfassung: "Policy Primer zur Nutzung der NATO 7 Baseline Requirements als Rahmen für das 1,5%-BIP-Ausgabenziel. Argumentiert, dass Infrastrukturinvestitionen (Dual-Use) über die BLR als verteidigungsrelevant qualifiziert werden können. Detaillierte Darstellung der BLR-Struktur und des Resilience Committee."
 ---
-
 November 3, 2025
 
 # Military Spending, NATO's Seven Baseline Requirements, and Infrastructure

@@ -1,3 +1,15 @@
+---
+nr: 157
+title: Die deutsche Schutzraumstrategie
+datum: 2025-01-01
+institution: BayIKa / Prof. Gebbeken
+typ: sekundaer
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["schutzraeume", "zwei-waende-regel", "sekundaerwirkungen", "baulicher-schutz", "kostenanalyse"]
+zusammenfassung: "Gebbeken argumentiert gegen flächendeckenden Schutzraum-Neubau (200-800 Mrd. Euro) und empfiehlt stattdessen die Nutzung bestehender Infrastruktur wie Keller, U-Bahnen und innenliegende Räume nach der Zwei-Wände-Regel."
+---
 # Die deutsche Schutzraumstrategie
 
 **Datum:** 12.12.2025 – München

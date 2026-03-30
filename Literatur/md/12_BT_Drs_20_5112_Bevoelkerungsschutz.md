@@ -1,12 +1,15 @@
 ---
 nr: 12
 title: "Deutscher Bundestag Drucksache** 20/**5112"
-category: Strategiepapiere Bund
-slug: BT_Drs_20_5112_Bevoelkerungsschutz
-tags: [Strategiepapiere Bund]
-type: pdf-source
+datum: 2022-01-01
+institution: Deutscher Bundestag
+typ: primaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["zivilschutz", "kleine-anfrage", "neustart-bevoelkerungsschutz", "resilienzstrategie", "cell-broadcast"]
+zusammenfassung: "Kleine Anfrage der CDU/CSU (Dez. 2022) zum Zustand von Zivilschutz und Ziviler Verteidigung. Die Bundesregierung beschreibt Umsetzung der KZV, Neustart im Bevölkerungsschutz, Einführung von Cell Broadcast und Aufbau des GeKoB."
 ---
-
 ## Deutscher Bundestag Drucksache** 20/**5112
 **20. Wahlperiode** 27.12.2022
 

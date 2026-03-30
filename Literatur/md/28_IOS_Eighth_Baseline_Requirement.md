@@ -1,13 +1,15 @@
 ---
 nr: 28
 title: "IOS Press Ebooks - The Eighth Baseline Requirement: Resilient Civilians in Hybrid Threats and Warfare"
-description: NATO has defined 7 baseline requirements for national resilience to help countries to prepare for serious shocks as a result of attack, terrorism, or natural disaster. These focus on continuity of government, essential services, critical infrastructu...
-category: NATO/International
-slug: IOS_Eighth_Baseline_Requirement
-tags: [NATO/International]
-type: html-source
+datum: 2023-01-01
+institution: IOS Press
+typ: sekundaer
+evidenzgrad: hoch
+thema: NATO/International
+ebene: bund
+schlagworte: ["resiliente-bevoelkerung", "hybride-bedrohungen", "desinformation", "gesellschaftlicher-zusammenhalt", "achte-baseline-requirement"]
+zusammenfassung: NATO has defined 7 baseline requirements for national resilience to help countries to prepare for serious shocks as a result of attack, terrorism, or natural disaster. These focus on continuity of government, essential services, critical infrastructu...
 ---
-
 # Ebook: The Eighth Baseline Requirement: Resilient Civilians in Hybrid Threats and Warfare
 
 [Bild: loader] loading...

@@ -1,15 +1,16 @@
 ---
 nr: 34
-title: "Technical Assistance Financing Facility (TAFF) for Disaster Prevention and Preparedness"
-description: EU-Weltbank-Partnerschaft zur Stärkung nationaler Katastrophenvorsorge. Zentrale Erkenntnis aus Deutschland-Projekt — jeder investierte Euro bringt 2-6 Euro Rendite.
-category: NATO/International
-source: civil-protection-knowledge-network.europa.eu
-url: https://civil-protection-knowledge-network.europa.eu/technical-assistance-financing-facility-taff
-slug: EU_TAFF_Civil_Protection
-tags: [NATO/International]
-type: web-fetch
+title: Technical Assistance Financing Facility (TAFF) for Disaster Prevention and Preparedness
+datum: 2024-01-01
+institution: EU/DG ECHO/Weltbank
+typ: grau
+evidenzgrad: mittel
+thema: NATO/International
+ebene: eu
+schlagworte: ["katastrophenvorsorge", "technische-hilfe", "kosten-nutzen-analyse", "praevention-investition", "ucpm"]
+zusammenfassung: EU-Weltbank-Partnerschaft zur Stärkung nationaler Katastrophenvorsorge. Zentrale Erkenntnis aus Deutschland-Projekt — jeder investierte Euro bringt 2-6 Euro Rendite.
+url: "https://civil-protection-knowledge-network.europa.eu/technical-assistance-financing-facility-taff"
 ---
-
 # Technical Assistance Financing Facility (TAFF)
 
 Die TAFF ist eine Partnerschaft zwischen der Europäischen Kommission (DG ECHO), der Weltbank und der Global Facility for Disaster Reduction and Recovery (GFDRR). Sie ermöglicht nationalen Katastrophenschutz- und Risikomanagementbehörden den Zugang zu technischer Unterstützung und globalem Wissen in Prävention und Vorsorge. Die Europäische Kommission startete dieses Finanzierungsinstrument am 29. Februar 2024.

@@ -1,15 +1,16 @@
 ---
 nr: 104
 title: Wochenbericht zur hitze­bedingten Morta­lität
-description: Hitzeperioden führen in Deutschland regelmäßig zu einem Anstieg der Mortalität. Um über die aktuelle Lage in Deutschland zu informieren, wird dieser Bericht während des Sommers 2025 (Juni-September) wöchentlich aktualisiert.
-category: Klimawandel/Extremwetter
-source: rki.de
+datum: 2025-01-01
+institution: RKI
+typ: primaer
+evidenzgrad: hoch
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: Hitzeperioden führen in Deutschland regelmäßig zu einem Anstieg der Mortalität. Um über die aktuelle Lage in Deutschland zu informieren, wird dieser Bericht während des Sommers 2025 (Juni-September) wöchentlich aktualisiert.
 url: "https://www.rki.de/DE/Themen/Gesundheit-und-Gesellschaft/Gesundheitliche-Einflussfaktoren-A-Z/H/Hitze/Bericht_Hitzemortalitaet.html"
-slug: RKI_Hitzemortalitaet
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 #  Wochenbericht zur hitze­bedingten Morta­lität
 
 Kalenderwoche 38/2025 (15.09. bis 21.09.2025)

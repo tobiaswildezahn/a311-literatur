@@ -1,17 +1,17 @@
 ---
 nr: 62
 title: Bundeswehr trimmt Städte und Gemeinden auf Kriegstüchtigkeit
-description: Die Bundeswehr stattet Bürgermeistern Besuche ab – und legt ihnen nahe, sich auf die Gefahr eines Krieges auf deutschem Boden vorzubereiten.
-category: OPLAN/Gesamtverteidigung
-source: correctiv.org
+datum: 2025-08-18
+institution: CORRECTIV
+typ: journalistisch
+evidenzgrad: mittel
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["oplan-gesamtverteidigung"]
+zusammenfassung: Die Bundeswehr stattet Bürgermeistern Besuche ab – und legt ihnen nahe, sich auf die Gefahr eines Krieges auf deutschem Boden vorzubereiten.
 url: "https://correctiv.org/aktuelles/sicherheit-und-verteidigung/2025/08/18/bundeswehr-trimmt-staedte-und-gemeinden-auf-kriegstuechtigkeit/"
-author: Anette Dowideit
-date: 2025-08-18
-slug: Correctiv_Bundeswehr_Kriegstuechtigkeit
-tags: [OPLAN/Gesamtverteidigung]
-type: html-source
+autor: Anette Dowideit
 ---
-
 von [Anette Dowideit](https://correctiv.org/team/anette-dowideit/) , [David Schraven](https://correctiv.org/team/david-schraven/)
 
 18\. August 2025 [Bild: Verteidigungsminister Pistorius besucht „Locked Shields“]

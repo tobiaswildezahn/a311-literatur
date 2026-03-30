@@ -1,3 +1,15 @@
+---
+nr: 142
+title: Preface
+datum: 2022-01-01
+institution: NATO
+typ: primaer
+evidenzgrad: hoch
+thema: NATO/International
+ebene: nato
+schlagworte: ["artikel-3", "kollektive-verteidigung", "resilienz-baseline", "hybride-bedrohungen", "abschreckung"]
+zusammenfassung: "Das NATO Strategic Concept 2022 definiert Russland als größte direkte Bedrohung und verankert Resilienz als nationale Verantwortung und kollektive Verpflichtung gemäß Artikel 3. Klimawandel wird als Krisen- und Bedrohungsmultiplikator eingestuft."
+---
 ![](_page_0_Figure_0.jpeg)
 
 Adopted by Heads of State and Government at the NATO Summit in Madrid 29 June 2022

@@ -1,3 +1,15 @@
+---
+nr: 167
+title: Action Plan for Security and Defense Policy
+datum: 2021-01-01
+institution: DGAP
+typ: sekundaer
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["nationaler-sicherheitsrat", "strategische-kultur", "gesamtgesellschaftliche-resilienz", "nato-eu-koordination", "krisenvorsorge-uebungen"]
+zusammenfassung: "DGAP-Aktionsplan fordert grundlegende Reform der deutschen Sicherheitspolitik: Einrichtung eines Bundessicherheitsrats, Demokratisierung der Sicherheitspolitik und regelmäßige Resilienz-Übungen auf allen Verwaltungsebenen."
+---
 # Action Plan for Security and Defense Policy
 
 **Autoren:** Dr. Claudia Major, Dr. Constanze Stelzenmüller, Dr. Christian Mölling

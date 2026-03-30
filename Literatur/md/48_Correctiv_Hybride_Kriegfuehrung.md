@@ -1,15 +1,14 @@
 ---
 nr: 48
-title: Bundesregierung will Bevölkerung gegen hybride Kriegsführung wappnen
-description: Nach CORRECTIV-Informationen passt die Bundesregierung ihren Krisenratgeber für die Bevölkerung an. Er soll 2025 erscheinen.
-category: [Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)
-source: correctiv.org
-url: "https://correctiv.org/hybride-kriegsfuehrung/2024/12/03/bundesregierung-will-bevoelkerung-gegen-hybride-kriegsfuehrung-wappnen/"
-author: Till Eckert
-date: 2024-12-03
-slug: Correctiv_Hybride_Kriegfuehrung
-tags: [[Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)]
-type: html-source
+title: ---
+datum: 2024-01-01
+institution: CORRECTIV
+typ: journalistisch
+evidenzgrad: mittel
+thema: Hybride Bedrohungen/Cyber
+ebene: bund
+schlagworte: ["krisenratgeber", "bbk-broschuere", "bevoelkerungsinformation", "skandinavische-vorbilder"]
+zusammenfassung: "Correctiv berichtet, dass der BBK-Krisenratgeber 2025 grundlegend ueberarbeitet wird und erstmals hybride Bedrohungen adressiert. Deutschland folgt damit Schweden, Finnland und Norwegen bei der direkten Bevoelkerungsansprache."
 ---
 
 von [Till Eckert](https://correctiv.org/team/till-eckert/)

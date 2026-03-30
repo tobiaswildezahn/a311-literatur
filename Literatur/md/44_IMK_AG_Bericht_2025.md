@@ -1,10 +1,14 @@
 ---
 nr: 44
-title: "Bericht der Bund/Länder offene-Arbeitsgruppe Zivile Verteidigung / Zivil-Militärische Zusammenarbeit (BLoAG ZV/ZMZ)"
-category: [Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)
-slug: IMK_AG_Bericht_2025
-tags: [[Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)]
-type: pdf-source
+title: Bericht der Bund/Länder offene-Arbeitsgruppe Zivile Verteidigung / Zivil-Militärische Zusammenarbeit (BLoAG ZV/ZMZ)
+datum: 2025-01-01
+institution: IMK / Bund-Laender-AG ZV/ZMZ
+typ: primaer
+evidenzgrad: hoch
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["bloag-zv-zmz", "oplan-deutschland", "vier-saeulen-zv", "krisenmanagement-bund-laender", "2029-zeitlinie"]
+zusammenfassung: "Bericht der BLoAG ZV/ZMZ für die 223. IMK 2025. Beschreibt Maßnahmen zur Ertüchtigung der Gesamtverteidigung bis 2029 in vier Säulen: Staats-/Regierungsfunktionen, Zivilschutz, Versorgung und Streitkräfteunterstützung. Fordert neue Stabsstrukturen und gesicherte Kommunikation."
 ---
 
 # Bericht der Bund/Länder offene-Arbeitsgruppe Zivile Verteidigung / Zivil-Militärische Zusammenarbeit (BLoAG ZV/ZMZ)

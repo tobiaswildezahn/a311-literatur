@@ -1,17 +1,17 @@
 ---
 nr: 105
-title: Klimaanpassungspolitik in Deutschland | Hintergrund aktuell
-description: Wetterphänomene wie Hitzewellen oder Starkregen häufen sich aufgrund der globalen Klimaerwärmung. In Deutschland soll eine nationale Klimaanpassungsstrategie vor den Folgen dieser Extremwetterereignisse schützen.
-category: Klimawandel/Extremwetter
-source: bpb.de
+title: "Klimaanpassungspolitik in Deutschland | Hintergrund aktuell"
+datum: 2025-08-22
+institution: bpb
+typ: tertiaer
+evidenzgrad: mittel
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: Wetterphänomene wie Hitzewellen oder Starkregen häufen sich aufgrund der globalen Klimaerwärmung. In Deutschland soll eine nationale Klimaanpassungsstrategie vor den Folgen dieser Extremwetterereignisse schützen.
 url: "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/569223/klimaanpassungspolitik-in-deutschland/"
-author: Bundeszentrale für politische Bildung
-date: 2025-08-22
-slug: bpb_Klimaanpassungspolitik
-tags: [Klimawandel/Extremwetter]
-type: html-source
+autor: Bundeszentrale für politische Bildung
 ---
-
 Wetterphänomene wie Hitzewellen oder Starkregen häufen sich aufgrund der globalen Klimaerwärmung. In Deutschland soll eine nationale Klimaanpassungsstrategie vor den Folgen dieser Extremwetterereignisse schützen.
 
 Ganz Deutschland wird künftig wahrscheinlich stärker von [Interner Link: Hitze, Trockenheit,](/kurz-knapp/hintergrund-aktuell/523365/hitze-duerre-und-die-folgen/) [Interner Link: Starkregen](/shop/zeitschriften/apuz/wasser-2021/328632/risiko-starkregen/) und Überflutungen betroffen sein. Diese Einschätzung ist der „Deutschen Anpassungsstrategie“ vorangestellt, in welcher Maßnahmen und Ziele zur Klimaanpassung in Deutschland festgeschrieben sind. Je nach Ausmaß des fortschreitenden Klimawandels drohen laut Bundesumweltministerium hierzulande bis 2050 [Interner Link: volkswirtschaftliche Schäden](/shop/zeitschriften/apuz/30103/die-oekonomischen-folgen-des-klimawandels/) in Höhe von 280 bis 900 Milliarden Euro. Um die Auswirkungen des Klimawandels auf den Menschen zu vermindern und sich an die veränderten klimatischen Bedingungen anzupassen, werden unter dem Schlagwort „Klimaanpassung“ weltweit politische Maßnahmen diskutiert.

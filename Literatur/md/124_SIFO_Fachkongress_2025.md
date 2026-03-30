@@ -1,14 +1,16 @@
 ---
 nr: 124
 title: Fachkongress Bevölkerungsschutz 2025 - BMFTR-Sicherheitsforschung
-category: Übungen/Warnung
-source: sifo.de
+datum: 2025-01-01
+institution: SIFO / BBK / BMBF
+typ: grau
+evidenzgrad: mittel
+thema: Warnung/Uebungen/GeKoB
+ebene: bund
+schlagworte: ["sicherheitsforschung", "bmbf", "zivil-militaerische-zusammenarbeit", "forschungstransfer", "paradigmenwechsel"]
+zusammenfassung: "Der BBK-Fachkongress 2025 thematisierte den Paradigmenwechsel im Bevölkerungsschutz angesichts hybrider Bedrohungen. BBK-Präsident Tiesler forderte beschleunigte Zivilschutztüchtigkeit innerhalb weniger Jahre."
 url: "https://www.sifo.de/sifo/de/veranstaltungen/messen/bbk-kongress-2025/bbk-kongress-2025_node.html"
-slug: SIFO_Fachkongress_2025
-tags: [Übungen/Warnung]
-type: html-source
 ---
-
 #  **Zivile Sicherheitsforschung auf dem Fachkongress „Forschung für den Bevölkerungsschutz“**
 
 Vom 5. bis 7. Februar 2025 fand der Fachkongress „Forschung für den Bevölkerungsschutz“ des Bundesamts für Bevölkerungsschutz und Katastrophenhilfe (BBK) im World Conference Center in Bonn statt.

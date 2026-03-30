@@ -1,13 +1,14 @@
 ---
 nr: 46
 title: Sabotage
-description: Sabotage ist eine gezielte Störung oder Zerstörung von Infrastrukturen, Produktionsprozessen oder Ressourcen, um den Gegner zu schwächen oder dessen Fortschritte zu behindern. Sabotage-Aktionen werden oft in sich zuspitzenden Konflikten zwischen Staaten eingesetzt.
-category: [Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)
-source: bbk.bund.de
-url: "https://www.bbk.bund.de/DE/Themen/Kritische-Infrastrukturen/KRITIS-Gefahrenlagen/Hybride-Bedrohungen/Sabotage/sabotage_node.html"
-slug: BBK_Sabotage
-tags: [[Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)]
-type: html-source
+datum: 2024-01-01
+institution: BBK
+typ: grau
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["sabotage-aktionen", "gnss-stoerung", "maritime-infrastruktur", "low-level-agenten", "brandanschlaege"]
+zusammenfassung: "BBK-Themenseite zu Sabotage als hybridem Angriffsmittel: Brandanschlaege durch Low-Level-Agenten, Stoerung von Satellitennavigation im Ostseeraum und Verwundbarkeit maritimer KRITIS wie Pipelines und Seekabel."
 ---
 
 #  Sabotage

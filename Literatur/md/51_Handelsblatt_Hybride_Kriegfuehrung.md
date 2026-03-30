@@ -1,15 +1,14 @@
 ---
 nr: 51
-title: "Hybride Kriegsführung: Europas sicherheitspolitischer Realitätscheck - Handelsblatt Live"
-description: Hybride Kriegsführung mit Drohnen zeigt exemplarisch, dass moderne Sicherheitspolitik auf vorausschauende Resilienz angewiesen ist.
-category: [Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)
-source: live.handelsblatt.com
-url: "https://live.handelsblatt.com/hybride-kriegsfuehrung-europas-sicherheitspolitischer-realitaetscheck/"
-author: Julia Vincke, Kriminologin mit langjähriger CSO-Erfahrung
-date: 2026-01-27
-slug: Handelsblatt_Hybride_Kriegfuehrung
-tags: [[Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)]
-type: html-source
+title: ---
+datum: 2026-01-01
+institution: Handelsblatt
+typ: journalistisch
+evidenzgrad: niedrig
+thema: Hybride Bedrohungen/Cyber
+ebene: bund
+schlagworte: ["drohnenbedrohung", "sicherheitsmentalitaet", "normalisierung-aggression", "resilienzkultur", "fragmentierung"]
+zusammenfassung: "Gastbeitrag einer Kriminologin im Handelsblatt: Drohnen als Instrument hybrider Kriegfuehrung, KRITIS-Betreiber als sicherheitspolitische Akteure und Warnung vor schleichender Normalisierung hybrider Aggression. Fordert neue gesamtgesellschaftliche Sicherheitsmentalitaet."
 ---
 
 Artikel aus dem Handelsblatt Journal „Cybersecurity & Datenschutz“

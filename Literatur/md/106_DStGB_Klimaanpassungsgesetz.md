@@ -1,15 +1,16 @@
 ---
 nr: 106
 title: Klimaanpassungsgesetz des Bundes in Kraft getreten
-description: Am 1. Juli 2024 ist das bundesweite Klimaanpassungsgesetz in Kraft getreten. Damit erhält Deutschland erstmals einen verbindlichen Rechtsrahmen für die Klimaanpassung des Bundes, der Länder und der Kommunen. Das Gesetz soll die Grundlagen dafür schaffen, dass alle Verwaltungsebenen strategisch Vorsorge gegen die Folgen der Klimakrise treffen und verankert erstmals die Anpassung an die Folgen der Klimakrise als eine staatliche Aufgabe im Bundesrecht.
-category: Klimawandel/Extremwetter
-source: dstgb.de
+datum: 2024-01-01
+institution: DStGB
+typ: grau
+evidenzgrad: mittel
+thema: Klimawandel/Naturgefahren
+ebene: kommune
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: Am 1. Juli 2024 ist das bundesweite Klimaanpassungsgesetz in Kraft getreten. Damit erhält Deutschland erstmals einen verbindlichen Rechtsrahmen für die Klimaanpassung des Bundes, der Länder und der Kommunen. Das Gesetz soll die Grundlagen dafür schaffen, dass alle Verwaltungsebenen strategisch Vo...
 url: "https://www.dstgb.de/themen/klimaschutz-und-klimaanpassung/aktuelles/klimaanpassungsgesetz-des-bundes-in-kraft-getreten/"
-slug: DStGB_Klimaanpassungsgesetz
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 Am 1. Juli 2024 ist das bundesweite Klimaanpassungsgesetz in Kraft getreten. Damit erhält Deutschland erstmals einen verbindlichen Rechtsrahmen für die Klimaanpassung des Bundes, der Länder und der Kommunen. Das Gesetz soll die Grundlagen dafür schaffen, dass alle Verwaltungsebenen strategisch Vorsorge gegen die Folgen der Klimakrise treffen und verankert erstmals die Anpassung an die Folgen der Klimakrise als eine staatliche Aufgabe im Bundesrecht.
 
 4\. Juli 2024

@@ -1,3 +1,15 @@
+---
+nr: 170
+title: EU Council Conclusions on Countering Hybrid Threats
+datum: 2026-01-01
+institution: EU Council
+typ: primaer
+evidenzgrad: hoch
+thema: Hybride Bedrohungen/Cyber
+ebene: eu
+schlagworte: ["eu-hybrid-toolbox", "sabotage", "desinformation", "sanktionen", "russland-verurteilung"]
+zusammenfassung: "Der EU-Rat billigt Schlussfolgerungen zur Abwehr hybrider Bedrohungen, verurteilt Russlands koordinierte Kampagnen und bekräftigt den Einsatz aller verfügbaren Instrumente von Cyber Diplomacy Toolbox bis Sanktionen."
+---
 # EU Council Conclusions on Countering Hybrid Threats
 
 **Datum:** 16. März 2026

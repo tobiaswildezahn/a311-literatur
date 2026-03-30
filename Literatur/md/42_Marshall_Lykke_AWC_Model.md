@@ -1,12 +1,15 @@
 ---
 nr: 42
 title: "Toward A Theory Of Strategy: Art Lykke and the Army War College Strategy Model"
-category: Strategietheorie (Lykke)
-slug: Marshall_Lykke_AWC_Model
-tags: [Strategietheorie (Lykke)]
-type: pdf-source
+datum: 2006-01-01
+institution: US Army War College / Yarger
+typ: sekundaer
+evidenzgrad: hoch
+thema: Strategietheorie
+ebene: international
+schlagworte: ["lykke-modell-theorie", "drei-bein-schemel", "suitability-feasibility-acceptability", "strategiehierarchie"]
+zusammenfassung: "Yargers Darstellung des Lykke-Modells als vollständige Strategietheorie: Ends (Objectives), Ways (Concepts), Means (Resources) plus Risk. Definiert acht Prämissen einer Strategietheorie und das Bewertungsschema Suitability-Feasibility-Acceptability."
 ---
-
 ## Toward A Theory Of Strategy: Art Lykke and the Army War College Strategy Model
 ## *Harry R. Yarger*
 

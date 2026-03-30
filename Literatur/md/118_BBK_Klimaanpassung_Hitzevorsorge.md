@@ -1,15 +1,16 @@
 ---
 nr: 118
 title: Bundesbehörden vertiefen Zusammenarbeit zur Klimaanpassung - Hitzevorsorge im Fokus
-description: Hitzeperioden gehören zu den zentralen Herausforderungen der Anpassung an den Klimawandel in Deutschland. Um die Vorbereitung auf klimabezogene Belastungen weiter zu stärken, arbeiten fünf Bundesbehörden künftig noch enger in der Strategischen Behördenallianz Klimaanpassung in Bevölkerungsschutz und räumlicher Planung zusammen.
-category: Übungen/Warnung
-source: bbk.bund.de
+datum: 2025-01-01
+institution: BBK / BBSR / DWD / UBA / THW
+typ: grau
+evidenzgrad: mittel
+thema: Warnung/Uebungen/GeKoB
+ebene: bund
+schlagworte: ["übungen-warnung"]
+zusammenfassung: Hitzeperioden gehören zu den zentralen Herausforderungen der Anpassung an den Klimawandel in Deutschland. Um die Vorbereitung auf klimabezogene Belastungen weiter zu stärken, arbeiten fünf Bundesbehörden künftig noch enger in der Strategischen Behördenallianz Klimaanpassung in Bevölkerungsschutz ...
 url: "https://www.bbk.bund.de/SharedDocs/Kurzmeldungen/DE/2025/12/om-18-behoerdenallianz.html"
-slug: BBK_Klimaanpassung_Hitzevorsorge
-tags: [Übungen/Warnung]
-type: html-source
 ---
-
 #  Bundesbehörden vertiefen Zusammenarbeit zur Klimaanpassung - Hitzevorsorge im Fokus
 
 18.12.2025 Meldung

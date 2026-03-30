@@ -1,17 +1,17 @@
 ---
 nr: 7
 title: "Zivilschutz-Risikoanalyse 'Einsatz chemischer Kampfstoffe'"
-description: "Berlin: (hib/STO) Als Unterrichtung durch die Bundesregierung (21/3600) liegt der 'Bericht zur Risikoanalyse für den Zivilschutz 2025' vor, in dem es um ein Szenario zum Einsatz chemischer Kampfstoffe geht. Die Risikoanalyse betrachtet laut Vorlage die Auswirkungen von Gefahrenereignissen anhand ..."
-category: Strategiepapiere Bund
-source: bundestag.de
+datum: 2026-01-23
+institution: BMI/Bundesregierung
+typ: primaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["strategiepapiere-bund"]
+zusammenfassung: "Berlin: (hib/STO) Als Unterrichtung durch die Bundesregierung (21/3600) liegt der 'Bericht zur Risikoanalyse für den Zivilschutz 2025' vor, in dem es um ein Szenario zum Einsatz chemischer Kampfstoffe geht. Die Risikoanalyse betrachtet laut Vorlage die Auswirkungen von Gefahrenereignissen anhand ..."
 url: "https://www.bundestag.de/presse/hib/kurzmeldungen-1139366"
-author: STO
-date: 23.01.2026
-slug: BT_Risikoanalyse_Chemische_Kampfstoffe_2025
-tags: [Strategiepapiere Bund]
-type: html-source
+autor: STO
 ---
-
 Berlin: (hib/STO) Als Unterrichtung durch die Bundesregierung ([__21/3600](https://dserver.bundestag.de/btd/21/036/2103600.pdf "Die PDF-Datei Drucksache 21/3600 öffnet sich in einem neuen Fenster")) liegt der „Bericht zur Risikoanalyse für den Zivilschutz 2025“ vor, in dem es um ein Szenario zum Einsatz chemischer Kampfstoffe geht. Die Risikoanalyse betrachtet laut Vorlage die Auswirkungen von Gefahrenereignissen anhand plausibler Szenarien, um Auswirkungen aufzuzeigen und Handlungsempfehlungen für eine Optimierung des Hilfeleistungssystems in Deutschland abzuleiten.
 
 Der Bericht stellt die Ergebnisse der Analyse des Szenarios „Einsatz chemischer Kampfstoffe“ vor, in dem es zu einem militärischen Aufmarsch eines Aggressors an den östlichen Grenzen des Nato-Bündnisgebietes und als Reaktion darauf zu einem Aufmarsch von Nato-Kräften kommt und der Aggressor in dieser Phase drei Anschläge mit chemischen Kampfstoffen auf militärisch bedeutsame Logistikknotenpunkte in Deutschland verübt. Angenommene Anschlagsorte sind den Angaben zufolge ein Seehafen, ein Rangierbahnhof und ein Materialdepot der Bundeswehr. „Das Szenario ist keine Vorhersage eines möglichen Ereignisses, sondern spielt einen hypothetischen, aber plausiblen Verlauf durch“, heißt es in den Vorlage weiter.

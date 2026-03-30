@@ -1,15 +1,16 @@
 ---
 nr: 99
 title: Was ist ein Jahrhunderthochwasser?
-description: Wann ist ein Jahrhunderthochwasser ein Jahrhunderthochwasser und wieso treten sie jetzt plötzlich so häufig auf? Antworten auf gängige Fragen.
-category: Klimawandel/Extremwetter
-source: greenpeace.de
+datum: 2024-01-01
+institution: Greenpeace
+typ: aktivistisch
+evidenzgrad: mittel
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: Wann ist ein Jahrhunderthochwasser ein Jahrhunderthochwasser und wieso treten sie jetzt plötzlich so häufig auf? Antworten auf gängige Fragen.
 url: "https://www.greenpeace.de/klimaschutz/klimakrise/ursachen-jahrhunderthochwassers"
-slug: Greenpeace_Jahrhunderthochwasser
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 [Bild: Hochwasser in Prag: Die Moldau hat die Altstadt von Prag unter Wasser gesetzt, im August 2002]
 
 Bas Beentjes / Greenpeace

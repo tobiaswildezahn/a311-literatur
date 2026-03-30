@@ -1,12 +1,15 @@
 ---
 nr: 113
 title: "Zwischenbericht zur Flutkatastrophe 2021: Katastrophenhilfe, Soforthilfen und Wiederaufbau"
-category: Klimawandel/Extremwetter
-slug: Bundesregierung_Zwischenbericht_Flut_2021
-tags: [Klimawandel/Extremwetter]
-type: pdf-source
+datum: 2021-01-01
+institution: Bundesregierung (BMI/BMF)
+typ: primaer
+evidenzgrad: hoch
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: "Offizieller Zwischenbericht der Bundesregierung zur Flutkatastrophe Juli 2021. Dokumentiert 183 Tote, über 30 Mrd. Euro Gesamtschaden und das Sondervermögen Aufbauhilfe 2021. Beschreibt Soforthilfen, Einsatzkräfte und erste Massnahmen zur Stärkung des Bevölkerungsschutzes."
 ---
-
 # Zwischenbericht zur Flutkatastrophe 2021: Katastrophenhilfe, Soforthilfen und Wiederaufbau
 # Inhalt
 

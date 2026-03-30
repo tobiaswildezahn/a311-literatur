@@ -1,16 +1,17 @@
 ---
 nr: 132
 title: Der Fall Nord Stream
-description: Wer hat die Pipelines in der Ostsee gesprengt? Drei Theorien zu den T�tern und Anstiftern
-category: Weitere Kontextquellen
-source: monde-diplomatique.de
+datum: 2024-01-01
+institution: Le Monde Diplomatique
+typ: journalistisch
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["weitere-kontextquellen"]
+zusammenfassung: Wer hat die Pipelines in der Ostsee gesprengt? Drei Theorien zu den T�tern und Anstiftern
 url: "https://monde-diplomatique.de/artikel/!6040380"
-author: Fabian Scheidler
-slug: LeMonde_Nord_Stream
-tags: [Weitere Kontextquellen]
-type: html-source
+autor: Fabian Scheidler
 ---
-
 # Der Fall Nord Stream
 
 ## Wer hat die Pipelines in der Ostsee gesprengt?

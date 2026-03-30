@@ -1,16 +1,16 @@
 ---
 nr: 110
 title: Abschlussbericht zur Flutkatastrophe im Ahrtal veröffentlicht
-description: Mainz/Kreis Ahrweiler. Der Abschlussbericht des Untersuchungsausschusses Flutkatastrophe“ des rheinland-pfälzischen Landtags ist am heutigen Freitag, 2. August 2024, veröffentlicht worden. Der...
-category: Klimawandel/Extremwetter
-source: blick-aktuell.de
+datum: 2024-08-02
+institution: Blick Aktuell
+typ: journalistisch
+evidenzgrad: niedrig
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: Mainz/Kreis Ahrweiler. Der Abschlussbericht des Untersuchungsausschusses Flutkatastrophe“ des rheinland-pfälzischen Landtags ist am heutigen Freitag, 2. August 2024, veröffentlicht worden. Der...
 url: "https://www.blick-aktuell.de/Politik/Abschlussbericht-zur-Flutkatastrophe-im-Ahrtal-veroeffentlicht-599037.html"
-date: 2024-08-02
-slug: BlickAktuell_Abschlussbericht_Ahrtal
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 [Bild: Der Bericht des Untersuchungsausschusses „Hochwasserkatastrophe“ enthält zahlreiche Erkenntnisse, Stellungnahmen und Beweise zum Hochwasser an der Ahr. Foto: Archiv/WinklerTV]
 
 **Mainz/Kreis Ahrweiler.** Der Abschlussbericht des Untersuchungsausschusses Flutkatastrophe“ des rheinland-pfälzischen Landtags ist am heutigen Freitag, 2. August 2024, veröffentlicht worden. Der Bericht wurde gegen 8 Uhr über das Offene Parlamentarische Informationssystem des Landtags (OPAL) als Drucksache veröffentlicht. Die abschließende parlamentarische Beratung des Abschlussberichts ist für das September-Plenum am 18. und 19. September 2024 vorgesehen. Der rund 2.100 Seiten umfassende Abschlussbericht des Untersuchungsausschusses „Hochwasserkatastrophe“ ist unter folgendem Link abrufbar: <https://dokumente.landtag.rlp.de/landtag/drucksachen/10000-18.pdf>

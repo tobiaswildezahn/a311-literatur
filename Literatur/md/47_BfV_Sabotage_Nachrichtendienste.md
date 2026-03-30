@@ -1,13 +1,14 @@
 ---
 nr: 47
-title: "Die neue Bedrohung: [Sabotage](46_BBK_Sabotage.md) durch fremde Nachrichtendienste."
-description: Cyberattacken, Sachbeschädigungen, Brandsätze – solche und weitere Aktionen lassen sich unter Sabotagehandlungen zusammenfassen. Staatliche Akteure aus dem Ausland, aber auch Extremisten und Terroristen nehmen Industrieanlagen oder öffentliche Einrichtungen ins Visier, um diese zu schädigen.
-category: [Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)
-source: verfassungsschutz.de
-url: "https://www.verfassungsschutz.de/SharedDocs/hintergruende/DE/spionage-und-proliferationsabwehr/die-neue-bedrohung-sabotage-durch-fremde-nachrichtendienste.html"
-slug: BfV_Sabotage_Nachrichtendienste
-tags: [[Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)]
-type: html-source
+title: "Die neue Bedrohung: Sabotage durch fremde Nachrichtendienste."
+datum: 2025-01-01
+institution: BfV
+typ: primaer
+evidenzgrad: hoch
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["verfassungsschutz", "proxy-rekrutierung", "spionage-vorbereitung", "russische-nachrichtendienste", "innentaeter"]
+zusammenfassung: "BfV-Hintergrund zur neuen Sabotagebedrohung durch fremde Nachrichtendienste seit 2023. Beschreibt niederschwellige Proxy-Rekrutierung, Spionage als Vorbereitungshandlung und die Rolle des Verfassungsschutzes bei der Abwehr."
 ---
 
 #  Die neue Bedrohung: Sabotage durch fremde Nachrichtendienste.

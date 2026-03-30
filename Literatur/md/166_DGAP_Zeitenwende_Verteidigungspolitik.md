@@ -1,3 +1,15 @@
+---
+nr: 166
+title: "Zeitenwende in der Verteidigungspolitik: Bundeswehr-Sondervermögen effektiv und nachhaltig ausgeben"
+datum: 2022-01-01
+institution: DGAP
+typ: sekundaer
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["sondervermoegen", "verteidigungshaushalt", "zwei-prozent-ziel", "beschaffungsreform", "modernisierungsluecke"]
+zusammenfassung: "DGAP warnt vor einer Finanzierungslücke von 249-269 Mrd. Euro bis 2030 zum Zwei-Prozent-Ziel und empfiehlt nachhaltige Haushaltserhöhung statt kurzfristiger Ausgabenpolitik aus dem 100-Mrd.-Sondervermögen."
+---
 # Zeitenwende in der Verteidigungspolitik: Bundeswehr-Sondervermögen effektiv und nachhaltig ausgeben
 
 **Autoren:** Dr. Christian Mölling, Torben Schütz

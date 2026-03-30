@@ -1,15 +1,16 @@
 ---
 nr: 8
 title: Risikoanalysen Bund und Länder
-description: "Die Risikoanalyse ist zentraler Bestandteil und unverzichtbares Instrument des Risikomanagements im Bevölkerungsschutz und Grundlage für fundierte Entscheidungen zum Umgang mit Risiken. Bund und Länder führen die bundesweite, ressortübergreifende Risikoanalyse durch; verantwortlich ist das Bundesministerium des Innern (kurz: BMI). Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (kurz: BBK) koordiniert den Prozess und bezieht relevante Behörden und Expertisen anderer Bereiche in die Analyse ein. Über die Ergebnisse wird der Bundestag jährlich unterrichtet."
-category: Strategiepapiere Bund
-source: bbk.bund.de
+datum: 2024-01-01
+institution: BBK/BMI
+typ: primaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["strategiepapiere-bund"]
+zusammenfassung: Die Risikoanalyse ist zentraler Bestandteil und unverzichtbares Instrument des Risikomanagements im Bevölkerungsschutz und Grundlage für fundierte Entscheidungen zum Umgang mit Risiken. Bund und Länder führen die bundesweite, ressortübergreifende Risikoanalyse durch; verantwortlich ist das Bundes...
 url: "https://www.bbk.bund.de/DE/Themen/Risikomanagement/Risikoanalysen-Bund-Laender/risikoanalysen-bund-laender.html"
-slug: BBK_Risikoanalysen_Uebersicht
-tags: [Strategiepapiere Bund]
-type: html-source
 ---
-
 #  Risikoanalysen Bund und Länder
 
 Die Risikoanalyse ist zentraler Bestandteil und unverzichtbares Instrument des Risikomanagements im Bevölkerungsschutz und Grundlage für fundierte Entscheidungen zum Umgang mit Risiken. Bund und Länder führen die bundesweite, ressortübergreifende Risikoanalyse durch; verantwortlich ist das Bundesministerium des Innern (kurz: BMI). Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (kurz: BBK) koordiniert den Prozess und bezieht relevante Behörden und Expertisen anderer Bereiche in die Analyse ein. Über die Ergebnisse wird der Bundestag jährlich unterrichtet.

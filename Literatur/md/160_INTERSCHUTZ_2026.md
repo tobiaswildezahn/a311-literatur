@@ -1,3 +1,15 @@
+---
+nr: 160
+title: "INTERSCHUTZ 2026: Bevölkerungsschutz im Fokus einer neuen Sicherheitsära"
+datum: 2026-01-01
+institution: Langenhagener News
+typ: journalistisch
+evidenzgrad: niedrig
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["fachmesse", "einsatztechnik", "fruehwarnsysteme", "hannover"]
+zusammenfassung: "Die INTERSCHUTZ 2026 in Hannover stellt unter dem Motto 'Safeguarding tomorrow' die Zeitenwende im Bevölkerungsschutz in den Mittelpunkt und präsentiert Innovationen in Krisenmanagement, Hochwasserschutz und Frühwarnsystemen."
+---
 # INTERSCHUTZ 2026: Bevölkerungsschutz im Fokus einer neuen Sicherheitsära
 
 **Veröffentlicht:** 18. November 2025, 11:36 Uhr

@@ -1,3 +1,15 @@
+---
+nr: 148
+title: Resilience through Civil Preparedness
+datum: 2025-01-01
+institution: NATO CIMIC COE
+typ: grau
+evidenzgrad: mittel
+thema: NATO/International
+ebene: nato
+schlagworte: ["civil-preparedness", "baseline-requirements", "cimic", "warschau-gipfel-2016", "cepc"]
+zusammenfassung: "Das CIMIC-Factsheet erläutert die sieben NATO Baseline Requirements für nationale Resilienz und die Rolle ziviler Vorsorge als Grundlage kollektiver Verteidigung. 90% militärischer Transporte nutzen zivile Infrastruktur."
+---
 # Resilience through Civil Preparedness
 *Concepts, Interoperability and Capability Branch 2018*
 

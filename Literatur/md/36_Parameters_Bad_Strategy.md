@@ -1,12 +1,15 @@
 ---
 nr: 36
 title: "[The US Army War College Quarterly: Parameters](https://press.armywarcollege.edu/parameters)"
-category: Strategietheorie (Lykke)
-slug: Parameters_Bad_Strategy
-tags: [Strategietheorie (Lykke)]
-type: pdf-source
+datum: 2016-01-01
+institution: US Army War College / Parameters
+typ: sekundaer
+evidenzgrad: hoch
+thema: Strategietheorie
+ebene: international
+schlagworte: ["lykke-modell-kritik", "ends-ways-means", "whole-of-government", "theory-of-success"]
+zusammenfassung: "Meiser kritisiert das Lykke-Modell (Ends+Ways+Means) als strategiefeindlich: Es reduziere Strategie auf Ressourcenallokation und entwerte das kreative Element (Ways). Schlägt als Alternative vor, Strategie als 'Theory of Success' zu definieren."
 ---
-
 ## [The US Army War College Quarterly: Parameters](https://press.armywarcollege.edu/parameters)
 
 [Volume 46](https://press.armywarcollege.edu/parameters/vol46) Number 4 [Parameters Winter 2016](https://press.armywarcollege.edu/parameters/vol46/iss4)

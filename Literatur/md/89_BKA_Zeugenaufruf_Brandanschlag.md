@@ -1,12 +1,14 @@
 ---
 nr: 89
-title: "BKA  -  Listenseite für Pressemitteilungen 2026 - Öffentlicher Zeugenaufruf zum Brandanschlag auf die Stromversorgung in Berlin:  Belohnung für Hinweise aus der Bevölkerung"
-category: Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026
-source: bka.de
-url: "https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260127_Zeugenaufruf_Brandanschlag_Berlin.html"
-slug: BKA_Zeugenaufruf_Brandanschlag
-tags: [Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026]
-type: html-source
+title: "Öffentlicher Zeugenaufruf zum Brandanschlag auf die Stromversorgung in Berlin: Belohnung für Hinweise aus der Bevölkerung"
+datum: 2026-01-01
+institution: BKA / GBA
+typ: primaer
+evidenzgrad: hoch
+thema: Hybride Bedrohungen/Cyber
+ebene: bund
+schlagworte: ["zeugenaufruf", "gba-ermittlungen", "terroristische-vereinigung", "auslobung", "verfassungsfeindliche-sabotage"]
+zusammenfassung: "Offizieller Zeugenaufruf von BKA und GBA zum Brandanschlag auf das Berliner Stromnetz vom 3. Januar 2026. Auslobung von bis zu einer Million Euro für Hinweise. Ermittlungen u.a. wegen Mitgliedschaft in terroristischer Vereinigung und verfassungsfeindlicher Sabotage."
 ---
 
 # Öffentlicher Zeugenaufruf zum Brandanschlag auf die Stromversorgung in Berlin: Belohnung für Hinweise aus der Bevölkerung

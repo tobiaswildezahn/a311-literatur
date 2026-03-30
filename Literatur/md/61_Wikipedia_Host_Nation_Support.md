@@ -1,14 +1,16 @@
 ---
 nr: 61
 title: Host Nation Support – Wikipedia
-category: OPLAN/Gesamtverteidigung
-source: de.wikipedia.org
+datum: 2024-01-01
+institution: Wikipedia
+typ: tertiaer
+evidenzgrad: niedrig
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["host-nation-support", "nato-truppenstatut", "transitland", "verlegung-streitkraefte", "streitkraeftebasis"]
+zusammenfassung: "Wikipedia-Eintrag zu Host Nation Support: Deutschland als NATO-Transitland fuer den Aufmarsch multinationaler Verstaerkungskraefte. Umfasst Einreisegenehmigungen, Marschwege, Unterkunft, Betriebsstoffversorgung und Absicherung."
 url: "https://de.wikipedia.org/wiki/Host_Nation_Support"
-slug: Wikipedia_Host_Nation_Support
-tags: [OPLAN/Gesamtverteidigung]
-type: html-source
 ---
-
 Als **Host Nation Support** (HNS) gemäß [NATO-Truppenstatut](/wiki/NATO-Truppenstatut "NATO-Truppenstatut")[1] bezeichnet man in der [NATO](/wiki/NATO "NATO") die zivile und militärische Unterstützung alliierter, ausländischer [Streitkräfte](/wiki/Streitkr%C3%A4fte "Streitkräfte") in einem Gastland durch dessen [Regierung](/wiki/Regierung "Regierung").
 
 Die Entwicklung der [sicherheitspolitischen Lage](/wiki/Sicherheitspolitik "Sicherheitspolitik") in [Europa](/wiki/Europa "Europa") hat dazu geführt, dass die [Bundesrepublik Deutschland](/wiki/Bundesrepublik_Deutschland "Bundesrepublik Deutschland") sich im NATO-Bündnisrahmen seit den 2020er Jahren wieder verstärkt auf [Landes-](/wiki/Landesverteidigung "Landesverteidigung") und [Bündnisverteidigung](/wiki/Kollektive_Verteidigung "Kollektive Verteidigung") einstellt. Das bedeutet, dass Deutschland sich vornehmlich als [Transitland](/wiki/Transitland "Transitland") für den Aufmarsch multinationaler Verstärkungskräfte der NATO versteht, die in Deutschland Unterstützung während der Verlegung, z. B. ins [Baltikum](/wiki/Baltikum "Baltikum"), benötigen.

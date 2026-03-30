@@ -1,12 +1,15 @@
 ---
 nr: 10
-title: "15 Jahre Risikoanalyse im Bevölkerungsschutz – 2009 bis heute"
-category: Strategiepapiere Bund
-slug: BBK_Magazin_2024_20Jahre
-tags: [Strategiepapiere Bund]
-type: pdf-source
+title: 15 Jahre Risikoanalyse im Bevölkerungsschutz – 2009 bis heute
+datum: 2024-01-01
+institution: BBK
+typ: grau
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["risikoanalyse-bund", "zivilschutz-szenarien", "gesamtszenario", "deckungsluecken", "stromausfall"]
+zusammenfassung: "Überblick über 15 Jahre Risikoanalyse im Bevölkerungsschutz (2009-2024). Zentrale Erkenntnis: Stromausfälle als szenarioübergreifende Herausforderung. Künftige Analysen fokussieren auf Zivilschutz-Szenarien (Kampfstoffe, NEMP, taktische Kernwaffen) auf Basis des Gesamtszenarios KZV."
 ---
-
 # 15 Jahre Risikoanalyse im Bevölkerungsschutz – 2009 bis heute
 
 Nachdem 2010 die Methodik zur Risikoanalyse Bund veröffentlicht wurde, wurden 2012 die ersten zwei Risikoanalysen im Bevölkerungsschutz zu den Gefahren Hochwasser und Pandemie durchgeführt. Seitdem wurden sechs weitere Analysen zu Naturgefahren, technischen, sowie vom Menschen verursachten Gefahren erstellt.

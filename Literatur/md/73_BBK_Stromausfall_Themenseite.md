@@ -1,13 +1,14 @@
 ---
 nr: 73
-title: [Stromausfall](74_BBK_Stromausfall_Detail.md)
-description: Die Qualität der Stromversorgung ist in Deutschland außerordentlich hoch. Großflächige langanhaltende Stromausfälle hat es in Deutschland bisher nicht gegeben, würde es allerdings dazu kommen, wären diese in allen Lebensbereichen zu spüren.
-category: KRITIS/Blackout
-source: bbk.bund.de
-url: "https://www.bbk.bund.de/DE/Themen/Kritische-Infrastrukturen/KRITIS-Gefahrenlagen/[Stromausfall](74_BBK_Stromausfall_Detail.md)/stromausfall_node.html"
-slug: BBK_Stromausfall_Themenseite
-tags: [KRITIS/Blackout]
-type: html-source
+title: Stromausfall
+datum: 2024-01-01
+institution: BBK
+typ: grau
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["blackout-szenario", "notstromversorgung", "72-stunden-richtwert", "inselnetz", "tab-bericht"]
+zusammenfassung: "BBK-Themenseite Stromausfall: Ein grossflaechiger Blackout waere laut TAB-Bericht einer nationalen Katastrophe gleich. Beschreibt Notfallplanungen auf Bund-Laender-Kommunal-Ebene und den 72-Stunden-Richtwert fuer KRITIS-Notstromversorgung."
 ---
 
 #  Stromausfall

@@ -1,16 +1,16 @@
 ---
 nr: 16
 title: "KRITIS-Dachgesetz: Überblick, parlamentarischer Stand und fachliche Kritik"
-description: Wir werfen einen Blick auf das KRITIS-Dachgesetz, zu dem es Donnerstag eine Anhörung im Bundestag gibt, und die Kritik aus der Fachwelt.
-category: KRITIS-Dachgesetz
-source: datenschutz-notizen.de
+datum: 2026-01-28
+institution: datenschutz-notizen.de
+typ: sekundaer
+evidenzgrad: mittel
+thema: Recht/Gesetzgebung
+ebene: bund
+schlagworte: ["kritis-dachgesetz"]
+zusammenfassung: Wir werfen einen Blick auf das KRITIS-Dachgesetz, zu dem es Donnerstag eine Anhörung im Bundestag gibt, und die Kritik aus der Fachwelt.
 url: "https://www.datenschutz-notizen.de/kritis-dachgesetz-ueberblick-parlamentarischer-stand-und-fachliche-kritik-0658242/"
-date: 2026-01-28
-slug: Datenschutz_Notizen_KRITIS
-tags: [KRITIS-Dachgesetz]
-type: html-source
 ---
-
 [ [Bild: Das Wort Resilienz in weißer Schrift auf blauem Papier gedruckt.] ](https://www.datenschutz-notizen.de/kritis-dachgesetz-ueberblick-parlamentarischer-stand-und-fachliche-kritik-0658242/)
 
 # KRITIS-Dachgesetz: Überblick, parlamentarischer Stand und fachliche Kritik

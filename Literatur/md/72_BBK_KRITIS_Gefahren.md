@@ -1,15 +1,16 @@
 ---
 nr: 72
 title: KRITIS-Gefahren­
-description: Kritische Infrastrukturen sind nicht nur alltäglichen Störungen, sondern auch Extremereignissen ausgesetzt. Hierzu gehören Naturgefahren, technisches Versagen und vorsätzliche Handlungen.
-category: KRITIS/Blackout
-source: bbk.bund.de
+datum: 2024-01-01
+institution: BBK
+typ: grau
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-blackout"]
+zusammenfassung: Kritische Infrastrukturen sind nicht nur alltäglichen Störungen, sondern auch Extremereignissen ausgesetzt. Hierzu gehören Naturgefahren, technisches Versagen und vorsätzliche Handlungen.
 url: "https://www.bbk.bund.de/DE/Themen/Kritische-Infrastrukturen/KRITIS-Gefahrenlagen/kritis-gefahrenlagen_node.html"
-slug: BBK_KRITIS_Gefahren
-tags: [KRITIS/Blackout]
-type: html-source
 ---
-
 #  KRITIS-Gefahren­
 
 Quelle:  Pixabay.com

@@ -1,13 +1,16 @@
 ---
 nr: 102
 title: "Juni 2024: Zur Hochwasserlage in Süddeutschland - Helmholtz-Zentrum für Umweltforschung UFZ"
-category: Klimawandel/Extremwetter
-author: Andreas Staak
-slug: UFZ_Hochwasser_Sueddeutschland
-tags: [Klimawandel/Extremwetter]
-type: html-source
+datum: 2024-01-01
+institution: UFZ / GFZ Helmholtz
+typ: sekundaer
+evidenzgrad: hoch
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: "Wissenschaftliche Einordnung des Süddeutschland-Hochwassers 2024 durch UFZ/GFZ-Experten. Erklärt die Vb-Zyklon-Mechanik, gesättigte Böden als Verstärker und vergleicht mit Ahrtal 2021. Behandelt auch Langzeitfolgen durch Schadstoffeinträge."
+autor: Andreas Staak
 ---
-
 **Im Fokus | Juni 2024**
 
 ## 21\. Juni 2024: Zur Hochwasserlage im Juni 2024 in Süddeutschland

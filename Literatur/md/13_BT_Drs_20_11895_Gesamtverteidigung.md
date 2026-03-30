@@ -1,12 +1,15 @@
 ---
 nr: 13
-title: "Antwort"
-category: Strategiepapiere Bund
-slug: BT_Drs_20_11895_Gesamtverteidigung
-tags: [Strategiepapiere Bund]
-type: pdf-source
+title: Antwort
+datum: 2024-01-01
+institution: Deutscher Bundestag
+typ: primaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["zivilschutz-2024", "kleine-anfrage", "operationsplan-deutschland", "resilienzstrategie-umsetzung", "mobile-betreuungsreserve"]
+zusammenfassung: "Kleine Anfrage der CDU/CSU (Juni 2024) zum Zustand der Zivilen Verteidigung. Die Bundesregierung berichtet über 420+ Maßnahmen der Resilienzstrategie, Aufbau Mobiler Betreuungsmodule und sieht die KZV 2016 weiterhin als ausreichende Grundlage."
 ---
-
 **20. Wahlperiode** 17.06.2024
 
 # Antwort

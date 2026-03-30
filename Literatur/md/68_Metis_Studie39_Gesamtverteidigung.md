@@ -1,12 +1,15 @@
 ---
 nr: 68
 title: "[Zusammenfassung](01_Nationale_Sicherheitsstrategie_Zusammenfassung.md) eue sicherheitspolitische Herausforderungen erfordern Konzepte der Gesamtverteidigung für die Widerstandsfähigkeit, Resilienz und letztlich Überlebensfähigkeit moderner Gesellschaften. Neue Kriegsformen als auch die Implikationen des Klimawandels machen eine grundlegende Reform der Gesamtverteidigung in Deutschland unausweichlich. Die vorliegende Studie diskutiert das bestehende Konzept, identifiziert Defizite und bietet Handlungsempfehlungen, um die Kriegs- und Resilienztüchtigkeit Deutschlands nachhaltig zu stärken."
-category: Think Tanks
-slug: Metis_Studie39_Gesamtverteidigung
-tags: [Think Tanks]
-type: pdf-source
+datum: 2024-01-01
+institution: Metis Institut / UniBw
+typ: sekundaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["think-tanks", "rahmenrichtlinien-reform", "nationalgarde", "allgemeine-dienstpflicht", "deu-c2", "resilienztuechtigkeit"]
+zusammenfassung: "Metis-Studie der UniBw identifiziert Defizite der Gesamtverteidigung (veraltete RRGV von 1989, fehlende Hybridkrieg-Regelung, Personalengpaesse). Schlaegt als Maximalreform allgemeine Dienstpflicht, Nationalgarde und nationales Einsatzfuehrungssystem (DEU-C2) vor."
 ---
-
 ![](_page_0_Figure_0.jpeg)
 
 # Zusammenfassung eue sicherheitspolitische Herausforderungen erfordern Konzepte der Gesamtverteidigung für die Widerstandsfähigkeit, Resilienz und letztlich Überlebensfähigkeit moderner Gesellschaften. Neue Kriegsformen als auch die Implikationen des Klimawandels machen eine grundlegende Reform der Gesamtverteidigung in Deutschland unausweichlich. Die vorliegende Studie diskutiert das bestehende Konzept, identifiziert Defizite und bietet Handlungsempfehlungen, um die Kriegs- und Resilienztüchtigkeit Deutschlands nachhaltig zu stärken.

@@ -1,15 +1,16 @@
 ---
 nr: 45
 title: Hybride Bedrohungen
-description: Kritische Infrastrukturen in Deutschland werden durch hybride Maßnahmen von fremden Staaten bedroht. Hierzu gehören verdeckt durchgeführte Cyberangriffe, Spionage und Abhöraktionen sowie [Sabotage](46_BBK_Sabotage.md) und Desinformations-Kampagnen.
-category: Hybride Bedrohungen
-source: bbk.bund.de
+datum: 2024-01-01
+institution: BBK
+typ: grau
+evidenzgrad: mittel
+thema: Hybride Bedrohungen/Cyber
+ebene: bund
+schlagworte: ["hybride-bedrohungen"]
+zusammenfassung: Kritische Infrastrukturen in Deutschland werden durch hybride Maßnahmen von fremden Staaten bedroht. Hierzu gehören verdeckt durchgeführte Cyberangriffe, Spionage und Abhöraktionen sowie Sabotage und Desinformations-Kampagnen.
 url: "https://www.bbk.bund.de/DE/Themen/Kritische-Infrastrukturen/KRITIS-Gefahrenlagen/Hybride-Bedrohungen/hybride-bedrohungen_node.html"
-slug: BBK_Hybride_Bedrohungen
-tags: [Hybride Bedrohungen]
-type: html-source
 ---
-
 #  Hybride Bedrohungen
 
 Quelle:  carlos_castilla/Shutterstock.com

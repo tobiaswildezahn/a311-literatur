@@ -1,15 +1,16 @@
 ---
 nr: 78
 title: "Blackout-Gefahr in Deutschland: Wie sicher ist unser Stromnetz?"
-description: Das Stromnetz hat Schwachstellen, die leicht angreifbar sind. Die Versorgung von Stadtteilen und Dax-Konzernen könnte gefährdet sein.
-category: KRITIS/Blackout
-source: zdfheute.de
+datum: 2026-01-01
+institution: ZDF Frontal
+typ: journalistisch
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-blackout"]
+zusammenfassung: Das Stromnetz hat Schwachstellen, die leicht angreifbar sind. Die Versorgung von Stadtteilen und Dax-Konzernen könnte gefährdet sein.
 url: "https://www.zdfheute.de/politik/strommast-blackout-kritische-infrastruktur-100.html"
-slug: ZDF_Blackout_Gefahr
-tags: [KRITIS/Blackout]
-type: html-source
 ---
-
 Exklusiv
 
 ## Kritische Infrastruktur:Blackout-Gefahr: Wie verwundbar ist unser Stromnetz?

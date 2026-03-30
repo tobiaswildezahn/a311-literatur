@@ -1,12 +1,14 @@
 ---
 nr: 85
-title: Brandanschlag auf das Berliner Stromnetz 2026 – Wikipedia
-category: Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026
-source: de.wikipedia.org
-url: "https://de.wikipedia.org/wiki/Brandanschlag_auf_das_Berliner_Stromnetz_2026"
-slug: Wikipedia_Brandanschlag_Berlin_2026
-tags: [Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026]
-type: html-source
+title: ---
+datum: 2026-01-01
+institution: Wikipedia
+typ: tertiaer
+evidenzgrad: niedrig
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["brandanschlag-stromnetz", "vulkangruppe", "linksextremismus", "stromausfall-berlin", "kabelbruecke-teltowkanal"]
+zusammenfassung: "Umfassende Dokumentation des Brandanschlags auf das Berliner Stromnetz am 3. Januar 2026, bei dem 45.000 Haushalte bis zu fünf Tage ohne Strom waren. Beschreibt Tathergang, Wiederherstellung, Ermittlungen durch den GBA und politische Reaktionen."
 ---
 
 Am Morgen des 3. Januar 2026, einem Samstag, wurde ein **Brandanschlag auf das Berliner Stromnetz** verübt, der einen flächenhaften [Stromausfall](/wiki/Stromausfall "Stromausfall") für etwa 45.000 Haushalte und über 2.200 Betriebe im Südwesten [Berlins](/wiki/Berlin "Berlin") zur Folge hatte. Der [Anschlag](/wiki/Brandanschlag "Brandanschlag") wurde durch [Brandstiftung](/wiki/Brandstiftung "Brandstiftung") an einer Kabelbrücke in [Berlin-Lichterfelde](/wiki/Berlin-Lichterfelde "Berlin-Lichterfelde") ausgeführt und sorgte für den längsten [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) in der Stadt seit dem [Kriegsende](/wiki/Zweiter_Weltkrieg "Zweiter Weltkrieg") 1945.[1] Bei tiefwinterlichem Wetter kam es so auch zum Ausfall vieler Heizungen. Am 7. Januar 2026 konnten die Folgen vollständig behoben werden.[2][3]

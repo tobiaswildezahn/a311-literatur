@@ -1,14 +1,14 @@
 ---
 nr: 93
-title: [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) Berlin, Berlin aktuell, [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) Berlin 2026, [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) Berlin News, KRITIS-Dachgesetz, Sicherheit kritische Infrastrukturen, Anschlag Berlin
-description: Berlin leidet unter einem massiven [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md), eingestuft als Terroranschlag. Der Vorfall wirft Fragen über die Sicherheit kritischer Infrastrukturen in Deutschland auf.
-category: Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026
-source: security-insider.de
-url: "https://www.security-insider.de/berlin-stromausfall-terroranschlag-sicherheit-infrastrukturen-a-dd290312ceb1506d7e0db39998250551/"
-author: Melanie Staudacher
-slug: SecurityInsider_Stromausfall
-tags: [Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026]
-type: html-source
+title: ---
+datum: 2026-01-01
+institution: Security Insider
+typ: journalistisch
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-dachgesetz", "transparenzpflichten", "bdew", "eco-verband", "terrorismus-einstufung"]
+zusammenfassung: "Fachbeitrag zum Berliner Stromausfall 2026 mit Fokus auf KRITIS-Schutz. BDEW kritisiert öffentliche Zugänglichkeit von Infrastrukturdaten, Eco-Verband fordert zügige Verabschiedung des KRITIS-Dachgesetzes mit Verzahnung von physischem und digitalem Schutz."
 ---
 
 ##  Gigantischer Stromausfall in Berlin sorgt für Angst um Infrastrukturen

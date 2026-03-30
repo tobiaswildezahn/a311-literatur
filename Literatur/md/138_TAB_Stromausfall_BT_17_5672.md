@@ -1,3 +1,15 @@
+---
+nr: 138
+title: "Deutscher Bundestag Drucksache** 17/**5672"
+datum: 2011-01-01
+institution: TAB / Deutscher Bundestag
+typ: primaer
+evidenzgrad: hoch
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["stromausfall", "kaskadeneffekte", "kritische-infrastrukturen", "technikfolgenabschaetzung", "versorgungskollaps"]
+zusammenfassung: "Die TAB-Studie analysiert systematisch die Folgen eines großflächigen, langandauernden Stromausfalls. Ein mehrwöchiger Ausfall käme einer nationalen Katastrophe nahe, da alle KRITIS-Sektoren betroffen wären."
+---
 # Deutscher Bundestag Drucksache** 17/**5672
 **17. Wahlperiode** 27. 04. 2011
 

@@ -1,3 +1,15 @@
+---
+nr: 168
+title: 7 Schritte schützen künftig kritische Infrastruktur
+datum: 2025-01-01
+institution: IT-Matchmaker / Atoria
+typ: grau
+evidenzgrad: niedrig
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["zutrittskontrolle", "physische-sicherheit", "lifecycle-management", "compliance", "perimeterschutz"]
+zusammenfassung: "Praxisleitfaden zum KRITIS-Dachgesetz mit Fokus auf physische Zutrittssicherung: Sieben Schritte von Risikoanalyse über Berechtigungsmanagement bis Compliance-Reporting, mit Warnung vor veralteten Zutrittssystemen als Sicherheitsrisiko."
+---
 # 7 Schritte schützen künftig kritische Infrastruktur
 
 **Autor:** Jürgen Frisch

@@ -928,5 +928,35 @@
     "institution": "BDEW/VKU",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "176": {
+    "typ": "primaer",
+    "institution": "Freie und Hansestadt Hamburg",
+    "jahr": 1978,
+    "evidenzgrad": "hoch"
+  },
+  "177": {
+    "typ": "primaer",
+    "institution": "Freie und Hansestadt Hamburg",
+    "jahr": 1986,
+    "evidenzgrad": "hoch"
+  },
+  "178": {
+    "typ": "primaer",
+    "institution": "Freie und Hansestadt Hamburg / Behoerde fuer Inneres",
+    "jahr": 1984,
+    "evidenzgrad": "hoch"
+  },
+  "179": {
+    "typ": "primaer",
+    "institution": "Freie und Hansestadt Hamburg",
+    "jahr": 2019,
+    "evidenzgrad": "hoch"
+  },
+  "180": {
+    "typ": "primaer",
+    "institution": "Freie und Hansestadt Hamburg",
+    "jahr": 1966,
+    "evidenzgrad": "hoch"
   }
 }

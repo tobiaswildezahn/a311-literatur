@@ -1,17 +1,17 @@
 ---
 nr: 134
 title: "Operationsplan und Zivilschutz: „Wir müssen vorbereitet sein“"
-description: Deutscher Landkreistag - der kommunale Spitzenverband der 294 Landkreise
-category: Weitere Kontextquellen
-source: landkreistag.de
+datum: 2025-02-12
+institution: Deutscher Landkreistag
+typ: grau
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: kommune
+schlagworte: ["weitere-kontextquellen"]
+zusammenfassung: Deutscher Landkreistag - der kommunale Spitzenverband der 294 Landkreise
 url: "https://www.landkreistag.de/presseforum/pressemitteilungen/3441-operationsplan-und-zivilschutz-wir-muessen-vorbereitet-sein"
-author: Dr. Markus Mempel
-date: 2025-02-12
-slug: Landkreistag_OPLAN_Zivilschutz
-tags: [Weitere Kontextquellen]
-type: html-source
+autor: Dr. Markus Mempel
 ---
-
 #  Operationsplan und Zivilschutz: „Wir müssen vorbereitet sein“
 
 Details

@@ -1,17 +1,17 @@
 ---
 nr: 39
 title: "Wrong and Useful: Models and Metaphors for Strategy"
-description: Diskussion über Lykkes Ends-Ways-Means-Modell und den Nutzen strategischer Metaphern trotz ihrer offensichtlichen Unvollkommenheit.
-category: Strategietheorie (Lykke)
-source: warroom.armywarcollege.edu
-url: https://warroom.armywarcollege.edu/articles/models-metaphorsrr/
-author: Jacqueline E. Whitt
-date: 2021-12-03
-slug: WarRoom_Models_Metaphors
-tags: [Strategietheorie (Lykke)]
-type: web-fetch
+datum: 2021-12-03
+institution: Army War College War Room
+typ: sekundaer
+evidenzgrad: mittel
+thema: Strategietheorie
+ebene: international
+schlagworte: ["strategietheorie-(lykke)"]
+zusammenfassung: Diskussion über Lykkes Ends-Ways-Means-Modell und den Nutzen strategischer Metaphern trotz ihrer offensichtlichen Unvollkommenheit.
+url: "https://warroom.armywarcollege.edu/articles/models-metaphorsrr/"
+autor: Jacqueline E. Whitt
 ---
-
 # Wrong and Useful: Models and Metaphors for Strategy
 
 Colonel (retired) Arthur F. Lykke was a faculty instructor in the Department of National Security and Strategy at the U.S. Army War College in the late 1980s. Nearly 35 years ago, he introduced the national security world to three concepts: END, WAYS, and MEANS. Lykke passed away in late November 2021. The War Room staff presents this re-release of an earlier discussion of his influential work.

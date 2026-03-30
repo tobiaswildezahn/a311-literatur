@@ -1,3 +1,15 @@
+---
+nr: 173
+title: "Meilenstein der Bevölkerungswarnung: ISF-Projekt \"Warnung der Bevölkerung\" erfolgreich abgeschlossen"
+datum: 2026-01-01
+institution: BBK
+typ: grau
+evidenzgrad: mittel
+thema: Warnung/Uebungen/GeKoB
+ebene: bund
+schlagworte: ["mowas", "warntag", "warnkommunikation", "isf-foerderung", "sozialwissenschaft"]
+zusammenfassung: "Nach zehn Jahren wurde das EU-finanzierte ISF-Projekt zur Bevölkerungswarnung abgeschlossen. Ergebnisse wie der Ausbau von MoWaS, neue Warnkanäle und der Bundesweite Warntag sind heute etablierte Praxis."
+---
 # Meilenstein der Bevölkerungswarnung: ISF-Projekt "Warnung der Bevölkerung" erfolgreich abgeschlossen
 
 **Datum:** 9. März 2026

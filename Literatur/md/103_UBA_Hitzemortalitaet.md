@@ -1,14 +1,16 @@
 ---
 nr: 103
 title: "GE-I-2: Hitzebedingte Todesfälle"
-category: Klimawandel/Extremwetter
-source: umweltbundesamt.de
+datum: 2023-01-01
+institution: Umweltbundesamt
+typ: primaer
+evidenzgrad: hoch
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: "UBA-Monitoringindikator zu hitzebedingten Todesfällen in Deutschland 1992-2021. Allein 2018-2020 starben geschätzt 19.300 Menschen an Hitzefolgen. Über-85-Jährige sind am stärksten betroffen; präventive Massnahmen zeigen leichte Wirkung seit 2003."
 url: "https://www.umweltbundesamt.de/themen/klima-energie/klimafolgen-anpassung/folgen-des-klimawandels/monitoring-zur-das/das-handlungsfelder-indikatoren/menschliche-gesundheit/ge-i-2-hitzebedingte-todesfaelle"
-slug: UBA_Hitzemortalitaet
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 # GE-I-2: Hitzebedingte Todesfälle
 
 [ [Bild: Das Bild zeigt eine ältere Frau mit weißer Bluse. Die Dame hält sich den Handrücken an die Stirn. Im Hintergrund ist sind verschwommen Baumkronen oder Sträucher in hellem Licht zu sehen.]  ](/system/files/image/AdobeStock_429153633_0.jpg)

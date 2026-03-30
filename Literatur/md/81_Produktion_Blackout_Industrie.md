@@ -1,16 +1,16 @@
 ---
 nr: 81
 title: "Szenario Blackout: Was tut die Industrie bei [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md)?"
-description: Kommt der Blackout, kommt er nicht? Und wenn er kommt, wie gut ist die Fertigungsindustrie hierzulande auf einen [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) vorbereitet?
-category: KRITIS/Blackout
-source: produktion.de
+datum: 2022-10-24
+institution: produktion.de
+typ: journalistisch
+evidenzgrad: niedrig
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-blackout"]
+zusammenfassung: "Kommt der Blackout, kommt er nicht? Und wenn er kommt, wie gut ist die Fertigungsindustrie hierzulande auf einen [Stromausfall](73_BBK_Stromausfall_Themenseite.md) vorbereitet?"
 url: "https://www.produktion.de/wirtschaft/szenario-blackout-was-tut-die-industrie-bei-stromausfall/1669517"
-date: 2022-10-24
-slug: Produktion_Blackout_Industrie
-tags: [KRITIS/Blackout]
-type: html-source
 ---
-
 Wenn die Lichter ausgehen...
 
 # Szenario Blackout: Was tut die Industrie bei Stromausfall?

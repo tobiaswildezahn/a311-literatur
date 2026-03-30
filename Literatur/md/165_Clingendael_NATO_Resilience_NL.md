@@ -1,3 +1,15 @@
+---
+nr: 165
+title: FEBRUARY 2025
+datum: 2024-01-01
+institution: Clingendael Institute
+typ: sekundaer
+evidenzgrad: hoch
+thema: NATO/International
+ebene: eu
+schlagworte: ["baseline-requirements", "niederlande", "civil-preparedness", "host-nation-support", "whole-of-society"]
+zusammenfassung: "Clingendael analysiert NATOs Resilienz-Politik und die sieben Baseline Requirements mit Fokus auf die Niederlande als Transitland für US-Verstärkungen. Empfiehlt verbindlichere NATO-Resilienzplanung und Stärkung des EU-NATO-Dialogs."
+---
 # FEBRUARY 2025
 
 # NATO and the need to strengthen resilience – the Dutch case

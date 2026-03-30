@@ -1,3 +1,15 @@
+---
+nr: 171
+title: Bundesverkehrsminister startet KI-basierte Wettervorhersage des DWD (AICON)
+datum: 2026-01-01
+institution: DWD
+typ: primaer
+evidenzgrad: hoch
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["ki-wettermodell", "aicon", "unwetterwarnung", "dwd", "hochleistungsrechner"]
+zusammenfassung: "Der DWD nimmt das KI-Wettermodell AICON in Betrieb, das für bodennahe Messgrößen präziser als andere KI-Modelle ist und im Drei-Stunden-Takt Prognosen liefert — besonders relevant für schnellere Unwetterwarnungen."
+---
 # Bundesverkehrsminister startet KI-basierte Wettervorhersage des DWD (AICON)
 
 **Datum:** 2. März 2026

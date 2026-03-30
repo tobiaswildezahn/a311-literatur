@@ -1,15 +1,16 @@
 ---
 nr: 4
 title: Bundesregierung stärkt militärische und zivile Verteidigung Deutschlands
-description: "Veränderte Sicherheitslage in Europa: Bundesregierung stärkt militärische und zivile Verteidigung Deutschlands"
-category: Strategiepapiere Bund
-source: bmvg.de
+datum: 2024-01-01
+institution: BMVg
+typ: primaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["strategiepapiere-bund"]
+zusammenfassung: "Veränderte Sicherheitslage in Europa: Bundesregierung stärkt militärische und zivile Verteidigung Deutschlands"
 url: "https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376"
-slug: BMVg_PM_Gesamtverteidigung
-tags: [Strategiepapiere Bund]
-type: html-source
 ---
-
 **Das Bundeskabinett hat heute die neuen [Rahmenrichtlinien für die Gesamtverteidigung](02_RRGV_Rahmenrichtlinien_Gesamtverteidigung.md) (RRGV) beschlossen. Die Überarbeitung dieser Richtlinien ist ein wichtiger Schritt zur Stärkung der nationalen Sicherheit. Die neugefassten RRGV beschreiben die notwendigen Maßnahmen und Strukturen, um die Unabhängigkeit und Souveränität Deutschlands in Krisen- und Konfliktzeiten zu sichern.**
 
 Die Rahmenrichtlinien stellen sicher, dass alle relevanten Akteure – von der Bundeswehr über die Hilfsorganisationen bis hin zu den Zivilschutzbehörden – ihre Rollen und Verantwortlichkeiten in Krisenzeiten klar erfüllen können. Die neuen Richtlinien lösen die RRGV von 1989 ab.

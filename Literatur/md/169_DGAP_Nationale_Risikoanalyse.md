@@ -1,3 +1,15 @@
+---
+nr: 169
+title: "Sicherheitspolitik mit Strategie: Deutschland braucht eine Nationale Risikoanalyse"
+datum: 2025-01-01
+institution: DGAP
+typ: sekundaer
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["nationale-risikoanalyse", "nationaler-sicherheitsrat", "strategische-vorausschau", "finnland-vorbild", "priorisierung"]
+zusammenfassung: "DGAP fordert eine systematische Nationale Risikoanalyse als Grundlage für den neuen Nationalen Sicherheitsrat — weg von reaktiver Krisenverwaltung hin zu strategischer Zukunftsgestaltung nach Vorbildern wie Finnland und Großbritannien."
+---
 # Sicherheitspolitik mit Strategie: Deutschland braucht eine Nationale Risikoanalyse
 
 **Autoren:** Thomas Kleine-Brockhoff, Prof. Dr. Daniela Schwarzer, Dr. Stefan Mair

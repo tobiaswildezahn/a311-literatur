@@ -1,15 +1,16 @@
 ---
 nr: 69
 title: "Nordic-Baltic total defence: easier said than done | Heinrich Böll Stiftung | Warszawa | Polska"
-description: "NATO’s newest members Finland and Sweden are already net contributors to Allied security. Well known for their military capability, the two countries also bring a new approach into the Alliance: total defence. While military cooperation is intensifying, civil defence and civil-military cooperation need to be better integrated into Nordic-Baltic regional defence."
-category: Think Tanks
-source: pl.boell.org
+datum: 2025-01-01
+institution: Heinrich-Boell-Stiftung
+typ: sekundaer
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["think-tanks"]
+zusammenfassung: "NATO’s newest members Finland and Sweden are already net contributors to Allied security. Well known for their military capability, the two countries also bring a new approach into the Alliance: total defence. While military cooperation is intensifying, civil defence and civil-military cooperatio..."
 url: "https://pl.boell.org/en/2025/07/23/nordic-baltic-total-defence-easier-said-done"
-slug: Boell_Nordic_Baltic_Total_Defence
-tags: [Think Tanks]
-type: html-source
 ---
-
 [Bild: Nordic-Baltic total defence]
 
 Finland and Sweden are known for their so-called “total defence” approach to security, in which national defence is not only a task for the military but for the whole of society. The security concept was primarily developed for three reasons: their history outside of NATO, geographical proximity to the Soviet/Russian threat, and large territories with small populations.

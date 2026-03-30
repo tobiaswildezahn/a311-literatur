@@ -1,16 +1,16 @@
 ---
 nr: 133
 title: "Unterseekabel beschädigt – [Sabotage](46_BBK_Sabotage.md)-Ermittlungen eingeleitet"
-description: Nach Schäden an zwei Unterwasser-Kabeln in der Ostsee ermitteln Schweden und Finnland wegen [Sabotage](46_BBK_Sabotage.md). Deutschland und Finnland vermuten absichtliche Beschädigung.
-category: Weitere Kontextquellen
-source: zdfheute.de
-url: https://www.zdfheute.de/politik/ausland/ostsee-finnland-schweden-litauen-unterseekabel-100.html
-date: 2024-11-20
-slug: ZDF_Unterseekabel_Sabotage
-tags: [Weitere Kontextquellen]
-type: web-fetch
+datum: 2024-11-20
+institution: ZDF
+typ: journalistisch
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["weitere-kontextquellen"]
+zusammenfassung: Nach Schäden an zwei Unterwasser-Kabeln in der Ostsee ermitteln Schweden und Finnland wegen Sabotage. Deutschland und Finnland vermuten absichtliche Beschädigung.
+url: "https://www.zdfheute.de/politik/ausland/ostsee-finnland-schweden-litauen-unterseekabel-100.html"
 ---
-
 # Unterseekabel beschädigt — Sabotage-Ermittlungen eingeleitet
 
 Nach Schäden an zwei wichtigen Unterwasser-Kabeln in der Ostsee innerhalb von 48 Stunden ermitteln Schweden und Finnland wegen [Sabotage](46_BBK_Sabotage.md). Deutschlands Außenministerin Annalena Baerbock und ihre finnische Kollegin Elina Valtonen äußerten den Verdacht auf "absichtlichen Schaden". Ein solcher Vorfall wecke "sofort den Verdacht, dass absichtlich Schaden angerichtet wird".

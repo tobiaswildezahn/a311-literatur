@@ -1,3 +1,15 @@
+---
+nr: 174
+title: "Cybersicherheit 2026: Europas Vorgaben und hybride Bedrohungen erfordern entschlossenes Handeln"
+datum: 2026-01-01
+institution: Wirtschaftsrat CDU
+typ: grau
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["nis-2", "bsi-reform", "drohnenabwehr", "zustaendigkeitsfragmentierung", "cybersicherheitsstrategie"]
+zusammenfassung: "Der Wirtschaftsrat CDU kritisiert fragmentierte Zuständigkeiten in der Cybersicherheit und fordert ein nachgeschärftes KRITIS-Dachgesetz, Ausbau des BSI als zentrale Steuerungsinstanz und Rechtssicherheit für Sicherheitsforschung."
+---
 # Cybersicherheit 2026: Europas Vorgaben und hybride Bedrohungen erfordern entschlossenes Handeln
 
 **Datum:** 15. Januar 2026

@@ -1,14 +1,14 @@
 ---
 nr: 91
-title: "\"Das wird der Bedrohungslage nicht gerecht.\" So steht es um den Schutz der Infrastruktur"
-description: Ein folgenreicher Brandanschlag in Berlin zeigt, wie dringend der Schutz kritischer Infrastruktur ist. Ein Gesetz der Bundesregierung verspricht Verbesserungen, stößt jedoch auf Kritik.
-category: Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026
-source: t-online.de
-url: "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101069646/brandanschlag-in-berlin-so-will-die-regierung-infrastruktur-schuetzen.html"
-date: 2026-01-06
-slug: Tonline_Infrastrukturschutz
-tags: [Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026]
-type: html-source
+title: ---
+datum: 2026-01-01
+institution: t-online
+typ: journalistisch
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-dachgesetz", "cer-richtlinie", "nis2", "transparenzpflichten", "bundesrat-kritik"]
+zusammenfassung: "Analyse des KRITIS-Dachgesetzes nach dem Berliner Brandanschlag 2026. Bundesrat und BDI kritisieren unklare Zuständigkeiten, Bürokratie und fehlende Kostenaussagen. Parallele Umsetzung von NIS2 und CER-Richtlinie führt zu Abstimmungsproblemen."
 ---
 
 ## Kritische Infrastruktur

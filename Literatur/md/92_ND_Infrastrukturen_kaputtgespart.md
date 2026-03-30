@@ -1,15 +1,14 @@
 ---
 nr: 92
-title: "[[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) in Berlin: »Infrastrukturen wurden kaputtgespart«"
-description: Kritische Infrastrukturen in Deutschland sind leicht angreifbar, der Katastrophenschutz wurde kaputtgespart. Statt auf echte Resilienz setzt die Politik auf Überwachung, kritisiert der Sicherheitsexperte Manuel Atug.
-category: Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026
-source: nd-aktuell.de
-url: "https://www.nd-aktuell.de/artikel/1196646.kritische-infrastruktur-stromausfall-in-berlin-infrastrukturen-wurden-kaputtgespart.html"
-author: "Interview: Matthias Monroy"
-date: 2026-01-06
-slug: ND_Infrastrukturen_kaputtgespart
-tags: [Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026]
-type: html-source
+title: "Stromausfall in Berlin: »Infrastrukturen wurden kaputtgespart«"
+datum: 2026-01-01
+institution: nd-aktuell
+typ: journalistisch
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["ag-kritis", "manuel-atug", "kaputtsparen", "krisenkommunikation", "spontanhelfende"]
+zusammenfassung: "Interview mit AG-Kritis-Sprecher Manuel Atug zum Berliner Stromausfall 2026. Kritisiert jahrelange Unterfinanzierung von KRITIS und Katastrophenschutz, mangelnde Krisenkommunikation Berlins und fordert Resilienz statt Videoüberwachung."
 ---
 
 * [Politik](/rubrik/politik)

@@ -1,3 +1,15 @@
+---
+nr: 155
+title: Das neue KRITIS-Dachgesetz – Registrierungspflicht für betroffene Unternehmen bereits ab 17. Juli 2026
+datum: 2026-01-01
+institution: Taylor Wessing
+typ: grau
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["registrierungspflicht", "kritis-dachgesetz", "compliance-fristen", "bussgeld", "risikoanalyse"]
+zusammenfassung: "KRITIS-Betreiber müssen sich ab 17. Juli 2026 beim BBK registrieren, innerhalb von neun Monaten Risikoanalysen durchführen und Resilienzpläne erstellen. Verstöße werden mit bis zu 1 Mio. Euro Bußgeld und persönlicher Geschäftsleiterhaftung geahndet."
+---
 # Das neue KRITIS-Dachgesetz – Registrierungspflicht für betroffene Unternehmen bereits ab 17. Juli 2026
 
 **Veröffentlicht:** 12. März 2026

@@ -1,13 +1,14 @@
 ---
 nr: 94
-title: "Angst vor [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md)  in Deutschland wächst: Was die Regierung für den \"Blackout\" empfieht"
-description: "Auch wenn die Energie-Infrastruktur in Deutschland gut ausgebaut ist, ist ein flächendeckender [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) möglich. Die Angst vor diesem Szenario ist wegen der aktuellen Energiekrise weiter gewachsen. Um für einen \"Blackout\" gewappnet zu sein, hat die Bundesregierung eine Liste mit praktischer Ausrüstung und Vorrats-Empfehlungen zusammengestellt."
-category: Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026
-source: infranken.de
-url: "https://www.infranken.de/ratgeber/verbraucher/angst-vor-stromausfall-in-deutschland-waechst-regierung-empfiehlt-notfall-vorraete-checkliste-fuer-blackout-art-5517516"
-slug: inFranken_Stromausfall_Angst
-tags: [Berliner [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) 2026]
-type: html-source
+title: ---
+datum: 2026-01-01
+institution: inFranken.de
+typ: journalistisch
+evidenzgrad: niedrig
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["eigenvorsorge", "bbk-empfehlungen", "notfallvorrat", "blackout-vorbereitung", "checkliste"]
+zusammenfassung: "Ratgeberartikel zu Eigenvorsorge bei Stromausfällen auf Basis der BBK-Empfehlungen. Listet konkrete Notfallvorräte, Ausrüstung wie Kurbelradio und Campingkocher sowie Verhaltenstipps für Blackout-Szenarien auf."
 ---
 
 ****

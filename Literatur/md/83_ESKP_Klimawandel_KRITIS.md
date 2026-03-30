@@ -1,14 +1,16 @@
 ---
 nr: 83
 title: Die Relevanz des Klimawandels für „Kritische Infrastrukturen“
-description: Extremwetterlagen können für die stabile Energieversorgung eine Herausforderung sein.
-category: KRITIS/Blackout
+datum: 2024-01-01
+institution: ESKP / Helmholtz
+typ: sekundaer
+evidenzgrad: hoch
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-blackout"]
+zusammenfassung: Extremwetterlagen können für die stabile Energieversorgung eine Herausforderung sein.
 url: energiewende-umwelt/relevanz-klimawandel-kritische-infrastrukturen-935871/
-slug: ESKP_Klimawandel_KRITIS
-tags: [KRITIS/Blackout]
-type: html-source
 ---
-
 # Die Relevanz des Klimawandels für „Kritische Infrastrukturen“
 
 ## Extremwetterlagen können für die stabile Energieversorgung eine Herausforderung sein.

@@ -1,12 +1,15 @@
 ---
 nr: 131
-title: "Zivile Verteidigung in der Klimakrise"
-category: Weitere Kontextquellen
-slug: BBK_Magazin_Zivile_Verteidigung_2025
-tags: [Weitere Kontextquellen]
-type: pdf-source
+title: Zivile Verteidigung in der Klimakrise
+datum: 2025-01-01
+institution: BBK Magazin
+typ: sekundaer
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["klimakrise", "zivile-verteidigung", "multiple-gefahrenlagen", "hybride-kriegsfuehrung", "einsatzkraeftebelastung"]
+zusammenfassung: "Die Klimakrise hat direkte Implikationen für die Zivile Verteidigung: Extremwetter bindet Katastrophenschutzkräfte, die im Verteidigungsfall fehlen. Hybride Akteure können klimabedingte Verwundbarkeiten gezielt ausnutzen."
 ---
-
 ## Zivile Verteidigung in der Klimakrise
 
 René Kwiatkowski

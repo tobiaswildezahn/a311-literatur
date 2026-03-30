@@ -1,15 +1,16 @@
 ---
 nr: 65
 title: Zeitenwende – auch in der zivilen Verteidigung
-category: Think Tanks
-source: dgap.org
+datum: 2025-04-29
+institution: DGAP
+typ: sekundaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["think-tanks", "mentalitaetswechsel", "risikokultur", "schweden-broschuere", "frankreich-snu", "sensibilisierung"]
+zusammenfassung: "DGAP-Memo: Deutschland braucht neben administrativen Reformen einen gesamtgesellschaftlichen Mentalitaetswechsel. Empfiehlt Orientierung an Schwedens Krisenratgeber und Frankreichs culture du risque mit individueller, kontinuierlicher Bevoelkerungssensibilisierung."
 url: "https://dgap.org/de/forschung/publikationen/zeitenwende-auch-der-zivilen-verteidigung"
-date: 2025-04-29
-slug: DGAP_Zeitenwende_Zivile_Verteidigung
-tags: [Think Tanks]
-type: html-source
 ---
-
 #  Zeitenwende – auch in der zivilen Verteidigung
 
 Deutschland braucht ein gesamtgesellschaftliches Krisenbewusstsein

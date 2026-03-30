@@ -1,12 +1,15 @@
 ---
 nr: 1
-title: "Zusammenfassung"
-category: Strategiepapiere Bund
-slug: Nationale_Sicherheitsstrategie_Zusammenfassung
-tags: [Strategiepapiere Bund]
-type: pdf-source
+title: Zusammenfassung
+datum: 2023-01-01
+institution: Bundesregierung
+typ: primaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["integrierte-sicherheit", "zeitenwende", "resilienz", "wehrhaftigkeit", "multilateralismus"]
+zusammenfassung: "Die Nationale Sicherheitsstrategie 2023 definiert Integrierte Sicherheit als Leitprinzip: wehrhaft, resilient, nachhaltig. Zivilverteidigung und Bevölkerungsschutz werden als gesamtgesellschaftliche Aufgabe verankert, KRITIS-Schutz und Cybersicherheit gestärkt."
 ---
-
 ![](_page_0_Figure_0.jpeg)
 
 ![](_page_0_Figure_1.jpeg)

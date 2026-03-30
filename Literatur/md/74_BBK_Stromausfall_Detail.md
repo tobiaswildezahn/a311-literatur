@@ -1,13 +1,14 @@
 ---
 nr: 74
-title: [Stromausfall](73_BBK_Stromausfall_Themenseite.md)
-description: Die Qualität der Stromversorgung ist in Deutschland außerordentlich hoch. Großflächige langanhaltende Stromausfälle hat es in Deutschland bisher nicht gegeben, würde es allerdings dazu kommen, wären diese in allen Lebensbereichen zu spüren.
-category: KRITIS/Blackout
-source: bbk.bund.de
-url: "https://www.bbk.bund.de/DE/Themen/Kritische-Infrastrukturen/KRITIS-Gefahrenlagen/[Stromausfall](73_BBK_Stromausfall_Themenseite.md)/stromausfall.html"
-slug: BBK_Stromausfall_Detail
-tags: [KRITIS/Blackout]
-type: html-source
+title: Stromausfall
+datum: 2024-01-01
+institution: BBK
+typ: grau
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["blackout-vorsorge", "treibstoffbevorratung", "luekex-2004", "notstromaggregate", "buergerinformation"]
+zusammenfassung: "BBK-Detailseite zum Stromausfall mit Fokus auf Treibstoffversorgung fuer Notstrom (72h-Richtwert), KRITIS-Risikomanagement seit LUEKEX 2004 und Vorsorgeinformationen fuer Buerger. Verweist auf Leitfaeden zu Notstromversorgung in Unternehmen und Behoerden."
 ---
 
 #  Stromausfall

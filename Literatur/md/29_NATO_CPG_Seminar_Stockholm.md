@@ -1,12 +1,15 @@
 ---
 nr: 29
-title: "2024 NATO CIVIL PROTECTION GROUP SEMINAR"
-category: NATO/International
-slug: NATO_CPG_Seminar_Stockholm
-tags: [NATO/International]
-type: pdf-source
+title: 2024 NATO CIVIL PROTECTION GROUP SEMINAR
+datum: 2024-01-01
+institution: NATO CPG
+typ: grau
+evidenzgrad: mittel
+thema: NATO/International
+ebene: nato
+schlagworte: ["public-private-partnership", "security-of-supply", "host-nation-support", "cpg-seminar"]
+zusammenfassung: "Bericht des NATO CPG-Seminars Stockholm 2024 zur öffentlich-privaten Zusammenarbeit bei kritischer Versorgungssicherheit. Kernaussage: Partnerschaft mit dem Privatsektor ist kein Nice-to-have, sondern Voraussetzung für Bündnisresilienz. Vertrauen als Schlüsselfaktor."
 ---
-
 # 2024 NATO CIVIL PROTECTION GROUP SEMINAR
 
 ## PUBLIC-PRIVATE COOPERATION IN SECURING CRITICAL SUPPLIES – SUPPORTING ALLIANCE RESILIENCE

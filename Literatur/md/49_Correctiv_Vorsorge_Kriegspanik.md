@@ -1,15 +1,14 @@
 ---
 nr: 49
-title: "Sinnvolle Vorsorge gegen Kriegspanik: So will die Regierung Deutsche wappnen"
-description: Deutschland sorgt vor und investiert Millionen in Bevölkerungsschutz. Was laut BBK gegen Kriegsangst hilft und welche Vorsorge nützlich ist.
-category: [Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)
-source: correctiv.org
-url: "https://correctiv.org/krieg/2025/10/28/sinnvolle-vorsorge-gegen-kriegspanik-so-will-regierung-deutsche-wappnen/"
-author: Samira Joy Frauwallner
-date: 2025-10-28
-slug: Correctiv_Vorsorge_Kriegspanik
-tags: [[Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)]
-type: html-source
+title: ---
+datum: 2025-01-01
+institution: CORRECTIV
+typ: journalistisch
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["selbstvorsorge", "zehn-tage-vorrat", "pakt-bevoelkerungsschutz", "kriegsangst-umfrage", "dobrindt"]
+zusammenfassung: "Correctiv-Uebersicht zum neuen BBK-Ratgeber und Dobrindts Pakt fuer den Bevoelkerungsschutz (10 Mrd. EUR bis 2029). Fasst Selbstvorsorge-Empfehlungen zusammen und zeigt per Ipsos-Umfrage, dass 27% der Deutschen einen Krieg fuer wahrscheinlich halten."
 ---
 
 von [Samira Joy Frauwallner](https://correctiv.org/team/samira-joy-frauwallner/) , [Ulrich Kraetzer](https://correctiv.org/team/ulrich-kraetzer/)

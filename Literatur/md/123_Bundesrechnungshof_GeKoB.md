@@ -1,12 +1,15 @@
 ---
 nr: 123
-title: "Abschließende Mitteilung an das Bundesministerium des Innern und für Heimat und das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe über die Prüfung"
-category: Übungen/Warnung
-slug: Bundesrechnungshof_GeKoB
-tags: [Übungen/Warnung]
-type: pdf-source
+title: Abschließende Mitteilung an das Bundesministerium des Innern und für Heimat und das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe über die Prüfung
+datum: 2024-01-01
+institution: Bundesrechnungshof
+typ: primaer
+evidenzgrad: hoch
+thema: Warnung/Uebungen/GeKoB
+ebene: bund
+schlagworte: ["gekob", "bund-laender-kooperation", "krisenmanagement-strukturen", "bundesrechnungshof", "verwaltungsvereinbarung"]
+zusammenfassung: "Der Bundesrechnungshof kritisiert schwerfällige Entscheidungsprozesse im GeKoB, Abgrenzungsprobleme zum GMLZ und fehlende Meldeverpflichtungen der Länder. Er empfiehlt eine verfassungsrechtliche Grundlage als Gemeinschaftsaufgabe."
 ---
-
 # Abschließende Mitteilung an das Bundesministerium des Innern und für Heimat und das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe über die Prüfung
 
 # Beteiligung des Bundes am Gemeinsamen Kompetenzzentrum Bevö lkerungsschutz

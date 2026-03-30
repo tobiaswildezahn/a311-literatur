@@ -1,15 +1,16 @@
 ---
 nr: 95
 title: Wetter und Klima - Deutscher Wetterdienst   -  Aktuelles - Faktenpapier 2025 zu Extremwetter in Deutschland
-description: "Im Zusammenhang mit dem Extremwetterkongress 2025 wurde das Faktenpapier \"Was wir über das Extremwetter in Deutschland wissen\" erstellt und fasst den aktuellen Kenntnisstand zu Extremwetterereignissen in Deutschland zusammen. Herausgeber sind der Deutsche Wetterdienst und der Extremwetterkongress."
-category: Klimawandel/Extremwetter
-source: dwd.de
+datum: 2025-01-01
+institution: DWD
+typ: grau
+evidenzgrad: hoch
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: "Im Zusammenhang mit dem Extremwetterkongress 2025 wurde das Faktenpapier \"Was wir über das Extremwetter in Deutschland wissen\" erstellt und fasst den aktuellen Kenntnisstand zu Extremwetterereignissen in Deutschland zusammen. Herausgeber sind der Deutsche Wetterdienst und der Extremwetterkongress."
 url: "https://www.dwd.de/DE/klimaumwelt/aktuelle_meldungen/250924/faktenpapier_extremwetterkongress.html"
-slug: DWD_Faktenpapier_Extremwetter
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 # Faktenpapier 2025 zu Extremwetter in Deutschland
 
 Was wir 2025 über das Extremwetter in Deutschland wissen

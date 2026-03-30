@@ -1,17 +1,17 @@
 ---
 nr: 70
 title: "Total Defence in Comparative Perspective: Lessons from Finland, Sweden, Switzerland, and Singapore - Institute for Security and Development Policy"
-description: This piece argues that the notion of total defence is not a singular model as it appears; rather, it exists as a set of strategic principles.
-category: Think Tanks
-source: isdp.eu
+datum: 2025-12-15
+institution: ISDP
+typ: sekundaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: international
+schlagworte: ["think-tanks"]
+zusammenfassung: This piece argues that the notion of total defence is not a singular model as it appears; rather, it exists as a set of strategic principles.
 url: "https://www.isdp.eu/total-defence-in-comparative-perspective-lessons-from-finland-sweden-switzerland-and-singapore/"
-author: Jagannath Panda
-date: 2025-12-15
-slug: ISDP_Total_Defence_Comparative
-tags: [Think Tanks]
-type: html-source
+autor: Jagannath Panda
 ---
-
 As hybrid threats, cyberattacks, information warfare, pandemics, and critical infrastructure disruptions increasingly shape the global security environment, states are rediscovering an older but remarkably flexible doctrine: [Total Defence](https://mwi.westpoint.edu/total-defense-revisited-unconventional-solution-problem-conventional-forces/). First articulated during the Cold War, Total Defence rests on a simple but powerful idea: [national security](https://irregularwarfare.org/articles/total-defense-strategy-national-resilience/) is not the sole responsibility of the military but a societal function shared by government, private industry, civil institutions, and the general public. Today, the concept is being re-examined not only across Europe and Asia, but also in regions with complex geopolitical exposure, where resilience and deterrence require more than conventional military capabilities**.** Finland, Sweden, Switzerland, and Singapore each represent a leading and well-documented expression of Total Defence under distinctly different conditions. Together they form the clearest laboratory for understanding how the same doctrine can be applied across varying geographies, political systems, and risk profiles.
 
 Total Defence is [not a singular model](https://www.tandfonline.com/doi/pdf/10.1080/07430179008405428). It exists as a set of strategic principles that take different institutional forms depending on geography, political structure, societal norms, and strategic depth. Comparing four leading implementers, namely Finland, Sweden, Switzerland, and Singapore, offers valuable insight into how the same philosophy can operate across different contexts, and why its relevance has grown amid contemporary hybrid competition. These states also illustrate a useful comparative spectrum: Finland and Sweden demonstrate deep mobilization culture and territorial planning; Switzerland showcases militia-based resilience and decentralized civil defence; and Singapore illustrates how psychological, digital, and economic preparedness can substitute for limited territorial depth.Terminologically, European debates increasingly use [“comprehensive defence” or “comprehensive security”](file:///C:/Users/hp/Downloads/jobs-6-2-10.2478_jobs-2020-0006.pdf) to reflect the broadened agenda: whereas Total Defence originally emerged from the logic of total war, contemporary threats are diffused, hybrid and societal, spanning digital systems, information environments, economic networks, energy grids and psychological cohesion.

@@ -1,12 +1,14 @@
 ---
 nr: 50
-title: [Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md) - Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie
-category: [Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)
-source: stmwi.bayern.de
-url: "https://www.stmwi.bayern.de/wirtschaft/mittelstand/hybride-bedrohungen/"
-slug: Bayern_Hybride_Bedrohungen_Unternehmen
-tags: [[Hybride Bedrohungen](45_BBK_Hybride_Bedrohungen.md)]
-type: html-source
+title: ---
+datum: 2024-01-01
+institution: StMWi Bayern
+typ: grau
+evidenzgrad: mittel
+thema: Hybride Bedrohungen/Cyber
+ebene: land
+schlagworte: ["wirtschaftsschutz", "kmu-sicherheit", "supply-chain-angriffe", "cyber-allianz-zentrum", "bitkom-studie"]
+zusammenfassung: "Bayerisches Wirtschaftsministerium informiert Unternehmen ueber hybride Bedrohungen. Verweist auf 266,6 Mrd. EUR Jahresschaden (Bitkom 2024), zunehmende Supply-Chain-Angriffe auf KMU und gibt konkrete Schutzmassnahmen von IT-Sicherheit bis Notfallplanung."
 ---
 
 ##  Was sind hybride Bedrohungen?

@@ -1,15 +1,16 @@
 ---
 nr: 76
 title: Bevölkerungsschutz und Normung im Einklang
-description: Neuer Notstromleitfaden für Unternehmen und Behörden
-category: KRITIS/Blackout
-source: bbk.bund.de
+datum: 2024-01-01
+institution: BBK
+typ: grau
+evidenzgrad: mittel
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-blackout"]
+zusammenfassung: Neuer Notstromleitfaden für Unternehmen und Behörden
 url: "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2024/10/pm-23-notstromleitfaden.html"
-slug: BBK_Notstromleitfaden
-tags: [KRITIS/Blackout]
-type: html-source
 ---
-
 #  Bevölkerungsschutz und Normung im Einklang
 
 23.10.2024 Pressemitteilung

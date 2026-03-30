@@ -1,16 +1,16 @@
 ---
 nr: 96
 title: "Faktenpapier 2025: Was wir über das Extremwetter in Deutschland wissen"
-description: Stand der Wissenschaft zu Extremwetterereignissen im Klimawandel in Deutschland, Ausgabe 2025. Herausgegeben von DWD und Extremwetterkongress Hamburg.
-category: Klimawandel/Extremwetter
-source: dwd.de
-url: https://www.dwd.de/DE/klimaumwelt/aktuelle_meldungen/250924/faktenpapier_extremwetterkongress.html
-date: 2025-09-24
-slug: DWD_Faktenpapier_Vollversion
-tags: [Klimawandel/Extremwetter]
-type: pdf-source
+datum: 2025-09-24
+institution: DWD
+typ: primaer
+evidenzgrad: hoch
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: Stand der Wissenschaft zu Extremwetterereignissen im Klimawandel in Deutschland, Ausgabe 2025. Herausgegeben von DWD und Extremwetterkongress Hamburg.
+url: "https://www.dwd.de/DE/klimaumwelt/aktuelle_meldungen/250924/faktenpapier_extremwetterkongress.html"
 ---
-
 STAND DER WISSENSCHAFT ZU EXTREMWETTEREREIGNISSEN 
 IM KLIMAWANDEL IN DEUTSCHLAND, AUSGABE 2025 
 herausgegeben von: 

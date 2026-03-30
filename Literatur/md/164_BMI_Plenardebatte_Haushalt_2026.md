@@ -1,3 +1,15 @@
+---
+nr: 164
+title: Plenardebatte zum Haushaltsentwurf 2026 der Bundesregierung Einzelplan 06 - Inneres (1. Lesung)
+datum: 2025-01-01
+institution: BMI / Bundestag
+typ: primaer
+evidenzgrad: hoch
+thema: Gesamtverteidigung/OPLAN
+ebene: bund
+schlagworte: ["dobrindt-rede", "drohnenbedrohung", "innere-sicherheit", "zeitenwende", "luftsicherheitsgesetz"]
+zusammenfassung: "Bundesinnenminister Dobrindt stellt den Haushalt 2026 als Meilenstein der Sicherheitspolitik vor: Stärkung von Polizei und Zivilverteidigung, Aufrüstung bei Drohnenabwehr und neue digitale Befugnisse gegen hybride Bedrohungen."
+---
 BMI - Alle Reden - Plenardebatte zum Haushaltsentwurf 2026 der Bundesregierung Einzelplan 06 - Inneres (1. Lesung)
  
  

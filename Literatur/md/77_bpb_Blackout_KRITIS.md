@@ -1,17 +1,17 @@
 ---
 nr: 77
-title: Schutz kritischer Infrastrukturen während eines Blackouts | Blackout
-description: Bei einem großräumigen und lang andauernden [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) hat die Wiederversorgung von kritischen Infrastrukturen oberste Priorität. Dafür bedarf es erprobter Notfallkonzepte und präventiver Maßnahmen.
-category: KRITIS/Blackout
-source: bpb.de
+title: "Schutz kritischer Infrastrukturen während eines Blackouts | Blackout"
+datum: 2023-12-30
+institution: bpb / Univ. Wuppertal
+typ: sekundaer
+evidenzgrad: hoch
+thema: KRITIS/Infrastrukturschutz
+ebene: bund
+schlagworte: ["kritis-blackout"]
+zusammenfassung: "Bei einem großräumigen und lang andauernden [Stromausfall](73_BBK_Stromausfall_Themenseite.md) hat die Wiederversorgung von kritischen Infrastrukturen oberste Priorität. Dafür bedarf es erprobter Notfallkonzepte und präventiver Maßnahmen."
 url: "https://www.bpb.de/shop/zeitschriften/apuz/blackout-2024/543959/schutz-kritischer-infrastrukturen-waehrend-eines-blackouts/"
-author: Puleo, Giuseppe | Mütherig, Maximilian | Zdrallek, Markus
-date: 2023-12-30
-slug: bpb_Blackout_KRITIS
-tags: [KRITIS/Blackout]
-type: html-source
+autor: "Puleo, Giuseppe | Mütherig, Maximilian | Zdrallek, Markus"
 ---
-
 Die Gesellschaft ist auf kritische Infrastrukturen angewiesen. Bei einem großräumigen und lang andauernden [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md) hat ihre Wiederversorgung mit Strom oberste Priorität. Dafür bedarf es jedoch vorher erprobter Notfallkonzepte und präventiver Maßnahmen.
 
 Die Stromnetzbetreiber in Deutschland sind wegen des Ausbaus erneuerbarer Energien mit zahlreichen Veränderungen und neuen Herausforderungen konfrontiert, gleichzeitig kommt es zu einer zunehmenden Belastung durch Cyberattacken.  Den Betreibern kommt in dieser Gemengelage vor allem die Aufgabe zu, das Gleichgewicht zwischen erzeugter und verbrauchter elektrischer Energie zu jedem Zeitpunkt zu halten. Das Stromnetz kann man sich dabei wie eine Waage vorstellen: Auf der einen Seite befinden sich Kraftwerke, die Strom in das Netz einspeisen, auf der anderen Seite stehen die Verbraucher, die den erzeugten Strom benötigen. Bei einem Ungleichgewicht dieser beiden Größen kommt es durch Über- oder Unterbelastung zu einer Instabilität des Netzes, welche zu Störungen und im schlimmsten Fall zu einem großflächigen und lang andauernden [[Stromausfall](74_BBK_Stromausfall_Detail.md)](73_BBK_Stromausfall_Themenseite.md), also einem Blackout, führen kann.

@@ -1,16 +1,16 @@
 ---
 nr: 128
 title: "Ehrenamt im THW: starkes Engagement, starke Einsätze - Feuerwehr Fachjournal"
-description: Bonn 4. Dezember 2024. Tag des Ehrenamtes am 5. Dezember - beim Technischen Hilfswerk (THW) sind die rund 88.000 ehrenamtlichen Einsatzkräfte das Fundament
-category: Ehrenamt/Personal
-source: feuerwehr-fachjournal.de
+datum: 2024-12-04
+institution: THW
+typ: grau
+evidenzgrad: mittel
+thema: Ehrenamt/Personal/BOS
+ebene: bund
+schlagworte: ["ehrenamt-personal"]
+zusammenfassung: Bonn 4. Dezember 2024. Tag des Ehrenamtes am 5. Dezember - beim Technischen Hilfswerk (THW) sind die rund 88.000 ehrenamtlichen Einsatzkräfte das Fundament
 url: "https://www.feuerwehr-fachjournal.de/ehrenamt-im-thw-starkes-engagement-starke-einsaetze/"
-date: 2024-12-04
-slug: Feuerwehr_Fachjournal_THW_Ehrenamt
-tags: [Ehrenamt/Personal]
-type: html-source
 ---
-
 # Ehrenamt im THW: starkes Engagement, starke Einsätze
 
 **Bonn 4. Dezember 2024. Tag des Ehrenamtes am 5. Dezember – beim Technischen Hilfswerk (THW) sind die rund 88.000 ehrenamtlichen Einsatzkräfte das Fundament der Organisation. „Ohne den unermüdlichen Einsatz und das Fachwissen unserer ehrenamtlichen Helferinnen und Helfer wären die zahlreichen und oft herausfordernden Einsätze in diesem Jahr – von den Hochwasserkatastrophen über die Fußball-Europameisterschaft bis hin zur Hilfe für die Ukraine – nicht denkbar gewesen“, betont THW-Präsidentin Sabine Lackner in Meldung von 4. Dezember 2024. Dieses Engagement sei auch für die Zukunft wichtig, gerade im Bereich des Zivilschutzes, der durch die veränderte und verschärfte weltpolitische Lage wieder in den Vordergrund gerückt ist.**

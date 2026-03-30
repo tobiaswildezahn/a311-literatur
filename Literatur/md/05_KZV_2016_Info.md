@@ -1,14 +1,16 @@
 ---
 nr: 5
 title: Konzeption Zivile Verteidigung
-category: Strategiepapiere Bund
-source: berlin.de
+datum: 2016-01-01
+institution: BMI/Bundesregierung
+typ: primaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["zivile-verteidigung", "konzeption", "krisenmanagement", "notfallvorsorge"]
+zusammenfassung: "Die KZV 2016 ist das konzeptionelle Basisdokument für die Zivile Verteidigung des Bundes. Sie beschreibt Prinzipien und Vorgaben für Fachaufgaben sowie nationales Krisenmanagement und bildet den zivilen Gegenpart zur Konzeption der Bundeswehr."
 url: "https://www.berlin.de/bevoelkerungsschutz/zivile-verteidigung/konzeption/konzeption-zivile-verteidigung-1362369.php"
-slug: KZV_2016_Info
-tags: [Strategiepapiere Bund]
-type: html-source
 ---
-
 # Konzeption Zivile Verteidigung
 
 [Bild: Hände und Zahnräder]

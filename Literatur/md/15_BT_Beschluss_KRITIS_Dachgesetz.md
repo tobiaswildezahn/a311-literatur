@@ -1,17 +1,17 @@
 ---
 nr: 15
 title: Deutscher Bundestag - Bundestag beschließt Gesetz zur Stärkung kritischer Anlagen
-description: Der Bundestag hat am Donnerstag, 29. Januar 2026, nach einstündiger Aussprache den Gesetzentwurf der Bundesregierung „zur Umsetzung der Richtlinie (EU) 2022 / 2557 und zur Stärkung der Resilienz kritischer Anlagen“ (Kritis-Dachgesetz, 21/2510, 21/3855) in der vom Innenausschuss geänderten Fassung...
-category: KRITIS-Dachgesetz
-source: bundestag.de
+datum: 2026-01-29
+institution: Deutscher Bundestag
+typ: primaer
+evidenzgrad: hoch
+thema: Recht/Gesetzgebung
+ebene: bund
+schlagworte: ["kritis-dachgesetz"]
+zusammenfassung: Der Bundestag hat am Donnerstag, 29. Januar 2026, nach einstündiger Aussprache den Gesetzentwurf der Bundesregierung „zur Umsetzung der Richtlinie (EU) 2022 / 2557 und zur Stärkung der Resilienz kritischer Anlagen“ (Kritis-Dachgesetz, 21/2510, 21/3855) in der vom Innenausschuss geänderten Fassung...
 url: "https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002"
-author: Götz Hausding
-date: 29.01.2026
-slug: BT_Beschluss_KRITIS_Dachgesetz
-tags: [KRITIS-Dachgesetz]
-type: html-source
+autor: Götz Hausding
 ---
-
 Der Bundestag hat am **Donnerstag, 11. September 2025** , erstmals einen Gesetzentwurf zur **Umsetzung der NIS-2-Richtlinie** und zur Regelung wesentlicher **Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung** ([__21/1501](https://dserver.bundestag.de/btd/21/015/2101501.pdf "Die PDF-Datei Drucksache 21/1501 öffnet sich in einem neuen Fenster")) beraten. Im Anschluss an die einstündige erste Lesung wurde die Vorlage zur weiteren Beratung an die Ausschüsse überwiesen. Die Federführung liegt beim Innenausschuss.
 
 ## Regierung: Die Bedrohungslage ist angespannt

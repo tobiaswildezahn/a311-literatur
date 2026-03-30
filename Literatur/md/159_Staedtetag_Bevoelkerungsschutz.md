@@ -1,3 +1,15 @@
+---
+nr: 159
+title: Bund muss sich mehr für Bevölkerungsschutz engagieren
+datum: 2026-01-01
+institution: Deutscher Staedtetag
+typ: grau
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: kommune
+schlagworte: ["eigenvorsorge", "kommunale-finanzierung", "zivil-militaerische-zusammenarbeit", "krisenkommunikation"]
+zusammenfassung: "Der Deutsche Städtetag fordert vom Bund mehr Finanzierung für kommunalen Bevölkerungsschutz und intensivere Bürgerkommunikation zur Eigenvorsorge, da Rettungskräfte in Großkrisen nicht überall präsent sein können."
+---
 # Bund muss sich mehr für Bevölkerungsschutz engagieren
 
 **Datum:** 26.03.2026

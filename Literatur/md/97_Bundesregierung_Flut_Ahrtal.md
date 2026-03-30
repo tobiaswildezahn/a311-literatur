@@ -1,15 +1,16 @@
 ---
 nr: 97
 title: Vier Jahre Flutkatastrophe im Ahrtal
-description: Vor vier Jahren ereignete sich eine verheerende Flutkatastrophe im Ahrtal. Die Bundesregierung erinnert an die Opfer und hat Lehren aus der Katastrophe gezogen.
-category: Klimawandel/Extremwetter
-source: bundesregierung.de
+datum: 2025-01-01
+institution: Bundesregierung
+typ: grau
+evidenzgrad: mittel
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: Vor vier Jahren ereignete sich eine verheerende Flutkatastrophe im Ahrtal. Die Bundesregierung erinnert an die Opfer und hat Lehren aus der Katastrophe gezogen.
 url: "https://www.bundesregierung.de/breg-de/aktuelles/gedenken-flut-ahrtal-2364150"
-slug: Bundesregierung_Flut_Ahrtal
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 [Bild: Ansicht von überfluteten und zerstörten Straßen und Häusern.]
 
 Vier Jahre sind seit der verheerenden Flutkatastrophe vergangen, die vor allem in Rheinland-Pfalz und Nordrhein-Westfalen enormes Leid und Zerstörung verursacht hat. Auch Bayern und Sachsen waren von den Flutereignissen betroffen. Insgesamt starben mehr als 180 Menschen, viele weitere verloren ihre Existenz. Ein besonders erschreckendes Ausmaß hatte die Flut im Ahrtal. Die Folgen belasten viele Menschen vor Ort bis heute.

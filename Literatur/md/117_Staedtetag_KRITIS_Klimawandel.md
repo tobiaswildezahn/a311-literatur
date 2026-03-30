@@ -1,15 +1,16 @@
 ---
 nr: 117
 title: Angriffe auf kritische Infrastruktur und Folgen des Klimawandels – wie sich Städte für künftige Krisen wappnen können
-description: Deutscher Städtetag nach Sitzungen von Präsidium und Hauptausschuss in Dresden
-category: Übungen/Warnung
-source: staedtetag.de
+datum: 2026-01-01
+institution: Deutscher Staedtetag
+typ: grau
+evidenzgrad: mittel
+thema: Warnung/Uebungen/GeKoB
+ebene: kommune
+schlagworte: ["übungen-warnung"]
+zusammenfassung: Deutscher Städtetag nach Sitzungen von Präsidium und Hauptausschuss in Dresden
 url: "https://www.staedtetag.de/presse/pressemeldungen/2026/angriffe-auf-kritische-infrastruktur-und-folgen-des-klimawandels-wie-sich-staedte-fuer-kuenftige-krisen-wappnen-koennen"
-slug: Staedtetag_KRITIS_Klimawandel
-tags: [Übungen/Warnung]
-type: html-source
 ---
-
 Angriffe auf kritische Infrastruktur und Folgen des Klimawandels 22.01.2026
 
 # Wie sich Städte für künftige Krisen wappnen können

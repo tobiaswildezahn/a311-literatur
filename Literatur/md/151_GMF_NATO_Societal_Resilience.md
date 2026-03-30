@@ -1,3 +1,15 @@
+---
+nr: 151
+title: "NATO and Societal Resilience: All Hands on Deck in an Age of War"
+datum: 2025-01-01
+institution: German Marshall Fund
+typ: grau
+evidenzgrad: mittel
+thema: NATO/International
+ebene: bund
+schlagworte: ["gesellschaftliche-resilienz", "zahlungssysteme", "psychologische-verteidigung", "daten-kontinuitaet", "whole-of-society"]
+zusammenfassung: "Das GMF-Policy-Brief empfiehlt drei neue NATO-Resilienz-Baselines: Zahlungssysteme, psychologische Verteidigung und Datenkontinuität. Finnlands und Schwedens Gesamtverteidigungsmodelle dienen als Vorbilder für gesellschaftliche Resilienz."
+---
 # NATO and Societal Resilience: All Hands on Deck in an Age of War
 
 **Date:** July 20, 2022

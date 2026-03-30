@@ -1,14 +1,16 @@
 ---
 nr: 71
 title: "Katastrophenschutzumfrage 2024: Status-Quo und Verbesserungsbedarf im Bevölkerungsschutz der Landkreise und kreisfreien Städte in Deutschland - Krisennavigator ® - Krisenmanagement, Krisenkommunikation, Krisentraining"
-category: Think Tanks
-source: katastrophenschutzumfrage.de
+datum: 2024-01-01
+institution: Krisennavigator / Univ. Kiel
+typ: sekundaer
+evidenzgrad: mittel
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["think-tanks", "kommunaler-katastrophenschutz", "personalausstattung", "katastrophencontrolling", "reifegrad-resilienz"]
+zusammenfassung: "Umfrage unter 158 Landkreisen/kreisfreien Staedten: 92% hatten Echtfaelle in drei Jahren, im Schnitt nur 4,6 Hauptamtliche. 56% fordern mehr Personal/Budget, 87% erwarten wachsende Krisenkomplexitaet. KI-Tools spielen mit 4% kaum eine Rolle."
 url: "https://www.katastrophenschutzumfrage.de/Katastrophenschutzumfrage-2024-Status-Quo-und-Verbesserungsbedarf-im-Bevoe.1342.0.html"
-slug: Krisennavigator_Katastrophenschutzumfrage_2024
-tags: [Think Tanks]
-type: html-source
 ---
-
 ---
 [Newsletter](https://www.krisennavigator.de/Newsletter.newsletter.0.html) [Facebook](https://www.facebook.com/krisennavigator) [X (Twitter)](https://www.x.com/krisennavigator) [Instagram](https://www.instagram.com/Krisennavigator) [Bluesky](https://bsky.app/profile/krisennavigator.bsky.social) [Presse](https://www.krisennavigator.de/Pressekontakt.77.0.html) [Karriere](https://www.krisennavigator.de/Stellenangebote.karriere.0.html) [Sitemap](https://www.krisennavigator.de/Sitemap.sitemap.0.html) [Kontakt](https://www.krisennavigator.de/Kontakt.kontakt.0.html) [Datenschutz](https://www.krisennavigator.de/Datenschutz.datenschutz.0.html) [Impressum](https://www.krisennavigator.de/Impressum.impressum.0.html)
 |   |  Ein Spin-Off der Christian-Albrechts-Universität zu Kiel.

@@ -1,16 +1,16 @@
 ---
 nr: 67
 title: Nationales Schutzraumkonzept – Was Deutschland von seinen Nachbarn lernen kann
-description: Die aktuelle sicherheitspolitische Lage in Europa hat die Diskussion um Schutzräume im Krisenfall auch hierzulande neu entfacht. In Deutschland gibt es 579 öffentliche Schutzräume mit insgesamt 477 593 Schutzplätzen – diese Zahlen zur Verfügbarkeit von öffentlichen Schutzräumen offenbaren, dass derzeit nur für weniger als ein Prozent der Bevölkerung ein Schutzraumplatz zur Verfügung steht. Um dieser Unterversorgung zu begegnen, haben sich Bund und Länder auf Grundelemente eines nationalen Schutzraumkonzeptes geeinigt. Eine Einordnung.
-category: Think Tanks
-source: dgap.org
+datum: 2025-12-18
+institution: DGAP
+typ: sekundaer
+evidenzgrad: hoch
+thema: Bevoelkerungsschutz allgemein
+ebene: bund
+schlagworte: ["think-tanks"]
+zusammenfassung: Die aktuelle sicherheitspolitische Lage in Europa hat die Diskussion um Schutzräume im Krisenfall auch hierzulande neu entfacht. In Deutschland gibt es 579 öffentliche Schutzräume mit insgesamt 477 593 Schutzplätzen – diese Zahlen zur Verfügbarkeit von öffentlichen Schutzräumen offenbaren, dass d...
 url: "https://dgap.org/de/forschung/publikationen/nationales-schutzraumkonzept-was-deutschland-von-seinen-nachbarn-lernen"
-date: 2025-12-18
-slug: DGAP_Schutzraumkonzept
-tags: [Think Tanks]
-type: html-source
 ---
-
 #  Nationales Schutzraumkonzept – Was Deutschland von seinen Nachbarn lernen kann
 
 Niklas Hoffmann

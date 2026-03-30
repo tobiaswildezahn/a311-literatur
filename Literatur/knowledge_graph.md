@@ -4,10 +4,10 @@ Stand: 2026-03-30
 
 ## Statistik
 
-- **155** Dokumente im Korpus
-- **1186** unique externe URLs
-- **56** Dokumente mit geteilten Quellen
-- **99** isolierte Dokumente (keine geteilten URLs)
+- **179** Dokumente im Korpus
+- **1211** unique externe URLs
+- **57** Dokumente mit geteilten Quellen
+- **122** isolierte Dokumente (keine geteilten URLs)
 - **57** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -17,12 +17,12 @@ Stand: 2026-03-30
 | 30 | Bertelsmann_NATO_Resilience | 7 |
 | 165 | Clingendael_NATO_Resilience | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
-| 85 | Wikipedia_Brandanschlag_Berlin | 5 |
 | 148 | CIMIC_Factsheet_Resilience | 5 |
 | 24 | CIMIC_Factsheet_Resilience | 5 |
 | 31 | NAADSN_7BLR_Policy | 5 |
 | 69 | Boell_Nordic_Baltic | 5 |
 | 60 | Wikipedia_OPLAN_Deutschland | 4 |
+| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
 | 141 | UA_Flut_RLP | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 | 17 | Bayika_Gebbeken_KRITIS | 4 |
@@ -39,36 +39,36 @@ Stand: 2026-03-30
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 30, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
-| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 31 |
 | https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 31 |
 | https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376 | 04, 05 |
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
-| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.instagram.com/bbk_bund | 101, 76 |
 | https://www.hochwasserzentralen.de | 101, 141 |
+| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021 | 103, 104 |
 
 ## Meistgenutzte Domaenen
 
 | Domain | Anzahl Dokumente | Dok-IDs |
 |--------|-----------------|---------|
-| bbk.bund.de | 28 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
+| bbk.bund.de | 26 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | bmi.bund.de | 13 | 04, 08, 112, 12, 13, 141, 17, 30, 50, 59... |
 | dserver.bundestag.de | 11 | 06, 07, 08, 14, 15, 17, 30, 66, 73, 74... |
 | bundestag.de | 10 | 06, 07, 14, 145, 15, 16, 17, 49, 79, 91 |
 | nato.int | 9 | 148, 165, 22, 24, 29, 30, 31, 61, 69 |
-| dwd.de | 8 | 100, 102, 103, 131, 141, 171, 95, 96 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
-| bundesregierung.de | 7 | 01, 11, 12, 144, 17, 85, 97 |
+| dwd.de | 8 | 100, 102, 103, 131, 141, 171, 95, 96 |
+| bundeswehr.de | 8 | 131, 197, 60, 61, 62, 63, 64, 66 |
+| bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
-| bundeswehr.de | 7 | 131, 60, 61, 62, 63, 64, 66 |
-| de.wikipedia.org | 6 | 100, 123, 60, 61, 85, 99 |
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
 | dgap.org | 6 | 166, 167, 169, 65, 66, 67 |
 | tagesschau.de | 5 | 100, 13, 49, 79, 93 |
+| de.wikipedia.org | 5 | 100, 123, 60, 61, 99 |
 | doi.org | 5 | 102, 30, 65, 83, 96 |
 | umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
 | linkedin.com | 5 | 117, 165, 17, 64, 87 |
@@ -81,20 +81,20 @@ Stand: 2026-03-30
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 36 | 23% |
-| Sekundaerquelle | 28 | 18% |
-| Graue Literatur | 51 | 33% |
-| Journalistische Quelle | 32 | 21% |
-| Tertiaerquelle | 6 | 4% |
+| Primaerquelle | 41 | 23% |
+| Sekundaerquelle | 28 | 16% |
+| Graue Literatur | 51 | 28% |
+| Journalistische Quelle | 32 | 18% |
+| Tertiaerquelle | 6 | 3% |
 | Aktivistische Quelle | 2 | 1% |
 
 ### Verteilung nach Evidenzgrad
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 52 | 34% |
-| mittel | 76 | 49% |
-| niedrig | 27 | 17% |
+| hoch | 57 | 32% |
+| mittel | 76 | 42% |
+| niedrig | 27 | 15% |
 
 ### Farbcodierung im Graph
 
@@ -264,6 +264,30 @@ Stand: 2026-03-30
 | 173 | BBK_ISF_Projekt | grau | BBK | 2026 | mittel |
 | 174 | Wirtschaftsrat_Cybersicherheit_2026 | grau | Wirtschaftsrat CDU | 2026 | mittel |
 | 175 | BDEW_VKU_KRITIS | grau | BDEW/VKU | 2026 | mittel |
+| 176 | KatSchG_Hamburg | primaer | Freie und Hansestadt Hamburg | 1978 | hoch |
+| 177 | FeuerwG_Hamburg | primaer | Freie und Hansestadt Hamburg | 1986 | hoch |
+| 178 | KatSO_Hamburg | primaer | Freie und Hansestadt Hamburg / Behoerde fuer Inneres | 1984 | hoch |
+| 179 | RettDG_Hamburg | primaer | Freie und Hansestadt Hamburg | 2019 | hoch |
+| 180 | SOG_Hamburg | primaer | Freie und Hansestadt Hamburg | 1966 | hoch |
+| 181 | SKA_Zivilschutz_Hamburg | unbekannt | ? | None | unbekannt |
+| 182 | SKA_Kliniken_Katastrophenversorgung | unbekannt | ? | None | unbekannt |
+| 183 | SKA_Ehrenamt_Bevoelkerungsschutz | unbekannt | ? | None | unbekannt |
+| 184 | SKA_Red_Storm | unbekannt | ? | None | unbekannt |
+| 185 | SKA_Trinkwassernotbrunnen_Maengel | unbekannt | ? | None | unbekannt |
+| 186 | SKA_KRITIS_Schutz | unbekannt | ? | None | unbekannt |
+| 187 | SKA_Bevorratung_Landeskommando | unbekannt | ? | None | unbekannt |
+| 188 | SKA_Sirenenfehlalarm | unbekannt | ? | None | unbekannt |
+| 189 | SKA_KatS_Berliner | unbekannt | ? | None | unbekannt |
+| 190 | SKA_Gefahrgut_Hafen | unbekannt | ? | None | unbekannt |
+| 191 | SKA_Gesundheitssystem_Stromausfall | unbekannt | ? | None | unbekannt |
+| 192 | SKA_Notfallversorgung_Hilfsmittel | unbekannt | ? | None | unbekannt |
+| 193 | SKA_Blackout_Treibstoffversorgung | unbekannt | ? | None | unbekannt |
+| 194 | SKA_Industrielle_Resilienz | unbekannt | ? | None | unbekannt |
+| 195 | EU_Council_Hybrid | unbekannt | ? | None | unbekannt |
+| 196 | MPK_Staatsmodernisierung | unbekannt | ? | None | unbekannt |
+| 197 | Arbeitspapier_Sicherheitspolitik | unbekannt | ? | None | unbekannt |
+| 198 | NSR_Geschaeftsordnung | unbekannt | ? | None | unbekannt |
+| 199 | Finnland_Turvallisuuskomitea | unbekannt | ? | None | unbekannt |
 
 ## Isolierte Dokumente
 
@@ -324,7 +348,29 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 173: BBK_ISF_Projekt (grau)
 - 174: Wirtschaftsrat_Cybersicherheit_2026 (grau)
 - 175: BDEW_VKU_KRITIS (grau)
+- 176: KatSchG_Hamburg (primaer)
+- 177: FeuerwG_Hamburg (primaer)
+- 178: KatSO_Hamburg (primaer)
+- 179: RettDG_Hamburg (primaer)
 - 18: Roedl_KRITIS_Betreiber (grau)
+- 180: SOG_Hamburg (primaer)
+- 181: SKA_Zivilschutz_Hamburg (unbekannt)
+- 182: SKA_Kliniken_Katastrophenversorgung (unbekannt)
+- 183: SKA_Ehrenamt_Bevoelkerungsschutz (unbekannt)
+- 184: SKA_Red_Storm (unbekannt)
+- 185: SKA_Trinkwassernotbrunnen_Maengel (unbekannt)
+- 186: SKA_KRITIS_Schutz (unbekannt)
+- 187: SKA_Bevorratung_Landeskommando (unbekannt)
+- 188: SKA_Sirenenfehlalarm (unbekannt)
+- 189: SKA_KatS_Berliner (unbekannt)
+- 190: SKA_Gefahrgut_Hafen (unbekannt)
+- 191: SKA_Gesundheitssystem_Stromausfall (unbekannt)
+- 192: SKA_Notfallversorgung_Hilfsmittel (unbekannt)
+- 193: SKA_Blackout_Treibstoffversorgung (unbekannt)
+- 194: SKA_Industrielle_Resilienz (unbekannt)
+- 195: EU_Council_Hybrid (unbekannt)
+- 196: MPK_Staatsmodernisierung (unbekannt)
+- 198: NSR_Geschaeftsordnung (unbekannt)
 - 20: RadioHH_Bevoelkerungsschutz_Umbau (journalistisch)
 - 21: BV_HH_Nord (primaer)
 - 22: NATO_Resilience_Article3 (primaer)
@@ -364,6 +410,7 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 86: Tagesspiegel_Stromausfall_Berlin (journalistisch)
 - 88: GrafKerssenbrock_Krisenmanagement (grau)
 - 89: BKA_Zeugenaufruf_Brandanschlag (primaer)
+- 90: ZDF_AfD_FalseFlag (journalistisch)
 - 92: ND_Infrastrukturen_kaputtgespart (journalistisch)
 - 97: Bundesregierung_Flut_Ahrtal (grau)
 - 98: bpb_Flut_Ahr (tertiaer)
@@ -385,7 +432,7 @@ graph LR
     D104["104: RKI_Hitzemortalitaet<br/>PRI | 8 URLs"]
     D106["106: DStGB_Klimaanpassungsgesetz<br/>GRA | 2 URLs"]
     D108["108: DStGB_Waldbrandjahr_2022<br/>GRA | 6 URLs"]
-    D11["11: Bundesregierung_Stromausfall_Risikoanalyse<br/>PRI | 6 URLs"]
+    D11["11: Bundesregierung_Stromausfall_Risikoanalyse<br/>PRI | 5 URLs"]
     D110["110: BlickAktuell_Abschlussbericht_Ahrtal<br/>JOU | 3 URLs"]
     D111["111: SPD_RLP_Abschlussbericht<br/>AKT | 3 URLs"]
     D112["112: BBK_Magazin_Hochwasser<br/>SEK | 13 URLs"]
@@ -399,13 +446,15 @@ graph LR
     D16["16: Datenschutz_Notizen_KRITIS<br/>SEK | 25 URLs"]
     D165["165: Clingendael_NATO_Resilience<br/>SEK | 30 URLs"]
     D17["17: Bayika_Gebbeken_KRITIS<br/>GRA | 32 URLs"]
+    D197["197: Arbeitspapier_Sicherheitspolitik<br/>UNB | 18 URLs"]
+    D199["199: Finnland_Turvallisuuskomitea<br/>UNB | 9 URLs"]
     D24["24: CIMIC_Factsheet_Resilience<br/>GRA | 16 URLs"]
     D30["30: Bertelsmann_NATO_Resilience<br/>GRA | 65 URLs"]
     D31["31: NAADSN_7BLR_Policy<br/>GRA | 85 URLs"]
     D33["33: JRC_Cross_Border<br/>SEK | 10 URLs"]
     D36["36: Parameters_Bad_Strategy<br/>SEK | 14 URLs"]
     D37["37: Parameters_Repliken<br/>SEK | 8 URLs"]
-    D40["40: StrategyCentral_Bad_Strategy<br/>SEK | 9 URLs"]
+    D40["40: StrategyCentral_Bad_Strategy<br/>SEK | 8 URLs"]
     D48["48: Correctiv_Hybride_Kriegfuehrung<br/>JOU | 4 URLs"]
     D49["49: Correctiv_Vorsorge_Kriegspanik<br/>JOU | 18 URLs"]
     D58["58: Behoerden_Spiegel_Gesamtverteidigung<br/>JOU | 12 URLs"]
@@ -416,17 +465,16 @@ graph LR
     D66["66: DGAP_Gesamtverteidigung_Ernstfall<br/>SEK | 15 URLs"]
     D67["67: DGAP_Schutzraumkonzept<br/>SEK | 4 URLs"]
     D69["69: Boell_Nordic_Baltic<br/>SEK | 27 URLs"]
-    D73["73: BBK_Stromausfall_Themenseite<br/>GRA | 2 URLs"]
-    D74["74: BBK_Stromausfall_Detail<br/>GRA | 2 URLs"]
+    D73["73: BBK_Stromausfall_Themenseite<br/>GRA | 1 URLs"]
+    D74["74: BBK_Stromausfall_Detail<br/>GRA | 1 URLs"]
     D76["76: BBK_Notstromleitfaden<br/>GRA | 6 URLs"]
     D79["79: EnBW_Blackout_Szenario<br/>GRA | 9 URLs"]
     D80["80: Tonline_Blackout_Phasen<br/>JOU | 2 URLs"]
-    D85["85: Wikipedia_Brandanschlag_Berlin<br/>TER | 58 URLs"]
+    D85["85: Wikipedia_Brandanschlag_Berlin<br/>TER | 57 URLs"]
     D87["87: CleanThinking_Vulkangruppe<br/>JOU | 14 URLs"]
-    D90["90: ZDF_AfD_FalseFlag<br/>JOU | 1 URLs"]
-    D91["91: Tonline_Infrastrukturschutz<br/>JOU | 7 URLs"]
-    D93["93: SecurityInsider_Stromausfall<br/>JOU | 14 URLs"]
-    D94["94: inFranken_Stromausfall_Angst<br/>JOU | 4 URLs"]
+    D91["91: Tonline_Infrastrukturschutz<br/>JOU | 6 URLs"]
+    D93["93: SecurityInsider_Stromausfall<br/>JOU | 13 URLs"]
+    D94["94: inFranken_Stromausfall_Angst<br/>JOU | 3 URLs"]
     D95["95: DWD_Faktenpapier_Extremwetter<br/>GRA | 1 URLs"]
     D96["96: DWD_Faktenpapier_Vollversion<br/>PRI | 27 URLs"]
     D148 ==>|16| D24
@@ -443,17 +491,17 @@ graph LR
     D165 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
+    D197 -->|2| D199
     D30 -->|2| D33
     D36 -->|2| D40
     D65 -->|2| D66
     D66 -->|2| D67
-    D73 -->|2| D74
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
-    D100 -->|1| D102
     D100 -->|1| D60
     D60 -->|1| D85
+    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
@@ -483,13 +531,13 @@ graph LR
     D48 -->|1| D49
     D59 -->|1| D60
     D60 -->|1| D62
+    D73 -->|1| D74
     D80 -->|1| D91
-    D85 -->|1| D90
     D95 -->|1| D96
     style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D96 fill:#2563eb,color:#fff
     style D102,D112,D16,D165,D33,D36,D37,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
     style D100,D60,D85 fill:#6b7280,color:#fff
     style D101,D106,D108,D148,D151,D17,D24,D30,D31,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
-    style D110,D115,D116,D48,D49,D58,D59,D62,D80,D87,D90,D91,D93,D94 fill:#059669,color:#fff
+    style D110,D115,D116,D48,D49,D58,D59,D62,D80,D87,D91,D93,D94 fill:#059669,color:#fff
     style D111 fill:#dc2626,color:#fff
 ```

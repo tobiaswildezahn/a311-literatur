@@ -1,15 +1,16 @@
 ---
 nr: 101
 title: BBK unterstützt betroffene Länder in der aktuellen Hochwasserlage
-description: "Aufgrund starker und anhaltender Regenfälle ist die Lage an vielen Bächen und Flüssen in Deutschland aktuell sehr angespannt. Es kommt zu Überschwemmungen und Hochwassern. Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (kurz: BBK) unterstützt die davon betroffenen Länder bei der Lagebewältigung."
-category: Klimawandel/Extremwetter
-source: bbk.bund.de
+datum: 2024-01-01
+institution: BBK
+typ: grau
+evidenzgrad: mittel
+thema: Klimawandel/Naturgefahren
+ebene: bund
+schlagworte: ["klimawandel-extremwetter"]
+zusammenfassung: "Aufgrund starker und anhaltender Regenfälle ist die Lage an vielen Bächen und Flüssen in Deutschland aktuell sehr angespannt. Es kommt zu Überschwemmungen und Hochwassern. Das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (kurz: BBK) unterstützt die davon betroffenen Länder bei der Lageb..."
 url: "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2024/01/pm-03-hochwasser-niedersachsen.html"
-slug: BBK_Hochwasser_Niedersachsen
-tags: [Klimawandel/Extremwetter]
-type: html-source
 ---
-
 #  BBK unterstützt betroffene Länder in der aktuellen Hochwasserlage
 
 03.01.2024 Pressemitteilung

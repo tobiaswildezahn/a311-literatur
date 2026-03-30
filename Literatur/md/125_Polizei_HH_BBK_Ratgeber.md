@@ -1,13 +1,16 @@
 ---
 nr: 125
 title: "Neuer BBK-Ratgeber: „Vorsorgen für Krisen und Katastrophen“"
-category: Übungen/Warnung
+datum: 2025-01-01
+institution: Polizei Hamburg / BBK
+typ: grau
+evidenzgrad: mittel
+thema: Warnung/Uebungen/GeKoB
+ebene: land
+schlagworte: ["notfallvorsorge", "selbsthilfe", "checklisten", "vorratshaltung", "warnung-nina"]
+zusammenfassung: "Der aktualisierte BBK-Ratgeber empfiehlt Haushalten, sich für bis zu 10 Tage selbst zu versorgen. Er enthält Checklisten zu Vorräten, Warnsystemen, stromlosem Kochen, Notgepäck und medizinischer Selbsthilfe."
 url: //www.polizei.hamburg/neuer-bbk-ratgeber-vorsorgen-fuer-krisen-und-katastrophen--1105618
-slug: Polizei_HH_BBK_Ratgeber
-tags: [Übungen/Warnung]
-type: html-source
 ---
-
 ##  Neuer BBK-Ratgeber: „Vorsorgen für Krisen und Katastrophen“
 
 Am 13. Oktober 2025 stellt das Bundesamt für Bevölkerungsschutz und Katastrophenhilfe (BBK) den neuen Ratgeber „Vorsorgen für Krisen und Katastrophen“ in Berlin vor.
