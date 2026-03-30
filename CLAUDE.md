@@ -12,7 +12,7 @@ A311/
     inbox/                   ← Drop-Zone fuer neue Dokumente (wird automatisch geleert)
     scripts/                 ← Python-Werkzeuge (extract_annotations, validate_frontmatter, etc.)
     daily_reports/           ← Automatische Tagesbriefings
-    build_knowledge_graph.py ← Wissensgraph-Generator
+    scripts/build_knowledge_graph.py ← Wissensgraph-Generator
     knowledge_graph.json     ← URL-Kookkurrenz-Netzwerk
     source_classification.json ← Quellenklassifikation (Legacy, Daten jetzt im Frontmatter)
     daily_history.json       ← Pipeline-State (letzer Lauf, bekannte URLs, Korpus-Statistik)
@@ -28,6 +28,8 @@ A311/
 | `/a311-daily --inbox-only` | Nur Inbox verarbeiten, kein Report, keine Mail |
 | `/a311-daily --dry-run` | Nur suchen, nichts herunterladen/committen |
 | `/a311-daily --force` | Ignoriere History, durchsuche alles neu |
+| `/a311-annotate` | PDF-Annotationen aus pdf/ in Korpus uebernehmen |
+| `/a311-annotate 197` | Nur Nr. 197 annotieren |
 
 ## Dokument-Workflow
 
