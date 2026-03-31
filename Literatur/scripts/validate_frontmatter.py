@@ -26,7 +26,7 @@ annotated_count = 0
 ok = 0
 all_nrs = set()
 
-md_dir = os.path.join(os.path.dirname(__file__), 'md')
+md_dir = os.path.join(os.path.dirname(__file__), '..', 'md')
 
 for f in sorted(os.listdir(md_dir)):
     if not f.endswith('.md') or not re.match(r'^\d+_', f):

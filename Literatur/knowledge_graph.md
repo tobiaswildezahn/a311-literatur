@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-03-30
+Stand: 2026-03-31
 
 ## Statistik
 
-- **180** Dokumente im Korpus
-- **1213** unique externe URLs
+- **185** Dokumente im Korpus
+- **1219** unique externe URLs
 - **57** Dokumente mit geteilten Quellen
-- **123** isolierte Dokumente (keine geteilten URLs)
+- **128** isolierte Dokumente (keine geteilten URLs)
 - **57** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -21,9 +21,9 @@ Stand: 2026-03-30
 | 24 | CIMIC_Factsheet_Resilience | 5 |
 | 31 | NAADSN_7BLR_Policy | 5 |
 | 69 | Boell_Nordic_Baltic | 5 |
-| 60 | Wikipedia_OPLAN_Deutschland | 4 |
-| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
 | 141 | UA_Flut_RLP | 4 |
+| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
+| 60 | Wikipedia_OPLAN_Deutschland | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 | 17 | Bayika_Gebbeken_KRITIS | 4 |
 | 87 | CleanThinking_Vulkangruppe | 3 |
@@ -39,22 +39,22 @@ Stand: 2026-03-30
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 30, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
-| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 31 |
 | https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 31 |
 | https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376 | 04, 05 |
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
 | https://twitter.com/BBK_Bund | 101, 76 |
-| https://www.instagram.com/bbk_bund | 101, 76 |
 | https://www.hochwasserzentralen.de | 101, 141 |
+| https://www.instagram.com/bbk_bund | 101, 76 |
 | https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021 | 103, 104 |
 
 ## Meistgenutzte Domaenen
 
 | Domain | Anzahl Dokumente | Dok-IDs |
 |--------|-----------------|---------|
-| bbk.bund.de | 26 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
+| bbk.bund.de | 27 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | bmi.bund.de | 13 | 04, 08, 112, 12, 13, 141, 17, 30, 50, 59... |
 | dserver.bundestag.de | 11 | 06, 07, 08, 14, 15, 17, 30, 66, 73, 74... |
 | bundestag.de | 10 | 06, 07, 14, 145, 15, 16, 17, 49, 79, 91 |
@@ -72,8 +72,8 @@ Stand: 2026-03-30
 | doi.org | 5 | 102, 30, 65, 83, 96 |
 | umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
 | linkedin.com | 5 | 117, 165, 17, 64, 87 |
+| creativecommons.org | 5 | 203, 65, 66, 68, 83 |
 | bmvg.de | 4 | 04, 05, 45, 65 |
-| swr.de | 4 | 100, 102, 141, 60 |
 
 ## Quellenklassifikation
 
@@ -81,10 +81,10 @@ Stand: 2026-03-30
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 42 | 23% |
-| Sekundaerquelle | 28 | 16% |
-| Graue Literatur | 51 | 28% |
-| Journalistische Quelle | 32 | 18% |
+| Primaerquelle | 44 | 24% |
+| Sekundaerquelle | 28 | 15% |
+| Graue Literatur | 54 | 29% |
+| Journalistische Quelle | 32 | 17% |
 | Tertiaerquelle | 6 | 3% |
 | Aktivistische Quelle | 2 | 1% |
 
@@ -92,8 +92,8 @@ Stand: 2026-03-30
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 58 | 32% |
-| mittel | 76 | 42% |
+| hoch | 61 | 33% |
+| mittel | 78 | 42% |
 | niedrig | 27 | 15% |
 
 ### Farbcodierung im Graph
@@ -289,6 +289,11 @@ Stand: 2026-03-30
 | 198 | NSR_Geschaeftsordnung | unbekannt | ? | None | unbekannt |
 | 199 | Finnland_Turvallisuuskomitea | unbekannt | ? | None | unbekannt |
 | 200 | Finnland_Security_Strategy | primaer | Finnish Government / Security Committee | 2025 | hoch |
+| 201 | HSS_Zivilschutz_Handlungsfaehigkeit | grau | Hanns-Seidel-Stiftung | 2026 | mittel |
+| 202 | SKA_Krisenvorsorge_Oeffentliche | primaer | Hamburgische Buergerschaft | 2026 | hoch |
+| 203 | Hertie_Initiative_Handlungsfaehiger | grau | Hertie-Stiftung / Initiative handlungsfaehiger Staat | 2025 | hoch |
+| 204 | Parlamentsforum_Ostsee_Sicherheit | primaer | Hamburgische Buergerschaft / BIS Hamburg | 2026 | hoch |
+| 205 | BBK_Magazin_Ehrenamt | grau | BBK | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -374,6 +379,11 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 198: NSR_Geschaeftsordnung (unbekannt)
 - 20: RadioHH_Bevoelkerungsschutz_Umbau (journalistisch)
 - 200: Finnland_Security_Strategy (primaer)
+- 201: HSS_Zivilschutz_Handlungsfaehigkeit (grau)
+- 202: SKA_Krisenvorsorge_Oeffentliche (primaer)
+- 203: Hertie_Initiative_Handlungsfaehiger (grau)
+- 204: Parlamentsforum_Ostsee_Sicherheit (primaer)
+- 205: BBK_Magazin_Ehrenamt (grau)
 - 21: BV_HH_Nord (primaer)
 - 22: NATO_Resilience_Article3 (primaer)
 - 28: IOS_Eighth_Baseline (sekundaer)
@@ -489,8 +499,8 @@ graph LR
     D85 -->|2| D87
     D101 -->|2| D76
     D148 -->|2| D30
-    D24 -->|2| D30
     D165 -->|2| D30
+    D24 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -501,13 +511,13 @@ graph LR
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
-    D100 -->|1| D60
-    D60 -->|1| D85
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
     D100 -->|1| D102
+    D100 -->|1| D60
+    D60 -->|1| D85
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108

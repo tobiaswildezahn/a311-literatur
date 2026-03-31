@@ -964,5 +964,35 @@
     "institution": "Finnish Government / Security Committee",
     "jahr": 2025,
     "evidenzgrad": "hoch"
+  },
+  "201": {
+    "typ": "grau",
+    "institution": "Hanns-Seidel-Stiftung",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "202": {
+    "typ": "primaer",
+    "institution": "Hamburgische Buergerschaft",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "203": {
+    "typ": "grau",
+    "institution": "Hertie-Stiftung / Initiative handlungsfaehiger Staat",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "204": {
+    "typ": "primaer",
+    "institution": "Hamburgische Buergerschaft / BIS Hamburg",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "205": {
+    "typ": "grau",
+    "institution": "BBK",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }

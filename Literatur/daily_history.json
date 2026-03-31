@@ -1,16 +1,18 @@
 {
   "schema_version": 1,
-  "last_run": "2026-03-30T12:05:34.273803",
-  "run_count": 5,
+  "last_run": "2026-03-31T05:10:00.000000",
+  "run_count": 6,
   "corpus_state": {
-    "total_docs": 179,
-    "total_urls": 1293,
-    "unique_urls": 1211,
+    "total_docs": 185,
+    "total_urls": 1301,
+    "unique_urls": 1219,
     "connected_docs": 57,
-    "isolated_docs": 122,
+    "isolated_docs": 128,
     "edges": 57
   },
   "known_urls": [
+    "https://www.hss.de/news/warum-ein-wirksamer-zivilschutz-auf-die-handlungsfaehigkeit-der-buerger-angewiesen-ist-news13890/",
+    "https://www.bbk.bund.de/DE/Infothek/Magazin-Bevoelkerungsschutz/Ausgaben/magazin-2026-1/magazin-2026-1_node.html",
     "http://Forsvarsmakten.se",
     "http://Krisinformation.se",
     "http://Lilla.krisinformation.se",
@@ -1236,6 +1238,15 @@
       "new": 6,
       "downloaded": 6,
       "failed": 0
+    },
+    {
+      "date": "2026-03-31",
+      "queries": 14,
+      "results": 12,
+      "new": 5,
+      "downloaded": 5,
+      "failed": 0,
+      "note": "4 Inbox + 1 Web (BBK Magazin 1/2026)"
     }
   ],
   "failed_downloads": [

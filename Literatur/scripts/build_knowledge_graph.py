@@ -19,11 +19,11 @@ from collections import defaultdict
 from pathlib import Path
 from urllib.parse import urlparse
 
-MD_DIR = Path(__file__).parent / "md"
+MD_DIR = Path(__file__).parent.parent / "md"
 DEFAULT_MIN_SHARED = 2  # Mindestanzahl geteilter URLs fuer eine Kante
 
 # Quellenklassifikation — extern in source_classification.json
-_cls_path = Path(__file__).parent / "source_classification.json"
+_cls_path = Path(__file__).parent.parent / "source_classification.json"
 SOURCE_CLASSIFICATION = json.load(open(_cls_path, encoding="utf-8")) if _cls_path.exists() else {}
 
 TYP_LABELS = {
