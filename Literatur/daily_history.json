@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-03-31T05:10:00.000000",
-  "run_count": 6,
+  "last_run": "2026-04-01T05:17:00.000000",
+  "run_count": 7,
   "corpus_state": {
-    "total_docs": 185,
-    "total_urls": 1301,
-    "unique_urls": 1219,
+    "total_docs": 188,
+    "total_urls": 1303,
+    "unique_urls": 1221,
     "connected_docs": 57,
-    "isolated_docs": 128,
+    "isolated_docs": 131,
     "edges": 57
   },
   "known_urls": [
@@ -1203,7 +1203,9 @@
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/03/pm-17-aktionsreihe-selbstschutz-bonn.html",
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/03/pm-09-isf-projekt-abgeschlossen.html",
     "https://wirtschaftsrat.de/de/presse/wr-intern/cybersicherheit-2026-europas-vorgaben-und-hybride-bedrohungen-erfordern-ent-schlossenes-handeln/",
-    "https://www.bdew.de/service/kritis-gipfel-2026-gemeinsam-fuer-eine-resiliente-infrastruktur/"
+    "https://www.bdew.de/service/kritis-gipfel-2026-gemeinsam-fuer-eine-resiliente-infrastruktur/",
+    "https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/410_2025_BST_Policy_Brief_European_Resilience_IDXXXX_screen.pdf",
+    "https://enthus.de/blog/kritis-dachgesetz-2026-warum-resilienz-jetzt-zur-chefsache-wird"
   ],
   "processed_sources": [],
   "search_log": [
@@ -1247,44 +1249,16 @@
       "downloaded": 5,
       "failed": 0,
       "note": "4 Inbox + 1 Web (BBK Magazin 1/2026)"
+    },
+    {
+      "date": "2026-04-01",
+      "queries": 14,
+      "results": 14,
+      "new": 3,
+      "downloaded": 3,
+      "failed": 0,
+      "note": "1 Inbox (NTW-Ausarbeitung) + 2 Web (Bertelsmann NATO 1.5%, enthus KRITIS). 6 failed_downloads bereinigt (max retries)."
     }
   ],
-  "failed_downloads": [
-    {
-      "url": "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2025/09/haushalt2026.html",
-      "reason": "HTTP 400",
-      "first_attempted": "2026-03-28",
-      "retry_count": 3
-    },
-    {
-      "url": "https://www.act.nato.int/article/resilience-and-civil-preparedness-in-nato/",
-      "reason": "HTTP 403",
-      "first_attempted": "2026-03-28",
-      "retry_count": 3
-    },
-    {
-      "url": "https://www.innenministerkonferenz.de/IMK/DE/termine/to-beschluesse/2025-06-13_DOK/TOP_57.pdf",
-      "reason": "HTML statt PDF",
-      "first_attempted": "2026-03-28",
-      "retry_count": 3
-    },
-    {
-      "url": "https://www.buergerschaft-hh.de/parldok/dokument/88496/",
-      "reason": "Server disconnect",
-      "first_attempted": "2026-03-28",
-      "retry_count": 3
-    },
-    {
-      "url": "https://www.clingendael.org/publication/nato-and-need-strengthen-resilience-dutch-case",
-      "reason": "HTTP 403",
-      "first_attempted": "2026-03-28",
-      "retry_count": 3
-    },
-    {
-      "url": "https://shape.nato.int/news-archive/2026/partnering-to-strengthen-resilience-natos-military-strategic-partnerships-conference-2026-kicks-off-in-sarajevo",
-      "reason": "HTTP 403",
-      "first_attempted": "2026-03-28",
-      "retry_count": 2
-    }
-  ]
+  "failed_downloads": []
 }
