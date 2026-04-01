@@ -10,6 +10,7 @@ ebene: land
 schlagworte: ["ostsee", "hybride-bedrohungen", "zivile-verteidigung", "oplan", "drohnenabwehr", "desinformation"]
 zusammenfassung: "Senatsantwort zum Parlamentsforum Südliche Ostsee: Hamburg arbeitet an Konzept zivile Verteidigung, OPLAN-Beteiligung, Drohnenabwehrzentrum, Desinformationsabwehr und KRITIS-Schutz im Ostseeraum."
 url: ""
+notizen: "S.3: \"Der Senat arbeitet gegenwärtig intensiv an der Entwicklung eines umfassenden Kon\" — Konzept Zivile Verteidigung in Hamburg. Hier in einer Senatsantwort an die Bürgerschaft manifestiert.; S.3: \"In diesem Rahmen werden insbesondere vier zentrale Handlungsfelder (Aufrechterha\" — Muss dann also Teil meiner zukünftigen Aufgabe bei A311 sein. Die vier Handlungsfelder werden hier ja strategisch entwickelt.; S.4: \"Auch die Abwehr hybrider Bedrohungen steht für den Senat im Fokus.\" — Operativ; S.4: \"Im ersten Quartal 2026 ist zudem ein Kickoff für eine Norddeutsche Fachtagung mi\" — Hier den Termin ermitteln. Finde ich persönlich spannend.; S.4: \"Im Rahmen der strategischen Zusammenarbeit zwischen dem Senat, der Bundeswehr so\" — Ermitteln welche Vereinbarungen hier geschlossen wurden und welche es schon gibt bzw. daraus ableiten welche noch fehlen.; S.4: \"Ziel des Senats ist es, die Zusammenarbeit mit anderen Aufgaben- trägern fortlau\" — Sehr vages Ziel. Für die öffentliche Kommunikation so ok. ABER weder messbar noch kontrollierbar,; S.5: \"Der Senat erkennt den Ausbau erneuerbarer Energien als einen zentralen Faktor fü\" — Wichtig! Unabhängigkeit sichert Selbstbestimmung; S.6: \"Angesichts der aktuellen geopolitischen Veränderungen erscheint es zwingend erfo\" — Bevölkerung mitnehmen. Vertrauen schaffen. Das reiht sich gut in den BAKS Artikel [/Users/tobiaswildezahn/projekte/A311/Literatur/md/197_Arbeitspapier_Sicherheitspolitik.md]ein.; S.6: \"etwa durch Informationsveranstaltungen, Bürgerdialoge und die Ver- öffentlichung\" — Geplante Maßnahmen?; S.7: \"Die Bevölkerung soll in die Lage versetzt werden, Desinformationen schneller zu \" — Konkrete Maßnahme. Aber so auch nicht SMART.; S.7: \"Im Bereich der Desinformation wurde im Oktober 2025 ein Austauschformat mit Poli\" — Partner in Sachen Desinformation.; S.7: \"Um künftigen Herausforderungen wirksam begegnen zu können, ist die Entwicklung g\" — Meine Uraufgabe. Hier auch der Bürgerschaft präsentiert.; S.7: \"Der Senat wird ..."
 ---
 
 23. Wahlperiode **11.03.26**
@@ -69,12 +70,16 @@ Der Senat hat die Notwendigkeit erkannt, die eigene Verteidigungsfähigkeit ange
 Mit dem Sondervermögen Infrastruktur und Klimaneutralität wurden finanzielle Rahmenbedingungen geschaffen, die es ermöglichen, zielgerichtet Maßnahmen einzuleiten, die die zivile Verteidigung, Resilienz und gesamtstaatliche Handlungsfähigkeit stärken und so die Unterstützungs-, Schutz- und Durchhaltefähigkeit im Verteidigungs- und Krisenfall gewährleisten.
 
 Der Senat arbeitet gegenwärtig intensiv an der Entwicklung eines umfassenden Konzeptes zur zivilen Verteidigung in Hamburg, das darauf abzielt, die durch die Bundeswehr geplanten Maßnahmen auf ziviler Seite systematisch und nachhaltig zu unterstützen. In diesem Rahmen werden insbesondere vier zentrale Handlungsfelder (Aufrechterhaltung der Staats- und Regierungsfunktionen, Zivilschutz, Sicherstellung der Versorgung der Bevölkerung, Unterstützung der Streitkräfte) strategisch weiterentwickelt.
+<!-- A311: Konzept Zivile Verteidigung in Hamburg. Hier in einer Senatsantwort an die Bürgerschaft manifestiert. -->
+<!-- A311: Muss dann also Teil meiner zukünftigen Aufgabe bei A311 sein. Die vier Handlungsfelder werden hier ja strategisch entwickelt. -->
 
 Auch die Abwehr hybrider Bedrohungen steht für den Senat im Fokus. Hierfür wurde eine zentrale Kontaktstelle eingerichtet, die alle zuständigen Stellen in Hamburg (z.B. Polizei, Landesamt für Verfassungsschutz, Fachbehörden, Betreiber Kritischer Infrastrukturen) und über die Landesgrenzen hinaus, verknüpft.
+<!-- A311: Operativ -->
 
 Im November 2025 hat die Auftaktveranstaltung für das "Norddeutsche Kompetenzcluster Drohnenabwehr" in Hamburg stattgefunden. Zwei Monate später, im Januar 2026, fand in Kiel eine Folgeveranstaltung zur Abwehr unbemannter Flugsysteme statt. Parallel wird bis zur Mitte des Jahres ein gemeinsames Drohnenabwehrzentrum bei der Bundespolizei in Berlin aufgebaut. An dem Aufstellungsprozess ist der Senat beteiligt.
 
 Im ersten Quartal 2026 ist zudem ein Kickoff für eine Norddeutsche Fachtagung mit dem Schwerpunkt Desinformation geplant.
+<!-- A311: Hier den Termin ermitteln. Finde ich persönlich spannend. -->
 
 Neben dem Thema Desinformation werden auch die Themen (Cyber-) Spionage und (Cyber-) Sabotage durch das Landesamt für Verfassungsschutz vorrangig betrachtet.
 
@@ -85,8 +90,10 @@ Der Senat setzt sich dafür ein, die Entwicklung und Abstimmung von zivilen und 
 Die gesamtstaatliche Verteidigung ist Basis für eine Resilienz im Verteidigungsfall. Diesbezüglich sind bereits Ressortvereinbarungen bzw. Kooperationsvereinbarungen zwischen Bundesbehörden geschlossen worden.
 
 Im Rahmen der strategischen Zusammenarbeit zwischen dem Senat, der Bundeswehr sowie weiteren Institutionen und Akteuren werden auch in Hamburg umfassende Vereinbarungen getroffen, die eine vertiefte und strukturierte Kooperation gewährleisten sollen.
+<!-- A311: Ermitteln welche Vereinbarungen hier geschlossen wurden und welche es schon gibt bzw. daraus ableiten welche noch fehlen. -->
 
 Im Hinblick auf den Schutz der Bevölkerung vor Kriegsgefahren arbeitet der Senat an Konzepten und Maßnahmen zur kontinuierlichen Verbesserung der Fähigkeiten der zivilen Verteidigung. Ziel des Senats ist es, die Zusammenarbeit mit anderen Aufgabenträgern fortlaufend zu optimieren und abzustimmen. Im Rahmen des OPLAN Deutschland wird derzeit sowohl auf Bundesebene als auch auf Landesebene (Gemeinsamer Arbeitsstab OPLAN) geprüft, welche spezifischen Aufgaben und Rollen dem Senat im
+<!-- A311: Sehr vages Ziel. Für die öffentliche Kommunikation so ok. ABER weder messbar noch kontrollierbar, -->
 
 Verteidigungsfall zukommen und wie die zivil-militärische Zusammenarbeit weiter ausgebaut werden kann.
 
@@ -99,14 +106,17 @@ Der Senat hat sich wiederholt - u. a. im Rahmen der Ostseeparlamentarierkonferen
 #### Zu Ziffer 4d der Resolution
 
 Der Senat erkennt den Ausbau erneuerbarer Energien als einen zentralen Faktor für die erfolgreiche Umsetzung der Energiewende sowie für die Dezentralisierung und Stärkung der Unabhängigkeit der Energieversorgung an. Die Hamburger Wirtschaft ist maßgeblich in die Erreichung der Klimaziele eingebunden, für welche perspektivisch eine vollständige Umstellung der Energieversorgung auf erneuerbare Energien erforderlich ist. Der Senat unterstützt die Nutzung erneuerbarer Energien durch gesetzliche Vorgaben, privilegierte Genehmigungsverfahren und gezielte Förderprogramme, insbesondere für Photovoltaik, Windenergie und Wärmepumpen. In städtebaulichen Entwicklungsgebieten werden Klimaresilienz, nachhaltige Energieversorgung und die Berücksichtigung von Klimafolgen systematisch in die Planung integriert. Somit setzt Hamburg gezielt Impulse für eine nachhaltige Transformation des Energiesystems und stärkt die Wettbewerbsfähigkeit des Wirtschaftsstandorts.
+<!-- A311: Wichtig! Unabhängigkeit sichert Selbstbestimmung -->
 
 #### Zu Ziffer 4e der Resolution
 
 Angesichts der aktuellen geopolitischen Veränderungen erscheint es zwingend erforderlich, eine umfassende Akzeptanzstrategie zu entwickeln, um in der Bevölkerung ein vertieftes Verständnis für die daraus resultierenden Bedrohungen und potenziellen Krisenszenarien zu schaffen. Zentraler Bestandteil dieser Strategie sollte eine breite Sensibilisierung der Öffentlichkeit sein, die über bestehende Gefahren, deren möglichen Auswirkungen sowie damit verbundenen Risiken transparent informiert wird. Nur durch eine offene und nachvollziehbare Kommunikation kann in der Gesellschaft Verständnis dafür geschaffen werden, dass der Umgang mit diesen Herausforderungen einen erhöhten Kostenaufwand nach sich zieht und daher zusätzliche Mittel und Ressourcen bereitgestellt werden müssen.
+<!-- A311: Bevölkerung mitnehmen. Vertrauen schaffen. Das reiht sich gut in den BAKS Artikel [/Users/tobiaswildezahn/projekte/A311/Literatur/md/197_Arbeitspapier_Sicherheitspolitik.md]ein. -->
 
 Eine solche Akzeptanz- und Verständnisstrategie sollte möglichst einheitlich ausgestaltet sein und idealerweise im Rahmen eines gemeinsamen staatlichen Verbunds erarbeitet und umgesetzt werden. Auf diese Weise lässt sich nicht nur ein kohärentes Handeln gewährleisten, sondern auch das notwendige Vertrauen in die getroffenen Maßnahmen für den gesamten Ostseeraum stärken.
 
 Der Senat legt großen Wert auf eine transparente Kommunikation und die Einbindung der Bevölkerung in Fragen der zivilen Sicherheit und Verteidigungsfähigkeit. Die zivilmilitärische Zusammenarbeit wird aktiv genutzt, um das Vertrauen in staatliches Handeln zu stärken - etwa durch Informationsveranstaltungen, Bürgerdialoge und die Veröffentlichung von Handlungsempfehlungen für den Krisenfall. Ziel ist es, Verständnis für die notwendigen Maßnahmen und die damit verbundenen Herausforderungen zu schaffen.
+<!-- A311: Geplante Maßnahmen? -->
 
 #### Zu Ziffer 4f der Resolution
 
@@ -119,13 +129,17 @@ Darüber hinaus wird in Hamburg regelmäßig - am zweiten Donnerstag im Septembe
 #### Zu Ziffer 4g der Resolution
 
 Die Bevölkerung soll in die Lage versetzt werden, Desinformationen schneller zu erkennen, und Demokratie und Rechtsstaatlichkeit zu stärken.
+<!-- A311: Konkrete Maßnahme. Aber so auch nicht SMART. -->
 
 Im Bereich der Desinformation wurde im Oktober 2025 ein Austauschformat mit Polizei, Landesamt für Verfassungsschutz, der Landesmedienanstalt Hamburg/Schleswig-Holstein sowie perspektivisch auch der Behörde für Schule, Familie und Berufsbildung eingerichtet. Ziel ist die Verbreitung von Desinformation einzudämmen, das Vertrauen in demokratische Prozesse zu stärken und Medienkompetenz der Öffentlichkeit zu fördern.
+<!-- A311: Partner in Sachen Desinformation. -->
 
 #### Zu Ziffer 4h der Resolution
 
 Um künftigen Herausforderungen wirksam begegnen zu können, ist die Entwicklung gemeinsamer, realistischer Szenarien von zentraler Bedeutung. Diese Szenarien sollen es ermöglichen, mögliche Krisenlagen frühzeitig zu identifizieren und in staatenübergreifenden Übungen zu erproben. Nur durch ein koordiniertes und über nationale Grenzen hinweg abgestimmtes Vergehen kann die notwendige Reaktionsfähigkeit in akuten Krisensituationen vereinheitlicht und flächendeckend gewährleistet werden. Darüber hinaus ist der Aufbau einer gemeinsamen Digitalstruktur erforderlich, die eine schnelle und verlässliche Kommunikation und lnformierung zwischen den beteiligten Staaten sicherstellt. Diese Strukturen müssen so gestaltet sein, dass sie über Landesgrenzen hinauswirken und die überstaatliche Zusammenarbeit pragmatisch fördern.
+<!-- A311: Meine Uraufgabe. Hier auch der Bürgerschaft präsentiert. -->
 
 Der Senat wird durch die Erstellung eines Lagebildes für Hamburg sowohl allgemeine als auch auf Szenarien bezogene Informationen präventiv sowie zur Steuerung von Maßnahmen im Ereignisfall bereitstellen. Die Datengrundlage hierfür wird mittels standardisierter Verfahren festgelegt und fortlaufend aktualisiert.
+<!-- A311: Lagebild Hamburg. Auch Miene Aufgabe -->
 
 Zudem wird die Entwicklung eines zentralen Krisenstabs vorangetrieben, der die bisherigen Stabsstrukturen ablösen soll, um eine an die aktuellen Ereignislagen angepasste Reaktionsfähigkeit zu gewährleisten. In diesem Zusammenhang ist ein länderübergreifender Austausch zwischen den zuständigen Entscheidungsgremien im Ereignisfall sicherzustellen, um ein zeitnahes, abgestimmtes und situationsgerechtes Handeln zu ermöglichen.
