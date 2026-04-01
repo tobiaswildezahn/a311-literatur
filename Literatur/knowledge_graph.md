@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-03-31
+Stand: 2026-04-01
 
 ## Statistik
 
-- **185** Dokumente im Korpus
-- **1219** unique externe URLs
+- **188** Dokumente im Korpus
+- **1221** unique externe URLs
 - **57** Dokumente mit geteilten Quellen
-- **128** isolierte Dokumente (keine geteilten URLs)
+- **131** isolierte Dokumente (keine geteilten URLs)
 - **57** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -21,9 +21,9 @@ Stand: 2026-03-31
 | 24 | CIMIC_Factsheet_Resilience | 5 |
 | 31 | NAADSN_7BLR_Policy | 5 |
 | 69 | Boell_Nordic_Baltic | 5 |
-| 141 | UA_Flut_RLP | 4 |
-| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
 | 60 | Wikipedia_OPLAN_Deutschland | 4 |
+| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
+| 141 | UA_Flut_RLP | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 | 17 | Bayika_Gebbeken_KRITIS | 4 |
 | 87 | CleanThinking_Vulkangruppe | 3 |
@@ -39,15 +39,15 @@ Stand: 2026-03-31
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 30, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
-| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
 | https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
 | https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376 | 04, 05 |
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
+| https://www.instagram.com/bbk_bund | 101, 76 |
 | https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.hochwasserzentralen.de | 101, 141 |
-| https://www.instagram.com/bbk_bund | 101, 76 |
 | https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021 | 103, 104 |
 
 ## Meistgenutzte Domaenen
@@ -59,8 +59,8 @@ Stand: 2026-03-31
 | dserver.bundestag.de | 11 | 06, 07, 08, 14, 15, 17, 30, 66, 73, 74... |
 | bundestag.de | 10 | 06, 07, 14, 145, 15, 16, 17, 49, 79, 91 |
 | nato.int | 9 | 148, 165, 22, 24, 29, 30, 31, 61, 69 |
-| dwd.de | 8 | 100, 102, 103, 131, 141, 171, 95, 96 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
+| dwd.de | 8 | 100, 102, 103, 131, 141, 171, 95, 96 |
 | bundeswehr.de | 8 | 131, 197, 60, 61, 62, 63, 64, 66 |
 | bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
@@ -81,10 +81,10 @@ Stand: 2026-03-31
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 44 | 24% |
-| Sekundaerquelle | 28 | 15% |
-| Graue Literatur | 54 | 29% |
-| Journalistische Quelle | 32 | 17% |
+| Primaerquelle | 44 | 23% |
+| Sekundaerquelle | 29 | 15% |
+| Graue Literatur | 55 | 29% |
+| Journalistische Quelle | 33 | 18% |
 | Tertiaerquelle | 6 | 3% |
 | Aktivistische Quelle | 2 | 1% |
 
@@ -92,9 +92,9 @@ Stand: 2026-03-31
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 61 | 33% |
-| mittel | 78 | 42% |
-| niedrig | 27 | 15% |
+| hoch | 62 | 33% |
+| mittel | 79 | 42% |
+| niedrig | 28 | 15% |
 
 ### Farbcodierung im Graph
 
@@ -294,6 +294,9 @@ Stand: 2026-03-31
 | 203 | Hertie_Initiative_Handlungsfaehiger | grau | Hertie-Stiftung / Initiative handlungsfaehiger Staat | 2025 | hoch |
 | 204 | Parlamentsforum_Ostsee_Sicherheit | primaer | Hamburgische Buergerschaft / BIS Hamburg | 2026 | hoch |
 | 205 | BBK_Magazin_Ehrenamt | grau | BBK | 2026 | mittel |
+| 206 | NTW_Notfallrettung_Ausarbeitung | grau | BIS Hamburg / Tobias Wildezahn | 2026 | mittel |
+| 207 | Bertelsmann_NATO_Resilience | sekundaer | Bertelsmann Stiftung | 2025 | hoch |
+| 208 | enthus_KRITIS_Dachgesetz | journalistisch | enthus | 2026 | niedrig |
 
 ## Isolierte Dokumente
 
@@ -384,6 +387,9 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 203: Hertie_Initiative_Handlungsfaehiger (grau)
 - 204: Parlamentsforum_Ostsee_Sicherheit (primaer)
 - 205: BBK_Magazin_Ehrenamt (grau)
+- 206: NTW_Notfallrettung_Ausarbeitung (grau)
+- 207: Bertelsmann_NATO_Resilience (sekundaer)
+- 208: enthus_KRITIS_Dachgesetz (journalistisch)
 - 21: BV_HH_Nord (primaer)
 - 22: NATO_Resilience_Article3 (primaer)
 - 28: IOS_Eighth_Baseline (sekundaer)
@@ -511,13 +517,13 @@ graph LR
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
+    D100 -->|1| D60
+    D60 -->|1| D85
+    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D102
-    D100 -->|1| D60
-    D60 -->|1| D85
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108

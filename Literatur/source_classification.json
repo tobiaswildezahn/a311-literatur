@@ -994,5 +994,23 @@
     "institution": "BBK",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "206": {
+    "typ": "grau",
+    "institution": "BIS Hamburg / Tobias Wildezahn",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "207": {
+    "typ": "sekundaer",
+    "institution": "Bertelsmann Stiftung",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "208": {
+    "typ": "journalistisch",
+    "institution": "enthus",
+    "jahr": 2026,
+    "evidenzgrad": "niedrig"
   }
 }
