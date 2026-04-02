@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-01T05:17:00.000000",
-  "run_count": 7,
+  "last_run": "2026-04-02T08:30:00.000000",
+  "run_count": 8,
   "corpus_state": {
-    "total_docs": 188,
-    "total_urls": 1303,
-    "unique_urls": 1221,
+    "total_docs": 190,
+    "total_urls": 1305,
+    "unique_urls": 1223,
     "connected_docs": 57,
-    "isolated_docs": 131,
+    "isolated_docs": 133,
     "edges": 57
   },
   "known_urls": [
@@ -1205,7 +1205,9 @@
     "https://wirtschaftsrat.de/de/presse/wr-intern/cybersicherheit-2026-europas-vorgaben-und-hybride-bedrohungen-erfordern-ent-schlossenes-handeln/",
     "https://www.bdew.de/service/kritis-gipfel-2026-gemeinsam-fuer-eine-resiliente-infrastruktur/",
     "https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/410_2025_BST_Policy_Brief_European_Resilience_IDXXXX_screen.pdf",
-    "https://enthus.de/blog/kritis-dachgesetz-2026-warum-resilienz-jetzt-zur-chefsache-wird"
+    "https://enthus.de/blog/kritis-dachgesetz-2026-warum-resilienz-jetzt-zur-chefsache-wird",
+    "https://www.stmi.bayern.de/news/detail/bayerisches-landesamt-fuer-bevoelkerungsschutz-startet-am-15-april-effizienter-und-handlungsfaehiger-in-krisen-und-katastrophen/",
+    "https://www.staedtetag.de/presse/pressemeldungen/2026/bund-muss-sich-mehr-fuer-bevoelkerungsschutz-engagieren"
   ],
   "processed_sources": [],
   "search_log": [
@@ -1258,6 +1260,15 @@
       "downloaded": 3,
       "failed": 0,
       "note": "1 Inbox (NTW-Ausarbeitung) + 2 Web (Bertelsmann NATO 1.5%, enthus KRITIS). 6 failed_downloads bereinigt (max retries)."
+    },
+    {
+      "date": "2026-04-02",
+      "queries": 14,
+      "results": 32,
+      "new": 2,
+      "downloaded": 2,
+      "failed": 0,
+      "note": "2 Web (StMI Bayern Landesamt BevS, Staedtetag Bund BevS). Keine Rechtsaenderungen."
     }
   ],
   "failed_downloads": []
