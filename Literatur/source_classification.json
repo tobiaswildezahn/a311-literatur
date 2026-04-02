@@ -1012,5 +1012,17 @@
     "institution": "enthus",
     "jahr": 2026,
     "evidenzgrad": "niedrig"
+  },
+  "209": {
+    "typ": "primaer",
+    "institution": "Bayerisches Staatsministerium des Innern",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "210": {
+    "typ": "grau",
+    "institution": "Deutscher Staedtetag",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }

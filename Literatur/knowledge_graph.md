@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-01
+Stand: 2026-04-02
 
 ## Statistik
 
-- **188** Dokumente im Korpus
-- **1221** unique externe URLs
+- **190** Dokumente im Korpus
+- **1223** unique externe URLs
 - **57** Dokumente mit geteilten Quellen
-- **131** isolierte Dokumente (keine geteilten URLs)
+- **133** isolierte Dokumente (keine geteilten URLs)
 - **57** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -46,8 +46,8 @@ Stand: 2026-04-01
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
 | https://www.instagram.com/bbk_bund | 101, 76 |
-| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.hochwasserzentralen.de | 101, 141 |
+| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021 | 103, 104 |
 
 ## Meistgenutzte Domaenen
@@ -59,8 +59,8 @@ Stand: 2026-04-01
 | dserver.bundestag.de | 11 | 06, 07, 08, 14, 15, 17, 30, 66, 73, 74... |
 | bundestag.de | 10 | 06, 07, 14, 145, 15, 16, 17, 49, 79, 91 |
 | nato.int | 9 | 148, 165, 22, 24, 29, 30, 31, 61, 69 |
-| spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | dwd.de | 8 | 100, 102, 103, 131, 141, 171, 95, 96 |
+| spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | bundeswehr.de | 8 | 131, 197, 60, 61, 62, 63, 64, 66 |
 | bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
@@ -81,10 +81,10 @@ Stand: 2026-04-01
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 44 | 23% |
+| Primaerquelle | 45 | 24% |
 | Sekundaerquelle | 29 | 15% |
-| Graue Literatur | 55 | 29% |
-| Journalistische Quelle | 33 | 18% |
+| Graue Literatur | 56 | 29% |
+| Journalistische Quelle | 33 | 17% |
 | Tertiaerquelle | 6 | 3% |
 | Aktivistische Quelle | 2 | 1% |
 
@@ -92,8 +92,8 @@ Stand: 2026-04-01
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 62 | 33% |
-| mittel | 79 | 42% |
+| hoch | 63 | 33% |
+| mittel | 80 | 42% |
 | niedrig | 28 | 15% |
 
 ### Farbcodierung im Graph
@@ -297,6 +297,8 @@ Stand: 2026-04-01
 | 206 | NTW_Notfallrettung_Ausarbeitung | grau | BIS Hamburg / Tobias Wildezahn | 2026 | mittel |
 | 207 | Bertelsmann_NATO_Resilience | sekundaer | Bertelsmann Stiftung | 2025 | hoch |
 | 208 | enthus_KRITIS_Dachgesetz | journalistisch | enthus | 2026 | niedrig |
+| 209 | Bayern_Landesamt_Bevoelkerungsschutz | primaer | Bayerisches Staatsministerium des Innern | 2026 | hoch |
+| 210 | Staedtetag_Bund_Bevoelkerungsschutz | grau | Deutscher Staedtetag | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -390,7 +392,9 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 206: NTW_Notfallrettung_Ausarbeitung (grau)
 - 207: Bertelsmann_NATO_Resilience (sekundaer)
 - 208: enthus_KRITIS_Dachgesetz (journalistisch)
+- 209: Bayern_Landesamt_Bevoelkerungsschutz (primaer)
 - 21: BV_HH_Nord (primaer)
+- 210: Staedtetag_Bund_Bevoelkerungsschutz (grau)
 - 22: NATO_Resilience_Article3 (primaer)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 29: NATO_CPG_Seminar (grau)
@@ -505,8 +509,8 @@ graph LR
     D85 -->|2| D87
     D101 -->|2| D76
     D148 -->|2| D30
-    D165 -->|2| D30
     D24 -->|2| D30
+    D165 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -517,9 +521,9 @@ graph LR
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
+    D100 -->|1| D102
     D100 -->|1| D60
     D60 -->|1| D85
-    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
