@@ -1024,5 +1024,35 @@
     "institution": "Deutscher Staedtetag",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "211": {
+    "typ": "primaer",
+    "institution": "NATO",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "212": {
+    "typ": "primaer",
+    "institution": "DWD",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "213": {
+    "typ": "sekundaer",
+    "institution": "SWP",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "214": {
+    "typ": "sekundaer",
+    "institution": "Heinrich-Boell-Stiftung / RUSI",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "216": {
+    "typ": "sekundaer",
+    "institution": "Bertelsmann Stiftung",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
   }
 }

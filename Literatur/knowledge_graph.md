@@ -1,20 +1,20 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-02
+Stand: 2026-04-03
 
 ## Statistik
 
-- **190** Dokumente im Korpus
-- **1223** unique externe URLs
-- **57** Dokumente mit geteilten Quellen
-- **133** isolierte Dokumente (keine geteilten URLs)
-- **57** Verbindungen (mind. 2 geteilte URLs)
+- **195** Dokumente im Korpus
+- **1247** unique externe URLs
+- **58** Dokumente mit geteilten Quellen
+- **137** isolierte Dokumente (keine geteilten URLs)
+- **58** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
 
 | Dok | Label | Verbindungen |
 |-----|-------|-------------|
-| 30 | Bertelsmann_NATO_Resilience | 7 |
+| 30 | Bertelsmann_NATO_Resilience | 8 |
 | 165 | Clingendael_NATO_Resilience | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 148 | CIMIC_Factsheet_Resilience | 5 |
@@ -45,9 +45,9 @@ Stand: 2026-04-02
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
+| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.instagram.com/bbk_bund | 101, 76 |
 | https://www.hochwasserzentralen.de | 101, 141 |
-| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021 | 103, 104 |
 
 ## Meistgenutzte Domaenen
@@ -58,22 +58,22 @@ Stand: 2026-04-02
 | bmi.bund.de | 13 | 04, 08, 112, 12, 13, 141, 17, 30, 50, 59... |
 | dserver.bundestag.de | 11 | 06, 07, 08, 14, 15, 17, 30, 66, 73, 74... |
 | bundestag.de | 10 | 06, 07, 14, 145, 15, 16, 17, 49, 79, 91 |
-| nato.int | 9 | 148, 165, 22, 24, 29, 30, 31, 61, 69 |
-| dwd.de | 8 | 100, 102, 103, 131, 141, 171, 95, 96 |
+| nato.int | 10 | 148, 165, 211, 22, 24, 29, 30, 31, 61, 69 |
+| dwd.de | 9 | 100, 102, 103, 131, 141, 171, 212, 95, 96 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | bundeswehr.de | 8 | 131, 197, 60, 61, 62, 63, 64, 66 |
 | bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
+| doi.org | 6 | 102, 216, 30, 65, 83, 96 |
 | dgap.org | 6 | 166, 167, 169, 65, 66, 67 |
 | tagesschau.de | 5 | 100, 13, 49, 79, 93 |
 | de.wikipedia.org | 5 | 100, 123, 60, 61, 99 |
-| doi.org | 5 | 102, 30, 65, 83, 96 |
 | umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
 | linkedin.com | 5 | 117, 165, 17, 64, 87 |
+| ec.europa.eu | 5 | 138, 148, 216, 24, 30 |
 | creativecommons.org | 5 | 203, 65, 66, 68, 83 |
-| bmvg.de | 4 | 04, 05, 45, 65 |
 
 ## Quellenklassifikation
 
@@ -81,8 +81,8 @@ Stand: 2026-04-02
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 45 | 24% |
-| Sekundaerquelle | 29 | 15% |
+| Primaerquelle | 47 | 24% |
+| Sekundaerquelle | 32 | 16% |
 | Graue Literatur | 56 | 29% |
 | Journalistische Quelle | 33 | 17% |
 | Tertiaerquelle | 6 | 3% |
@@ -92,9 +92,9 @@ Stand: 2026-04-02
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 63 | 33% |
-| mittel | 80 | 42% |
-| niedrig | 28 | 15% |
+| hoch | 67 | 34% |
+| mittel | 81 | 42% |
+| niedrig | 28 | 14% |
 
 ### Farbcodierung im Graph
 
@@ -299,6 +299,11 @@ Stand: 2026-04-02
 | 208 | enthus_KRITIS_Dachgesetz | journalistisch | enthus | 2026 | niedrig |
 | 209 | Bayern_Landesamt_Bevoelkerungsschutz | primaer | Bayerisches Staatsministerium des Innern | 2026 | hoch |
 | 210 | Staedtetag_Bund_Bevoelkerungsschutz | grau | Deutscher Staedtetag | 2026 | mittel |
+| 211 | NATO_SG_Annual | primaer | NATO | 2026 | hoch |
+| 212 | DWD_Klimastatusbericht_2025 | primaer | DWD | 2026 | hoch |
+| 213 | SWP_Mit_ohne | sekundaer | SWP | 2026 | hoch |
+| 214 | Boell_RUSI_Resilience | sekundaer | Heinrich-Boell-Stiftung / RUSI | 2026 | mittel |
+| 216 | Bertelsmann_EU_Preparedness | sekundaer | Bertelsmann Stiftung | 2025 | hoch |
 
 ## Isolierte Dokumente
 
@@ -395,6 +400,10 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 209: Bayern_Landesamt_Bevoelkerungsschutz (primaer)
 - 21: BV_HH_Nord (primaer)
 - 210: Staedtetag_Bund_Bevoelkerungsschutz (grau)
+- 211: NATO_SG_Annual (primaer)
+- 212: DWD_Klimastatusbericht_2025 (primaer)
+- 213: SWP_Mit_ohne (sekundaer)
+- 214: Boell_RUSI_Resilience (sekundaer)
 - 22: NATO_Resilience_Article3 (primaer)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 29: NATO_CPG_Seminar (grau)
@@ -470,6 +479,7 @@ graph LR
     D17["17: Bayika_Gebbeken_KRITIS<br/>GRA | 32 URLs"]
     D197["197: Arbeitspapier_Sicherheitspolitik<br/>UNB | 18 URLs"]
     D199["199: Finnland_Turvallisuuskomitea<br/>UNB | 9 URLs"]
+    D216["216: Bertelsmann_EU_Preparedness<br/>SEK | 21 URLs"]
     D24["24: CIMIC_Factsheet_Resilience<br/>GRA | 16 URLs"]
     D30["30: Bertelsmann_NATO_Resilience<br/>GRA | 65 URLs"]
     D31["31: NAADSN_7BLR_Policy<br/>GRA | 85 URLs"]
@@ -509,8 +519,8 @@ graph LR
     D85 -->|2| D87
     D101 -->|2| D76
     D148 -->|2| D30
-    D24 -->|2| D30
     D165 -->|2| D30
+    D24 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -549,6 +559,7 @@ graph LR
     D16 -->|1| D79
     D17 -->|1| D79
     D17 -->|1| D93
+    D216 -->|1| D30
     D30 -->|1| D66
     D48 -->|1| D49
     D59 -->|1| D60
@@ -557,7 +568,7 @@ graph LR
     D80 -->|1| D91
     D95 -->|1| D96
     style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D96 fill:#2563eb,color:#fff
-    style D102,D112,D16,D165,D33,D36,D37,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
+    style D102,D112,D16,D165,D216,D33,D36,D37,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
     style D100,D60,D85 fill:#6b7280,color:#fff
     style D101,D106,D108,D148,D151,D17,D24,D30,D31,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
     style D110,D115,D116,D48,D49,D58,D59,D62,D80,D87,D91,D93,D94 fill:#059669,color:#fff

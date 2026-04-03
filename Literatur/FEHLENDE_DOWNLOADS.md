@@ -36,6 +36,12 @@ Nr. 3 (BMI PM Gesamtverteidigung) wurde bereits als .txt gespeichert.
 | N1 | `04_NATO_International` | `NATO_Strategic_Concept_2022.pdf` | https://www.nato.int/strategic-concept/ | 404 bei Direkt-PDF, Seite aufrufen und PDF-Link suchen |
 | N2 | `01_Strategiepapiere_Bund` | `RRGV_2024_BMI_Volltext.pdf` | https://www.bmi.bund.de/RRGV | BMI blockiert Bots, manuell Cmd+S als PDF |
 
+## Ergaenzung 2026-04-03 — JS-gerenderte Seite nicht abrufbar
+
+| Nr. | Zielordner | Dateiname | URL | Hinweis |
+|-----|-----------|-----------|-----|---------|
+| 215 | `Literatur/md/` | `215_CSR_Stability_Multipliers_NATO.md` | https://councilonstrategicrisks.org/2026/01/20/stability-multipliers-food-security-climate-change-and-the-future-of-nato-resilience/ | JS-gerendert, WebFetch liefert nur Metadaten. Im Browser oeffnen, Text kopieren. |
+
 ## Ergaenzung 2026-03-30 — Fehlgeschlagene PDF-Konvertierungen
 
 | Nr. | Dateiname | Pfad | Hinweis |
