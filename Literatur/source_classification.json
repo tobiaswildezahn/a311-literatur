@@ -1054,5 +1054,11 @@
     "institution": "Bertelsmann Stiftung",
     "jahr": 2025,
     "evidenzgrad": "hoch"
+  },
+  "217": {
+    "typ": "grau",
+    "institution": "Nationale Plattform Resilienz",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
   }
 }

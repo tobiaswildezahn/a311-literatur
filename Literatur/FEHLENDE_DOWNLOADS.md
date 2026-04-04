@@ -42,6 +42,12 @@ Nr. 3 (BMI PM Gesamtverteidigung) wurde bereits als .txt gespeichert.
 |-----|-----------|-----------|-----|---------|
 | 215 | `Literatur/md/` | `215_CSR_Stability_Multipliers_NATO.md` | https://councilonstrategicrisks.org/2026/01/20/stability-multipliers-food-security-climate-change-and-the-future-of-nato-resilience/ | JS-gerendert, WebFetch liefert nur Metadaten. Im Browser oeffnen, Text kopieren. |
 
+## Ergaenzung 2026-04-04 — BMI-URL liefert 400
+
+| Nr. | Zielordner | Dateiname | URL | Hinweis |
+|-----|-----------|-----------|-----|---------|
+| 218 | `Literatur/md/` | `218_BMI_Haushalt_2026_Bevoelkerungsschutz.md` | https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2025/09/haushalt2026.html | BMI liefert konsistent HTTP 400. Rekord-Etat Bevoelkerungsschutz (2 Mrd. EUR). Im Browser oeffnen, Text kopieren. |
+
 ## Ergaenzung 2026-03-30 — Fehlgeschlagene PDF-Konvertierungen
 
 | Nr. | Dateiname | Pfad | Hinweis |
