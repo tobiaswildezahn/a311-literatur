@@ -1060,5 +1060,29 @@
     "institution": "Nationale Plattform Resilienz",
     "jahr": 2025,
     "evidenzgrad": "mittel"
+  },
+  "219": {
+    "typ": "sekundaer",
+    "institution": "CSIS",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "220": {
+    "typ": "primaer",
+    "institution": "EU Council",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "221": {
+    "typ": "sekundaer",
+    "institution": "DGAP",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "222": {
+    "typ": "sekundaer",
+    "institution": "Deutsche Bundesbank",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
   }
 }
