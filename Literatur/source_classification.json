@@ -1084,5 +1084,29 @@
     "institution": "Deutsche Bundesbank",
     "jahr": 2026,
     "evidenzgrad": "hoch"
+  },
+  "223": {
+    "typ": "journalistisch",
+    "institution": "Kleine Zeitung",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "224": {
+    "typ": "grau",
+    "institution": "ESUT / GSP",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "225": {
+    "typ": "aktivistisch",
+    "institution": "IMI",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "226": {
+    "typ": "primaer",
+    "institution": "BMI",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
   }
 }
