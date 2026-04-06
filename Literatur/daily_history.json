@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-05T05:12:20.212453",
-  "run_count": 11,
+  "last_run": "2026-04-06T09:30:00.000000",
+  "run_count": 12,
   "corpus_state": {
-    "total_docs": 200,
-    "total_urls": 1504,
-    "unique_urls": 1418,
+    "total_docs": 204,
+    "total_urls": 1507,
+    "unique_urls": 1421,
     "connected_docs": 60,
-    "isolated_docs": 140,
+    "isolated_docs": 144,
     "edges": 61
   },
   "known_urls": [
@@ -1223,7 +1223,19 @@
     "https://warontherocks.com/",
     "https://www.tagesschau.de/inland/hochwasser-bayern-tote-100.html",
     "https://www.eurointegration.com.ua/eng/news/2024/12/26/7201375/",
-    "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/KRITIS/heikat-handlungsempfehlungen.pdf?__blob=publicationFile&v=10"
+    "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/KRITIS/heikat-handlungsempfehlungen.pdf?__blob=publicationFile&v=10",
+    "https://esut.de/2026/03/fachbeitraege/68389/gesamtverteidigung-ein-neues-projekt-der-gsp/",
+    "https://www.imi-online.de/2026/03/16/operationsplan-deutschland-2/",
+    "https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2026/03/neue-praesidentin-bbk.html",
+    "https://www.behoerden-spiegel.de/2026/03/30/neue-bbk-praesidentin/",
+    "https://kritis-info.de/gesetz-vorschriften/kritis-dachgesetz-2026/",
+    "https://guenther-pfeifer.de/kritis-dachgesetz-physische-resilienz-2026/",
+    "https://www.kritis-tage.de/",
+    "https://www.stmi.bayern.de/presse-und-medien/pressemitteilungen/detail/landesweiter-probealarm-am-12-maerz-2026-21317/",
+    "https://www.abc-gefahren.de/blog/2025/11/21/interschutz-2026-bevoelkerungsschutz-rueckt-ins-zentrum-der-weltleitmesse/",
+    "https://www.reservistenverband.de/magazin-die-reserve/ausblick-loyal-februar-2026/",
+    "https://dkkv.org/neue-bbk-praesidentin/",
+    "https://www.nato.int/en/what-we-do/deterrence-and-defence/resilience-civil-preparedness-and-article-3"
   ],
   "processed_sources": [],
   "search_log": [
@@ -1310,6 +1322,15 @@
       "new": 5,
       "downloaded": 4,
       "failed": 1
+    },
+    {
+      "date": "2026-04-06",
+      "queries": 12,
+      "results": 22,
+      "new": 4,
+      "downloaded": 4,
+      "failed": 0,
+      "note": "1 Inbox (Gady/Kleine Zeitung), 3 Web (ESUT GSP Gesamtverteidigung, IMI OPLAN Analyse, BMI BBK-Praesidentin Tuengler). Keine Rechtsaenderungen."
     }
   ],
   "failed_downloads": [
@@ -1317,20 +1338,19 @@
       "nr": 215,
       "url": "https://councilonstrategicrisks.org/2026/01/20/stability-multipliers-food-security-climate-change-and-the-future-of-nato-resilience/",
       "reason": "JS-rendered, WebFetch liefert nur Metadaten",
-      "retry_count": 2,
+      "retry_count": 3,
       "first_attempt": "2026-04-03"
     },
     {
       "nr": 218,
       "url": "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2025/09/haushalt2026.html",
-      "retry_count": 2,
+      "retry_count": 3,
       "error": "HTTP 400"
     },
     {
-      "nr": 223,
       "url": "https://www.globsec.org/what-we-do/commentaries/how-russias-hybrid-warfare-will-escalate-2026-and-what-europe-must-do",
       "reason": "HTTP 403 Bot-Schutz",
-      "retry_count": 0,
+      "retry_count": 1,
       "first_attempt": "2026-04-05"
     }
   ]
