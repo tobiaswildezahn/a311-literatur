@@ -1108,5 +1108,17 @@
     "institution": "BMI",
     "jahr": 2026,
     "evidenzgrad": "hoch"
+  },
+  "227": {
+    "typ": "sekundaer",
+    "institution": "DGAP",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "228": {
+    "typ": "journalistisch",
+    "institution": "ZDF",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
   }
 }
