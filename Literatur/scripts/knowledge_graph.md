@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-06
+Stand: 2026-04-08
 
 ## Statistik
 
-- **204** Dokumente im Korpus
-- **1421** unique externe URLs
+- **207** Dokumente im Korpus
+- **1424** unique externe URLs
 - **60** Dokumente mit geteilten Quellen
-- **144** isolierte Dokumente (keine geteilten URLs)
+- **147** isolierte Dokumente (keine geteilten URLs)
 - **61** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -46,9 +46,9 @@ Stand: 2026-04-06
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
-| https://twitter.com/BBK_Bund | 101, 76 |
-| https://www.hochwasserzentralen.de | 101, 141 |
 | https://www.instagram.com/bbk_bund | 101, 76 |
+| https://www.hochwasserzentralen.de | 101, 141 |
+| https://twitter.com/BBK_Bund | 101, 76 |
 
 ## Meistgenutzte Domaenen
 
@@ -62,10 +62,10 @@ Stand: 2026-04-06
 | dwd.de | 9 | 100, 102, 103, 131, 141, 171, 212, 95, 96 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | bundeswehr.de | 8 | 131, 197, 60, 61, 62, 63, 64, 66 |
+| dgap.org | 8 | 166, 167, 169, 221, 227, 65, 66, 67 |
 | bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
 | doi.org | 7 | 102, 216, 219, 30, 65, 83, 96 |
-| dgap.org | 7 | 166, 167, 169, 221, 65, 66, 67 |
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
 | tagesschau.de | 5 | 100, 13, 49, 79, 93 |
@@ -82,9 +82,9 @@ Stand: 2026-04-06
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
 | Primaerquelle | 49 | 24% |
-| Sekundaerquelle | 35 | 17% |
+| Sekundaerquelle | 37 | 18% |
 | Graue Literatur | 58 | 28% |
-| Journalistische Quelle | 34 | 17% |
+| Journalistische Quelle | 35 | 17% |
 | Tertiaerquelle | 6 | 3% |
 | Aktivistische Quelle | 3 | 1% |
 
@@ -92,8 +92,8 @@ Stand: 2026-04-06
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 72 | 35% |
-| mittel | 85 | 42% |
+| hoch | 73 | 35% |
+| mittel | 87 | 42% |
 | niedrig | 28 | 14% |
 
 ### Farbcodierung im Graph
@@ -313,6 +313,9 @@ Stand: 2026-04-06
 | 224 | ESUT_GSP_Gesamtverteidigung | grau | ESUT / GSP | 2026 | mittel |
 | 225 | IMI_Operationsplan_Deutschland | aktivistisch | IMI | 2026 | mittel |
 | 226 | BMI_Tuengler_BBK | primaer | BMI | 2026 | hoch |
+| 227 | DGAP_KI_Hybride | sekundaer | DGAP | 2026 | hoch |
+| 228 | ZDF_Russland_Sabotage | journalistisch | ZDF | 2025 | mittel |
+| 229 | Boell_Stolzenburg_Gesamtverteidigung | sekundaer | Heinrich-Boell-Stiftung | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -422,6 +425,9 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 224: ESUT_GSP_Gesamtverteidigung (grau)
 - 225: IMI_Operationsplan_Deutschland (aktivistisch)
 - 226: BMI_Tuengler_BBK (primaer)
+- 227: DGAP_KI_Hybride (sekundaer)
+- 228: ZDF_Russland_Sabotage (journalistisch)
+- 229: Boell_Stolzenburg_Gesamtverteidigung (sekundaer)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 29: NATO_CPG_Seminar (grau)
 - 34: EU_TAFF_Civil (grau)

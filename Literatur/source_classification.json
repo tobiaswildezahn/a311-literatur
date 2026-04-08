@@ -1120,5 +1120,11 @@
     "institution": "ZDF",
     "jahr": 2025,
     "evidenzgrad": "mittel"
+  },
+  "229": {
+    "typ": "sekundaer",
+    "institution": "Heinrich-Boell-Stiftung",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }
