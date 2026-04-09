@@ -1126,5 +1126,11 @@
     "institution": "Heinrich-Boell-Stiftung",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "230": {
+    "typ": "primaer",
+    "institution": "NATO",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
   }
 }
