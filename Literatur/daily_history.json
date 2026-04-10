@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-09T05:06:35.346244",
-  "run_count": 15,
+  "last_run": "2026-04-10T08:30:00.000000",
+  "run_count": 16,
   "corpus_state": {
-    "total_docs": 208,
-    "total_urls": 1511,
-    "unique_urls": 1425,
+    "total_docs": 209,
+    "total_urls": 1512,
+    "unique_urls": 1426,
     "connected_docs": 60,
-    "isolated_docs": 148,
+    "isolated_docs": 149,
     "edges": 61
   },
   "known_urls": [
@@ -297,6 +297,7 @@
     "https://koerber-stiftung.de/mediathek/friedrich-merz-zu-aussen-und-europapolitischen-prioritaeten-fuer-deutschland/",
     "https://kommunal.de/artikel/feuerwehr-mit-65/",
     "https://kommunal.de/nachwuchsprobleme-bei-der-feuerwehr",
+    "https://kreisfeuerwehrverband.net/menukfvaktuelles/19078-positionspapier-27-03-2026.html",
     "https://kritis-info.de/gesetz-vorschriften/kritis-dachgesetz-2026/",
     "https://ksidigital.de/ce/kommunale-resilienz-im-krisenmanagement-und-katastrophenschutz/detail.html",
     "https://landesrecht.rlp.de/bsrp/document/jlr-Brand_KatSchGRPV14P1/format/xsl/part/S?oi=fnmKGyPWUB&sourceP=%7B%22source%22%3A%22Link%22%7D",
@@ -321,6 +322,7 @@
     "https://mwi.westpoint.edu/total-defense-revisited-unconventional-solution-problem-conventional-forces/",
     "https://nationalpost.com/news/canada/coast-guard-union-says-crews-in-the-dark-about-move-to-defence-ministers-control",
     "https://nato.diplo.de/nato-de/service/-/2539668",
+    "https://nato.int/en/news-and-events/articles/news/2026/04/07/nato-militaries-strengthening-allied-medical-resilience",
     "https://ndupress.ndu.edu/Media/News/News-Article-View/Article/3323915/finnish-defense-left-of-bang/",
     "https://network.bepress.com/hgg/discipline/1114?utm_source=press.armywarcollege.edu%2Fparameters%2Fvol46%2Fiss4%2F9&utm_medium=PDF&utm_campaign=PDFCoverPages",
     "https://network.bepress.com/hgg/discipline/1114?utm_source=press.armywarcollege.edu%2Fparameters%2Fvol47%2Fiss1%2F14&utm_medium=PDF&utm_campaign=PDFCoverPages",
@@ -538,6 +540,7 @@
     "https://www.bmvg.de/de/themen/sicherheitspolitik/hybride-bedrohungen",
     "https://www.bmvg.de/resource/blob/5777780/1d5d88d162f8c172940424625799e714/a-04-05-download-osnabruecker-erlass-data.pdf",
     "https://www.bnd.bund.de/DE/Die_Themen/hybride-bedrohungen/hybride-bedrohungen-node.html",
+    "https://www.boell.de/en/2026/01/21/comprehensive-defence-climate-crisis-why-preparedness-shapes-resilience",
     "https://www.boersennews.de/nachrichten/artikel/dpa-afx/bundestag-verabschiedet-gesetz-zum-schutz-wichtiger-anlagen/5024274/",
     "https://www.boorberg.de/1754815",
     "https://www.boschbuildingsolutions.com/de/de/portfolio/gebaeudesicherheit/kritische-infrastrukturen/kritis-dachgesetz/",
@@ -1239,9 +1242,7 @@
     "https://zdb-katalog.de/list.xhtml?t=iss%3D%221865-2263%22&key=cql",
     "https://zdb-katalog.de/list.xhtml?t=iss%3D%222195-1349%22&key=cql",
     "https://zentrum-klimaanpassung.de/",
-    "https://zoes-bund.de/publikationen/gruenbuch-zmz/",
-    "https://www.boell.de/en/2026/01/21/comprehensive-defence-climate-crisis-why-preparedness-shapes-resilience",
-    "https://nato.int/en/news-and-events/articles/news/2026/04/07/nato-militaries-strengthening-allied-medical-resilience"
+    "https://zoes-bund.de/publikationen/gruenbuch-zmz/"
   ],
   "processed_sources": [],
   "search_log": [
@@ -1360,6 +1361,14 @@
       "date": "2026-04-09",
       "queries": 15,
       "results": 12,
+      "new": 1,
+      "downloaded": 1,
+      "failed": 0
+    },
+    {
+      "date": "2026-04-10",
+      "queries": 8,
+      "results": 9,
       "new": 1,
       "downloaded": 1,
       "failed": 0
