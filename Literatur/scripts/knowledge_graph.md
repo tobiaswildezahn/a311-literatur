@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-08
+Stand: 2026-04-10
 
 ## Statistik
 
-- **207** Dokumente im Korpus
-- **1424** unique externe URLs
+- **209** Dokumente im Korpus
+- **1426** unique externe URLs
 - **60** Dokumente mit geteilten Quellen
-- **147** isolierte Dokumente (keine geteilten URLs)
+- **149** isolierte Dokumente (keine geteilten URLs)
 - **61** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -39,16 +39,16 @@ Stand: 2026-04-08
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 30, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
-| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 31 |
 | https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 31 |
 | https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 30, 31 |
 | https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376 | 04, 05 |
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
-| https://www.instagram.com/bbk_bund | 101, 76 |
-| https://www.hochwasserzentralen.de | 101, 141 |
 | https://twitter.com/BBK_Bund | 101, 76 |
+| https://www.hochwasserzentralen.de | 101, 141 |
+| https://www.instagram.com/bbk_bund | 101, 76 |
 
 ## Meistgenutzte Domaenen
 
@@ -56,8 +56,8 @@ Stand: 2026-04-08
 |--------|-----------------|---------|
 | bbk.bund.de | 27 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | bmi.bund.de | 14 | 04, 08, 112, 12, 13, 141, 17, 226, 30, 50... |
+| nato.int | 12 | 148, 165, 211, 219, 22, 230, 24, 29, 30, 31... |
 | dserver.bundestag.de | 11 | 06, 07, 08, 14, 15, 17, 30, 66, 73, 74... |
-| nato.int | 11 | 148, 165, 211, 219, 22, 24, 29, 30, 31, 61... |
 | bundestag.de | 10 | 06, 07, 14, 145, 15, 16, 17, 49, 79, 91 |
 | dwd.de | 9 | 100, 102, 103, 131, 141, 171, 212, 95, 96 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
@@ -81,9 +81,9 @@ Stand: 2026-04-08
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 49 | 24% |
+| Primaerquelle | 50 | 24% |
 | Sekundaerquelle | 37 | 18% |
-| Graue Literatur | 58 | 28% |
+| Graue Literatur | 59 | 28% |
 | Journalistische Quelle | 35 | 17% |
 | Tertiaerquelle | 6 | 3% |
 | Aktivistische Quelle | 3 | 1% |
@@ -92,9 +92,9 @@ Stand: 2026-04-08
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 73 | 35% |
-| mittel | 87 | 42% |
-| niedrig | 28 | 14% |
+| hoch | 74 | 35% |
+| mittel | 88 | 42% |
+| niedrig | 28 | 13% |
 
 ### Farbcodierung im Graph
 
@@ -316,6 +316,8 @@ Stand: 2026-04-08
 | 227 | DGAP_KI_Hybride | sekundaer | DGAP | 2026 | hoch |
 | 228 | ZDF_Russland_Sabotage | journalistisch | ZDF | 2025 | mittel |
 | 229 | Boell_Stolzenburg_Gesamtverteidigung | sekundaer | Heinrich-Boell-Stiftung | 2026 | mittel |
+| 230 | NATO_Medical_Resilience | primaer | NATO | 2026 | hoch |
+| 231 | DFV_Positionspapier_Bevoelkerungsschutz | grau | Deutscher Feuerwehrverband (DFV) | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -428,6 +430,8 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 227: DGAP_KI_Hybride (sekundaer)
 - 228: ZDF_Russland_Sabotage (journalistisch)
 - 229: Boell_Stolzenburg_Gesamtverteidigung (sekundaer)
+- 230: NATO_Medical_Resilience (primaer)
+- 231: DFV_Positionspapier_Bevoelkerungsschutz (grau)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 29: NATO_CPG_Seminar (grau)
 - 34: EU_TAFF_Civil (grau)
@@ -543,8 +547,8 @@ graph LR
     D85 -->|2| D87
     D101 -->|2| D76
     D148 -->|2| D30
-    D24 -->|2| D30
     D165 -->|2| D30
+    D24 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -556,11 +560,11 @@ graph LR
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
-    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
+    D100 -->|1| D102
     D100 -->|1| D60
     D60 -->|1| D85
     D101 -->|1| D141

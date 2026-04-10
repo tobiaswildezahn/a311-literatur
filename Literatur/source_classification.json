@@ -1132,5 +1132,11 @@
     "institution": "NATO",
     "jahr": 2026,
     "evidenzgrad": "hoch"
+  },
+  "231": {
+    "typ": "grau",
+    "institution": "Deutscher Feuerwehrverband (DFV)",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }
