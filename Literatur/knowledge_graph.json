@@ -138,6 +138,9 @@
     "229": 1,
     "22": 1,
     "230": 1,
+    "231": 1,
+    "232": 1,
+    "233": 1,
     "24": 16,
     "28": 0,
     "29": 2,
@@ -348,6 +351,9 @@
     "229": "Boell_Stolzenburg_Gesamtverteidigung",
     "22": "NATO_Resilience_Article3",
     "230": "NATO_Medical_Resilience",
+    "231": "DFV_Positionspapier_Bevoelkerungsschutz",
+    "232": "BaFin_Risiken_Fokus",
+    "233": "BMI_Abwehrzentrum_Hybride",
     "24": "CIMIC_Factsheet_Resilience",
     "28": "IOS_Eighth_Baseline",
     "29": "NATO_CPG_Seminar",
@@ -420,22 +426,388 @@
     "99": "Greenpeace_Jahrhunderthochwasser"
   },
   "classification": {
-    "135": {
-      "typ": "journalistisch",
-      "institution": "Schweizer Bauer",
+    "122": {
+      "typ": "grau",
+      "institution": "Publicus / Boorberg",
       "jahr": 2024,
       "evidenzgrad": "mittel"
     },
-    "200": {
+    "131": {
+      "typ": "sekundaer",
+      "institution": "BBK Magazin",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "177": {
       "typ": "primaer",
-      "institution": "Finnish Government / Security Committee",
+      "institution": "Freie und Hansestadt Hamburg",
+      "jahr": 1986,
+      "evidenzgrad": "hoch"
+    },
+    "168": {
+      "typ": "grau",
+      "institution": "IT-Matchmaker / Atoria",
+      "jahr": 2025,
+      "evidenzgrad": "niedrig"
+    },
+    "21": {
+      "typ": "primaer",
+      "institution": "BV Hamburg-Nord",
+      "jahr": 2022,
+      "evidenzgrad": "mittel"
+    },
+    "216": {
+      "typ": "sekundaer",
+      "institution": "Bertelsmann Stiftung",
       "jahr": 2025,
       "evidenzgrad": "hoch"
     },
-    "107": {
+    "202": {
       "typ": "primaer",
-      "institution": "GDV",
+      "institution": "Hamburgische Buergerschaft",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "94": {
+      "typ": "journalistisch",
+      "institution": "inFranken.de",
+      "jahr": 2026,
+      "evidenzgrad": "niedrig"
+    },
+    "142": {
+      "typ": "primaer",
+      "institution": "NATO",
+      "jahr": 2022,
+      "evidenzgrad": "hoch"
+    },
+    "63": {
+      "typ": "grau",
+      "institution": "sachgebiet5.de",
       "jahr": 2025,
+      "evidenzgrad": "niedrig"
+    },
+    "195": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "84": {
+      "typ": "grau",
+      "institution": "ECCT",
+      "jahr": 2026,
+      "evidenzgrad": "niedrig"
+    },
+    "45": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "48": {
+      "typ": "journalistisch",
+      "institution": "CORRECTIV",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "192": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "114": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "24": {
+      "typ": "grau",
+      "institution": "NATO CIMIC COE",
+      "jahr": 2018,
+      "evidenzgrad": "mittel"
+    },
+    "72": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "05": {
+      "typ": "primaer",
+      "institution": "BMI/Bundesregierung",
+      "jahr": 2016,
+      "evidenzgrad": "hoch"
+    },
+    "119": {
+      "typ": "grau",
+      "institution": "THW",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "113": {
+      "typ": "primaer",
+      "institution": "Bundesregierung (BMI/BMF)",
+      "jahr": 2021,
+      "evidenzgrad": "hoch"
+    },
+    "170": {
+      "typ": "primaer",
+      "institution": "EU Council",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "198": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "76": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "169": {
+      "typ": "sekundaer",
+      "institution": "DGAP",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "12": {
+      "typ": "primaer",
+      "institution": "Deutscher Bundestag",
+      "jahr": 2022,
+      "evidenzgrad": "hoch"
+    },
+    "46": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "108": {
+      "typ": "grau",
+      "institution": "DStGB / DFV",
+      "jahr": 2022,
+      "evidenzgrad": "mittel"
+    },
+    "104": {
+      "typ": "primaer",
+      "institution": "RKI",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "155": {
+      "typ": "grau",
+      "institution": "Taylor Wessing",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "128": {
+      "typ": "grau",
+      "institution": "THW",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "173": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "31": {
+      "typ": "grau",
+      "institution": "NAADSN",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "222": {
+      "typ": "sekundaer",
+      "institution": "Deutsche Bundesbank",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "164": {
+      "typ": "primaer",
+      "institution": "BMI / Bundestag",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "77": {
+      "typ": "sekundaer",
+      "institution": "bpb / Univ. Wuppertal",
+      "jahr": 2023,
+      "evidenzgrad": "hoch"
+    },
+    "123": {
+      "typ": "primaer",
+      "institution": "Bundesrechnungshof",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
+    },
+    "157": {
+      "typ": "sekundaer",
+      "institution": "BayIKa / Prof. Gebbeken",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "161": {
+      "typ": "journalistisch",
+      "institution": "SecurityToday",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "226": {
+      "typ": "primaer",
+      "institution": "BMI",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "101": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "163": {
+      "typ": "primaer",
+      "institution": "BMI",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "179": {
+      "typ": "primaer",
+      "institution": "Freie und Hansestadt Hamburg",
+      "jahr": 2019,
+      "evidenzgrad": "hoch"
+    },
+    "207": {
+      "typ": "sekundaer",
+      "institution": "Bertelsmann Stiftung",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "80": {
+      "typ": "journalistisch",
+      "institution": "t-online",
+      "jahr": 2022,
+      "evidenzgrad": "niedrig"
+    },
+    "10": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "204": {
+      "typ": "primaer",
+      "institution": "Hamburgische Buergerschaft / BIS Hamburg",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "138": {
+      "typ": "primaer",
+      "institution": "TAB / Deutscher Bundestag",
+      "jahr": 2011,
+      "evidenzgrad": "hoch"
+    },
+    "223": {
+      "typ": "journalistisch",
+      "institution": "Kleine Zeitung",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "73": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "112": {
+      "typ": "sekundaer",
+      "institution": "BBK / HoWaS2021-Konsortium",
+      "jahr": 2023,
+      "evidenzgrad": "hoch"
+    },
+    "158": {
+      "typ": "grau",
+      "institution": "BABZ / BBK",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "187": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "156": {
+      "typ": "grau",
+      "institution": "GOERG Rechtsanwaelte",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "181": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "89": {
+      "typ": "primaer",
+      "institution": "BKA / GBA",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "194": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "126": {
+      "typ": "journalistisch",
+      "institution": "kommunal.de",
+      "jahr": 2017,
+      "evidenzgrad": "niedrig"
+    },
+    "33": {
+      "typ": "sekundaer",
+      "institution": "EU JRC",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
+    },
+    "96": {
+      "typ": "primaer",
+      "institution": "DWD",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "82": {
+      "typ": "journalistisch",
+      "institution": "Markt und Mittelstand",
+      "jahr": 2026,
+      "evidenzgrad": "niedrig"
+    },
+    "13": {
+      "typ": "primaer",
+      "institution": "Deutscher Bundestag",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
+    },
+    "02": {
+      "typ": "primaer",
+      "institution": "BMI/BMVg",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
+    },
+    "165": {
+      "typ": "sekundaer",
+      "institution": "Clingendael Institute",
+      "jahr": 2024,
       "evidenzgrad": "hoch"
     },
     "188": {
@@ -444,11 +816,167 @@
       "jahr": null,
       "evidenzgrad": "unbekannt"
     },
-    "187": {
+    "69": {
+      "typ": "sekundaer",
+      "institution": "Heinrich-Boell-Stiftung",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "124": {
+      "typ": "grau",
+      "institution": "SIFO / BBK / BMBF",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "190": {
       "typ": "unbekannt",
       "institution": "?",
       "jahr": null,
       "evidenzgrad": "unbekannt"
+    },
+    "213": {
+      "typ": "sekundaer",
+      "institution": "SWP",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "191": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "209": {
+      "typ": "primaer",
+      "institution": "Bayerisches Staatsministerium des Innern",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "136": {
+      "typ": "grau",
+      "institution": "SPD-Bundestagsfraktion",
+      "jahr": 2021,
+      "evidenzgrad": "niedrig"
+    },
+    "51": {
+      "typ": "journalistisch",
+      "institution": "Handelsblatt",
+      "jahr": 2026,
+      "evidenzgrad": "niedrig"
+    },
+    "197": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "14": {
+      "typ": "primaer",
+      "institution": "Deutscher Bundestag",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "225": {
+      "typ": "aktivistisch",
+      "institution": "IMI",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "79": {
+      "typ": "grau",
+      "institution": "EnBW",
+      "jahr": 2024,
+      "evidenzgrad": "niedrig"
+    },
+    "208": {
+      "typ": "journalistisch",
+      "institution": "enthus",
+      "jahr": 2026,
+      "evidenzgrad": "niedrig"
+    },
+    "185": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "103": {
+      "typ": "primaer",
+      "institution": "Umweltbundesamt",
+      "jahr": 2023,
+      "evidenzgrad": "hoch"
+    },
+    "15": {
+      "typ": "primaer",
+      "institution": "Deutscher Bundestag",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "50": {
+      "typ": "grau",
+      "institution": "StMWi Bayern",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "134": {
+      "typ": "grau",
+      "institution": "Deutscher Landkreistag",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "64": {
+      "typ": "grau",
+      "institution": "Strategy& (PwC) / MSC",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "140": {
+      "typ": "primaer",
+      "institution": "Bundesregierung (Brandt)",
+      "jahr": 1972,
+      "evidenzgrad": "hoch"
+    },
+    "199": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "144": {
+      "typ": "primaer",
+      "institution": "Bundesregierung",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "11": {
+      "typ": "primaer",
+      "institution": "Bundesregierung/BBK",
+      "jahr": 2023,
+      "evidenzgrad": "hoch"
+    },
+    "172": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "01": {
+      "typ": "primaer",
+      "institution": "Bundesregierung",
+      "jahr": 2023,
+      "evidenzgrad": "hoch"
+    },
+    "34": {
+      "typ": "grau",
+      "institution": "EU/DG ECHO/Weltbank",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "22": {
+      "typ": "primaer",
+      "institution": "NATO",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
     },
     "55": {
       "typ": "grau",
@@ -462,191 +990,11 @@
       "jahr": null,
       "evidenzgrad": "unbekannt"
     },
-    "142": {
-      "typ": "primaer",
-      "institution": "NATO",
-      "jahr": 2022,
-      "evidenzgrad": "hoch"
-    },
-    "88": {
+    "174": {
       "typ": "grau",
-      "institution": "GrafKerssenbrock.com",
+      "institution": "Wirtschaftsrat CDU",
       "jahr": 2026,
       "evidenzgrad": "mittel"
-    },
-    "230": {
-      "typ": "primaer",
-      "institution": "NATO",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "202": {
-      "typ": "primaer",
-      "institution": "Hamburgische Buergerschaft",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "228": {
-      "typ": "journalistisch",
-      "institution": "ZDF",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "151": {
-      "typ": "grau",
-      "institution": "German Marshall Fund",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "162": {
-      "typ": "primaer",
-      "institution": "NATO ACT",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "50": {
-      "typ": "grau",
-      "institution": "StMWi Bayern",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "30": {
-      "typ": "grau",
-      "institution": "Bertelsmann Stiftung",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "113": {
-      "typ": "primaer",
-      "institution": "Bundesregierung (BMI/BMF)",
-      "jahr": 2021,
-      "evidenzgrad": "hoch"
-    },
-    "106": {
-      "typ": "grau",
-      "institution": "DStGB",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "198": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
-    },
-    "84": {
-      "typ": "grau",
-      "institution": "ECCT",
-      "jahr": 2026,
-      "evidenzgrad": "niedrig"
-    },
-    "219": {
-      "typ": "sekundaer",
-      "institution": "CSIS",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "86": {
-      "typ": "journalistisch",
-      "institution": "Tagesspiegel",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "121": {
-      "typ": "journalistisch",
-      "institution": "Protector.de",
-      "jahr": 2023,
-      "evidenzgrad": "mittel"
-    },
-    "211": {
-      "typ": "primaer",
-      "institution": "NATO",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "49": {
-      "typ": "journalistisch",
-      "institution": "CORRECTIV",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "16": {
-      "typ": "sekundaer",
-      "institution": "datenschutz-notizen.de",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "193": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
-    },
-    "90": {
-      "typ": "journalistisch",
-      "institution": "ZDF",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "190": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
-    },
-    "145": {
-      "typ": "primaer",
-      "institution": "Deutscher Bundestag",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "171": {
-      "typ": "primaer",
-      "institution": "DWD",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "123": {
-      "typ": "primaer",
-      "institution": "Bundesrechnungshof",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "73": {
-      "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "83": {
-      "typ": "sekundaer",
-      "institution": "ESKP / Helmholtz",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "164": {
-      "typ": "primaer",
-      "institution": "BMI / Bundestag",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "148": {
-      "typ": "grau",
-      "institution": "NATO CIMIC COE",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "224": {
-      "typ": "grau",
-      "institution": "ESUT / GSP",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "194": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
     },
     "212": {
       "typ": "primaer",
@@ -654,250 +1002,10 @@
       "jahr": 2026,
       "evidenzgrad": "hoch"
     },
-    "127": {
-      "typ": "journalistisch",
-      "institution": "Blaulicht Magazin",
-      "jahr": 2023,
-      "evidenzgrad": "niedrig"
-    },
-    "172": {
+    "30": {
       "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "158": {
-      "typ": "grau",
-      "institution": "BABZ / BBK",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "122": {
-      "typ": "grau",
-      "institution": "Publicus / Boorberg",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "167": {
-      "typ": "sekundaer",
-      "institution": "DGAP",
-      "jahr": 2021,
-      "evidenzgrad": "mittel"
-    },
-    "116": {
-      "typ": "journalistisch",
-      "institution": "Finanznachrichten.de",
-      "jahr": 2026,
-      "evidenzgrad": "niedrig"
-    },
-    "115": {
-      "typ": "journalistisch",
-      "institution": "Behoerden Spiegel",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "227": {
-      "typ": "sekundaer",
-      "institution": "DGAP",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "11": {
-      "typ": "primaer",
-      "institution": "Bundesregierung/BBK",
-      "jahr": 2023,
-      "evidenzgrad": "hoch"
-    },
-    "156": {
-      "typ": "grau",
-      "institution": "GOERG Rechtsanwaelte",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "225": {
-      "typ": "aktivistisch",
-      "institution": "IMI",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "96": {
-      "typ": "primaer",
-      "institution": "DWD",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "216": {
-      "typ": "sekundaer",
       "institution": "Bertelsmann Stiftung",
       "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "38": {
-      "typ": "sekundaer",
-      "institution": "Modern War Institute / West Point",
-      "jahr": 2020,
-      "evidenzgrad": "mittel"
-    },
-    "74": {
-      "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "119": {
-      "typ": "grau",
-      "institution": "THW",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "196": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
-    },
-    "112": {
-      "typ": "sekundaer",
-      "institution": "BBK / HoWaS2021-Konsortium",
-      "jahr": 2023,
-      "evidenzgrad": "hoch"
-    },
-    "178": {
-      "typ": "primaer",
-      "institution": "Freie und Hansestadt Hamburg / Behoerde fuer Inneres",
-      "jahr": 1984,
-      "evidenzgrad": "hoch"
-    },
-    "41": {
-      "typ": "sekundaer",
-      "institution": "US Army CGSC",
-      "jahr": 2022,
-      "evidenzgrad": "hoch"
-    },
-    "205": {
-      "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "120": {
-      "typ": "grau",
-      "institution": "VATM / Vodafone",
-      "jahr": 2023,
-      "evidenzgrad": "mittel"
-    },
-    "208": {
-      "typ": "journalistisch",
-      "institution": "enthus",
-      "jahr": 2026,
-      "evidenzgrad": "niedrig"
-    },
-    "128": {
-      "typ": "grau",
-      "institution": "THW",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "18": {
-      "typ": "grau",
-      "institution": "Roedl & Partner",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "229": {
-      "typ": "sekundaer",
-      "institution": "Heinrich-Boell-Stiftung",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "182": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
-    },
-    "59": {
-      "typ": "journalistisch",
-      "institution": "Reservistenverband",
-      "jahr": 2024,
-      "evidenzgrad": "niedrig"
-    },
-    "12": {
-      "typ": "primaer",
-      "institution": "Deutscher Bundestag",
-      "jahr": 2022,
-      "evidenzgrad": "hoch"
-    },
-    "201": {
-      "typ": "grau",
-      "institution": "Hanns-Seidel-Stiftung",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "81": {
-      "typ": "journalistisch",
-      "institution": "produktion.de",
-      "jahr": 2022,
-      "evidenzgrad": "niedrig"
-    },
-    "67": {
-      "typ": "sekundaer",
-      "institution": "DGAP",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "44": {
-      "typ": "primaer",
-      "institution": "IMK / Bund-Laender-AG ZV/ZMZ",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "56": {
-      "typ": "grau",
-      "institution": "defence-network.com",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "71": {
-      "typ": "sekundaer",
-      "institution": "Krisennavigator / Univ. Kiel",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "14": {
-      "typ": "primaer",
-      "institution": "Deutscher Bundestag",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "104": {
-      "typ": "primaer",
-      "institution": "RKI",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "13": {
-      "typ": "primaer",
-      "institution": "Deutscher Bundestag",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "141": {
-      "typ": "primaer",
-      "institution": "Landtag RLP / UA 18/1",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "17": {
-      "typ": "grau",
-      "institution": "BayIKa-Bau / Prof. Gebbeken",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "48": {
-      "typ": "journalistisch",
-      "institution": "CORRECTIV",
-      "jahr": 2024,
       "evidenzgrad": "mittel"
     },
     "102": {
@@ -906,58 +1014,34 @@
       "jahr": 2024,
       "evidenzgrad": "hoch"
     },
-    "163": {
-      "typ": "primaer",
-      "institution": "BMI",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "62": {
-      "typ": "journalistisch",
-      "institution": "CORRECTIV",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "132": {
-      "typ": "journalistisch",
-      "institution": "Le Monde Diplomatique",
+    "75": {
+      "typ": "grau",
+      "institution": "BBK",
       "jahr": 2024,
       "evidenzgrad": "mittel"
     },
-    "04": {
+    "220": {
       "typ": "primaer",
-      "institution": "BMVg",
-      "jahr": 2024,
+      "institution": "EU Council",
+      "jahr": 2026,
       "evidenzgrad": "hoch"
     },
-    "92": {
+    "133": {
       "typ": "journalistisch",
-      "institution": "nd-aktuell",
-      "jahr": 2026,
+      "institution": "ZDF",
+      "jahr": 2024,
       "evidenzgrad": "mittel"
     },
-    "36": {
-      "typ": "sekundaer",
-      "institution": "US Army War College / Parameters",
-      "jahr": 2016,
-      "evidenzgrad": "hoch"
-    },
-    "124": {
+    "29": {
       "typ": "grau",
-      "institution": "SIFO / BBK / BMBF",
-      "jahr": 2025,
+      "institution": "NATO CPG",
+      "jahr": 2024,
       "evidenzgrad": "mittel"
     },
-    "118": {
+    "151": {
       "typ": "grau",
-      "institution": "BBK / BBSR / DWD / UBA / THW",
+      "institution": "German Marshall Fund",
       "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "214": {
-      "typ": "sekundaer",
-      "institution": "Heinrich-Boell-Stiftung / RUSI",
-      "jahr": 2026,
       "evidenzgrad": "mittel"
     },
     "53": {
@@ -966,29 +1050,29 @@
       "jahr": 2025,
       "evidenzgrad": "niedrig"
     },
-    "159": {
-      "typ": "grau",
-      "institution": "Deutscher Staedtetag",
-      "jahr": 2026,
+    "166": {
+      "typ": "sekundaer",
+      "institution": "DGAP",
+      "jahr": 2022,
       "evidenzgrad": "mittel"
     },
-    "42": {
-      "typ": "sekundaer",
-      "institution": "US Army War College / Yarger",
-      "jahr": 2006,
-      "evidenzgrad": "hoch"
-    },
-    "143": {
-      "typ": "primaer",
-      "institution": "BMI/BMVg",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "79": {
+    "203": {
       "typ": "grau",
-      "institution": "EnBW",
-      "jahr": 2024,
-      "evidenzgrad": "niedrig"
+      "institution": "Hertie-Stiftung / Initiative handlungsfaehiger Staat",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "107": {
+      "typ": "primaer",
+      "institution": "GDV",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "189": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
     },
     "217": {
       "typ": "grau",
@@ -996,51 +1080,21 @@
       "jahr": 2025,
       "evidenzgrad": "mittel"
     },
-    "207": {
-      "typ": "sekundaer",
-      "institution": "Bertelsmann Stiftung",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "165": {
-      "typ": "sekundaer",
-      "institution": "Clingendael Institute",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "170": {
+    "180": {
       "typ": "primaer",
-      "institution": "EU Council",
-      "jahr": 2026,
+      "institution": "Freie und Hansestadt Hamburg",
+      "jahr": 1966,
       "evidenzgrad": "hoch"
     },
-    "206": {
-      "typ": "grau",
-      "institution": "BIS Hamburg / Tobias Wildezahn",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "40": {
-      "typ": "sekundaer",
-      "institution": "StrategyCentral / J. Meiser",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "184": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
-    },
-    "58": {
-      "typ": "journalistisch",
-      "institution": "Behoerden Spiegel",
-      "jahr": 2024,
-      "evidenzgrad": "niedrig"
-    },
-    "08": {
+    "06": {
       "typ": "primaer",
-      "institution": "BBK/BMI",
+      "institution": "Deutscher Bundestag",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
+    },
+    "143": {
+      "typ": "primaer",
+      "institution": "BMI/BMVg",
       "jahr": 2024,
       "evidenzgrad": "hoch"
     },
@@ -1050,17 +1104,131 @@
       "jahr": 2025,
       "evidenzgrad": "hoch"
     },
-    "226": {
-      "typ": "primaer",
-      "institution": "BMI",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "199": {
+    "196": {
       "typ": "unbekannt",
       "institution": "?",
       "jahr": null,
       "evidenzgrad": "unbekannt"
+    },
+    "36": {
+      "typ": "sekundaer",
+      "institution": "US Army War College / Parameters",
+      "jahr": 2016,
+      "evidenzgrad": "hoch"
+    },
+    "41": {
+      "typ": "sekundaer",
+      "institution": "US Army CGSC",
+      "jahr": 2022,
+      "evidenzgrad": "hoch"
+    },
+    "141": {
+      "typ": "primaer",
+      "institution": "Landtag RLP / UA 18/1",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
+    },
+    "39": {
+      "typ": "sekundaer",
+      "institution": "Army War College War Room",
+      "jahr": 2021,
+      "evidenzgrad": "mittel"
+    },
+    "42": {
+      "typ": "sekundaer",
+      "institution": "US Army War College / Yarger",
+      "jahr": 2006,
+      "evidenzgrad": "hoch"
+    },
+    "59": {
+      "typ": "journalistisch",
+      "institution": "Reservistenverband",
+      "jahr": 2024,
+      "evidenzgrad": "niedrig"
+    },
+    "62": {
+      "typ": "journalistisch",
+      "institution": "CORRECTIV",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "186": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "71": {
+      "typ": "sekundaer",
+      "institution": "Krisennavigator / Univ. Kiel",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "20": {
+      "typ": "journalistisch",
+      "institution": "Radio Hamburg",
+      "jahr": 2024,
+      "evidenzgrad": "niedrig"
+    },
+    "93": {
+      "typ": "journalistisch",
+      "institution": "Security Insider",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "193": {
+      "typ": "unbekannt",
+      "institution": "?",
+      "jahr": null,
+      "evidenzgrad": "unbekannt"
+    },
+    "115": {
+      "typ": "journalistisch",
+      "institution": "Behoerden Spiegel",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "159": {
+      "typ": "grau",
+      "institution": "Deutscher Staedtetag",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "135": {
+      "typ": "journalistisch",
+      "institution": "Schweizer Bauer",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "91": {
+      "typ": "journalistisch",
+      "institution": "t-online",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "110": {
+      "typ": "journalistisch",
+      "institution": "Blick Aktuell",
+      "jahr": 2024,
+      "evidenzgrad": "niedrig"
+    },
+    "85": {
+      "typ": "tertiaer",
+      "institution": "Wikipedia",
+      "jahr": 2026,
+      "evidenzgrad": "niedrig"
+    },
+    "125": {
+      "typ": "grau",
+      "institution": "Polizei Hamburg / BBK",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "90": {
+      "typ": "journalistisch",
+      "institution": "ZDF",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
     },
     "210": {
       "typ": "grau",
@@ -1068,13 +1236,331 @@
       "jahr": 2026,
       "evidenzgrad": "mittel"
     },
-    "191": {
+    "88": {
+      "typ": "grau",
+      "institution": "GrafKerssenbrock.com",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "214": {
+      "typ": "sekundaer",
+      "institution": "Heinrich-Boell-Stiftung / RUSI",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "233": {
+      "typ": "journalistisch",
+      "institution": "BMI / BfV",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "60": {
+      "typ": "tertiaer",
+      "institution": "Wikipedia",
+      "jahr": 2025,
+      "evidenzgrad": "niedrig"
+    },
+    "99": {
+      "typ": "aktivistisch",
+      "institution": "Greenpeace",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "17": {
+      "typ": "grau",
+      "institution": "BayIKa-Bau / Prof. Gebbeken",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "232": {
+      "typ": "grau",
+      "institution": "BaFin",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "95": {
+      "typ": "grau",
+      "institution": "DWD",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "145": {
+      "typ": "primaer",
+      "institution": "Deutscher Bundestag",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "148": {
+      "typ": "grau",
+      "institution": "NATO CIMIC COE",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "219": {
+      "typ": "sekundaer",
+      "institution": "CSIS",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "81": {
+      "typ": "journalistisch",
+      "institution": "produktion.de",
+      "jahr": 2022,
+      "evidenzgrad": "niedrig"
+    },
+    "231": {
+      "typ": "grau",
+      "institution": "Deutscher Feuerwehrverband (DFV)",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "106": {
+      "typ": "grau",
+      "institution": "DStGB",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "117": {
+      "typ": "grau",
+      "institution": "Deutscher Staedtetag",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "121": {
+      "typ": "journalistisch",
+      "institution": "Protector.de",
+      "jahr": 2023,
+      "evidenzgrad": "mittel"
+    },
+    "57": {
+      "typ": "grau",
+      "institution": "security-network.com",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "229": {
+      "typ": "sekundaer",
+      "institution": "Heinrich-Boell-Stiftung",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "118": {
+      "typ": "grau",
+      "institution": "BBK / BBSR / DWD / UBA / THW",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "08": {
+      "typ": "primaer",
+      "institution": "BBK/BMI",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
+    },
+    "04": {
+      "typ": "primaer",
+      "institution": "BMVg",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
+    },
+    "97": {
+      "typ": "grau",
+      "institution": "Bundesregierung",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "162": {
+      "typ": "primaer",
+      "institution": "NATO ACT",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "58": {
+      "typ": "journalistisch",
+      "institution": "Behoerden Spiegel",
+      "jahr": 2024,
+      "evidenzgrad": "niedrig"
+    },
+    "47": {
+      "typ": "primaer",
+      "institution": "BfV",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "56": {
+      "typ": "grau",
+      "institution": "defence-network.com",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "68": {
+      "typ": "sekundaer",
+      "institution": "Metis Institut / UniBw",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
+    },
+    "74": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "116": {
+      "typ": "journalistisch",
+      "institution": "Finanznachrichten.de",
+      "jahr": 2026,
+      "evidenzgrad": "niedrig"
+    },
+    "153": {
+      "typ": "journalistisch",
+      "institution": "Feuerwehr Fachjournal",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "175": {
+      "typ": "grau",
+      "institution": "BDEW/VKU",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "171": {
+      "typ": "primaer",
+      "institution": "DWD",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "16": {
+      "typ": "sekundaer",
+      "institution": "datenschutz-notizen.de",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "182": {
       "typ": "unbekannt",
       "institution": "?",
       "jahr": null,
       "evidenzgrad": "unbekannt"
     },
-    "197": {
+    "38": {
+      "typ": "sekundaer",
+      "institution": "Modern War Institute / West Point",
+      "jahr": 2020,
+      "evidenzgrad": "mittel"
+    },
+    "205": {
+      "typ": "grau",
+      "institution": "BBK",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "37": {
+      "typ": "sekundaer",
+      "institution": "US Army War College / Parameters",
+      "jahr": 2017,
+      "evidenzgrad": "hoch"
+    },
+    "227": {
+      "typ": "sekundaer",
+      "institution": "DGAP",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "132": {
+      "typ": "journalistisch",
+      "institution": "Le Monde Diplomatique",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "28": {
+      "typ": "sekundaer",
+      "institution": "IOS Press",
+      "jahr": 2023,
+      "evidenzgrad": "hoch"
+    },
+    "139": {
+      "typ": "primaer",
+      "institution": "MSB Schweden",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
+    },
+    "66": {
+      "typ": "sekundaer",
+      "institution": "DGAP",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "160": {
+      "typ": "journalistisch",
+      "institution": "Langenhagener News",
+      "jahr": 2026,
+      "evidenzgrad": "niedrig"
+    },
+    "86": {
+      "typ": "journalistisch",
+      "institution": "Tagesspiegel",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "92": {
+      "typ": "journalistisch",
+      "institution": "nd-aktuell",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "105": {
+      "typ": "tertiaer",
+      "institution": "bpb",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "230": {
+      "typ": "primaer",
+      "institution": "NATO",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "44": {
+      "typ": "primaer",
+      "institution": "IMK / Bund-Laender-AG ZV/ZMZ",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "49": {
+      "typ": "journalistisch",
+      "institution": "CORRECTIV",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "228": {
+      "typ": "journalistisch",
+      "institution": "ZDF",
+      "jahr": 2025,
+      "evidenzgrad": "mittel"
+    },
+    "61": {
+      "typ": "tertiaer",
+      "institution": "Wikipedia",
+      "jahr": 2024,
+      "evidenzgrad": "niedrig"
+    },
+    "83": {
+      "typ": "sekundaer",
+      "institution": "ESKP / Helmholtz",
+      "jahr": 2024,
+      "evidenzgrad": "hoch"
+    },
+    "40": {
+      "typ": "sekundaer",
+      "institution": "StrategyCentral / J. Meiser",
+      "jahr": 2024,
+      "evidenzgrad": "mittel"
+    },
+    "201": {
+      "typ": "grau",
+      "institution": "Hanns-Seidel-Stiftung",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "184": {
       "typ": "unbekannt",
       "institution": "?",
       "jahr": null,
@@ -1086,118 +1572,10 @@
       "jahr": 2024,
       "evidenzgrad": "niedrig"
     },
-    "101": {
-      "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "125": {
-      "typ": "grau",
-      "institution": "Polizei Hamburg / BBK",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "140": {
+    "178": {
       "typ": "primaer",
-      "institution": "Bundesregierung (Brandt)",
-      "jahr": 1972,
-      "evidenzgrad": "hoch"
-    },
-    "222": {
-      "typ": "sekundaer",
-      "institution": "Deutsche Bundesbank",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "77": {
-      "typ": "sekundaer",
-      "institution": "bpb / Univ. Wuppertal",
-      "jahr": 2023,
-      "evidenzgrad": "hoch"
-    },
-    "94": {
-      "typ": "journalistisch",
-      "institution": "inFranken.de",
-      "jahr": 2026,
-      "evidenzgrad": "niedrig"
-    },
-    "111": {
-      "typ": "aktivistisch",
-      "institution": "SPD-Fraktion RLP",
-      "jahr": 2024,
-      "evidenzgrad": "niedrig"
-    },
-    "155": {
-      "typ": "grau",
-      "institution": "Taylor Wessing",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "89": {
-      "typ": "primaer",
-      "institution": "BKA / GBA",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "153": {
-      "typ": "journalistisch",
-      "institution": "Feuerwehr Fachjournal",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "57": {
-      "typ": "grau",
-      "institution": "security-network.com",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "95": {
-      "typ": "grau",
-      "institution": "DWD",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "45": {
-      "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "28": {
-      "typ": "sekundaer",
-      "institution": "IOS Press",
-      "jahr": 2023,
-      "evidenzgrad": "hoch"
-    },
-    "51": {
-      "typ": "journalistisch",
-      "institution": "Handelsblatt",
-      "jahr": 2026,
-      "evidenzgrad": "niedrig"
-    },
-    "181": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
-    },
-    "97": {
-      "typ": "grau",
-      "institution": "Bundesregierung",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "05": {
-      "typ": "primaer",
-      "institution": "BMI/Bundesregierung",
-      "jahr": 2016,
-      "evidenzgrad": "hoch"
-    },
-    "177": {
-      "typ": "primaer",
-      "institution": "Freie und Hansestadt Hamburg",
-      "jahr": 1986,
+      "institution": "Freie und Hansestadt Hamburg / Behoerde fuer Inneres",
+      "jahr": 1984,
       "evidenzgrad": "hoch"
     },
     "52": {
@@ -1206,203 +1584,29 @@
       "jahr": 2025,
       "evidenzgrad": "niedrig"
     },
-    "117": {
-      "typ": "grau",
-      "institution": "Deutscher Staedtetag",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "37": {
-      "typ": "sekundaer",
-      "institution": "US Army War College / Parameters",
-      "jahr": 2017,
-      "evidenzgrad": "hoch"
-    },
-    "82": {
-      "typ": "journalistisch",
-      "institution": "Markt und Mittelstand",
-      "jahr": 2026,
-      "evidenzgrad": "niedrig"
-    },
     "176": {
       "typ": "primaer",
       "institution": "Freie und Hansestadt Hamburg",
       "jahr": 1978,
       "evidenzgrad": "hoch"
     },
-    "63": {
+    "206": {
       "typ": "grau",
-      "institution": "sachgebiet5.de",
-      "jahr": 2025,
-      "evidenzgrad": "niedrig"
-    },
-    "144": {
-      "typ": "primaer",
-      "institution": "Bundesregierung",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "157": {
-      "typ": "sekundaer",
-      "institution": "BayIKa / Prof. Gebbeken",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "15": {
-      "typ": "primaer",
-      "institution": "Deutscher Bundestag",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "220": {
-      "typ": "primaer",
-      "institution": "EU Council",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "61": {
-      "typ": "tertiaer",
-      "institution": "Wikipedia",
-      "jahr": 2024,
-      "evidenzgrad": "niedrig"
-    },
-    "179": {
-      "typ": "primaer",
-      "institution": "Freie und Hansestadt Hamburg",
-      "jahr": 2019,
-      "evidenzgrad": "hoch"
-    },
-    "76": {
-      "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "192": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
-    },
-    "223": {
-      "typ": "journalistisch",
-      "institution": "Kleine Zeitung",
+      "institution": "BIS Hamburg / Tobias Wildezahn",
       "jahr": 2026,
       "evidenzgrad": "mittel"
     },
-    "173": {
-      "typ": "grau",
-      "institution": "BBK",
+    "211": {
+      "typ": "primaer",
+      "institution": "NATO",
       "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "168": {
-      "typ": "grau",
-      "institution": "IT-Matchmaker / Atoria",
-      "jahr": 2025,
-      "evidenzgrad": "niedrig"
-    },
-    "01": {
-      "typ": "primaer",
-      "institution": "Bundesregierung",
-      "jahr": 2023,
       "evidenzgrad": "hoch"
     },
-    "10": {
-      "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "138": {
-      "typ": "primaer",
-      "institution": "TAB / Deutscher Bundestag",
-      "jahr": 2011,
-      "evidenzgrad": "hoch"
-    },
-    "136": {
-      "typ": "grau",
-      "institution": "SPD-Bundestagsfraktion",
-      "jahr": 2021,
-      "evidenzgrad": "niedrig"
-    },
-    "54": {
-      "typ": "sekundaer",
-      "institution": "it-service.network",
-      "jahr": 2025,
-      "evidenzgrad": "niedrig"
-    },
-    "66": {
+    "167": {
       "typ": "sekundaer",
       "institution": "DGAP",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "161": {
-      "typ": "journalistisch",
-      "institution": "SecurityToday",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "21": {
-      "typ": "primaer",
-      "institution": "BV Hamburg-Nord",
-      "jahr": 2022,
-      "evidenzgrad": "mittel"
-    },
-    "221": {
-      "typ": "sekundaer",
-      "institution": "DGAP",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "39": {
-      "typ": "sekundaer",
-      "institution": "Army War College War Room",
       "jahr": 2021,
       "evidenzgrad": "mittel"
-    },
-    "180": {
-      "typ": "primaer",
-      "institution": "Freie und Hansestadt Hamburg",
-      "jahr": 1966,
-      "evidenzgrad": "hoch"
-    },
-    "93": {
-      "typ": "journalistisch",
-      "institution": "Security Insider",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "103": {
-      "typ": "primaer",
-      "institution": "Umweltbundesamt",
-      "jahr": 2023,
-      "evidenzgrad": "hoch"
-    },
-    "75": {
-      "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "189": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
-    },
-    "78": {
-      "typ": "journalistisch",
-      "institution": "ZDF Frontal",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "195": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
     },
     "87": {
       "typ": "journalistisch",
@@ -1410,142 +1614,28 @@
       "jahr": 2026,
       "evidenzgrad": "niedrig"
     },
-    "33": {
-      "typ": "sekundaer",
-      "institution": "EU JRC",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "46": {
-      "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "133": {
+    "78": {
       "typ": "journalistisch",
-      "institution": "ZDF",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "80": {
-      "typ": "journalistisch",
-      "institution": "t-online",
-      "jahr": 2022,
-      "evidenzgrad": "niedrig"
-    },
-    "108": {
-      "typ": "grau",
-      "institution": "DStGB / DFV",
-      "jahr": 2022,
-      "evidenzgrad": "mittel"
-    },
-    "213": {
-      "typ": "sekundaer",
-      "institution": "SWP",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "47": {
-      "typ": "primaer",
-      "institution": "BfV",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "175": {
-      "typ": "grau",
-      "institution": "BDEW/VKU",
+      "institution": "ZDF Frontal",
       "jahr": 2026,
       "evidenzgrad": "mittel"
     },
-    "139": {
-      "typ": "primaer",
-      "institution": "MSB Schweden",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "06": {
-      "typ": "primaer",
-      "institution": "Deutscher Bundestag",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "72": {
-      "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "110": {
-      "typ": "journalistisch",
-      "institution": "Blick Aktuell",
-      "jahr": 2024,
-      "evidenzgrad": "niedrig"
-    },
-    "166": {
-      "typ": "sekundaer",
-      "institution": "DGAP",
-      "jahr": 2022,
-      "evidenzgrad": "mittel"
-    },
-    "85": {
-      "typ": "tertiaer",
-      "institution": "Wikipedia",
-      "jahr": 2026,
-      "evidenzgrad": "niedrig"
-    },
-    "60": {
-      "typ": "tertiaer",
-      "institution": "Wikipedia",
-      "jahr": 2025,
-      "evidenzgrad": "niedrig"
-    },
-    "169": {
-      "typ": "sekundaer",
-      "institution": "DGAP",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "131": {
-      "typ": "sekundaer",
-      "institution": "BBK Magazin",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "114": {
-      "typ": "grau",
-      "institution": "BBK",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "64": {
-      "typ": "grau",
-      "institution": "Strategy& (PwC) / MSC",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "203": {
-      "typ": "grau",
-      "institution": "Hertie-Stiftung / Initiative handlungsfaehiger Staat",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "186": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
-    },
-    "70": {
-      "typ": "sekundaer",
-      "institution": "ISDP",
-      "jahr": 2025,
-      "evidenzgrad": "hoch"
-    },
-    "99": {
+    "111": {
       "typ": "aktivistisch",
-      "institution": "Greenpeace",
+      "institution": "SPD-Fraktion RLP",
       "jahr": 2024,
+      "evidenzgrad": "niedrig"
+    },
+    "221": {
+      "typ": "sekundaer",
+      "institution": "DGAP",
+      "jahr": 2026,
+      "evidenzgrad": "hoch"
+    },
+    "18": {
+      "typ": "grau",
+      "institution": "Roedl & Partner",
+      "jahr": 2026,
       "evidenzgrad": "mittel"
     },
     "07": {
@@ -1554,119 +1644,53 @@
       "jahr": 2026,
       "evidenzgrad": "hoch"
     },
+    "120": {
+      "typ": "grau",
+      "institution": "VATM / Vodafone",
+      "jahr": 2023,
+      "evidenzgrad": "mittel"
+    },
+    "127": {
+      "typ": "journalistisch",
+      "institution": "Blaulicht Magazin",
+      "jahr": 2023,
+      "evidenzgrad": "niedrig"
+    },
+    "67": {
+      "typ": "sekundaer",
+      "institution": "DGAP",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "200": {
+      "typ": "primaer",
+      "institution": "Finnish Government / Security Committee",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
+    "224": {
+      "typ": "grau",
+      "institution": "ESUT / GSP",
+      "jahr": 2026,
+      "evidenzgrad": "mittel"
+    },
+    "70": {
+      "typ": "sekundaer",
+      "institution": "ISDP",
+      "jahr": 2025,
+      "evidenzgrad": "hoch"
+    },
     "98": {
       "typ": "tertiaer",
       "institution": "bpb",
       "jahr": 2023,
       "evidenzgrad": "mittel"
     },
-    "160": {
-      "typ": "journalistisch",
-      "institution": "Langenhagener News",
-      "jahr": 2026,
-      "evidenzgrad": "niedrig"
-    },
-    "34": {
-      "typ": "grau",
-      "institution": "EU/DG ECHO/Weltbank",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "204": {
-      "typ": "primaer",
-      "institution": "Hamburgische Buergerschaft / BIS Hamburg",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
-    },
-    "68": {
+    "54": {
       "typ": "sekundaer",
-      "institution": "Metis Institut / UniBw",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "69": {
-      "typ": "sekundaer",
-      "institution": "Heinrich-Boell-Stiftung",
+      "institution": "it-service.network",
       "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "134": {
-      "typ": "grau",
-      "institution": "Deutscher Landkreistag",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "174": {
-      "typ": "grau",
-      "institution": "Wirtschaftsrat CDU",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "24": {
-      "typ": "grau",
-      "institution": "NATO CIMIC COE",
-      "jahr": 2018,
-      "evidenzgrad": "mittel"
-    },
-    "91": {
-      "typ": "journalistisch",
-      "institution": "t-online",
-      "jahr": 2026,
-      "evidenzgrad": "mittel"
-    },
-    "22": {
-      "typ": "primaer",
-      "institution": "NATO",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "20": {
-      "typ": "journalistisch",
-      "institution": "Radio Hamburg",
-      "jahr": 2024,
       "evidenzgrad": "niedrig"
-    },
-    "126": {
-      "typ": "journalistisch",
-      "institution": "kommunal.de",
-      "jahr": 2017,
-      "evidenzgrad": "niedrig"
-    },
-    "31": {
-      "typ": "grau",
-      "institution": "NAADSN",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "02": {
-      "typ": "primaer",
-      "institution": "BMI/BMVg",
-      "jahr": 2024,
-      "evidenzgrad": "hoch"
-    },
-    "185": {
-      "typ": "unbekannt",
-      "institution": "?",
-      "jahr": null,
-      "evidenzgrad": "unbekannt"
-    },
-    "29": {
-      "typ": "grau",
-      "institution": "NATO CPG",
-      "jahr": 2024,
-      "evidenzgrad": "mittel"
-    },
-    "105": {
-      "typ": "tertiaer",
-      "institution": "bpb",
-      "jahr": 2025,
-      "evidenzgrad": "mittel"
-    },
-    "209": {
-      "typ": "primaer",
-      "institution": "Bayerisches Staatsministerium des Innern",
-      "jahr": 2026,
-      "evidenzgrad": "hoch"
     }
   },
   "edges": {
@@ -1679,18 +1703,15 @@
     "07-08": [
       "https://dserver.bundestag.de/btd/21/036/2103600.pdf"
     ],
-    "100-60": [
-      "https://zdb-katalog.de/list.xhtml"
+    "100-102": [
+      "https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html"
+    ],
+    "100-141": [
+      "https://www.youtube.com/watch"
     ],
     "100-85": [
       "https://www.youtube.com/watch",
       "https://zdb-katalog.de/list.xhtml"
-    ],
-    "60-85": [
-      "https://zdb-katalog.de/list.xhtml"
-    ],
-    "100-141": [
-      "https://www.youtube.com/watch"
     ],
     "100-87": [
       "https://www.youtube.com/watch"
@@ -1702,11 +1723,14 @@
       "https://www.youtube.com/watch"
     ],
     "85-87": [
-      "https://www.tagesspiegel.de/berlin/gemeinwohlorientierte-aktion-linksextreme-vulkangruppe-bekennt-sich-zu-brandanschlag-auf-stromversorgung-in-berlin-15100260.html",
-      "https://www.youtube.com/watch"
+      "https://www.youtube.com/watch",
+      "https://www.tagesspiegel.de/berlin/gemeinwohlorientierte-aktion-linksextreme-vulkangruppe-bekennt-sich-zu-brandanschlag-auf-stromversorgung-in-berlin-15100260.html"
     ],
-    "100-102": [
-      "https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html"
+    "100-60": [
+      "https://zdb-katalog.de/list.xhtml"
+    ],
+    "60-85": [
+      "https://zdb-katalog.de/list.xhtml"
     ],
     "101-141": [
       "https://www.hochwasserzentralen.de"
@@ -1728,48 +1752,63 @@
       "https://www.bbk.bund.de"
     ],
     "115-58": [
-      "https://www.behoerden-spiegel.de/2026/03/27/vertrag-am-ende",
+      "https://www.behoerden-spiegel.de/2026/03/27/zu-lange-wartezeiten",
+      "https://www.behoerden-spiegel.de/2026/03/27/tarifabschluss-in-hessen",
       "https://www.behoerden-spiegel.de/category/sicherheit",
+      "https://www.behoerden-spiegel.de/2026/03/27/vertrag-am-ende",
       "https://www.behoerden-spiegel.de/category/finanzen",
       "https://www.behoerden-spiegel.de/category/staat_rathaus",
       "https://www.behoerden-spiegel.de/2026/03/27/faeser-ist-neue-vorsitzende-des-dfv-beirats",
-      "https://www.behoerden-spiegel.de/2026/03/27/zu-lange-wartezeiten",
-      "https://www.behoerden-spiegel.de/2026/03/27/tarifabschluss-in-hessen",
       "https://www.behoerden-spiegel.de/category/recht"
     ],
     "11-94": [
       "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Tipps-Notsituationen/Stromausfall/stromausfall_node.html"
     ],
-    "148-165": [
-      "https://www.nato.int/cps/en/natohq/topics_132722.htm"
-    ],
     "148-24": [
-      "https://www.nato.int/cps/en/natohq/topics_132722.htm",
+      "https://eeas.europa.eu/sites/eeas/files/join_2017_21_f1_communication_from_commission_to_inst_en_v7_p1_916039.pdf",
+      "https://ec.europa.eu/europeaid/sites/devco/files/2018-01-cnl\\\\_conclusions\\\\_on\\\\_ia.pdf",
       "https://www.nato.int/cps/en/natohq/topics_50321.htm",
-      "https://www.nato.int/cps/en/natohq/topics\\\\_50093.htm",
+      "https://www.undp.org/content/undp/en/home/climate-and-disaster-resilience/disaster-risk-reduction.html",
+      "https://ec.europa.eu/europeaid/sites/devco/files/2018-01-cnl_conclusions_on_ia.pdf",
+      "https://www.preparecenter.org/sites/default/files/topics/gender_perspectives_ifrc.pdf",
       "https://www.nato.int/cps/en/natohq/news\\\\_160130.htm",
+      "https://www.nato.int/cps/en/natohq/topics\\\\_50093.htm",
+      "https://www.nato.int/cps/en/natohq/topics\\\\_132722.htm",
+      "https://www.nato.int/cps/en/natohq/topics\\\\_50321.htm",
       "https://www.nato.int/cps/en/natohq/news_160130.htm",
       "https://www.nato.int/cps/en/natohq/topics_50093.htm",
-      "https://www.preparecenter.org/sites/default/files/topics/gender\\\\_perspectives\\\\_ifrc.pdf",
       "https://www.unocha.org/themes/preparedness-and-risk-management",
-      "https://eeas.europa.eu/sites/eeas/files/join_2017_21_f1_communication_from_commission_to_inst_en_v7_p1_916039.pdf",
-      "https://eeas.europa.eu/sites/eeas/files/join\\\\_2017\\\\_21\\\\_f1\\\\_communication\\\\_",
-      "https://ec.europa.eu/europeaid/sites/devco/files/2018-01-cnl_conclusions_on_ia.pdf",
-      "https://www.nato.int/cps/en/natohq/topics\\\\_132722.htm",
-      "https://www.undp.org/content/undp/en/home/climate-and-disaster-resilience/disaster-risk-reduction.html",
-      "https://www.preparecenter.org/sites/default/files/topics/gender_perspectives_ifrc.pdf",
-      "https://www.nato.int/cps/en/natohq/topics\\\\_50321.htm",
-      "https://ec.europa.eu/europeaid/sites/devco/files/2018-01-cnl\\\\_conclusions\\\\_on\\\\_ia.pdf"
+      "https://www.nato.int/cps/en/natohq/topics_132722.htm",
+      "https://www.preparecenter.org/sites/default/files/topics/gender\\\\_perspectives\\\\_ifrc.pdf",
+      "https://eeas.europa.eu/sites/eeas/files/join\\\\_2017\\\\_21\\\\_f1\\\\_communication\\\\_"
+    ],
+    "148-31": [
+      "https://www.nato.int/cps/en/natohq/topics_132722.htm",
+      "https://www.nato.int/cps/en/natohq/topics_50093.htm",
+      "https://www.nato.int/cps/en/natohq/topics\\\\_50093.htm",
+      "https://www.nato.int/cps/en/natohq/topics\\\\_132722.htm"
+    ],
+    "24-31": [
+      "https://www.nato.int/cps/en/natohq/topics_132722.htm",
+      "https://www.nato.int/cps/en/natohq/topics_50093.htm",
+      "https://www.nato.int/cps/en/natohq/topics\\\\_50093.htm",
+      "https://www.nato.int/cps/en/natohq/topics\\\\_132722.htm"
     ],
     "148-30": [
       "https://www.nato.int/cps/en/natohq/topics_132722.htm",
       "https://www.nato.int/cps/en/natohq/topics_50093.htm"
     ],
-    "148-31": [
+    "24-30": [
       "https://www.nato.int/cps/en/natohq/topics_132722.htm",
-      "https://www.nato.int/cps/en/natohq/topics\\\\_50093.htm",
-      "https://www.nato.int/cps/en/natohq/topics\\\\_132722.htm",
       "https://www.nato.int/cps/en/natohq/topics_50093.htm"
+    ],
+    "30-31": [
+      "https://www.nato.int/cps/en/natohq/topics_132722.htm",
+      "https://www.nato.int/cps/en/natohq/topics_50093.htm",
+      "https://www.nato.int/cps/en/natohq/official_texts_17120.htm"
+    ],
+    "148-165": [
+      "https://www.nato.int/cps/en/natohq/topics_132722.htm"
     ],
     "148-69": [
       "https://www.nato.int/cps/en/natohq/topics_132722.htm"
@@ -1787,23 +1826,8 @@
     "165-69": [
       "https://www.nato.int/cps/en/natohq/topics_132722.htm"
     ],
-    "24-30": [
-      "https://www.nato.int/cps/en/natohq/topics_132722.htm",
-      "https://www.nato.int/cps/en/natohq/topics_50093.htm"
-    ],
-    "24-31": [
-      "https://www.nato.int/cps/en/natohq/topics_132722.htm",
-      "https://www.nato.int/cps/en/natohq/topics\\\\_50093.htm",
-      "https://www.nato.int/cps/en/natohq/topics\\\\_132722.htm",
-      "https://www.nato.int/cps/en/natohq/topics_50093.htm"
-    ],
     "24-69": [
       "https://www.nato.int/cps/en/natohq/topics_132722.htm"
-    ],
-    "30-31": [
-      "https://www.nato.int/cps/en/natohq/topics_132722.htm",
-      "https://www.nato.int/cps/en/natohq/official_texts_17120.htm",
-      "https://www.nato.int/cps/en/natohq/topics_50093.htm"
     ],
     "30-69": [
       "https://www.nato.int/cps/en/natohq/topics_132722.htm"
@@ -1812,8 +1836,8 @@
       "https://www.nato.int/cps/en/natohq/topics_132722.htm"
     ],
     "14-15": [
-      "https://dserver.bundestag.de/btd/21/015/2101501.pdf",
-      "https://dserver.bundestag.de/btd/21/020/2102072.pdf"
+      "https://dserver.bundestag.de/btd/21/020/2102072.pdf",
+      "https://dserver.bundestag.de/btd/21/015/2101501.pdf"
     ],
     "151-165": [
       "https://www.gmfus.org/news/nato-and-societal-resilience-all-hands-deck-age-war"
@@ -1828,8 +1852,8 @@
       "https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002"
     ],
     "16-17": [
-      "https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002",
-      "https://www.openkritis.de/it-sicherheitsgesetz/kritis-dachgesetz-sicherheitsgesetz-3-0.html"
+      "https://www.openkritis.de/it-sicherheitsgesetz/kritis-dachgesetz-sicherheitsgesetz-3-0.html",
+      "https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002"
     ],
     "16-79": [
       "https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002"
@@ -1841,8 +1865,8 @@
       "https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2025/09/kritis-dg-kabinett.html"
     ],
     "197-199": [
-      "https://turvallisuuskomitea.fi/en/security-strategy-for-society",
-      "https://turvallisuuskomitea.fi/en/comprehensive-security"
+      "https://turvallisuuskomitea.fi/en/comprehensive-security",
+      "https://turvallisuuskomitea.fi/en/security-strategy-for-society"
     ],
     "216-30": [
       "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_856"
@@ -1866,10 +1890,10 @@
     ],
     "36-37": [
       "https://network.bepress.com/hgg/discipline/1114",
-      "https://press.armywarcollege.edu/parameters",
+      "https://network.bepress.com/hgg/discipline/861",
       "https://network.bepress.com/hgg/discipline/394",
-      "https://network.bepress.com/hgg/discipline/504",
-      "https://network.bepress.com/hgg/discipline/861"
+      "https://press.armywarcollege.edu/parameters",
+      "https://network.bepress.com/hgg/discipline/504"
     ],
     "36-40": [
       "http://www.understandingwar.org/backgrounder/afghanistan",
@@ -1889,8 +1913,8 @@
       "https://rib.msb.se/filer/pdf/30874.pdf"
     ],
     "66-67": [
-      "https://dgap.org/de/forschung/programme/zentrum-fuer-sicherheit-und-verteidigung",
-      "https://dgap.org/de/forschung/expertise/sicherheit"
+      "https://dgap.org/de/forschung/expertise/sicherheit",
+      "https://dgap.org/de/forschung/programme/zentrum-fuer-sicherheit-und-verteidigung"
     ],
     "73-74": [
       "https://dserver.bundestag.de/btd/17/056/1705672.pdf"
@@ -1906,15 +1930,15 @@
     "04-05": 1,
     "06-08": 1,
     "07-08": 1,
-    "100-60": 1,
-    "100-85": 2,
-    "60-85": 1,
+    "100-102": 1,
     "100-141": 1,
+    "100-85": 2,
     "100-87": 1,
     "141-85": 1,
     "141-87": 1,
     "85-87": 2,
-    "100-102": 1,
+    "100-60": 1,
+    "60-85": 1,
     "101-141": 1,
     "101-76": 2,
     "103-104": 1,
@@ -1923,19 +1947,19 @@
     "112-116": 1,
     "115-58": 8,
     "11-94": 1,
-    "148-165": 1,
     "148-24": 16,
-    "148-30": 2,
     "148-31": 4,
+    "24-31": 4,
+    "148-30": 2,
+    "24-30": 2,
+    "30-31": 3,
+    "148-165": 1,
     "148-69": 1,
     "165-24": 1,
     "165-30": 2,
     "165-31": 1,
     "165-69": 1,
-    "24-30": 2,
-    "24-31": 4,
     "24-69": 1,
-    "30-31": 3,
     "30-69": 1,
     "31-69": 1,
     "14-15": 2,
@@ -2074,6 +2098,9 @@
     "228",
     "229",
     "230",
+    "231",
+    "232",
+    "233",
     "28",
     "29",
     "34",
@@ -2121,11 +2148,11 @@
       9
     ],
     [
-      "165",
+      "31",
       6
     ],
     [
-      "31",
+      "165",
       6
     ],
     [
@@ -2145,7 +2172,7 @@
       5
     ],
     [
-      "60",
+      "141",
       4
     ],
     [
@@ -2153,7 +2180,7 @@
       4
     ],
     [
-      "141",
+      "60",
       4
     ],
     [
@@ -2284,14 +2311,14 @@
       ]
     ],
     [
-      "https://www.instagram.com/bbk_bund",
+      "https://twitter.com/BBK_Bund",
       [
         "101",
         "76"
       ]
     ],
     [
-      "https://twitter.com/BBK_Bund",
+      "https://www.instagram.com/bbk_bund",
       [
         "101",
         "76"
@@ -2326,7 +2353,7 @@
       ]
     ],
     [
-      "https://www.behoerden-spiegel.de/2026/03/27/vertrag-am-ende",
+      "https://www.behoerden-spiegel.de/2026/03/27/zu-lange-wartezeiten",
       [
         "115",
         "58"
@@ -2606,26 +2633,26 @@
     ]
   ],
   "stats": {
-    "total_docs": 208,
-    "total_urls": 1511,
-    "unique_urls": 1425,
+    "total_docs": 211,
+    "total_urls": 1514,
+    "unique_urls": 1428,
     "connected_docs": 60,
-    "isolated_docs": 148,
+    "isolated_docs": 151,
     "edges": 61
   },
   "typ_counts": {
-    "journalistisch": 35,
-    "primaer": 50,
-    "unbekannt": 19,
-    "grau": 58,
+    "grau": 60,
     "sekundaer": 37,
+    "primaer": 50,
+    "journalistisch": 36,
+    "unbekannt": 19,
     "aktivistisch": 3,
     "tertiaer": 6
   },
   "evidenz_counts": {
-    "mittel": 87,
-    "hoch": 74,
-    "unbekannt": 19,
-    "niedrig": 28
+    "mittel": 89,
+    "hoch": 75,
+    "niedrig": 28,
+    "unbekannt": 19
   }
 }

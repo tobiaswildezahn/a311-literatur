@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-09
+Stand: 2026-04-12
 
 ## Statistik
 
-- **208** Dokumente im Korpus
-- **1425** unique externe URLs
+- **211** Dokumente im Korpus
+- **1428** unique externe URLs
 - **60** Dokumente mit geteilten Quellen
-- **148** isolierte Dokumente (keine geteilten URLs)
+- **151** isolierte Dokumente (keine geteilten URLs)
 - **61** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -15,15 +15,15 @@ Stand: 2026-04-09
 | Dok | Label | Verbindungen |
 |-----|-------|-------------|
 | 30 | Bertelsmann_NATO_Resilience | 9 |
-| 165 | Clingendael_NATO_Resilience | 6 |
 | 31 | NAADSN_7BLR_Policy | 6 |
+| 165 | Clingendael_NATO_Resilience | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 148 | CIMIC_Factsheet_Resilience | 5 |
 | 24 | CIMIC_Factsheet_Resilience | 5 |
 | 69 | Boell_Nordic_Baltic | 5 |
-| 60 | Wikipedia_OPLAN_Deutschland | 4 |
-| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
 | 141 | UA_Flut_RLP | 4 |
+| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
+| 60 | Wikipedia_OPLAN_Deutschland | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 | 17 | Bayika_Gebbeken_KRITIS | 4 |
 | 87 | CleanThinking_Vulkangruppe | 3 |
@@ -47,8 +47,8 @@ Stand: 2026-04-09
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
 | https://www.hochwasserzentralen.de | 101, 141 |
-| https://www.instagram.com/bbk_bund | 101, 76 |
 | https://twitter.com/BBK_Bund | 101, 76 |
+| https://www.instagram.com/bbk_bund | 101, 76 |
 
 ## Meistgenutzte Domaenen
 
@@ -83,8 +83,8 @@ Stand: 2026-04-09
 |-----|--------|--------|
 | Primaerquelle | 50 | 24% |
 | Sekundaerquelle | 37 | 18% |
-| Graue Literatur | 58 | 28% |
-| Journalistische Quelle | 35 | 17% |
+| Graue Literatur | 60 | 28% |
+| Journalistische Quelle | 36 | 17% |
 | Tertiaerquelle | 6 | 3% |
 | Aktivistische Quelle | 3 | 1% |
 
@@ -92,8 +92,8 @@ Stand: 2026-04-09
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 74 | 36% |
-| mittel | 87 | 42% |
+| hoch | 75 | 36% |
+| mittel | 89 | 42% |
 | niedrig | 28 | 13% |
 
 ### Farbcodierung im Graph
@@ -317,6 +317,9 @@ Stand: 2026-04-09
 | 228 | ZDF_Russland_Sabotage | journalistisch | ZDF | 2025 | mittel |
 | 229 | Boell_Stolzenburg_Gesamtverteidigung | sekundaer | Heinrich-Boell-Stiftung | 2026 | mittel |
 | 230 | NATO_Medical_Resilience | primaer | NATO | 2026 | hoch |
+| 231 | DFV_Positionspapier_Bevoelkerungsschutz | grau | Deutscher Feuerwehrverband (DFV) | 2026 | mittel |
+| 232 | BaFin_Risiken_Fokus | grau | BaFin | 2025 | hoch |
+| 233 | BMI_Abwehrzentrum_Hybride | journalistisch | BMI / BfV | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -430,6 +433,9 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 228: ZDF_Russland_Sabotage (journalistisch)
 - 229: Boell_Stolzenburg_Gesamtverteidigung (sekundaer)
 - 230: NATO_Medical_Resilience (primaer)
+- 231: DFV_Positionspapier_Bevoelkerungsschutz (grau)
+- 232: BaFin_Risiken_Fokus (grau)
+- 233: BMI_Abwehrzentrum_Hybride (journalistisch)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 29: NATO_CPG_Seminar (grau)
 - 34: EU_TAFF_Civil (grau)
@@ -545,8 +551,8 @@ graph LR
     D85 -->|2| D87
     D101 -->|2| D76
     D148 -->|2| D30
-    D165 -->|2| D30
     D24 -->|2| D30
+    D165 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -558,13 +564,13 @@ graph LR
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
-    D100 -->|1| D60
-    D60 -->|1| D85
+    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D102
+    D100 -->|1| D60
+    D60 -->|1| D85
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108

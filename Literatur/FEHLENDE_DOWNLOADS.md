@@ -54,6 +54,13 @@ Nr. 3 (BMI PM Gesamtverteidigung) wurde bereits als .txt gespeichert.
 |-----|-----------|-----------|-----|---------|
 | 223 | `Literatur/md/` | `223_GLOBSEC_Hybrid_Warfare_2026.md` | https://www.globsec.org/what-we-do/commentaries/how-russias-hybrid-warfare-will-escalate-2026-and-what-europe-must-do | 403-Fehler, Bot-Schutz. Analyse zur Eskalation russischer Hybridkriegfuehrung 2026. Im Browser oeffnen, Text kopieren. |
 
+## Ergaenzung 2026-04-12 — Neue fehlgeschlagene Downloads
+
+| Nr. | Zielordner | Dateiname | URL | Hinweis |
+|-----|-----------|-----------|-----|---------|
+| 234 | `Literatur/md/` | `234_PwC_DGAP_NSRI_Sicherheitsindex.md` | https://www.pwc.de/de/pressemitteilungen/2026/wie-resilient-ist-deutschland-sicherheitsindex-von-pwc-strategy-und-der-dgap-gibt-antworten.html | 403-Fehler. National Security & Resilience Index (NSRI) von PwC/Strategy& und DGAP, vorgestellt auf MSC Feb 2026. Im Browser oeffnen, Text kopieren. |
+| 235 | `Literatur/md/` | `235_Verbandsbuero_KRITIS_Transparenz.md` | https://www.verbandsbuero.de/kritis-dachgesetz-2026-sicherheitsrisiko-durch-transparenz/ | JS-gerendert, WebFetch liefert nur CSS/JS. Kritische Analyse: Transparenzpflichten des KRITIS-Dachgesetzes als Sicherheitsrisiko. Im Browser oeffnen, Text kopieren. |
+
 ## Ergaenzung 2026-03-30 — Fehlgeschlagene PDF-Konvertierungen
 
 | Nr. | Dateiname | Pfad | Hinweis |

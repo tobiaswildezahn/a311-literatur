@@ -1138,5 +1138,17 @@
     "institution": "Deutscher Feuerwehrverband (DFV)",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "232": {
+    "typ": "grau",
+    "institution": "BaFin",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "233": {
+    "typ": "journalistisch",
+    "institution": "BMI / BfV",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }
