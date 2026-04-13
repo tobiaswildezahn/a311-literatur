@@ -1,22 +1,22 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-10
+Stand: 2026-04-13
 
 ## Statistik
 
-- **209** Dokumente im Korpus
-- **1426** unique externe URLs
-- **60** Dokumente mit geteilten Quellen
-- **149** isolierte Dokumente (keine geteilten URLs)
-- **61** Verbindungen (mind. 2 geteilte URLs)
+- **212** Dokumente im Korpus
+- **1483** unique externe URLs
+- **62** Dokumente mit geteilten Quellen
+- **150** isolierte Dokumente (keine geteilten URLs)
+- **64** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
 
 | Dok | Label | Verbindungen |
 |-----|-------|-------------|
-| 30 | Bertelsmann_NATO_Resilience | 9 |
-| 31 | NAADSN_7BLR_Policy | 6 |
+| 30 | Bertelsmann_NATO_Resilience | 10 |
 | 165 | Clingendael_NATO_Resilience | 6 |
+| 31 | NAADSN_7BLR_Policy | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 148 | CIMIC_Factsheet_Resilience | 5 |
 | 24 | CIMIC_Factsheet_Resilience | 5 |
@@ -26,9 +26,9 @@ Stand: 2026-04-10
 | 60 | Wikipedia_OPLAN_Deutschland | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 | 17 | Bayika_Gebbeken_KRITIS | 4 |
+| 219 | CSIS_Russia_Shadow | 4 |
 | 87 | CleanThinking_Vulkangruppe | 3 |
 | 16 | Datenschutz_Notizen_KRITIS | 3 |
-| 79 | EnBW_Blackout_Szenario | 3 |
 
 ## Meistzitierte externe Quellen
 
@@ -39,40 +39,40 @@ Stand: 2026-04-10
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 30, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
-| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
 | https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
+| https://www | 219, 234, 30 |
 | https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 30, 31 |
 | https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376 | 04, 05 |
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
-| https://twitter.com/BBK_Bund | 101, 76 |
-| https://www.hochwasserzentralen.de | 101, 141 |
 | https://www.instagram.com/bbk_bund | 101, 76 |
+| https://twitter.com/BBK_Bund | 101, 76 |
 
 ## Meistgenutzte Domaenen
 
 | Domain | Anzahl Dokumente | Dok-IDs |
 |--------|-----------------|---------|
-| bbk.bund.de | 27 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
+| bbk.bund.de | 28 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | bmi.bund.de | 14 | 04, 08, 112, 12, 13, 141, 17, 226, 30, 50... |
+| dserver.bundestag.de | 12 | 06, 07, 08, 14, 15, 17, 234, 30, 66, 73... |
 | nato.int | 12 | 148, 165, 211, 219, 22, 230, 24, 29, 30, 31... |
-| dserver.bundestag.de | 11 | 06, 07, 08, 14, 15, 17, 30, 66, 73, 74... |
 | bundestag.de | 10 | 06, 07, 14, 145, 15, 16, 17, 49, 79, 91 |
 | dwd.de | 9 | 100, 102, 103, 131, 141, 171, 212, 95, 96 |
+| bundeswehr.de | 9 | 131, 197, 234, 60, 61, 62, 63, 64, 66 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
-| bundeswehr.de | 8 | 131, 197, 60, 61, 62, 63, 64, 66 |
 | dgap.org | 8 | 166, 167, 169, 221, 227, 65, 66, 67 |
 | bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
 | doi.org | 7 | 102, 216, 219, 30, 65, 83, 96 |
+| tagesschau.de | 6 | 100, 13, 234, 49, 79, 93 |
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
-| tagesschau.de | 5 | 100, 13, 49, 79, 93 |
+| ec.europa.eu | 6 | 138, 148, 216, 234, 24, 30 |
 | de.wikipedia.org | 5 | 100, 123, 60, 61, 99 |
 | umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
 | linkedin.com | 5 | 117, 165, 17, 64, 87 |
-| ec.europa.eu | 5 | 138, 148, 216, 24, 30 |
 | creativecommons.org | 5 | 203, 65, 66, 68, 83 |
 
 ## Quellenklassifikation
@@ -82,9 +82,9 @@ Stand: 2026-04-10
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
 | Primaerquelle | 50 | 24% |
-| Sekundaerquelle | 37 | 18% |
-| Graue Literatur | 59 | 28% |
-| Journalistische Quelle | 35 | 17% |
+| Sekundaerquelle | 38 | 18% |
+| Graue Literatur | 60 | 28% |
+| Journalistische Quelle | 36 | 17% |
 | Tertiaerquelle | 6 | 3% |
 | Aktivistische Quelle | 3 | 1% |
 
@@ -92,8 +92,8 @@ Stand: 2026-04-10
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 74 | 35% |
-| mittel | 88 | 42% |
+| hoch | 76 | 36% |
+| mittel | 89 | 42% |
 | niedrig | 28 | 13% |
 
 ### Farbcodierung im Graph
@@ -318,6 +318,9 @@ Stand: 2026-04-10
 | 229 | Boell_Stolzenburg_Gesamtverteidigung | sekundaer | Heinrich-Boell-Stiftung | 2026 | mittel |
 | 230 | NATO_Medical_Resilience | primaer | NATO | 2026 | hoch |
 | 231 | DFV_Positionspapier_Bevoelkerungsschutz | grau | Deutscher Feuerwehrverband (DFV) | 2026 | mittel |
+| 232 | BaFin_Risiken_Fokus | grau | BaFin | 2025 | hoch |
+| 233 | BMI_Abwehrzentrum_Hybride | journalistisch | BMI / BfV | 2026 | mittel |
+| 234 | PwC_DGAP_National | sekundaer | PwC Strategy& / DGAP | 2024 | hoch |
 
 ## Isolierte Dokumente
 
@@ -402,7 +405,6 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 196: MPK_Staatsmodernisierung (unbekannt)
 - 198: NSR_Geschaeftsordnung (unbekannt)
 - 20: RadioHH_Bevoelkerungsschutz_Umbau (journalistisch)
-- 200: Finnland_Security_Strategy (primaer)
 - 201: HSS_Zivilschutz_Handlungsfaehigkeit (grau)
 - 202: SKA_Krisenvorsorge_Oeffentliche (primaer)
 - 203: Hertie_Initiative_Handlungsfaehiger (grau)
@@ -432,6 +434,8 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 229: Boell_Stolzenburg_Gesamtverteidigung (sekundaer)
 - 230: NATO_Medical_Resilience (primaer)
 - 231: DFV_Positionspapier_Bevoelkerungsschutz (grau)
+- 232: BaFin_Risiken_Fokus (grau)
+- 233: BMI_Abwehrzentrum_Hybride (journalistisch)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 29: NATO_CPG_Seminar (grau)
 - 34: EU_TAFF_Civil (grau)
@@ -505,8 +509,10 @@ graph LR
     D17["17: Bayika_Gebbeken_KRITIS<br/>GRA | 32 URLs"]
     D197["197: Arbeitspapier_Sicherheitspolitik<br/>UNB | 18 URLs"]
     D199["199: Finnland_Turvallisuuskomitea<br/>UNB | 9 URLs"]
+    D200["200: Finnland_Security_Strategy<br/>PRI | 2 URLs"]
     D216["216: Bertelsmann_EU_Preparedness<br/>SEK | 21 URLs"]
     D219["219: CSIS_Russia_Shadow<br/>SEK | 170 URLs"]
+    D234["234: PwC_DGAP_National<br/>SEK | 57 URLs"]
     D24["24: CIMIC_Factsheet_Resilience<br/>GRA | 16 URLs"]
     D30["30: Bertelsmann_NATO_Resilience<br/>GRA | 65 URLs"]
     D31["31: NAADSN_7BLR_Policy<br/>GRA | 85 URLs"]
@@ -560,11 +566,11 @@ graph LR
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
+    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D102
     D100 -->|1| D60
     D60 -->|1| D85
     D101 -->|1| D141
@@ -588,7 +594,10 @@ graph LR
     D16 -->|1| D79
     D17 -->|1| D79
     D17 -->|1| D93
+    D200 -->|1| D234
     D216 -->|1| D30
+    D219 -->|1| D234
+    D234 -->|1| D30
     D219 -->|1| D38
     D219 -->|1| D31
     D30 -->|1| D66
@@ -598,8 +607,8 @@ graph LR
     D73 -->|1| D74
     D80 -->|1| D91
     D95 -->|1| D96
-    style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D96 fill:#2563eb,color:#fff
-    style D102,D112,D16,D165,D216,D219,D33,D36,D37,D38,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
+    style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D200,D96 fill:#2563eb,color:#fff
+    style D102,D112,D16,D165,D216,D219,D234,D33,D36,D37,D38,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
     style D100,D60,D85 fill:#6b7280,color:#fff
     style D101,D106,D108,D148,D151,D17,D24,D30,D31,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
     style D110,D115,D116,D48,D49,D58,D59,D62,D80,D87,D91,D93,D94 fill:#059669,color:#fff

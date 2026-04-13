@@ -1150,5 +1150,11 @@
     "institution": "BMI / BfV",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "234": {
+    "typ": "sekundaer",
+    "institution": "PwC Strategy& / DGAP",
+    "jahr": 2024,
+    "evidenzgrad": "hoch"
   }
 }
