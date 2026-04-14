@@ -1156,5 +1156,11 @@
     "institution": "PwC Strategy& / DGAP",
     "jahr": 2024,
     "evidenzgrad": "hoch"
+  },
+  "235": {
+    "typ": "primaer",
+    "institution": "Bundesregierung",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
   }
 }
