@@ -1162,5 +1162,17 @@
     "institution": "Bundesregierung",
     "jahr": 2026,
     "evidenzgrad": "hoch"
+  },
+  "236": {
+    "typ": "sekundaer",
+    "institution": "beck-aktuell / PwC Deutschland",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "237": {
+    "typ": "grau",
+    "institution": "Bundesregierung / abc-gefahren.de",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }

@@ -61,6 +61,12 @@ Nr. 3 (BMI PM Gesamtverteidigung) wurde bereits als .txt gespeichert.
 | 234 | `Literatur/md/` | `234_PwC_DGAP_NSRI_Sicherheitsindex.md` | https://www.pwc.de/de/pressemitteilungen/2026/wie-resilient-ist-deutschland-sicherheitsindex-von-pwc-strategy-und-der-dgap-gibt-antworten.html | 403-Fehler. National Security & Resilience Index (NSRI) von PwC/Strategy& und DGAP, vorgestellt auf MSC Feb 2026. Im Browser oeffnen, Text kopieren. |
 | 235 | `Literatur/md/` | `235_Verbandsbuero_KRITIS_Transparenz.md` | https://www.verbandsbuero.de/kritis-dachgesetz-2026-sicherheitsrisiko-durch-transparenz/ | JS-gerendert, WebFetch liefert nur CSS/JS. Kritische Analyse: Transparenzpflichten des KRITIS-Dachgesetzes als Sicherheitsrisiko. Im Browser oeffnen, Text kopieren. |
 
+## Ergaenzung 2026-04-15 — NATO 403
+
+| Nr. | Zielordner | Dateiname | URL | Hinweis |
+|-----|-----------|-----------|-----|---------|
+| 238 | `Literatur/md/` | `238_NATO_CAMO26_Medical_Resilience.md` | https://shape.nato.int/news-archive/2026/nato-militaries-strengthening-allied-medical-resilience.aspx | 403-Fehler. NATO CAMO 26 Uebung zur medizinischen Massenanfall-Resilienz mit zivil-militaerischer Koordination. Im Browser oeffnen, Text kopieren. |
+
 ## Ergaenzung 2026-03-30 — Fehlgeschlagene PDF-Konvertierungen
 
 | Nr. | Dateiname | Pfad | Hinweis |
