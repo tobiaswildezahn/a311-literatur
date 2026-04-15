@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-14T05:09:36",
-  "run_count": 19,
+  "last_run": "2026-04-15T05:08:42",
+  "run_count": 20,
   "corpus_state": {
-    "total_docs": 213,
-    "total_urls": 1572,
-    "unique_urls": 1484,
+    "total_docs": 215,
+    "total_urls": 1574,
+    "unique_urls": 1486,
     "connected_docs": 62,
-    "isolated_docs": 151,
+    "isolated_docs": 153,
     "edges": 64
   },
   "known_urls": [
@@ -1250,7 +1250,10 @@
     "https://zdb-katalog.de/list.xhtml?t=iss%3D%222195-1349%22&key=cql",
     "https://zentrum-klimaanpassung.de/",
     "https://zoes-bund.de/publikationen/gruenbuch-zmz/",
-    "https://www.recht.bund.de/bgbl/1/2026/66/regelungstext.pdf"
+    "https://www.recht.bund.de/bgbl/1/2026/66/regelungstext.pdf",
+    "https://www.beck-aktuell.de/heute-im-recht/rechtspolitik-gesetzgebung/kritische-infrastruktur-physische-resilienz-betreiberpflicht-kritis-dachgesetz-2026-03-27",
+    "https://www.abc-gefahren.de/blog/2026/01/29/risikoanalyse-zivilschutz-2025-fokus-einsatz-chemischer-kampfstoffe/",
+    "https://shape.nato.int/news-archive/2026/nato-militaries-strengthening-allied-medical-resilience.aspx"
   ],
   "processed_sources": [],
   "search_log": [
@@ -1415,6 +1418,14 @@
       "new": 1,
       "downloaded": 1,
       "failed": 0
+    },
+    {
+      "date": "2026-04-15",
+      "queries": 14,
+      "results": 3,
+      "new": 2,
+      "downloaded": 2,
+      "failed": 1
     }
   ],
   "failed_downloads": []
