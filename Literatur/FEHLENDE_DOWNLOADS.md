@@ -65,7 +65,13 @@ Nr. 3 (BMI PM Gesamtverteidigung) wurde bereits als .txt gespeichert.
 
 | Nr. | Zielordner | Dateiname | URL | Hinweis |
 |-----|-----------|-----------|-----|---------|
-| 238 | `Literatur/md/` | `238_NATO_CAMO26_Medical_Resilience.md` | https://shape.nato.int/news-archive/2026/nato-militaries-strengthening-allied-medical-resilience.aspx | 403-Fehler. NATO CAMO 26 Uebung zur medizinischen Massenanfall-Resilienz mit zivil-militaerischer Koordination. Im Browser oeffnen, Text kopieren. |
+| 241 | `Literatur/md/` | `241_NATO_CAMO26_Medical_Resilience.md` | https://shape.nato.int/news-archive/2026/nato-militaries-strengthening-allied-medical-resilience.aspx | 403-Fehler. NATO CAMO 26 Uebung zur medizinischen Massenanfall-Resilienz mit zivil-militaerischer Koordination. Im Browser oeffnen, Text kopieren. |
+
+## Ergaenzung 2026-04-16 — NATO SHAPE 403
+
+| Nr. | Zielordner | Dateiname | URL | Hinweis |
+|-----|-----------|-----------|-----|---------|
+| 242 | `Literatur/md/` | `242_NATO_SHAPE_Sarajevo_Resilience_2026.md` | https://shape.nato.int/news-archive/2026/partnering-to-strengthen-resilience-natos-military-strategic-partnerships-conference-2026-kicks-off-in-sarajevo | 403-Fehler. NATO Military Strategic Partnerships Conference 2026 in Sarajevo, Schwerpunkt Resilienz und Civil Preparedness. Im Browser oeffnen, Text kopieren. |
 
 ## Ergaenzung 2026-03-30 — Fehlgeschlagene PDF-Konvertierungen
 

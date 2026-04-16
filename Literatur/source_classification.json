@@ -1174,5 +1174,23 @@
     "institution": "Bundesregierung / abc-gefahren.de",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "238": {
+    "typ": "journalistisch",
+    "institution": "BfV / Euronews",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "239": {
+    "typ": "grau",
+    "institution": "BABZ / BBK",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
+  },
+  "240": {
+    "typ": "journalistisch",
+    "institution": "KOMMUNAL",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
   }
 }
