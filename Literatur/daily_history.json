@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-15T05:08:42",
-  "run_count": 20,
+  "last_run": "2026-04-16T05:07:02",
+  "run_count": 21,
   "corpus_state": {
-    "total_docs": 215,
-    "total_urls": 1574,
-    "unique_urls": 1486,
+    "total_docs": 218,
+    "total_urls": 1577,
+    "unique_urls": 1489,
     "connected_docs": 62,
-    "isolated_docs": 153,
+    "isolated_docs": 156,
     "edges": 64
   },
   "known_urls": [
@@ -1253,7 +1253,11 @@
     "https://www.recht.bund.de/bgbl/1/2026/66/regelungstext.pdf",
     "https://www.beck-aktuell.de/heute-im-recht/rechtspolitik-gesetzgebung/kritische-infrastruktur-physische-resilienz-betreiberpflicht-kritis-dachgesetz-2026-03-27",
     "https://www.abc-gefahren.de/blog/2026/01/29/risikoanalyse-zivilschutz-2025-fokus-einsatz-chemischer-kampfstoffe/",
-    "https://shape.nato.int/news-archive/2026/nato-militaries-strengthening-allied-medical-resilience.aspx"
+    "https://shape.nato.int/news-archive/2026/nato-militaries-strengthening-allied-medical-resilience.aspx",
+    "https://www.euronews.com/2026/04/14/espionage-sabotage-attacks-german-intelligence-agency-sends-warning-to-defence-industry",
+    "https://www.abc-gefahren.de/blog/2025/11/10/jahresprogramm-2026-der-bundesakademie-fuer-bevoelkerungsschutz-und-zivile-verteidigung-babz/",
+    "https://kommunal.de/zivilschutz-deutschland-schutzlos-im-ernstfall",
+    "https://shape.nato.int/news-archive/2026/partnering-to-strengthen-resilience-natos-military-strategic-partnerships-conference-2026-kicks-off-in-sarajevo"
   ],
   "processed_sources": [],
   "search_log": [
@@ -1425,6 +1429,14 @@
       "results": 3,
       "new": 2,
       "downloaded": 2,
+      "failed": 1
+    },
+    {
+      "date": "2026-04-16",
+      "queries": 14,
+      "results": 20,
+      "new": 4,
+      "downloaded": 3,
       "failed": 1
     }
   ],
