@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-15
+Stand: 2026-04-17
 
 ## Statistik
 
-- **215** Dokumente im Korpus
-- **1486** unique externe URLs
+- **221** Dokumente im Korpus
+- **1492** unique externe URLs
 - **62** Dokumente mit geteilten Quellen
-- **153** isolierte Dokumente (keine geteilten URLs)
+- **159** isolierte Dokumente (keine geteilten URLs)
 - **64** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -15,15 +15,15 @@ Stand: 2026-04-15
 | Dok | Label | Verbindungen |
 |-----|-------|-------------|
 | 30 | Bertelsmann_NATO_Resilience | 10 |
-| 165 | Clingendael_NATO_Resilience | 6 |
 | 31 | NAADSN_7BLR_Policy | 6 |
+| 165 | Clingendael_NATO_Resilience | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 148 | CIMIC_Factsheet_Resilience | 5 |
 | 24 | CIMIC_Factsheet_Resilience | 5 |
 | 69 | Boell_Nordic_Baltic | 5 |
-| 60 | Wikipedia_OPLAN_Deutschland | 4 |
-| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
 | 141 | UA_Flut_RLP | 4 |
+| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
+| 60 | Wikipedia_OPLAN_Deutschland | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 | 17 | Bayika_Gebbeken_KRITIS | 4 |
 | 219 | CSIS_Russia_Shadow | 4 |
@@ -39,16 +39,16 @@ Stand: 2026-04-15
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 30, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
-| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
 | https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 31 |
-| https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 30, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 31 |
 | https://www | 219, 234, 30 |
+| https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 30, 31 |
 | https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376 | 04, 05 |
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
-| https://www.hochwasserzentralen.de | 101, 141 |
 | https://www.instagram.com/bbk_bund | 101, 76 |
+| https://www.hochwasserzentralen.de | 101, 141 |
 
 ## Meistgenutzte Domaenen
 
@@ -81,10 +81,10 @@ Stand: 2026-04-15
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 51 | 24% |
-| Sekundaerquelle | 39 | 18% |
-| Graue Literatur | 61 | 28% |
-| Journalistische Quelle | 36 | 17% |
+| Primaerquelle | 53 | 24% |
+| Sekundaerquelle | 40 | 18% |
+| Graue Literatur | 62 | 28% |
+| Journalistische Quelle | 38 | 17% |
 | Tertiaerquelle | 6 | 3% |
 | Aktivistische Quelle | 3 | 1% |
 
@@ -92,8 +92,8 @@ Stand: 2026-04-15
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 77 | 36% |
-| mittel | 91 | 42% |
+| hoch | 79 | 36% |
+| mittel | 95 | 43% |
 | niedrig | 28 | 13% |
 
 ### Farbcodierung im Graph
@@ -324,6 +324,12 @@ Stand: 2026-04-15
 | 235 | KRITIS_Dachgesetz_BGBl | primaer | Bundesregierung | 2026 | hoch |
 | 236 | Beck_KRITIS_Dachgesetz | sekundaer | beck-aktuell / PwC Deutschland | 2026 | mittel |
 | 237 | Risikoanalyse_Zivilschutz_2025 | grau | Bundesregierung / abc-gefahren.de | 2026 | mittel |
+| 238 | BfV_Warnung_Ruestungsindustrie | journalistisch | BfV / Euronews | 2026 | mittel |
+| 239 | BABZ_Jahresprogramm_2026 | grau | BABZ / BBK | 2025 | mittel |
+| 240 | Kommunal_Zivilschutz_Schutzlos | journalistisch | KOMMUNAL | 2025 | mittel |
+| 241 | Boell_Quis_Comprehensive | sekundaer | Heinrich-Boell-Stiftung | 2026 | hoch |
+| 242 | NATO_SHAPE_Partnerships | primaer | NATO SHAPE | 2026 | mittel |
+| 243 | NATO_SHAPE_Medical | primaer | NATO SHAPE | 2026 | hoch |
 
 ## Isolierte Dokumente
 
@@ -442,6 +448,12 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 235: KRITIS_Dachgesetz_BGBl (primaer)
 - 236: Beck_KRITIS_Dachgesetz (sekundaer)
 - 237: Risikoanalyse_Zivilschutz_2025 (grau)
+- 238: BfV_Warnung_Ruestungsindustrie (journalistisch)
+- 239: BABZ_Jahresprogramm_2026 (grau)
+- 240: Kommunal_Zivilschutz_Schutzlos (journalistisch)
+- 241: Boell_Quis_Comprehensive (sekundaer)
+- 242: NATO_SHAPE_Partnerships (primaer)
+- 243: NATO_SHAPE_Medical (primaer)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 29: NATO_CPG_Seminar (grau)
 - 34: EU_TAFF_Civil (grau)
@@ -559,8 +571,8 @@ graph LR
     D85 -->|2| D87
     D101 -->|2| D76
     D148 -->|2| D30
-    D165 -->|2| D30
     D24 -->|2| D30
+    D165 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -572,13 +584,13 @@ graph LR
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
-    D100 -->|1| D60
-    D60 -->|1| D85
     D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
+    D100 -->|1| D60
+    D60 -->|1| D85
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108
@@ -602,10 +614,10 @@ graph LR
     D17 -->|1| D93
     D200 -->|1| D234
     D216 -->|1| D30
-    D219 -->|1| D31
-    D219 -->|1| D38
     D219 -->|1| D234
     D234 -->|1| D30
+    D219 -->|1| D38
+    D219 -->|1| D31
     D30 -->|1| D66
     D48 -->|1| D49
     D59 -->|1| D60

@@ -1192,5 +1192,23 @@
     "institution": "KOMMUNAL",
     "jahr": 2025,
     "evidenzgrad": "mittel"
+  },
+  "241": {
+    "typ": "sekundaer",
+    "institution": "Heinrich-Boell-Stiftung",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "242": {
+    "typ": "primaer",
+    "institution": "NATO SHAPE",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "243": {
+    "typ": "primaer",
+    "institution": "NATO SHAPE",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
   }
 }
