@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-16
+Stand: 2026-04-18
 
 ## Statistik
 
-- **218** Dokumente im Korpus
-- **1489** unique externe URLs
+- **225** Dokumente im Korpus
+- **1496** unique externe URLs
 - **62** Dokumente mit geteilten Quellen
-- **156** isolierte Dokumente (keine geteilten URLs)
+- **163** isolierte Dokumente (keine geteilten URLs)
 - **64** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -58,7 +58,7 @@ Stand: 2026-04-16
 | bmi.bund.de | 14 | 04, 08, 112, 12, 13, 141, 17, 226, 30, 50... |
 | dserver.bundestag.de | 12 | 06, 07, 08, 14, 15, 17, 234, 30, 66, 73... |
 | nato.int | 12 | 148, 165, 211, 219, 22, 230, 24, 29, 30, 31... |
-| bundestag.de | 10 | 06, 07, 14, 145, 15, 16, 17, 49, 79, 91 |
+| bundestag.de | 11 | 06, 07, 14, 145, 15, 16, 17, 244, 49, 79... |
 | dwd.de | 9 | 100, 102, 103, 131, 141, 171, 212, 95, 96 |
 | bundeswehr.de | 9 | 131, 197, 234, 60, 61, 62, 63, 64, 66 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
@@ -81,20 +81,20 @@ Stand: 2026-04-16
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 51 | 23% |
-| Sekundaerquelle | 39 | 18% |
-| Graue Literatur | 62 | 28% |
+| Primaerquelle | 54 | 24% |
+| Sekundaerquelle | 40 | 18% |
+| Graue Literatur | 64 | 28% |
 | Journalistische Quelle | 38 | 17% |
 | Tertiaerquelle | 6 | 3% |
-| Aktivistische Quelle | 3 | 1% |
+| Aktivistische Quelle | 4 | 2% |
 
 ### Verteilung nach Evidenzgrad
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 77 | 35% |
-| mittel | 94 | 43% |
-| niedrig | 28 | 13% |
+| hoch | 81 | 36% |
+| mittel | 97 | 43% |
+| niedrig | 28 | 12% |
 
 ### Farbcodierung im Graph
 
@@ -327,6 +327,13 @@ Stand: 2026-04-16
 | 238 | BfV_Warnung_Ruestungsindustrie | journalistisch | BfV / Euronews | 2026 | mittel |
 | 239 | BABZ_Jahresprogramm_2026 | grau | BABZ / BBK | 2025 | mittel |
 | 240 | Kommunal_Zivilschutz_Schutzlos | journalistisch | KOMMUNAL | 2025 | mittel |
+| 241 | Boell_Quis_Comprehensive | sekundaer | Heinrich-Boell-Stiftung | 2026 | hoch |
+| 242 | NATO_SHAPE_Partnerships | primaer | NATO SHAPE | 2026 | mittel |
+| 243 | NATO_SHAPE_Medical | primaer | NATO SHAPE | 2026 | hoch |
+| 244 | BT_Antrag_Zeitenwende | primaer | Deutscher Bundestag | 2026 | hoch |
+| 245 | EU_Preparedness_Union | grau | DG ECHO – European Commission | 2026 | hoch |
+| 246 | EU_Citizens_Panel | grau | DG ECHO – European Commission | 2026 | mittel |
+| 247 | Kappe_Hamburg_Resiliente | aktivistisch | CDU-Buergerschaftsfraktion Hamburg | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -448,6 +455,13 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 238: BfV_Warnung_Ruestungsindustrie (journalistisch)
 - 239: BABZ_Jahresprogramm_2026 (grau)
 - 240: Kommunal_Zivilschutz_Schutzlos (journalistisch)
+- 241: Boell_Quis_Comprehensive (sekundaer)
+- 242: NATO_SHAPE_Partnerships (primaer)
+- 243: NATO_SHAPE_Medical (primaer)
+- 244: BT_Antrag_Zeitenwende (primaer)
+- 245: EU_Preparedness_Union (grau)
+- 246: EU_Citizens_Panel (grau)
+- 247: Kappe_Hamburg_Resiliente (aktivistisch)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 29: NATO_CPG_Seminar (grau)
 - 34: EU_TAFF_Civil (grau)
@@ -565,8 +579,8 @@ graph LR
     D85 -->|2| D87
     D101 -->|2| D76
     D148 -->|2| D30
-    D24 -->|2| D30
     D165 -->|2| D30
+    D24 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -580,11 +594,11 @@ graph LR
     D07 -->|1| D08
     D100 -->|1| D60
     D60 -->|1| D85
-    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
+    D100 -->|1| D102
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108
@@ -608,8 +622,8 @@ graph LR
     D17 -->|1| D93
     D200 -->|1| D234
     D216 -->|1| D30
-    D219 -->|1| D38
     D219 -->|1| D31
+    D219 -->|1| D38
     D219 -->|1| D234
     D234 -->|1| D30
     D30 -->|1| D66
