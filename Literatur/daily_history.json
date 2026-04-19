@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-18T05:09:20",
-  "run_count": 23,
+  "last_run": "2026-04-19T05:13:18",
+  "run_count": 24,
   "corpus_state": {
-    "total_docs": 225,
-    "total_urls": 1584,
-    "unique_urls": 1496,
+    "total_docs": 232,
+    "total_urls": 1591,
+    "unique_urls": 1503,
     "connected_docs": 62,
-    "isolated_docs": 163,
+    "isolated_docs": 170,
     "edges": 64
   },
   "known_urls": [
@@ -169,6 +169,7 @@
     "https://de.wikipedia.org/wiki/Projekt",
     "https://defence-industry-space",
     "https://defence-industry-space.ec.europa.eu/eu-defence-industry/military-mobility_en",
+    "https://defence-network.com/hybrider-krieg-kritische-infrastruktur-ostsee/",
     "https://defence-network.com/oplan-deu-zivile-akteure-geheimhaltung/",
     "https://defence24.com/geopolitics/ready-for-war-swedens-total-defence",
     "https://dgap.org/de/forschung/expertise/europa",
@@ -580,6 +581,7 @@
     "https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Versorgungssicherheit/Strom/start.html",
     "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2024/20241111_SAIDI_Strom.html?nn=659670",
     "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2025/20251009_Saidi_Strom.html",
+    "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1062/1062-node.html",
     "https://www.bundesregierung.de/breg-de/aktuelles/gedenken-flut-ahrtal-2364150",
     "https://www.bundesregierung.de/breg-de/aktuelles/kabinett-kritis-dachgesetz-2383682",
     "https://www.bundesregierung.de/breg-de/aktuelles/stromausfall-blackout-2129818",
@@ -606,6 +608,7 @@
     "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/im-einsatz/bundeswehr-einsatz-hochwassergebiet",
     "https://www.bundeswehr.de/de/selbstverstaendnis/geschichte-bundeswehr/territoriales-fuehrungskommando-der-bundeswehr/operationsplan-deutschland-5703688",
     "https://www.bundeswehr.de/de/ueber-die-bundeswehr/zahlen-daten-fakten/personalzahlen-bundeswehr",
+    "https://www.bundeswehr.de/en/organization/bundeswehr-joint-force-command/missions/operational-plan-for-germany",
     "https://www.bundeswehr.de/resource/blob/5761202/71896194b0403b5830fceb02493b1984/oplan-data.pdf",
     "https://www.bundeswehr.de/resource/blob/5920008/5eb62255741addec3f38d49a443d0282/booklet-operationsplan-deutschland-data.pdf",
     "https://www.bundeswehr.de/resource/blob/5920008/980d592bf03ed2e7fbb1d4a57bda712b/booklet-operationsplan-deutschland-data.pdf",
@@ -736,6 +739,7 @@
     "https://www.enbw.com/unternehmen/themen/netze/",
     "https://www.enbw.com/unternehmen/themen/netze/blackout.html",
     "https://www.energie-chronik.de/210302.htm",
+    "https://www.epc.eu/publication/Civil-preparedness-is-a-right-60949c/",
     "https://www.euro-defence.eu/",
     "https://www.eurointegration.com.ua/eng/news/2024/12/26/7201375/",
     "https://www.euronews.com/2026/04/14/espionage-sabotage-attacks-german-intelligence-agency-sends-warning-to-defence-industry",
@@ -828,6 +832,7 @@
     "https://www.imi-online.de/2026/03/16/operationsplan-deutschland-2/",
     "https://www.infranken.de/ratgeber/verbraucher/angst-vor-stromausfall-in-deutschland-waechst-regierung-empfiehlt-notfall-vorraete-checkliste-fuer-blackout-art-5517516",
     "https://www.innenministerkonferenz.de/IMK/DE/termine/to-beschluesse/20220603/beschluesse.pdf?__blob=publicationFile&v=3",
+    "https://www.innenministerkonferenz.de/IMK/DE/termine/to-beschluesse/2025-06-13_DOK/TOP_57.pdf",
     "https://www.instagram.com/Krisennavigator",
     "https://www.instagram.com/bayikabau/?hl=de",
     "https://www.instagram.com/bbk_bund/",
@@ -846,6 +851,7 @@
     "https://www.katastrophenpsychologie.de/Krisenpsychologie.1153.0.html",
     "https://www.katastrophenschutzumfrage.de/Katastrophenschutzumfrage-2024-Status-Quo-und-Verbesserungsbedarf-im-Bevoe.1342.0.html",
     "https://www.katrima.de/DE/Nationale_Plattform/Bericht_NP_Resilienz_2025.pdf",
+    "https://www.katrima.de/DE/Wer_macht_was/Regelwerke/Plan/UP_Resilienzstrategie.html",
     "https://www.klima-mensch-gesundheit.de/hitzeschutz/",
     "https://www.klimareporter.de/erdsystem/wenn-der-jetstream-einrastet",
     "https://www.knmi.nl/research/publications/standard-method-for-determining-a-climatologicaltrend",
@@ -964,6 +970,7 @@
     "https://www.nato.int/docu/review/articles/2019/02/27/resilience-the-first-line-of",
     "https://www.nato.int/docu/review/articles/2019/02/27/resilience-the-first-line-of-defence/index.html",
     "https://www.nato.int/en/about-us/official-texts-and-resources/secretary-generals-annual-report/secretary-generals-annual-report-2025",
+    "https://www.nato.int/en/news-and-events/articles/news/2026/01/22/nato-secretary-general-discusses-transatlantic-security-champions-defence-investments-and-ukraine-support-in-davos",
     "https://www.nato.int/en/what-we-do/deterrence-and-defence/resilience-civil-preparedness-and-article-3",
     "https://www.nato.int/nato_static_fl2014/assets/pdf/2022/6/pdf/290622-strategic-concept.pdf",
     "https://www.nato.int/nato_static_fl2014/assets/pdf/2024/6/pdf/240617-def-exp-2024-en.pdf",
@@ -1470,6 +1477,37 @@
       "new_sources": 4,
       "downloaded": 4,
       "failed": 0
+    },
+    {
+      "date": "2026-04-19",
+      "queries": [
+        "Bevoelkerungsschutz/Zivilschutz 2026",
+        "KRITIS-Dachgesetz 2026",
+        "NATO resilience civil preparedness 2026",
+        "Katastrophenschutz Hamburg 2026",
+        "BBK Publikation 2026",
+        "DGAP/SWP 2026",
+        "Ostsee Unterseekabel 2026",
+        "Bundestag Drucksache 2026",
+        "BBK Magazin 1/2026",
+        "OPLAN Deutschland 2026"
+      ],
+      "results_found": 40,
+      "new_candidates": 10,
+      "downloaded": 7,
+      "failed": 2,
+      "failed_details": [
+        {
+          "title": "Schweden Regierung EU Civil Prep 2nd Ministerial",
+          "url": "https://www.government.se/press-releases/2025/11/european-coalition-for-civil-preparedness-and-resilience-holds-second-ministerial-meeting/",
+          "reason": "HTTP 403"
+        },
+        {
+          "title": "NZZ Ostsee Kabelschneider",
+          "url": "https://www.nzz.ch/international/kriegsschauplatz-ostsee-kommen-nach-den-kabelschneidern-die-umweltzerstoerer-ld.1868615",
+          "reason": "HTTP 402 Paywall"
+        }
+      ]
     }
   ],
   "failed_downloads": {}
