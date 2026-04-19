@@ -1234,5 +1234,47 @@
     "institution": "Greenpeace",
     "jahr": 2024,
     "typ": "aktivistisch"
+  },
+  "248": {
+    "typ": "primaer",
+    "institution": "Innenministerkonferenz (IMK) — BLoAG ZV/ZMZ",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "249": {
+    "typ": "primaer",
+    "institution": "Bundesrat",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "250": {
+    "typ": "primaer",
+    "institution": "BMI / KatRiMa-Portal",
+    "jahr": 2024,
+    "evidenzgrad": "hoch"
+  },
+  "251": {
+    "typ": "primaer",
+    "institution": "Bundeswehr — Joint Force Command",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "252": {
+    "typ": "primaer",
+    "institution": "NATO",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "253": {
+    "typ": "sekundaer",
+    "institution": "defence-network.com — Beraterin Insp. Marine",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "254": {
+    "typ": "sekundaer",
+    "institution": "European Policy Centre (EPC)",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
   }
 }

@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-18
+Stand: 2026-04-19
 
 ## Statistik
 
-- **225** Dokumente im Korpus
-- **1496** unique externe URLs
+- **232** Dokumente im Korpus
+- **1503** unique externe URLs
 - **62** Dokumente mit geteilten Quellen
-- **163** isolierte Dokumente (keine geteilten URLs)
+- **170** isolierte Dokumente (keine geteilten URLs)
 - **64** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -15,8 +15,8 @@ Stand: 2026-04-18
 | Dok | Label | Verbindungen |
 |-----|-------|-------------|
 | 30 | Bertelsmann_NATO_Resilience | 10 |
-| 31 | NAADSN_7BLR_Policy | 6 |
 | 165 | Clingendael_NATO_Resilience | 6 |
+| 31 | NAADSN_7BLR_Policy | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 148 | CIMIC_Factsheet_Resilience | 5 |
 | 24 | CIMIC_Factsheet_Resilience | 5 |
@@ -47,8 +47,8 @@ Stand: 2026-04-18
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
-| https://twitter.com/BBK_Bund | 101, 76 |
 | https://www.hochwasserzentralen.de | 101, 141 |
+| https://www.instagram.com/bbk_bund | 101, 76 |
 
 ## Meistgenutzte Domaenen
 
@@ -56,11 +56,11 @@ Stand: 2026-04-18
 |--------|-----------------|---------|
 | bbk.bund.de | 28 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | bmi.bund.de | 14 | 04, 08, 112, 12, 13, 141, 17, 226, 30, 50... |
+| nato.int | 13 | 148, 165, 211, 219, 22, 230, 24, 252, 29, 30... |
 | dserver.bundestag.de | 12 | 06, 07, 08, 14, 15, 17, 234, 30, 66, 73... |
-| nato.int | 12 | 148, 165, 211, 219, 22, 230, 24, 29, 30, 31... |
 | bundestag.de | 11 | 06, 07, 14, 145, 15, 16, 17, 244, 49, 79... |
+| bundeswehr.de | 10 | 131, 197, 234, 251, 60, 61, 62, 63, 64, 66 |
 | dwd.de | 9 | 100, 102, 103, 131, 141, 171, 212, 95, 96 |
-| bundeswehr.de | 9 | 131, 197, 234, 60, 61, 62, 63, 64, 66 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | dgap.org | 8 | 166, 167, 169, 221, 227, 65, 66, 67 |
 | bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
@@ -81,10 +81,10 @@ Stand: 2026-04-18
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 54 | 24% |
-| Sekundaerquelle | 40 | 18% |
+| Primaerquelle | 59 | 25% |
+| Sekundaerquelle | 42 | 18% |
 | Graue Literatur | 64 | 28% |
-| Journalistische Quelle | 38 | 17% |
+| Journalistische Quelle | 38 | 16% |
 | Tertiaerquelle | 6 | 3% |
 | Aktivistische Quelle | 4 | 2% |
 
@@ -92,8 +92,8 @@ Stand: 2026-04-18
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 81 | 36% |
-| mittel | 97 | 43% |
+| hoch | 86 | 37% |
+| mittel | 99 | 43% |
 | niedrig | 28 | 12% |
 
 ### Farbcodierung im Graph
@@ -334,6 +334,13 @@ Stand: 2026-04-18
 | 245 | EU_Preparedness_Union | grau | DG ECHO – European Commission | 2026 | hoch |
 | 246 | EU_Citizens_Panel | grau | DG ECHO – European Commission | 2026 | mittel |
 | 247 | Kappe_Hamburg_Resiliente | aktivistisch | CDU-Buergerschaftsfraktion Hamburg | 2026 | mittel |
+| 248 | IMK_BLAG_ZV | primaer | Innenministerkonferenz (IMK) — BLoAG ZV/ZMZ | 2025 | hoch |
+| 249 | Bundesrat_1062_Sitzung | primaer | Bundesrat | 2026 | hoch |
+| 250 | KatRiMa_Umsetzungsplan_Resilienzstrategie | primaer | BMI / KatRiMa-Portal | 2024 | hoch |
+| 251 | Bundeswehr_OPLAN_Deutschland | primaer | Bundeswehr — Joint Force Command | 2026 | hoch |
+| 252 | NATO_SG_Davos | primaer | NATO | 2026 | mittel |
+| 253 | Defence_Network_Hybrider | sekundaer | defence-network.com — Beraterin Insp. Marine | 2025 | hoch |
+| 254 | EPC_Civil_Preparedness | sekundaer | European Policy Centre (EPC) | 2025 | mittel |
 
 ## Isolierte Dokumente
 
@@ -462,6 +469,13 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 245: EU_Preparedness_Union (grau)
 - 246: EU_Citizens_Panel (grau)
 - 247: Kappe_Hamburg_Resiliente (aktivistisch)
+- 248: IMK_BLAG_ZV (primaer)
+- 249: Bundesrat_1062_Sitzung (primaer)
+- 250: KatRiMa_Umsetzungsplan_Resilienzstrategie (primaer)
+- 251: Bundeswehr_OPLAN_Deutschland (primaer)
+- 252: NATO_SG_Davos (primaer)
+- 253: Defence_Network_Hybrider (sekundaer)
+- 254: EPC_Civil_Preparedness (sekundaer)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 29: NATO_CPG_Seminar (grau)
 - 34: EU_TAFF_Civil (grau)
@@ -594,11 +608,11 @@ graph LR
     D07 -->|1| D08
     D100 -->|1| D60
     D60 -->|1| D85
+    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D102
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108
@@ -623,9 +637,9 @@ graph LR
     D200 -->|1| D234
     D216 -->|1| D30
     D219 -->|1| D31
-    D219 -->|1| D38
     D219 -->|1| D234
     D234 -->|1| D30
+    D219 -->|1| D38
     D30 -->|1| D66
     D48 -->|1| D49
     D59 -->|1| D60
