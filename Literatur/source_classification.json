@@ -821,6 +821,66 @@
     "jahr": 2026,
     "typ": "aktivistisch"
   },
+  "248": {
+    "evidenzgrad": "hoch",
+    "institution": "Innenministerkonferenz (IMK) — BLoAG ZV/ZMZ",
+    "jahr": 2025,
+    "typ": "primaer"
+  },
+  "249": {
+    "evidenzgrad": "hoch",
+    "institution": "Bundesrat",
+    "jahr": 2026,
+    "typ": "primaer"
+  },
+  "250": {
+    "evidenzgrad": "hoch",
+    "institution": "BMI / KatRiMa-Portal",
+    "jahr": 2024,
+    "typ": "primaer"
+  },
+  "251": {
+    "evidenzgrad": "hoch",
+    "institution": "Bundeswehr — Joint Force Command",
+    "jahr": 2026,
+    "typ": "primaer"
+  },
+  "252": {
+    "evidenzgrad": "mittel",
+    "institution": "NATO",
+    "jahr": 2026,
+    "typ": "primaer"
+  },
+  "253": {
+    "evidenzgrad": "hoch",
+    "institution": "defence-network.com — Beraterin Insp. Marine",
+    "jahr": 2025,
+    "typ": "sekundaer"
+  },
+  "254": {
+    "evidenzgrad": "mittel",
+    "institution": "European Policy Centre (EPC)",
+    "jahr": 2025,
+    "typ": "sekundaer"
+  },
+  "255": {
+    "evidenzgrad": "hoch",
+    "institution": "Bundesrechnungshof",
+    "jahr": 2025,
+    "typ": "primaer"
+  },
+  "256": {
+    "evidenzgrad": "hoch",
+    "institution": "Innenministerkonferenz (IMK)",
+    "jahr": 2025,
+    "typ": "primaer"
+  },
+  "257": {
+    "evidenzgrad": "niedrig",
+    "institution": "Informationsstelle Militarisierung (IMI)",
+    "jahr": 2026,
+    "typ": "aktivistisch"
+  },
   "28": {
     "evidenzgrad": "hoch",
     "institution": "IOS Press",
@@ -1234,47 +1294,5 @@
     "institution": "Greenpeace",
     "jahr": 2024,
     "typ": "aktivistisch"
-  },
-  "248": {
-    "typ": "primaer",
-    "institution": "Innenministerkonferenz (IMK) — BLoAG ZV/ZMZ",
-    "jahr": 2025,
-    "evidenzgrad": "hoch"
-  },
-  "249": {
-    "typ": "primaer",
-    "institution": "Bundesrat",
-    "jahr": 2026,
-    "evidenzgrad": "hoch"
-  },
-  "250": {
-    "typ": "primaer",
-    "institution": "BMI / KatRiMa-Portal",
-    "jahr": 2024,
-    "evidenzgrad": "hoch"
-  },
-  "251": {
-    "typ": "primaer",
-    "institution": "Bundeswehr — Joint Force Command",
-    "jahr": 2026,
-    "evidenzgrad": "hoch"
-  },
-  "252": {
-    "typ": "primaer",
-    "institution": "NATO",
-    "jahr": 2026,
-    "evidenzgrad": "mittel"
-  },
-  "253": {
-    "typ": "sekundaer",
-    "institution": "defence-network.com — Beraterin Insp. Marine",
-    "jahr": 2025,
-    "evidenzgrad": "hoch"
-  },
-  "254": {
-    "typ": "sekundaer",
-    "institution": "European Policy Centre (EPC)",
-    "jahr": 2025,
-    "evidenzgrad": "mittel"
   }
 }

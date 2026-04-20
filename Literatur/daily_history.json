@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-19T05:13:18",
-  "run_count": 24,
+  "last_run": "2026-04-20T05:13:20",
+  "run_count": 25,
   "corpus_state": {
-    "total_docs": 232,
-    "total_urls": 1591,
-    "unique_urls": 1503,
-    "connected_docs": 62,
-    "isolated_docs": 170,
-    "edges": 64
+    "total_docs": 235,
+    "total_urls": 1598,
+    "unique_urls": 1509,
+    "connected_docs": 63,
+    "isolated_docs": 172,
+    "edges": 65
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -582,6 +582,7 @@
     "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2024/20241111_SAIDI_Strom.html?nn=659670",
     "https://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2025/20251009_Saidi_Strom.html",
     "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1062/1062-node.html",
+    "https://www.bundesrechnungshof.de/SharedDocs/Downloads/DE/Berichte/2025/einzelplan-2026/06-volltext.pdf",
     "https://www.bundesregierung.de/breg-de/aktuelles/gedenken-flut-ahrtal-2364150",
     "https://www.bundesregierung.de/breg-de/aktuelles/kabinett-kritis-dachgesetz-2383682",
     "https://www.bundesregierung.de/breg-de/aktuelles/stromausfall-blackout-2129818",
@@ -830,9 +831,11 @@
     "https://www.idgard.com/de/blog/hybride-cyberangriffe-deutschland-2026-schutz/",
     "https://www.idgard.com/de/glossar/kritis-dachgesetz/",
     "https://www.imi-online.de/2026/03/16/operationsplan-deutschland-2/",
+    "https://www.imi-online.de/2026/04/02/zeitenwende-oder-zeitreise-das-strategische-recycling-der-abschreckung/",
     "https://www.infranken.de/ratgeber/verbraucher/angst-vor-stromausfall-in-deutschland-waechst-regierung-empfiehlt-notfall-vorraete-checkliste-fuer-blackout-art-5517516",
     "https://www.innenministerkonferenz.de/IMK/DE/termine/to-beschluesse/20220603/beschluesse.pdf?__blob=publicationFile&v=3",
     "https://www.innenministerkonferenz.de/IMK/DE/termine/to-beschluesse/2025-06-13_DOK/TOP_57.pdf",
+    "https://www.innenministerkonferenz.de/IMK/DE/termine/to-beschluesse/2025-12-05_DOK/beschl%C3%BCsse.pdf",
     "https://www.instagram.com/Krisennavigator",
     "https://www.instagram.com/bayikabau/?hl=de",
     "https://www.instagram.com/bbk_bund/",
@@ -1508,6 +1511,25 @@
           "reason": "HTTP 402 Paywall"
         }
       ]
+    },
+    {
+      "date": "2026-04-20",
+      "queries": [
+        "ZSKG",
+        "KRITIS-Dachgesetz",
+        "Zivilschutzgesetz",
+        "Katastrophenschutz",
+        "Bevölkerungsschutz",
+        "NATO civil preparedness 2026",
+        "IMK Beschlüsse 2026",
+        "Bundesrechnungshof Einzelplan 06 BMI 2026",
+        "BBK/THW April 2026",
+        "DGAP Gesamtverteidigung 2026"
+      ],
+      "results": "institutioneller Korpus weitgehend abgedeckt; 3 wirklich neue Quellen identifiziert",
+      "new": 3,
+      "downloaded": 3,
+      "failed": 0
     }
   ],
   "failed_downloads": {}
