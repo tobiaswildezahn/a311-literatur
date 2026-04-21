@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-20T05:13:20",
-  "run_count": 25,
+  "last_run": "2026-04-21T05:10:00",
+  "run_count": 26,
   "corpus_state": {
-    "total_docs": 235,
-    "total_urls": 1598,
-    "unique_urls": 1509,
+    "total_docs": 238,
+    "total_urls": 1601,
+    "unique_urls": 1512,
     "connected_docs": 63,
-    "isolated_docs": 172,
+    "isolated_docs": 175,
     "edges": 65
   },
   "known_urls": [
@@ -428,6 +428,7 @@
     "https://www.abc-gefahren.de/blog/2025/11/21/interschutz-2026-bevoelkerungsschutz-rueckt-ins-zentrum-der-weltleitmesse/",
     "https://www.abc-gefahren.de/blog/2026/01/29/risikoanalyse-zivilschutz-2025-fokus-einsatz-chemischer-kampfstoffe/",
     "https://www.act.nato.int/article/a-new-resilience-data-analytics-tool/",
+    "https://www.ad-hoc-news.de/boerse/news/ueberblick/offenbach-dialog-wirtschaft-wird-zum-rueckgrat-der-landesverteidigung/69188037",
     "https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021",
     "https://www.aerzteblatt.de/news/205-arztpraxen-liegen-im-berliner-stromausfallgebiet-fb74ac63-9776-4cb5-89e6-344a42982037",
     "https://www.akademienunion.de/fileadmin/au-uploads/publikationen/Publikationen_PDFs/2023/ESYS_Impuls_Blackouts.pdf",
@@ -605,6 +606,7 @@
     "https://www.bundeswehr.de/de/organisation/fuehrungsakademie-der-bundeswehr/mediathek/verteidigungsfaehigkeit-gesellschaft-5961012",
     "https://www.bundeswehr.de/de/organisation/operatives-fuehrungskommando-der-bundeswehr",
     "https://www.bundeswehr.de/de/organisation/operatives-fuehrungskommando-der-bundeswehr/auftrag-und-aufgaben/host-nation-support",
+    "https://www.bundeswehr.de/de/organisation/operatives-fuehrungskommando-der-bundeswehr/landeskommando/hamburg/uebung-red-storm-charlie",
     "https://www.bundeswehr.de/de/organisation/operatives-fuehrungskommando-der-bundeswehr/stresstest-operationsplan-deutschland-5863010",
     "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/im-einsatz/bundeswehr-einsatz-hochwassergebiet",
     "https://www.bundeswehr.de/de/selbstverstaendnis/geschichte-bundeswehr/territoriales-fuehrungskommando-der-bundeswehr/operationsplan-deutschland-5703688",
@@ -795,6 +797,7 @@
     "https://www.gfz-potsdam.de/presse/meldungen/detailansicht/anlaesslich-der-hochwasserlage-in-sueddeutschland",
     "https://www.gfz-potsdam.de/presse/meldungen/detailansicht/fragen-und-antworten-zur-aktuellen-hochwasserlage-in-deutschland",
     "https://www.globalsecurity.org/intell/library/news/2026/intell-260316-ec01.htm",
+    "https://www.globalsecurity.org/military/library/news/2026/04/mil-260417-nato01.htm",
     "https://www.globsec.org/what-we-do/commentaries/how-russias-hybrid-warfare-will-escalate-2026-and-what-europe-must-do",
     "https://www.gmfus.org/news/nato-and-societal-resilience-all-hands-deck-age-war",
     "https://www.gmx.net/magazine/politik/inland/wegner-wankt-tennis-match-folgen-41763218",
@@ -1528,6 +1531,26 @@
       ],
       "results": "institutioneller Korpus weitgehend abgedeckt; 3 wirklich neue Quellen identifiziert",
       "new": 3,
+      "downloaded": 3,
+      "failed": 0
+    },
+    {
+      "date": "2026-04-21",
+      "queries": [
+        "Bevoelkerungsschutz/Zivilschutz April 2026",
+        "KRITIS-Dachgesetz Bundestag 2026",
+        "NATO civil preparedness April 2026",
+        "Katastrophenschutz Hamburg Feuerwehr 2026",
+        "BBK Risikoanalyse Chemische Kampfstoffe",
+        "Bayerisches Landesamt Bevoelkerungsschutz 15. April",
+        "Red Storm 2026 Hamburg Bundeswehr",
+        "DGAP SWP Gesamtverteidigung April 2026",
+        "BBK Selbstschutz 2026",
+        "Ostsee Baltic Sentry NATO April 2026",
+        "Offenbach-Dialog 2026 Wirtschaft Gesamtverteidigung"
+      ],
+      "results_found": 80,
+      "new_candidates": 3,
       "downloaded": 3,
       "failed": 0
     }

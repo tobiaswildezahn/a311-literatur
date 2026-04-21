@@ -1,34 +1,34 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-19
+Stand: 2026-04-21
 
 ## Statistik
 
-- **232** Dokumente im Korpus
-- **1503** unique externe URLs
-- **62** Dokumente mit geteilten Quellen
-- **170** isolierte Dokumente (keine geteilten URLs)
-- **64** Verbindungen (mind. 2 geteilte URLs)
+- **238** Dokumente im Korpus
+- **1512** unique externe URLs
+- **63** Dokumente mit geteilten Quellen
+- **175** isolierte Dokumente (keine geteilten URLs)
+- **65** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
 
 | Dok | Label | Verbindungen |
 |-----|-------|-------------|
 | 30 | Bertelsmann_NATO_Resilience | 10 |
-| 165 | Clingendael_NATO_Resilience | 6 |
 | 31 | NAADSN_7BLR_Policy | 6 |
+| 165 | Clingendael_NATO_Resilience | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 148 | CIMIC_Factsheet_Resilience | 5 |
 | 24 | CIMIC_Factsheet_Resilience | 5 |
 | 69 | Boell_Nordic_Baltic | 5 |
-| 60 | Wikipedia_OPLAN_Deutschland | 4 |
-| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
 | 141 | UA_Flut_RLP | 4 |
+| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
+| 60 | Wikipedia_OPLAN_Deutschland | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 | 17 | Bayika_Gebbeken_KRITIS | 4 |
 | 219 | CSIS_Russia_Shadow | 4 |
+| 08 | BBK_Risikoanalysen_Uebersicht | 3 |
 | 87 | CleanThinking_Vulkangruppe | 3 |
-| 16 | Datenschutz_Notizen_KRITIS | 3 |
 
 ## Meistzitierte externe Quellen
 
@@ -46,20 +46,20 @@ Stand: 2026-04-19
 | https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376 | 04, 05 |
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
+| https://www.bbk.bund.de/DE/Infothek/Glossar/_functions/glossar.html | 08, 255 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
 | https://www.hochwasserzentralen.de | 101, 141 |
-| https://www.instagram.com/bbk_bund | 101, 76 |
 
 ## Meistgenutzte Domaenen
 
 | Domain | Anzahl Dokumente | Dok-IDs |
 |--------|-----------------|---------|
-| bbk.bund.de | 28 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
+| bbk.bund.de | 29 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | bmi.bund.de | 14 | 04, 08, 112, 12, 13, 141, 17, 226, 30, 50... |
 | nato.int | 13 | 148, 165, 211, 219, 22, 230, 24, 252, 29, 30... |
 | dserver.bundestag.de | 12 | 06, 07, 08, 14, 15, 17, 234, 30, 66, 73... |
 | bundestag.de | 11 | 06, 07, 14, 145, 15, 16, 17, 244, 49, 79... |
-| bundeswehr.de | 10 | 131, 197, 234, 251, 60, 61, 62, 63, 64, 66 |
+| bundeswehr.de | 11 | 131, 197, 234, 251, 258, 60, 61, 62, 63, 64... |
 | dwd.de | 9 | 100, 102, 103, 131, 141, 171, 212, 95, 96 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | dgap.org | 8 | 166, 167, 169, 221, 227, 65, 66, 67 |
@@ -81,20 +81,20 @@ Stand: 2026-04-19
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 59 | 25% |
+| Primaerquelle | 61 | 26% |
 | Sekundaerquelle | 42 | 18% |
-| Graue Literatur | 64 | 28% |
-| Journalistische Quelle | 38 | 16% |
+| Graue Literatur | 65 | 27% |
+| Journalistische Quelle | 40 | 17% |
 | Tertiaerquelle | 6 | 3% |
-| Aktivistische Quelle | 4 | 2% |
+| Aktivistische Quelle | 5 | 2% |
 
 ### Verteilung nach Evidenzgrad
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 86 | 37% |
-| mittel | 99 | 43% |
-| niedrig | 28 | 12% |
+| hoch | 89 | 37% |
+| mittel | 101 | 42% |
+| niedrig | 29 | 12% |
 
 ### Farbcodierung im Graph
 
@@ -341,6 +341,12 @@ Stand: 2026-04-19
 | 252 | NATO_SG_Davos | primaer | NATO | 2026 | mittel |
 | 253 | Defence_Network_Hybrider | sekundaer | defence-network.com — Beraterin Insp. Marine | 2025 | hoch |
 | 254 | EPC_Civil_Preparedness | sekundaer | European Policy Centre (EPC) | 2025 | mittel |
+| 255 | BRH_Einzelplan06_BMI | primaer | Bundesrechnungshof | 2025 | hoch |
+| 256 | IMK_224_Sitzung | primaer | Innenministerkonferenz (IMK) | 2025 | hoch |
+| 257 | IMI_Zeitenwende_Zeitreise | aktivistisch | Informationsstelle Militarisierung (IMI) | 2026 | niedrig |
+| 258 | Bundeswehr_Red_Storm | grau | Bundeswehr Landeskommando Hamburg | 2026 | hoch |
+| 259 | NATO_Energy_CUI | journalistisch | NATO / globalsecurity.org | 2026 | mittel |
+| 260 | Offenbach_Dialog_Wirtschaft | journalistisch | boerse-global.de / IHK Offenbach | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -476,6 +482,11 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 252: NATO_SG_Davos (primaer)
 - 253: Defence_Network_Hybrider (sekundaer)
 - 254: EPC_Civil_Preparedness (sekundaer)
+- 256: IMK_224_Sitzung (primaer)
+- 257: IMI_Zeitenwende_Zeitreise (aktivistisch)
+- 258: Bundeswehr_Red_Storm (grau)
+- 259: NATO_Energy_CUI (journalistisch)
+- 260: Offenbach_Dialog_Wirtschaft (journalistisch)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 29: NATO_CPG_Seminar (grau)
 - 34: EU_TAFF_Civil (grau)
@@ -554,6 +565,7 @@ graph LR
     D219["219: CSIS_Russia_Shadow<br/>SEK | 170 URLs"]
     D234["234: PwC_DGAP_National<br/>SEK | 57 URLs"]
     D24["24: CIMIC_Factsheet_Resilience<br/>GRA | 16 URLs"]
+    D255["255: BRH_Einzelplan06_BMI<br/>PRI | 4 URLs"]
     D30["30: Bertelsmann_NATO_Resilience<br/>GRA | 65 URLs"]
     D31["31: NAADSN_7BLR_Policy<br/>GRA | 85 URLs"]
     D33["33: JRC_Cross_Border<br/>SEK | 10 URLs"]
@@ -606,13 +618,14 @@ graph LR
     D04 -->|1| D05
     D06 -->|1| D08
     D07 -->|1| D08
-    D100 -->|1| D60
-    D60 -->|1| D85
+    D08 -->|1| D255
     D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
+    D100 -->|1| D60
+    D60 -->|1| D85
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108
@@ -637,9 +650,9 @@ graph LR
     D200 -->|1| D234
     D216 -->|1| D30
     D219 -->|1| D31
+    D219 -->|1| D38
     D219 -->|1| D234
     D234 -->|1| D30
-    D219 -->|1| D38
     D30 -->|1| D66
     D48 -->|1| D49
     D59 -->|1| D60
@@ -647,7 +660,7 @@ graph LR
     D73 -->|1| D74
     D80 -->|1| D91
     D95 -->|1| D96
-    style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D200,D96 fill:#2563eb,color:#fff
+    style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D200,D255,D96 fill:#2563eb,color:#fff
     style D102,D112,D16,D165,D216,D219,D234,D33,D36,D37,D38,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
     style D100,D60,D85 fill:#6b7280,color:#fff
     style D101,D106,D108,D148,D151,D17,D24,D30,D31,D73,D74,D76,D79,D95 fill:#d97706,color:#fff

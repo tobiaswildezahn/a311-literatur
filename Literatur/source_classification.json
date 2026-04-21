@@ -1294,5 +1294,23 @@
     "institution": "Greenpeace",
     "jahr": 2024,
     "typ": "aktivistisch"
+  },
+  "258": {
+    "typ": "grau",
+    "institution": "Bundeswehr Landeskommando Hamburg",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "259": {
+    "typ": "journalistisch",
+    "institution": "NATO / globalsecurity.org",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "260": {
+    "typ": "journalistisch",
+    "institution": "boerse-global.de / IHK Offenbach",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }
