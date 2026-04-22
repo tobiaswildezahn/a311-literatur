@@ -881,6 +881,42 @@
     "jahr": 2026,
     "typ": "aktivistisch"
   },
+  "258": {
+    "evidenzgrad": "hoch",
+    "institution": "Bundeswehr Landeskommando Hamburg",
+    "jahr": 2026,
+    "typ": "grau"
+  },
+  "259": {
+    "evidenzgrad": "mittel",
+    "institution": "NATO / globalsecurity.org",
+    "jahr": 2026,
+    "typ": "journalistisch"
+  },
+  "260": {
+    "evidenzgrad": "mittel",
+    "institution": "boerse-global.de / IHK Offenbach",
+    "jahr": 2026,
+    "typ": "journalistisch"
+  },
+  "261": {
+    "evidenzgrad": "mittel",
+    "institution": "NAADSN",
+    "jahr": 2025,
+    "typ": "sekundaer"
+  },
+  "262": {
+    "evidenzgrad": "hoch",
+    "institution": "Europäische Kommission — DG ECHO",
+    "jahr": 2026,
+    "typ": "primaer"
+  },
+  "263": {
+    "evidenzgrad": "mittel",
+    "institution": "gefma/FKT",
+    "jahr": 2026,
+    "typ": "grau"
+  },
   "28": {
     "evidenzgrad": "hoch",
     "institution": "IOS Press",
@@ -1294,23 +1330,5 @@
     "institution": "Greenpeace",
     "jahr": 2024,
     "typ": "aktivistisch"
-  },
-  "258": {
-    "typ": "grau",
-    "institution": "Bundeswehr Landeskommando Hamburg",
-    "jahr": 2026,
-    "evidenzgrad": "hoch"
-  },
-  "259": {
-    "typ": "journalistisch",
-    "institution": "NATO / globalsecurity.org",
-    "jahr": 2026,
-    "evidenzgrad": "mittel"
-  },
-  "260": {
-    "typ": "journalistisch",
-    "institution": "boerse-global.de / IHK Offenbach",
-    "jahr": 2026,
-    "evidenzgrad": "mittel"
   }
 }

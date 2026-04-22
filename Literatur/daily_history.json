@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-21T05:10:00",
-  "run_count": 26,
+  "last_run": "2026-04-22T05:10:00",
+  "run_count": 27,
   "corpus_state": {
-    "total_docs": 238,
-    "total_urls": 1601,
-    "unique_urls": 1512,
-    "connected_docs": 63,
-    "isolated_docs": 175,
-    "edges": 65
+    "total_docs": 241,
+    "total_urls": 1689,
+    "unique_urls": 1515,
+    "connected_docs": 64,
+    "isolated_docs": 177,
+    "edges": 72
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -119,6 +119,7 @@
     "https://civil-protection-humanitarian-aid.ec.europa.eu/",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/funding-evaluations/financing-civil-protection_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-invites-150-eu-citizens-help-shape-future-preparedness-actions-2026-03-19_en",
+    "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-launches-new-strategy-tackle-rising-wildfire-threat-2026-03-25_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-hosts-high-level-conference-mark-1-year-its-preparedness-union-strategy-2026-03-23_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/what/civil-protection/emergency-response-coordination-centre-ercc_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/what/civil-protection/eu-civil-protection-mechanism_en",
@@ -952,6 +953,7 @@
     "https://www.n-tv.de/regionales/berlin-und-brandenburg/Deutliche-Kritik-an-Wegners-Entschuldigung-id30505414.html",
     "https://www.naadsn.ca/events/defeat-mechanisms-deterrence-by-",
     "https://www.naadsn.ca/events/defeat-mechanisms-deterrence-by-denial-and-continental-defence/",
+    "https://www.naadsn.ca/wp-content/uploads/2025/11/25nov3-NAADSN-7BLR-Policy-Primer-RD-PWL.pdf",
     "https://www.nato.int/cps/",
     "https://www.nato.int/cps/en/natohq/",
     "https://www.nato.int/cps/en/natohq/184620.htm",
@@ -1014,6 +1016,7 @@
     "https://www.presidency.ucsb.edu/documents/the-state-the-union-address-deliveredbefore-joint-session-the-congress",
     "https://www.presidency.ucsb.edu/documents/the-state-the-union-addressdelivered-before-joint-session-the-congress",
     "https://www.presseportal.de/pm/128528/6205609",
+    "https://www.pressewissen.de/2026/04/20/gefma-verffentlicht-white-paper-zum-kritis-dachgesetz-fr-das-gesundheitswesen/",
     "https://www.produktion.de/instandhaltung/organisation/in-diesen-industrien-kosten-maschinenausfaelle-am-meisten-130.html",
     "https://www.produktion.de/schwerpunkte/industrie-politik/notfallplan-gas-die-folgen-fuer-die-industrie-383.html",
     "https://www.produktion.de/technik/so-will-deutschland-mit-lng-terminals-aus-der-und-40gas-und-41krise-670.html",
@@ -1553,7 +1556,35 @@
       "new_candidates": 3,
       "downloaded": 3,
       "failed": 0
+    },
+    {
+      "date": "2026-04-22",
+      "queries": [
+        "Bevölkerungsschutz 2026",
+        "KRITIS-Dachgesetz Umsetzung",
+        "NATO resilience baseline",
+        "Katastrophenschutz Hamburg",
+        "BBK April 2026",
+        "LÜKEX 2026",
+        "DGAP Publikation",
+        "Bertelsmann Preparedness",
+        "Bundestag Drucksache",
+        "EU Preparedness Strategy",
+        "gefma White Paper KRITIS"
+      ],
+      "results": 28,
+      "new": 4,
+      "downloaded": 3,
+      "failed": 1
     }
   ],
-  "failed_downloads": {}
+  "failed_downloads": {
+    "https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2026/03/thw-med-syrien.html": {
+      "title": "BMI THW/MED Syrien Katastrophenschutz",
+      "target_nr": 264,
+      "retry_count": 1,
+      "last_attempt": "2026-04-22",
+      "reason": "HTTP 400 — bmi.bund.de blockiert UA"
+    }
+  }
 }
