@@ -1,14 +1,14 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-22
+Stand: 2026-04-23
 
 ## Statistik
 
-- **241** Dokumente im Korpus
-- **1515** unique externe URLs
-- **64** Dokumente mit geteilten Quellen
-- **177** isolierte Dokumente (keine geteilten URLs)
-- **72** Verbindungen (mind. 2 geteilte URLs)
+- **246** Dokumente im Korpus
+- **1522** unique externe URLs
+- **66** Dokumente mit geteilten Quellen
+- **180** isolierte Dokumente (keine geteilten URLs)
+- **73** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
 
@@ -23,9 +23,9 @@ Stand: 2026-04-22
 | 69 | Boell_Nordic_Baltic | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 219 | CSIS_Russia_Shadow | 5 |
-| 141 | UA_Flut_RLP | 4 |
-| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
 | 60 | Wikipedia_OPLAN_Deutschland | 4 |
+| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
+| 141 | UA_Flut_RLP | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 | 17 | Bayika_Gebbeken_KRITIS | 4 |
 | 08 | BBK_Risikoanalysen_Uebersicht | 3 |
@@ -48,19 +48,19 @@ Stand: 2026-04-22
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08 |
 | https://www.bbk.bund.de/DE/Infothek/Glossar/_functions/glossar.html | 08, 255 |
 | https://www.dwd.de/DE/wetter/thema_des_tages/2024/6/4.html | 100, 102 |
-| https://twitter.com/BBK_Bund | 101, 76 |
+| https://www.instagram.com/bbk_bund | 101, 76 |
 
 ## Meistgenutzte Domaenen
 
 | Domain | Anzahl Dokumente | Dok-IDs |
 |--------|-----------------|---------|
-| bbk.bund.de | 29 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
-| bmi.bund.de | 14 | 04, 08, 112, 12, 13, 141, 17, 226, 30, 50... |
+| bbk.bund.de | 30 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
+| bmi.bund.de | 15 | 04, 08, 112, 12, 13, 141, 17, 226, 264, 30... |
 | nato.int | 14 | 148, 165, 211, 219, 22, 230, 24, 252, 261, 29... |
 | dserver.bundestag.de | 12 | 06, 07, 08, 14, 15, 17, 234, 30, 66, 73... |
 | bundestag.de | 11 | 06, 07, 14, 145, 15, 16, 17, 244, 49, 79... |
 | bundeswehr.de | 11 | 131, 197, 234, 251, 258, 60, 61, 62, 63, 64... |
-| dwd.de | 9 | 100, 102, 103, 131, 141, 171, 212, 95, 96 |
+| dwd.de | 10 | 100, 102, 103, 131, 141, 171, 212, 267, 95, 96 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | dgap.org | 8 | 166, 167, 169, 221, 227, 65, 66, 67 |
 | bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
@@ -81,10 +81,10 @@ Stand: 2026-04-22
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 62 | 26% |
-| Sekundaerquelle | 43 | 18% |
-| Graue Literatur | 66 | 27% |
-| Journalistische Quelle | 40 | 17% |
+| Primaerquelle | 64 | 26% |
+| Sekundaerquelle | 43 | 17% |
+| Graue Literatur | 68 | 28% |
+| Journalistische Quelle | 41 | 17% |
 | Tertiaerquelle | 6 | 2% |
 | Aktivistische Quelle | 5 | 2% |
 
@@ -92,9 +92,9 @@ Stand: 2026-04-22
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 90 | 37% |
-| mittel | 103 | 43% |
-| niedrig | 29 | 12% |
+| hoch | 92 | 37% |
+| mittel | 105 | 43% |
+| niedrig | 30 | 12% |
 
 ### Farbcodierung im Graph
 
@@ -350,6 +350,11 @@ Stand: 2026-04-22
 | 261 | NAADSN_7BLR_Infrastructure | sekundaer | NAADSN | 2025 | mittel |
 | 262 | EU_Wildfire_Strategy | primaer | Europäische Kommission — DG ECHO | 2026 | hoch |
 | 263 | gefma_KRITIS_Gesundheitswesen | grau | gefma/FKT | 2026 | mittel |
+| 264 | vbw_Wirtschaft_V-Fall | grau | vbw Bayern | 2026 | mittel |
+| 265 | Bundesrechnungshof_EPA_Bundeshaushalt | primaer | Bundesrechnungshof | 2025 | hoch |
+| 266 | BBK_Fachkongress_2027 | grau | BBK | 2026 | mittel |
+| 267 | DWD_PhaenoNetz_Flora | primaer | DWD | 2026 | hoch |
+| 268 | Multipolar_NATO_Resilienzziele | journalistisch | Multipolar-Magazin | 2025 | niedrig |
 
 ## Isolierte Dokumente
 
@@ -370,7 +375,6 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 121: Protector_GeKoB (journalistisch)
 - 122: Publicus_GeKoB (grau)
 - 123: Bundesrechnungshof_GeKoB (primaer)
-- 124: SIFO_Fachkongress_2025 (grau)
 - 125: Polizei_HH_BBK (grau)
 - 126: Kommunal_Nachwuchsprobleme_Feuerwehr (journalistisch)
 - 127: Blaulicht_Ehrenamt (journalistisch)
@@ -492,6 +496,10 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 260: Offenbach_Dialog_Wirtschaft (journalistisch)
 - 262: EU_Wildfire_Strategy (primaer)
 - 263: gefma_KRITIS_Gesundheitswesen (grau)
+- 264: vbw_Wirtschaft_V-Fall (grau)
+- 265: Bundesrechnungshof_EPA_Bundeshaushalt (primaer)
+- 267: DWD_PhaenoNetz_Flora (primaer)
+- 268: Multipolar_NATO_Resilienzziele (journalistisch)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 29: NATO_CPG_Seminar (grau)
 - 34: EU_TAFF_Civil (grau)
@@ -555,6 +563,7 @@ graph LR
     D112["112: BBK_Magazin_Hochwasser<br/>SEK | 13 URLs"]
     D115["115: Behoerden_Spiegel_LUEKEX<br/>JOU | 12 URLs"]
     D116["116: Finanznachrichten_LUEKEX_2026<br/>JOU | 8 URLs"]
+    D124["124: SIFO_Fachkongress_2025<br/>GRA | 4 URLs"]
     D14["14: BT_1Lesung_KRITIS<br/>PRI | 3 URLs"]
     D141["141: UA_Flut_RLP<br/>PRI | 95 URLs"]
     D148["148: CIMIC_Factsheet_Resilience<br/>GRA | 16 URLs"]
@@ -572,6 +581,7 @@ graph LR
     D24["24: CIMIC_Factsheet_Resilience<br/>GRA | 16 URLs"]
     D255["255: BRH_Einzelplan06_BMI<br/>PRI | 4 URLs"]
     D261["261: NAADSN_7BLR_Infrastructure<br/>SEK | 86 URLs"]
+    D266["266: BBK_Fachkongress_2027<br/>GRA | 2 URLs"]
     D30["30: Bertelsmann_NATO_Resilience<br/>GRA | 65 URLs"]
     D31["31: NAADSN_7BLR_Policy<br/>GRA | 85 URLs"]
     D33["33: JRC_Cross_Border<br/>SEK | 10 URLs"]
@@ -615,8 +625,8 @@ graph LR
     D85 -->|2| D87
     D101 -->|2| D76
     D148 -->|2| D30
-    D24 -->|2| D30
     D165 -->|2| D30
+    D24 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -629,19 +639,20 @@ graph LR
     D06 -->|1| D08
     D07 -->|1| D08
     D08 -->|1| D255
+    D100 -->|1| D60
+    D60 -->|1| D85
+    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D102
-    D100 -->|1| D60
-    D60 -->|1| D85
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108
     D110 -->|1| D111
     D112 -->|1| D116
     D11 -->|1| D94
+    D124 -->|1| D266
     D148 -->|1| D165
     D148 -->|1| D69
     D165 -->|1| D24
@@ -661,11 +672,11 @@ graph LR
     D17 -->|1| D93
     D200 -->|1| D234
     D216 -->|1| D30
+    D219 -->|1| D234
+    D234 -->|1| D30
     D219 -->|1| D38
     D219 -->|1| D261
     D219 -->|1| D31
-    D219 -->|1| D234
-    D234 -->|1| D30
     D30 -->|1| D66
     D48 -->|1| D49
     D59 -->|1| D60
@@ -676,7 +687,7 @@ graph LR
     style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D200,D255,D96 fill:#2563eb,color:#fff
     style D102,D112,D16,D165,D216,D219,D234,D261,D33,D36,D37,D38,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
     style D100,D60,D85 fill:#6b7280,color:#fff
-    style D101,D106,D108,D148,D151,D17,D24,D30,D31,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
+    style D101,D106,D108,D124,D148,D151,D17,D24,D266,D30,D31,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
     style D110,D115,D116,D48,D49,D58,D59,D62,D80,D87,D91,D93,D94 fill:#059669,color:#fff
     style D111 fill:#dc2626,color:#fff
 ```

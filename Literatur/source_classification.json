@@ -1330,5 +1330,35 @@
     "institution": "Greenpeace",
     "jahr": 2024,
     "typ": "aktivistisch"
+  },
+  "264": {
+    "typ": "grau",
+    "institution": "vbw Bayern",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "265": {
+    "typ": "primaer",
+    "institution": "Bundesrechnungshof",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "266": {
+    "typ": "grau",
+    "institution": "BBK",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "267": {
+    "typ": "primaer",
+    "institution": "DWD",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "268": {
+    "typ": "journalistisch",
+    "institution": "Multipolar-Magazin",
+    "jahr": 2025,
+    "evidenzgrad": "niedrig"
   }
 }
