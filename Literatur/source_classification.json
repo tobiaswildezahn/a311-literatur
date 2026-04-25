@@ -1390,5 +1390,47 @@
     "institution": "DWD",
     "jahr": 2026,
     "typ": "primaer"
+  },
+  "274": {
+    "typ": "primaer",
+    "institution": "Bundesministerium der Verteidigung (BMVg)",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "275": {
+    "typ": "journalistisch",
+    "institution": "Table.Briefings",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "276": {
+    "typ": "grau",
+    "institution": "Landesfeuerwehrverband Bayern (LFV Bayern)",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "277": {
+    "typ": "sekundaer",
+    "institution": "Atlas Institute for International Affairs",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
+  },
+  "278": {
+    "typ": "journalistisch",
+    "institution": "Security Network (CPM)",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "279": {
+    "typ": "sekundaer",
+    "institution": "Small Wars Journal",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "280": {
+    "typ": "primaer",
+    "institution": "Bayerische Staatsregierung",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
   }
 }

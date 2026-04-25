@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-24
+Stand: 2026-04-25
 
 ## Statistik
 
-- **251** Dokumente im Korpus
-- **1529** unique externe URLs
+- **258** Dokumente im Korpus
+- **1536** unique externe URLs
 - **70** Dokumente mit geteilten Quellen
-- **181** isolierte Dokumente (keine geteilten URLs)
+- **188** isolierte Dokumente (keine geteilten URLs)
 - **78** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -24,9 +24,9 @@ Stand: 2026-04-24
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 219 | CSIS_Russia_Shadow | 5 |
 | 08 | BBK_Risikoanalysen_Uebersicht | 4 |
-| 60 | Wikipedia_OPLAN_Deutschland | 4 |
-| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
 | 141 | UA_Flut_RLP | 4 |
+| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
+| 60 | Wikipedia_OPLAN_Deutschland | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 | 17 | Bayika_Gebbeken_KRITIS | 4 |
 
@@ -70,10 +70,10 @@ Stand: 2026-04-24
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
 | ec.europa.eu | 6 | 138, 148, 216, 234, 24, 30 |
+| bmvg.de | 5 | 04, 05, 274, 45, 65 |
 | de.wikipedia.org | 5 | 100, 123, 60, 61, 99 |
 | umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
 | linkedin.com | 5 | 117, 165, 17, 64, 87 |
-| creativecommons.org | 5 | 203, 65, 66, 68, 83 |
 
 ## Quellenklassifikation
 
@@ -81,10 +81,10 @@ Stand: 2026-04-24
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 68 | 27% |
-| Sekundaerquelle | 43 | 17% |
-| Graue Literatur | 68 | 27% |
-| Journalistische Quelle | 42 | 17% |
+| Primaerquelle | 70 | 27% |
+| Sekundaerquelle | 45 | 17% |
+| Graue Literatur | 69 | 27% |
+| Journalistische Quelle | 44 | 17% |
 | Tertiaerquelle | 6 | 2% |
 | Aktivistische Quelle | 5 | 2% |
 
@@ -92,8 +92,8 @@ Stand: 2026-04-24
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 93 | 37% |
-| mittel | 108 | 43% |
+| hoch | 96 | 37% |
+| mittel | 112 | 43% |
 | niedrig | 31 | 12% |
 
 ### Farbcodierung im Graph
@@ -360,6 +360,13 @@ Stand: 2026-04-24
 | 271 | Nordkurier_Rostock_Schutzraum | journalistisch | Nordkurier (Bürgerschaft Rostock) | 2026 | mittel |
 | 272 | BBK_Fachkongress_Forschung | primaer | BBK | 2026 | niedrig |
 | 273 | DWD_PhaenoNetz_FloraIncognita | primaer | DWD | 2026 | mittel |
+| 274 | BMVG_Strategie_Landes | primaer | Bundesministerium der Verteidigung (BMVg) | 2026 | hoch |
+| 275 | TableMedia_BMI_Plan | journalistisch | Table.Briefings | 2026 | hoch |
+| 276 | LFV_Bayern_Landesamt | grau | Landesfeuerwehrverband Bayern (LFV Bayern) | 2026 | mittel |
+| 277 | Atlas_Institute_Defence | sekundaer | Atlas Institute for International Affairs | 2025 | mittel |
+| 278 | INTERSCHUTZ_2026_Resilienz | journalistisch | Security Network (CPM) | 2026 | mittel |
+| 279 | SmallWarsJournal_Germany_Military | sekundaer | Small Wars Journal | 2026 | mittel |
+| 280 | Bayern_Kabinettssitzung_24 | primaer | Bayerische Staatsregierung | 2026 | hoch |
 
 ## Isolierte Dokumente
 
@@ -506,7 +513,14 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 268: Multipolar_NATO_Resilienzziele (journalistisch)
 - 270: Bundestag_Tschernobyl_Antrag (primaer)
 - 271: Nordkurier_Rostock_Schutzraum (journalistisch)
+- 274: BMVG_Strategie_Landes (primaer)
+- 275: TableMedia_BMI_Plan (journalistisch)
+- 276: LFV_Bayern_Landesamt (grau)
+- 277: Atlas_Institute_Defence (sekundaer)
+- 278: INTERSCHUTZ_2026_Resilienz (journalistisch)
+- 279: SmallWarsJournal_Germany_Military (sekundaer)
 - 28: IOS_Eighth_Baseline (sekundaer)
+- 280: Bayern_Kabinettssitzung_24 (primaer)
 - 29: NATO_CPG_Seminar (grau)
 - 34: EU_TAFF_Civil (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
@@ -652,13 +666,13 @@ graph LR
     D07 -->|1| D269
     D08 -->|1| D269
     D08 -->|1| D255
-    D100 -->|1| D60
-    D60 -->|1| D85
-    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
+    D100 -->|1| D102
+    D100 -->|1| D60
+    D60 -->|1| D85
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108

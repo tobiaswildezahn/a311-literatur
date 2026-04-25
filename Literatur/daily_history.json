@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-24T05:00:00",
-  "run_count": 29,
+  "last_run": "2026-04-25T05:00:00",
+  "run_count": 30,
   "corpus_state": {
-    "total_docs": 251,
-    "total_urls": 1708,
-    "unique_urls": 1529,
+    "total_docs": 258,
+    "total_urls": 1715,
+    "unique_urls": 1536,
     "connected_docs": 70,
-    "isolated_docs": 181,
+    "isolated_docs": 188,
     "edges": 78
   },
   "known_urls": [
@@ -86,6 +86,7 @@
     "https://api.whatsapp.com/send?text=Der+neue+Rahmen+der+Gesamtverteidigung",
     "https://api.whatsapp.com/send?text=Hallo%21%20Ich%20empfehle%20Dir%20folgenden%20Artikel.%20https://www.nd-aktuell.de/artikel/1196646.kritische-infrastruktur-stromausfall-in-berlin-infrastrukturen-wurden-kaputtgespart.html&pk_campaign=SocialMedia",
     "https://api.whatsapp.com/send?text=L%C3%9CKEX+2026+mit+Rekordbeteiligung",
+    "https://atlasinstitute.org/germanys-path-to-kriegstuchtigkeit-the-2026-defence-budget/",
     "https://augengeradeaus.net/2022/09/bundeswehr-stellt-territoriales-fuehrungskommando-auf-corona-general-an-der-spitze/",
     "https://augengeradeaus.net/2026/01/stromausfall-in-berlin-bundeswehr-unterstuetzt-mit-tanklaster/",
     "https://augengeradeaus.net/2026/01/zwischenstand-mehr-bundeswehr-amtshilfe-fuer-berlin/",
@@ -375,6 +376,7 @@
     "https://rsis.edu.sg/rsis-publication/nssp/total-defence-in-action-singapores-response-to-the-covid-19-pandemic/",
     "https://sbahn.berlin/fahren/bauen-stoerung/?tabs=tbc-l3",
     "https://security-network.com/bundeskabinett-entwurf-kritis-dachgesetz/",
+    "https://security-network.com/interschutz-zukunft-schuetzen/",
     "https://security-network.com/operationsplan-deutschland-eine-einfuehrung/",
     "https://security-network.com/wo-stehen-die-hilfsorganisationen-im-oplan/",
     "https://shape.nato.int/news-archive/2026/nato-militaries-strengthening-allied-medical-resilience.aspx",
@@ -383,11 +385,13 @@
     "https://showyourstripes.info/",
     "https://sitzungsdienst-hamburg-nord.hamburg.de/bi/vo020.asp?VOLFDNR=1014331",
     "https://sjms.nu/articles/288/files/67938188cb01f.pdf",
+    "https://smallwarsjournal.com/2026/03/31/germanys-military-reawakening/",
     "https://stage.bio/bundesamt-fuer-bevoelkerungsschutz-und-katastrophenhilfe-bbk",
     "https://stako.justiz.rlp.de/de/startseite/detail/news/News/detail/pressemitteilung",
     "https://stako.justiz.rlp.de/de/startseite/detail/news/News/detail/pressemitteilung-sachstand-im-ermittlungsverfahren-ahrflut/",
     "https://story.thw.de/jahr2025",
     "https://t.me/share/url?url=https://www.nd-aktuell.de/artikel/1196646.kritische-infrastruktur-stromausfall-in-berlin-infrastrukturen-wurden-kaputtgespart.html&pk_campaign=SocialMedia&text=Hallo%21%20Ich%20empfehle%20Dir%20folgenden%20Artikel",
+    "https://table.media/berlin/news/kriegsfall-bmi-erstellt-nun-doch-einen-plan-fuer-die-zivile-verteidigung",
     "https://table.media/berlin/news/kritische-infrastruktur-kompromiss-zum-kritis-dachgesetz-schafft-neue-rechtsunsicherheiten",
     "https://taz.de/Brandanschlag-auf-Stromnetz-in-Berlin/!6142611/",
     "https://taz.de/Brandanschlag-auf-Stromnetz-in-Berlin/!6143455/",
@@ -445,6 +449,7 @@
     "https://www.bakertilly.de/beitrag/staerkung-der-resilienz-kritischer-infrastrukturen-was-unternehmen-jetzt-ueber-das-kritis-dachgesetz-wissen-muessen",
     "https://www.baks.bund.de/sites/baks010/files/arbeitspapier_sicherheitspolitik_2025_1.pdf",
     "https://www.bay-landkreistag.de/media/105272/vwi-18022025-veranstaltung-zivile-verteidigung-und-operation.pdf",
+    "https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-24-maerz-2026",
     "https://www.bayika.de/de/aktuelles/meldungen/2026-01-29_Bundestag-beschliesst-Kritis-Dachgesetz-zum-Schutz-kritischer-Infrastrukturen-Kommentar-Prof-Dr-Norbert-Gebbeken.php",
     "https://www.bbk-bund.de",
     "https://www.bbk-bund.de/",
@@ -553,6 +558,7 @@
     "https://www.bmvg.de/de/nationale-sicherheitsstrategie",
     "https://www.bmvg.de/de/presse",
     "https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376",
+    "https://www.bmvg.de/de/presse/strategie-zur-landes-und-buendnisverteidigung-6093690",
     "https://www.bmvg.de/de/themen/sicherheitspolitik/hybride-bedrohungen",
     "https://www.bmvg.de/resource/blob/5777780/1d5d88d162f8c172940424625799e714/a-04-05-download-osnabruecker-erlass-data.pdf",
     "https://www.bnd.bund.de/DE/Die_Themen/hybride-bedrohungen/hybride-bedrohungen-node.html",
@@ -928,6 +934,7 @@
     "https://www.lemonde.fr/en/international/article/2025/03/25/sweden-rebuilds-its-total-defense-model-in-which-every-inhabitant-must-be-prepared_6739488_4.html",
     "https://www.leuphana.de/fileadmin/user_upload/Forschungseinrichtungen/ifvwl/WorkingPapers/lue/pdf/wp_335_Upload.pdf",
     "https://www.lexsoft.de/cgi-bin/lexsoft/justizportal_nrw.cgi?t=168771350314878698&sessionID=412737012449139548&source=link&highlighting=off&templateID=document&chosenIndex=Dummy_nv_68&xid=3810432",
+    "https://www.lfv-bayern.de/aktuelles/landesamt-fur-bevolkerungsschutz-startet-am-15-april/",
     "https://www.linkedin.com/company/bayika/posts/",
     "https://www.linkedin.com/in/cleanthinking/",
     "https://www.linkedin.com/in/jan-struck-66a5a4219/",
@@ -1619,6 +1626,34 @@
       "rechtsaenderungen_bund": 0,
       "rechtsaenderungen_land": 0,
       "rechtssammlung_updates": 0
+    },
+    {
+      "date": "2026-04-25",
+      "queries": [
+        "Bevoelkerungsschutz Zivilschutz April 2026",
+        "KRITIS-Dachgesetz Bundestag April 2026",
+        "NATO resilience civil preparedness 2026 Bundeswehr",
+        "Katastrophenschutz Hamburg 2026 Senat",
+        "BBK Bevoelkerungsschutz Bericht April 2026",
+        "Hamburg Bevoelkerungsschutz Drucksache April 2026",
+        "DGAP Resilienz Gesamtverteidigung 2026",
+        "SWP Krisenvorsorge Resilienz 2026",
+        "Bundeswehr OPLAN Deutschland 2026 zivile Verteidigung",
+        "Bundesinnenministerium zivile Verteidigung Plan 2026 Faeser"
+      ],
+      "results_total": 100,
+      "new_candidates": 12,
+      "downloaded": 7,
+      "failed": 0,
+      "doc_numbers_added": [
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280
+      ]
     }
   ],
   "failed_downloads": {
