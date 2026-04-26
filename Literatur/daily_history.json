@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-25T05:00:00",
-  "run_count": 30,
+  "last_run": "2026-04-26T05:00:00",
+  "run_count": 31,
   "corpus_state": {
-    "total_docs": 258,
-    "total_urls": 1715,
-    "unique_urls": 1536,
+    "total_docs": 266,
+    "total_urls": 1723,
+    "unique_urls": 1544,
     "connected_docs": 70,
-    "isolated_docs": 188,
+    "isolated_docs": 196,
     "edges": 78
   },
   "known_urls": [
@@ -110,6 +110,7 @@
     "https://bsky.app/profile/krisennavigator.bsky.social",
     "https://bst-europe.eu/security-policy/germany-and",
     "https://bst-europe.eu/security-policy/germany-and-the-european-preparedness-paradigm-delivering-security-as-a-whole-of-society-task/",
+    "https://bst-europe.eu/security-policy/the-eus-preparedness-union-from-broad-ambition-to-focused-action/",
     "https://buendnis-hochwasserschutz.de/gefahren-risikokarten.html",
     "https://carnegieendowment.org/research/2021/01/evolving-uae-military-and-foreign-security-cooperation-path-toward-military-professionalism?lang=en",
     "https://carnegieendowment.org/research/2024/11/russia-gray-zone-aggression-baltic-nordic?lang=en",
@@ -122,6 +123,7 @@
     "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-invites-150-eu-citizens-help-shape-future-preparedness-actions-2026-03-19_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-launches-new-strategy-tackle-rising-wildfire-threat-2026-03-25_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-hosts-high-level-conference-mark-1-year-its-preparedness-union-strategy-2026-03-23_en",
+    "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-preparedness-union-strategy-prevent-and-react-emerging-threats-and-crises-2025-03-26_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/what/civil-protection/emergency-response-coordination-centre-ercc_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/what/civil-protection/eu-civil-protection-mechanism_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/what/civil-protection/resceu_en",
@@ -280,6 +282,7 @@
     "https://grafkerssenbrock.com/tag/krisenmanagement",
     "https://grafkerssenbrock.com/tag/kritische-infrastruktur",
     "https://guenther-pfeifer.de/kritis-dachgesetz-physische-resilienz-2026/",
+    "https://hcss.nl/report/assessing-europes-resilience-and-preparedness-in-an-era-of-strategic-risks/",
     "https://hess.copernicus.org/articles/19/309/2015/",
     "https://hochwassermanage",
     "https://hochwassermanagement.rlp-um",
@@ -450,6 +453,7 @@
     "https://www.baks.bund.de/sites/baks010/files/arbeitspapier_sicherheitspolitik_2025_1.pdf",
     "https://www.bay-landkreistag.de/media/105272/vwi-18022025-veranstaltung-zivile-verteidigung-und-operation.pdf",
     "https://www.bayern.de/bericht-aus-der-kabinettssitzung-vom-24-maerz-2026",
+    "https://www.bayika.de/de/aktuelles/meldungen/2025-12-12_Die-deutsche-Schutzraumstrategie-Norbert-Gebbeken-Kolumne-Bayerische-Staatszeitung.php",
     "https://www.bayika.de/de/aktuelles/meldungen/2026-01-29_Bundestag-beschliesst-Kritis-Dachgesetz-zum-Schutz-kritischer-Infrastrukturen-Kommentar-Prof-Dr-Norbert-Gebbeken.php",
     "https://www.bbk-bund.de",
     "https://www.bbk-bund.de/",
@@ -523,6 +527,7 @@
     "https://www.bild.de/politik/inland/dobrindt-ueber-strom-anschlag-in-berlin-linksterrorismus-ist-in-deutschland-zurueck-695bb72afb77630dac278197",
     "https://www.bild.de/politik/inland/linksextremer-anschlag-in-berlin-bekennerschreiben-sie-wollen-allen-den-saft-abdrehen-695a2edbfd458507c19142e4",
     "https://www.bitkom.org/Bitkom/Publikationen/Studie-Wirtschaftsschutz",
+    "https://www.bitkom.org/Presse/Presseinformation/Bitkom-zu-Beschluss-Kritis-Dachgesetz",
     "https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260127_Zeugenaufruf_Brandanschlag_Berlin.html",
     "https://www.blick-aktuell.de/Politik/Abschlussbericht-zur-Flutkatastrophe-im-Ahrtal-veroeffentlicht-599037.html",
     "https://www.blogist.de/2026/07",
@@ -749,6 +754,7 @@
     "https://www.dwd.de/klimastatus",
     "https://www.e",
     "https://www.ecologie.gouv.fr/actualites/culture-du-risque-plan-daction-tous-resilients-face-aux-risques",
+    "https://www.eeas.europa.eu/eeas/preparedness-union-strategy_en",
     "https://www.efas.eu/de",
     "https://www.enbw.com/unternehmen/themen/digitalisierung/kritische-infrastruktur.html",
     "https://www.enbw.com/unternehmen/themen/netze/",
@@ -827,6 +833,7 @@
     "https://www.handelsblatt.com/politik/deutschland/energieversorgung-einigung-beim-gesetz-zum-schutz-kritischer-infrastruktur/100194752.html",
     "https://www.havariekommando.de/DE/wir-ueber-uns/wir-ueber-uns-node.html",
     "https://www.heise.de/hintergrund/Kritis-Dachgesetz-Viel-Buerokratie-und-Dokumentation-wenig-Resilienz-10640725.html",
+    "https://www.heise.de/news/Kritische-Infrastruktur-Bundestag-verabschiedet-Kritis-Dachgesetz-11159449.html",
     "https://www.heise.de/news/Stromausfall-in-Berlin-Wie-Mobilfunk-und-Internet-wieder-ans-Netz-gehen-11132094.html",
     "https://www.hessenschau.de/panorama/hochwasser-am-akw-biblis-behoerden-sehen-keine-gefahr-v1",
     "https://www.hessenschau.de/panorama/pegel-am-rhein-steigen---schlammlawine-in-alsfeld-v9",
@@ -864,6 +871,7 @@
     "https://www.jhuapl.edu/sites/default/files/2022-",
     "https://www.jhuapl.edu/sites/default/files/2022-12/ARIS_LittleGreenMen.pdf",
     "https://www.jstor.org/stable/pdf/48640748.pdf?refreqid=fastly-default%3A037ccf8cfa4ac24434e6cf65bf247850&ab_segments=&initiator=&acceptTC=1",
+    "https://www.juwiss.de/34-2026/",
     "https://www.katastrophenmanagement.info/Katastrophenmanagement.193.0.html",
     "https://www.katastrophenmanager.de",
     "https://www.katastrophenpsychologie.de/Krisenpsychologie.1153.0.html",
@@ -1654,6 +1662,22 @@
         279,
         280
       ]
+    },
+    {
+      "date": "2026-04-26",
+      "queries": [
+        "KRITIS-Dachgesetz",
+        "Zivilschutzgesetz",
+        "Katastrophenschutz HH",
+        "Bevoelkerungsschutz Deutschland 2026",
+        "KRITIS-Dachgesetz 2026 Bundestag",
+        "NATO resilience civil preparedness 2026 EU",
+        "Katastrophenschutz Hamburg 2026"
+      ],
+      "results": 40,
+      "new": 8,
+      "downloaded": 8,
+      "failed": 0
     }
   ],
   "failed_downloads": {
