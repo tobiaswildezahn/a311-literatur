@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-25
+Stand: 2026-04-27
 
 ## Statistik
 
-- **258** Dokumente im Korpus
-- **1536** unique externe URLs
+- **270** Dokumente im Korpus
+- **1548** unique externe URLs
 - **70** Dokumente mit geteilten Quellen
-- **188** isolierte Dokumente (keine geteilten URLs)
+- **200** isolierte Dokumente (keine geteilten URLs)
 - **78** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -54,26 +54,26 @@ Stand: 2026-04-25
 
 | Domain | Anzahl Dokumente | Dok-IDs |
 |--------|-----------------|---------|
-| bbk.bund.de | 31 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
+| bbk.bund.de | 32 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | bmi.bund.de | 15 | 04, 08, 112, 12, 13, 141, 17, 226, 264, 30... |
 | nato.int | 14 | 148, 165, 211, 219, 22, 230, 24, 252, 261, 29... |
 | dserver.bundestag.de | 13 | 06, 07, 08, 14, 15, 17, 234, 269, 30, 66... |
 | bundestag.de | 12 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 49... |
+| bundeswehr.de | 12 | 131, 197, 234, 251, 258, 291, 60, 61, 62, 63... |
 | dwd.de | 11 | 100, 102, 103, 131, 141, 171, 212, 267, 273, 95... |
-| bundeswehr.de | 11 | 131, 197, 234, 251, 258, 60, 61, 62, 63, 64... |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | dgap.org | 8 | 166, 167, 169, 221, 227, 65, 66, 67 |
 | bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
 | doi.org | 7 | 102, 216, 219, 30, 65, 83, 96 |
-| tagesschau.de | 6 | 100, 13, 234, 49, 79, 93 |
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
+| tagesschau.de | 6 | 100, 13, 234, 49, 79, 93 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
 | ec.europa.eu | 6 | 138, 148, 216, 234, 24, 30 |
+| civil-protection-humanitarian-aid.ec.europa.eu | 6 | 245, 246, 262, 288, 30, 33 |
 | bmvg.de | 5 | 04, 05, 274, 45, 65 |
 | de.wikipedia.org | 5 | 100, 123, 60, 61, 99 |
 | umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
-| linkedin.com | 5 | 117, 165, 17, 64, 87 |
 
 ## Quellenklassifikation
 
@@ -81,20 +81,20 @@ Stand: 2026-04-25
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 70 | 27% |
-| Sekundaerquelle | 45 | 17% |
-| Graue Literatur | 69 | 27% |
-| Journalistische Quelle | 44 | 17% |
+| Primaerquelle | 72 | 27% |
+| Sekundaerquelle | 49 | 18% |
+| Graue Literatur | 73 | 27% |
+| Journalistische Quelle | 45 | 17% |
 | Tertiaerquelle | 6 | 2% |
-| Aktivistische Quelle | 5 | 2% |
+| Aktivistische Quelle | 6 | 2% |
 
 ### Verteilung nach Evidenzgrad
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 96 | 37% |
-| mittel | 112 | 43% |
-| niedrig | 31 | 12% |
+| hoch | 104 | 39% |
+| mittel | 115 | 43% |
+| niedrig | 32 | 12% |
 
 ### Farbcodierung im Graph
 
@@ -367,6 +367,18 @@ Stand: 2026-04-25
 | 278 | INTERSCHUTZ_2026_Resilienz | journalistisch | Security Network (CPM) | 2026 | mittel |
 | 279 | SmallWarsJournal_Germany_Military | sekundaer | Small Wars Journal | 2026 | mittel |
 | 280 | Bayern_Kabinettssitzung_24 | primaer | Bayerische Staatsregierung | 2026 | hoch |
+| 281 | JuWiss_KRITIS_DachG | sekundaer | JuWissBlog | 2026 | hoch |
+| 282 | Bayika_Gebbeken_Schutzraumstrategie | sekundaer | Bayika/Bayerische Staatszeitung | 2025 | mittel |
+| 283 | EEAS_Preparedness_Union | grau | EEAS | 2025 | hoch |
+| 284 | HCSS_Europe_Resilience | sekundaer | HCSS | 2025 | hoch |
+| 285 | Bertelsmann_Quis_Buldioski | sekundaer | Bertelsmann Stiftung | 2026 | hoch |
+| 286 | Bitkom_KRITIS_Dachgesetz | grau | Bitkom | 2026 | mittel |
+| 287 | Heise_Bundestag_KRITIS | journalistisch | heise online | 2026 | mittel |
+| 288 | EU_ECHO_Preparedness | grau | EU-Kommission GD ECHO | 2025 | hoch |
+| 289 | BBK_PM24_BuWaTa | primaer | BBK | 2026 | hoch |
+| 290 | BSI_Cybersicherheit_Gesundheitswesen | grau | BSI | 2026 | hoch |
+| 291 | Bundeswehr_GETEX_2026 | primaer | Bundeswehr | 2026 | hoch |
+| 292 | kritisch_lesen_ZMZ | aktivistisch | kritisch-lesen.de | 2026 | niedrig |
 
 ## Isolierte Dokumente
 
@@ -521,7 +533,19 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 279: SmallWarsJournal_Germany_Military (sekundaer)
 - 28: IOS_Eighth_Baseline (sekundaer)
 - 280: Bayern_Kabinettssitzung_24 (primaer)
+- 281: JuWiss_KRITIS_DachG (sekundaer)
+- 282: Bayika_Gebbeken_Schutzraumstrategie (sekundaer)
+- 283: EEAS_Preparedness_Union (grau)
+- 284: HCSS_Europe_Resilience (sekundaer)
+- 285: Bertelsmann_Quis_Buldioski (sekundaer)
+- 286: Bitkom_KRITIS_Dachgesetz (grau)
+- 287: Heise_Bundestag_KRITIS (journalistisch)
+- 288: EU_ECHO_Preparedness (grau)
+- 289: BBK_PM24_BuWaTa (primaer)
 - 29: NATO_CPG_Seminar (grau)
+- 290: BSI_Cybersicherheit_Gesundheitswesen (grau)
+- 291: Bundeswehr_GETEX_2026 (primaer)
+- 292: kritisch_lesen_ZMZ (aktivistisch)
 - 34: EU_TAFF_Civil (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
@@ -670,9 +694,9 @@ graph LR
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D102
     D100 -->|1| D60
     D60 -->|1| D85
+    D100 -->|1| D102
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108
@@ -700,11 +724,11 @@ graph LR
     D17 -->|1| D93
     D200 -->|1| D234
     D216 -->|1| D30
-    D219 -->|1| D234
-    D234 -->|1| D30
     D219 -->|1| D38
     D219 -->|1| D261
     D219 -->|1| D31
+    D219 -->|1| D234
+    D234 -->|1| D30
     D267 -->|1| D273
     D30 -->|1| D66
     D48 -->|1| D49

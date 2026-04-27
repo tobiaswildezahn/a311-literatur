@@ -1480,5 +1480,29 @@
     "institution": "Greenpeace",
     "jahr": 2024,
     "typ": "aktivistisch"
+  },
+  "289": {
+    "typ": "primaer",
+    "institution": "BBK",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "290": {
+    "typ": "grau",
+    "institution": "BSI",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "291": {
+    "typ": "primaer",
+    "institution": "Bundeswehr",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "292": {
+    "typ": "aktivistisch",
+    "institution": "kritisch-lesen.de",
+    "jahr": 2026,
+    "evidenzgrad": "niedrig"
   }
 }

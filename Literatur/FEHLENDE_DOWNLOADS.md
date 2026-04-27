@@ -78,3 +78,9 @@ Nr. 3 (BMI PM Gesamtverteidigung) wurde bereits als .txt gespeichert.
 | Nr. | Dateiname | Pfad | Hinweis |
 |-----|-----------|------|---------|
 | 200 | `VN_2025_3.pdf` | `Literatur/inbox/VN_2025_3.pdf` | lldr-Konvertierung fehlgeschlagen (153 Seiten, zu gross). Manuelle Konvertierung oder Splitting in Teilkapitel erforderlich. |
+
+## Ergaenzung 2026-04-27 — BMI Bot-Schutz
+
+| Nr. | Zielordner | Dateiname | URL | Hinweis |
+|-----|-----------|-----------|-----|---------|
+| 293 | `Literatur/inbox/` | `BMI_Hybride_Bedrohungen_HH.html` | https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html | HTTP 400 (BMI-Bot-Schutz). BMI-Kurzmeldung "Zusammen gegen hybride Bedrohungen" — gemeinsame Erklaerung. Im Browser oeffnen, Text kopieren. |

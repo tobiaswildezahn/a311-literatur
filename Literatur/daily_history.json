@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-26T05:00:00",
-  "run_count": 31,
+  "last_run": "2026-04-27T05:00:00",
+  "run_count": 32,
   "corpus_state": {
-    "total_docs": 266,
-    "total_urls": 1723,
-    "unique_urls": 1544,
+    "total_docs": 270,
+    "total_urls": 1727,
+    "unique_urls": 1548,
     "connected_docs": 70,
-    "isolated_docs": 196,
+    "isolated_docs": 200,
     "edges": 78
   },
   "known_urls": [
@@ -310,6 +310,7 @@
     "https://kommunal.de/zivilschutz-deutschland-schutzlos-im-ernstfall",
     "https://kreisfeuerwehrverband.net/menukfvaktuelles/19078-positionspapier-27-03-2026.html",
     "https://kritis-info.de/gesetz-vorschriften/kritis-dachgesetz-2026/",
+    "https://kritisch-lesen.de/ausgabe/zivil-militarische-zusammenarbeit",
     "https://ksidigital.de/ce/kommunale-resilienz-im-krisenmanagement-und-katastrophenschutz/detail.html",
     "https://landesrecht.rlp.de/bsrp/document/jlr-Brand_KatSchGRPV14P1/format/xsl/part/S?oi=fnmKGyPWUB&sourceP=%7B%22source%22%3A%22Link%22%7D",
     "https://landesrecht.rlp.de/bsrp/document/jlr-HWasMeldeVRPpP1/format/xsl/part/S?oi=wTsFaqb6ak&sourceP=%7B%22source%22%3A%22Link%22%7D",
@@ -496,6 +497,7 @@
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/03/pm-09-isf-projekt-abgeschlossen.html",
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/03/pm-17-aktionsreihe-selbstschutz-bonn.html",
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/04/pm-22-fachkongress.html",
+    "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/04/pm-24-buwata25-umfrage-ergebnisse.html",
     "https://www.bbk.bund.de/magazin",
     "https://www.bcm-beratung.de/Business-Continuity-Management-ISO-22301-BSI-Standard-200-4.29.0.html",
     "https://www.bdew.de/presse/stromausfall-stromnetz-kritische-infrastruktur/",
@@ -586,6 +588,7 @@
     "https://www.br.de/nachrichten/bayern/unwetter-und-hochwasser-in-bayern-so-geht-es-weiter",
     "https://www.br.de/nachrichten/bayern/unwetterwarnung-fuer-teile-oberbayerns-und-schwabens",
     "https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/Unternehmen/Ich-habe-einen-IT-Sicherheitsvorfall-Checkliste-Organisatorisches/ich-habe-einen-it-sicherheitsvorfall-checkliste-organisatorisches_node.html",
+    "https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/2026/Cybersicherheit-Gesundheitswesen_260420.html",
     "https://www.bsi.bund.de/DE/Service-Navi/Publikationen/Lagebericht/lagebericht_node.html",
     "https://www.bsi.bund.de/cae/servlet/contentblob/476038/",
     "https://www.buchalik-broemmekamp.de/ihre-karriere",
@@ -617,6 +620,7 @@
     "https://www.bundestag.de/presse/hib/kurzmeldungen-1139978",
     "https://www.bundesumweltministerium.de/download/deutsche-anpassungsstrategie-an-den-klimawandel-2024",
     "https://www.bundeswehr.de/de/landes-buendnisverteidigung-kernauftrag/personal-schluessel-zur-verteidigungsfaehigkeit",
+    "https://www.bundeswehr.de/de/meldungen/getex-polizeibehoerden-antiterroruebung-6082366",
     "https://www.bundeswehr.de/de/meldungen/nachgefragt-operationsplan-deutschland-5764494",
     "https://www.bundeswehr.de/de/organisa",
     "https://www.bundeswehr.de/de/organisation/fuehrungsakademie-der-bundeswehr/mediathek/verteidigungsfaehigkeit-gesellschaft-5961012",
@@ -1678,15 +1682,31 @@
       "new": 8,
       "downloaded": 8,
       "failed": 0
+    },
+    {
+      "date": "2026-04-27",
+      "queries": 10,
+      "results": 15,
+      "new": 5,
+      "downloaded": 4,
+      "failed": 1,
+      "notes": "BMI-Hybride-Bedrohungen HTTP 400 (Bot-Schutz). 4 neue Dokumente: BBK BuWaTa, BSI Gesundheit, Bundeswehr GETEX, kritisch-lesen ZMZ."
     }
   ],
   "failed_downloads": {
     "https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2026/03/thw-med-syrien.html": {
       "title": "BMI THW/MED Syrien Katastrophenschutz",
       "target_nr": 264,
-      "retry_count": 2,
-      "last_attempt": "2026-04-23",
+      "retry_count": 3,
+      "last_attempt": "2026-04-27",
       "reason": "HTTP 400 — auch mit Mozilla-UA blockiert"
+    },
+    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html": {
+      "title": "BMI Hybride Bedrohungen Gemeinsame Erklaerung",
+      "target_nr": 293,
+      "retry_count": 1,
+      "last_attempt": "2026-04-27",
+      "reason": "HTTP 400 — BMI Bot-Schutz, manueller Browser-Download in inbox/ noetig"
     }
   }
 }
