@@ -1504,5 +1504,29 @@
     "institution": "kritisch-lesen.de",
     "jahr": 2026,
     "evidenzgrad": "niedrig"
+  },
+  "293": {
+    "typ": "sekundaer",
+    "institution": "Bitkom",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "294": {
+    "typ": "grau",
+    "institution": "DKKV",
+    "jahr": 2026,
+    "evidenzgrad": "niedrig"
+  },
+  "295": {
+    "typ": "journalistisch",
+    "institution": "Tagesspiegel",
+    "jahr": 2026,
+    "evidenzgrad": "niedrig"
+  },
+  "296": {
+    "typ": "sekundaer",
+    "institution": "EPC",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
   }
 }

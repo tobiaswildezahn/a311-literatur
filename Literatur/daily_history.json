@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-27T05:00:00",
-  "run_count": 32,
+  "last_run": "2026-04-28T05:00:00",
+  "run_count": 33,
   "corpus_state": {
-    "total_docs": 270,
-    "total_urls": 1727,
-    "unique_urls": 1548,
+    "total_docs": 274,
+    "total_urls": 1731,
+    "unique_urls": 1552,
     "connected_docs": 70,
-    "isolated_docs": 200,
+    "isolated_docs": 204,
     "edges": 78
   },
   "known_urls": [
@@ -200,6 +200,7 @@
     "https://dip.bundestag.de/drucksache/entwurf-eines-gesetzes-zur-umsetzung-der-richtlinie-eu-2022-2557-und/283010?f.wahlperiode=21&f.typ=Dokument&f.herausgeber_dokumentart=Bundesrat-Drucksache&rows=25&sort=verteildatum_ab&pos=25&ctx=d",
     "https://dip.bundestag.de/drucksache/lehren-aus-dem-stromausfall-in-spanien-und-portugal-f%C3%BCr-das/279929",
     "https://dip.bundestag.de/drucksache/m%C3%B6gliche-belastung-des-50-herz-stromnetzes-durch-wind-und-solarenergie/284006",
+    "https://dkkv.org/digitale-woche-2026-resilienz-im-bevoelkerungsschutz/",
     "https://dkkv.org/neue-bbk-praesidentin/",
     "https://doi.org/10.1002/joc.7739",
     "https://doi.org/10.1016/j.cliser.2023.100428",
@@ -255,6 +256,7 @@
     "https://emergency.copernicus.eu/mapping/ems/coperni",
     "https://emergency.copernicus.eu/mapping/ems/copernicus-emergency-management-service-forecasts-notifies-and-monitors-devastating-floods",
     "https://enthus.de/blog/kritis-dachgesetz-2026-warum-resilienz-jetzt-zur-chefsache-wird",
+    "https://epc.eu/publication/European-Preparedness-Union-Strategy-a-step-closer-to-a-vision-for-t-63c6f8/",
     "https://esut.de/2026/03/fachbeitraege/68389/gesamtverteidigung-ein-neues-projekt-der-gsp/",
     "https://eswd.eu/en?filter=%7B%22startCoordinates%22%3A%7B%7D%2C%22endCoordinates%22",
     "https://eu.boell.org/en/2026/03/04/press-release-resilience-spending-must-strengthen-europes-security-not-become-accounting",
@@ -528,6 +530,7 @@
     "https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl261s1183.pdf#page=8",
     "https://www.bild.de/politik/inland/dobrindt-ueber-strom-anschlag-in-berlin-linksterrorismus-ist-in-deutschland-zurueck-695bb72afb77630dac278197",
     "https://www.bild.de/politik/inland/linksextremer-anschlag-in-berlin-bekennerschreiben-sie-wollen-allen-den-saft-abdrehen-695a2edbfd458507c19142e4",
+    "https://www.bitkom.org/Bitkom/Publikationen/Hybride-Angriffe-Wie-gut-ist-Deutschland-vorbereitet",
     "https://www.bitkom.org/Bitkom/Publikationen/Studie-Wirtschaftsschutz",
     "https://www.bitkom.org/Presse/Presseinformation/Bitkom-zu-Beschluss-Kritis-Dachgesetz",
     "https://www.bka.de/DE/Presse/Listenseite_Pressemitteilungen/2026/Presse2026/260127_Zeugenaufruf_Brandanschlag_Berlin.html",
@@ -1188,6 +1191,7 @@
     "https://www.tagesspiegel.de/berlin/stromausfall-betreiber-prazisiert-stromausfall-betrifft-45000-haushalte-15098573.html",
     "https://www.tagesspiegel.de/berlin/stromzufuhr-mit-zeitzunder-versehen-eine-vulkangruppe-droht-mit-neuem-anschlag-in-berlin--polizei-pruft-schreiben-15114547.html",
     "https://www.tagesspiegel.de/berlin/weil-ich-einfach-den-kopf-freikriegen-wollte-kai-wegners-zweite-luge-zum-stromausfall-15343645.html",
+    "https://www.tagesspiegel.de/politik/geplantes-abwehrzentrum-gegen-hybride-bedrohung-was-ist-das--und-macht-es-deutschland-wirklich-sicherer-15145962.html",
     "https://www.tandfonline.com/doi/full/10.1080/01402390.2023.2260958",
     "https://www.tandfonline.com/doi/full/10.1080/01495933.2020.1718992",
     "https://www.tandfonline.com/doi/full/10.1080/10242694.2023.2187924#d1e140",
@@ -1691,6 +1695,19 @@
       "downloaded": 4,
       "failed": 1,
       "notes": "BMI-Hybride-Bedrohungen HTTP 400 (Bot-Schutz). 4 neue Dokumente: BBK BuWaTa, BSI Gesundheit, Bundeswehr GETEX, kritisch-lesen ZMZ."
+    },
+    {
+      "date": "2026-04-28",
+      "queries": [
+        "bundesrecht: KRITIS-Dachgesetz, Zivilschutzgesetz, ZSKG",
+        "landesrecht: Katastrophenschutz, Bevoelkerungsschutz",
+        "web: KRITIS-Dachgesetz April 2026, NATO civil preparedness, OPLAN Deutschland, hybride Bedrohungen, EU Preparedness Union, Sirenenfoerderprogramm"
+      ],
+      "results_examined": 60,
+      "new_after_dedup": 4,
+      "downloaded": 4,
+      "failed": 0,
+      "notes": "4 neue Quellen: Bitkom Hybride Angriffe (293), DKKV Digitale Woche 2026 (294), Tagesspiegel Abwehrzentrum (295), EPC EU Preparedness Union (296)."
     }
   ],
   "failed_downloads": {

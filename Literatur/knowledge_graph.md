@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-27
+Stand: 2026-04-28
 
 ## Statistik
 
-- **270** Dokumente im Korpus
-- **1548** unique externe URLs
+- **274** Dokumente im Korpus
+- **1552** unique externe URLs
 - **70** Dokumente mit geteilten Quellen
-- **200** isolierte Dokumente (keine geteilten URLs)
+- **204** isolierte Dokumente (keine geteilten URLs)
 - **78** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -81,10 +81,10 @@ Stand: 2026-04-27
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 72 | 27% |
-| Sekundaerquelle | 49 | 18% |
-| Graue Literatur | 73 | 27% |
-| Journalistische Quelle | 45 | 17% |
+| Primaerquelle | 72 | 26% |
+| Sekundaerquelle | 51 | 19% |
+| Graue Literatur | 74 | 27% |
+| Journalistische Quelle | 46 | 17% |
 | Tertiaerquelle | 6 | 2% |
 | Aktivistische Quelle | 6 | 2% |
 
@@ -92,9 +92,9 @@ Stand: 2026-04-27
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 104 | 39% |
-| mittel | 115 | 43% |
-| niedrig | 32 | 12% |
+| hoch | 105 | 38% |
+| mittel | 116 | 42% |
+| niedrig | 34 | 12% |
 
 ### Farbcodierung im Graph
 
@@ -379,6 +379,10 @@ Stand: 2026-04-27
 | 290 | BSI_Cybersicherheit_Gesundheitswesen | grau | BSI | 2026 | hoch |
 | 291 | Bundeswehr_GETEX_2026 | primaer | Bundeswehr | 2026 | hoch |
 | 292 | kritisch_lesen_ZMZ | aktivistisch | kritisch-lesen.de | 2026 | niedrig |
+| 293 | Bitkom_Hybride_Angriffe | sekundaer | Bitkom | 2026 | hoch |
+| 294 | DKKV_Digitale_Woche | grau | DKKV | 2026 | niedrig |
+| 295 | Tagesspiegel_Abwehrzentrum_Hybride | journalistisch | Tagesspiegel | 2026 | niedrig |
+| 296 | EPC_EU_Preparedness | sekundaer | EPC | 2025 | mittel |
 
 ## Isolierte Dokumente
 
@@ -546,6 +550,10 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 290: BSI_Cybersicherheit_Gesundheitswesen (grau)
 - 291: Bundeswehr_GETEX_2026 (primaer)
 - 292: kritisch_lesen_ZMZ (aktivistisch)
+- 293: Bitkom_Hybride_Angriffe (sekundaer)
+- 294: DKKV_Digitale_Woche (grau)
+- 295: Tagesspiegel_Abwehrzentrum_Hybride (journalistisch)
+- 296: EPC_EU_Preparedness (sekundaer)
 - 34: EU_TAFF_Civil (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
@@ -674,8 +682,8 @@ graph LR
     D101 -->|2| D76
     D266 -->|2| D272
     D148 -->|2| D30
-    D24 -->|2| D30
     D165 -->|2| D30
+    D24 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -724,9 +732,9 @@ graph LR
     D17 -->|1| D93
     D200 -->|1| D234
     D216 -->|1| D30
-    D219 -->|1| D38
     D219 -->|1| D261
     D219 -->|1| D31
+    D219 -->|1| D38
     D219 -->|1| D234
     D234 -->|1| D30
     D267 -->|1| D273
