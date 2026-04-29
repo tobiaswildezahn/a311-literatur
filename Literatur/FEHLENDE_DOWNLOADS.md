@@ -84,3 +84,10 @@ Nr. 3 (BMI PM Gesamtverteidigung) wurde bereits als .txt gespeichert.
 | Nr. | Zielordner | Dateiname | URL | Hinweis |
 |-----|-----------|-----------|-----|---------|
 | 293 | `Literatur/inbox/` | `BMI_Hybride_Bedrohungen_HH.html` | https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html | HTTP 400 (BMI-Bot-Schutz). BMI-Kurzmeldung "Zusammen gegen hybride Bedrohungen" — gemeinsame Erklaerung. Im Browser oeffnen, Text kopieren. |
+
+## Ergaenzung 2026-04-29 — BBK & Springer
+
+| Nr. | Zielordner | Dateiname | URL | Hinweis |
+|-----|-----------|-----------|-----|---------|
+| (drop) | `Literatur/inbox/` | `BBK_Magazin_Ehrenamt_2026_1.pdf` | https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag-26-01.pdf | URL liefert 404 ("Ups, ein Monster..."). Korrekte URL fuer BBK-Magazin Ehrenamt-Ausgabe 1/2026 manuell suchen — Landing Page bereits als Nr 205 im Korpus. |
+| (drop) | `Literatur/inbox/` | `Springer_Zeitenwende_Zivile_Verteidigung_2025.pdf` | https://link.springer.com/book/10.1007/978-3-662-71881-0 | HTTP 303-Redirect, vermutlich paywallt. Sammelband "Zeitenwende, Zivile Verteidigung und Bevoelkerungsschutz" — UB-Hamburg pruefen. |

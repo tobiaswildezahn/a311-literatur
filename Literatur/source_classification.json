@@ -1528,5 +1528,53 @@
     "institution": "EPC",
     "jahr": 2025,
     "evidenzgrad": "mittel"
+  },
+  "297": {
+    "typ": "primaer",
+    "institution": "NATO",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "298": {
+    "typ": "primaer",
+    "institution": "Deutscher Bundestag (Fraktion AfD)",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "299": {
+    "typ": "sekundaer",
+    "institution": "CISS UniBw",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "300": {
+    "typ": "tertiaer",
+    "institution": "Bundeszentrale fuer politische Bildung",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "301": {
+    "typ": "journalistisch",
+    "institution": "Behoerden Spiegel",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "302": {
+    "typ": "grau",
+    "institution": "Deutsches Komitee Katastrophenvorsorge (DKKV)",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "303": {
+    "typ": "grau",
+    "institution": "OPLAN.de / Reservistenverband",
+    "jahr": 2026,
+    "evidenzgrad": "niedrig"
+  },
+  "304": {
+    "typ": "journalistisch",
+    "institution": "Security Network",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
   }
 }

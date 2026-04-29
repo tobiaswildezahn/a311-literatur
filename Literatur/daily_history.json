@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-28T05:00:00",
-  "run_count": 33,
+  "last_run": "2026-04-29T05:00:00",
+  "run_count": 34,
   "corpus_state": {
-    "total_docs": 274,
-    "total_urls": 1731,
-    "unique_urls": 1552,
-    "connected_docs": 70,
-    "isolated_docs": 204,
-    "edges": 78
+    "total_docs": 282,
+    "total_urls": 1743,
+    "unique_urls": 1563,
+    "connected_docs": 71,
+    "isolated_docs": 211,
+    "edges": 79
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -201,6 +201,7 @@
     "https://dip.bundestag.de/drucksache/lehren-aus-dem-stromausfall-in-spanien-und-portugal-f%C3%BCr-das/279929",
     "https://dip.bundestag.de/drucksache/m%C3%B6gliche-belastung-des-50-herz-stromnetzes-durch-wind-und-solarenergie/284006",
     "https://dkkv.org/digitale-woche-2026-resilienz-im-bevoelkerungsschutz/",
+    "https://dkkv.org/klimapressekonferenz-2026-des-dwd/",
     "https://dkkv.org/neue-bbk-praesidentin/",
     "https://doi.org/10.1002/joc.7739",
     "https://doi.org/10.1016/j.cliser.2023.100428",
@@ -244,6 +245,7 @@
     "https://dserver.bundestag.de/btd/21/038/2103803.pdf",
     "https://dserver.bundestag.de/btd/21/038/2103855.pdf",
     "https://dserver.bundestag.de/btd/21/039/2103906.pdf",
+    "https://dserver.bundestag.de/btd/21/046/2104613.pdf",
     "https://dwd.de/zeitreihen",
     "https://dx.doi.org/10.1127/metz/2023/1150",
     "https://ec.europa.eu/commission/presscorner/detail/en/ip_25_856",
@@ -338,6 +340,7 @@
     "https://nationalpost.com/news/canada/coast-guard-union-says-crews-in-the-dark-about-move-to-defence-ministers-control",
     "https://nato.diplo.de/nato-de/service/-/2539668",
     "https://nato.int/en/news-and-events/articles/news/2026/04/07/nato-militaries-strengthening-allied-medical-resilience",
+    "https://nato.int/en/news-and-events/articles/news/2026/04/28/senior-national-officials-for-resilience-meet-at-nato-to-address-the-crucial-role-of-resilience-in-allied-security",
     "https://ndupress.ndu.edu/Media/News/News-Article-View/Article/3323915/finnish-defense-left-of-bang/",
     "https://network.bepress.com/hgg/discipline/1114?utm_source=press.armywarcollege.edu%2Fparameters%2Fvol46%2Fiss4%2F9&utm_medium=PDF&utm_campaign=PDFCoverPages",
     "https://network.bepress.com/hgg/discipline/1114?utm_source=press.armywarcollege.edu%2Fparameters%2Fvol47%2Fiss1%2F14&utm_medium=PDF&utm_campaign=PDFCoverPages",
@@ -353,6 +356,7 @@
     "https://nhess.copernicus.org/articles/23/973/2023/.*",
     "https://obamawhitehouse.archives.gov/",
     "https://obamawhitehouse.archives.gov/the-press-office/2013/09/24/remarks-presidentobama-address-united-nations-general-assembly",
+    "https://oplan.de/2026/03/21/die-reserve-deutschland-braucht-eine-starke-gesamtverteidigung/",
     "https://ottawacitizen.com/public-service/defence-watch/pbo-carney-defence-spending-nato",
     "https://pinterest.com/pin/create/button/?url=https://www.behoerden-spiegel.de/2024/06/10/der-neue-rahmen-der-gesamtverteidigung/&media=https://www.behoerden-spiegel.de/wp-content/uploads/2024/06/Berlin_Bunker_Mehrzweckanlage_Kudamm-Karree_003-scaled.jpg&description=Der+neue+Rahmen+der+Gesamtverteidigung",
     "https://pinterest.com/pin/create/button/?url=https://www.behoerden-spiegel.de/2026/02/05/luekex-2026-mit-rekordbeteiligung/&media=https://www.behoerden-spiegel.de/wp-content/uploads/2026/02/Feuerwehr_BBK_q_Klawon.jpg&description=L%C3%9CKEX+2026+mit+Rekordbeteiligung",
@@ -381,6 +385,7 @@
     "https://rib.msb.se/filer/pdf/30874.pdf",
     "https://rsis.edu.sg/rsis-publication/nssp/total-defence-in-action-singapores-response-to-the-covid-19-pandemic/",
     "https://sbahn.berlin/fahren/bauen-stoerung/?tabs=tbc-l3",
+    "https://security-network.com/berg-gesamtverteidigung-o-plan-deutschland/",
     "https://security-network.com/bundeskabinett-entwurf-kritis-dachgesetz/",
     "https://security-network.com/interschutz-zukunft-schuetzen/",
     "https://security-network.com/operationsplan-deutschland-eine-einfuehrung/",
@@ -511,6 +516,7 @@
     "https://www.behoerden-spiegel.de/2026/02/03/teilerholung-der-bauwirtschaft/",
     "https://www.behoerden-spiegel.de/2026/02/05/luekex-2026-mit-rekordbeteiligung/",
     "https://www.behoerden-spiegel.de/2026/02/06/juh-und-bundeswehr-ruecken-zusammen/",
+    "https://www.behoerden-spiegel.de/2026/03/12/was-vom-schutzraumkonzept-blieb/",
     "https://www.behoerden-spiegel.de/2026/03/20/buerger-hoert-die-warn-signale/",
     "https://www.behoerden-spiegel.de/2026/03/27/faeser-ist-neue-vorsitzende-des-dfv-beirats/",
     "https://www.behoerden-spiegel.de/2026/03/27/tarifabschluss-in-hessen/",
@@ -580,6 +586,7 @@
     "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/522893/nach-der-flut-an-der-ahr-2021/",
     "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/569223/klimaanpassungspolitik-in-deutschland/",
     "https://www.bpb.de/shop/zeitschriften/apuz/blackout-2024/543959/schutz-kritischer-infrastrukturen-waehrend-eines-blackouts/",
+    "https://www.bpb.de/system/files/dokument_pdf/BPB_IzpB_365_Bevoelkerungsschutz_vorab.pdf",
     "https://www.bpb.de/themen/medien-journalismus/desinformation/",
     "https://www.bpb.de/themen/medien-journalismus/digitale-desinformation/desin",
     "https://www.br.de/nachrichten/bayern/alles-stinkt-nach-oel-feuerwehrmann-ueber-hochwasser-einsatz",
@@ -1236,6 +1243,7 @@
     "https://www.undp.org/content/undp/en/home/climate-and-disaster-resilience/disaster-risk-reduction.html",
     "https://www.uni-potsdam.de/",
     "https://www.uni-potsdam.de/de/umwelt/forschung/ag-geographie-und-naturrisikenforschung/forschungsprojekte/howas2021",
+    "https://www.unibw.de/ciss/aktuelles/wirtschaftsschutz/die-nationale-wirtschaftsschutzstrategie-2026",
     "https://www.unocha.org/themes/preparedness-and-risk-management",
     "https://www.unrefugees.org/emergencies/europe/",
     "https://www.usni.org/magazines/proceedings/2024/may/reinventing-mine-warfare-baltic-sea",
@@ -1708,6 +1716,23 @@
       "downloaded": 4,
       "failed": 0,
       "notes": "4 neue Quellen: Bitkom Hybride Angriffe (293), DKKV Digitale Woche 2026 (294), Tagesspiegel Abwehrzentrum (295), EPC EU Preparedness Union (296)."
+    },
+    {
+      "date": "2026-04-29",
+      "queries": [
+        "bevoelkerungsschutz 2026",
+        "kritis-dachgesetz 2026",
+        "nato resilience civil preparedness 2026",
+        "katastrophenschutz hamburg 2026",
+        "hybride bedrohung sabotage 2026",
+        "bbk 2026",
+        "klimarisiken katastrophenschutz 2026"
+      ],
+      "results": 12,
+      "new": 8,
+      "downloaded": 8,
+      "failed": 2,
+      "notes": "BBK URL halluziniert (404), Springer 303-Redirect"
     }
   ],
   "failed_downloads": {
@@ -1724,6 +1749,20 @@
       "retry_count": 1,
       "last_attempt": "2026-04-27",
       "reason": "HTTP 400 — BMI Bot-Schutz, manueller Browser-Download in inbox/ noetig"
+    },
+    "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag-26-01.pdf": {
+      "title": "BBK Magazin Ehrenamt 1/2026 (PDF Vollausgabe)",
+      "target_nr": null,
+      "retry_count": 1,
+      "last_attempt": "2026-04-29",
+      "reason": "URL liefert 404 (BBK 'Monster'-Seite). Korrekte URL nicht ermittelbar — Landing Page bereits als Nr 205 im Korpus."
+    },
+    "https://link.springer.com/book/10.1007/978-3-662-71881-0": {
+      "title": "Springer Sammelband: Zeitenwende, Zivile Verteidigung und Bevoelkerungsschutz",
+      "target_nr": null,
+      "retry_count": 1,
+      "last_attempt": "2026-04-29",
+      "reason": "HTTP 303 Redirect — paywallt. UB-Hamburg-Zugang pruefen."
     }
   }
 }

@@ -1,14 +1,14 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-28
+Stand: 2026-04-29
 
 ## Statistik
 
-- **274** Dokumente im Korpus
-- **1552** unique externe URLs
-- **70** Dokumente mit geteilten Quellen
-- **204** isolierte Dokumente (keine geteilten URLs)
-- **78** Verbindungen (mind. 2 geteilte URLs)
+- **282** Dokumente im Korpus
+- **1563** unique externe URLs
+- **71** Dokumente mit geteilten Quellen
+- **211** isolierte Dokumente (keine geteilten URLs)
+- **79** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
 
@@ -22,11 +22,11 @@ Stand: 2026-04-28
 | 24 | CIMIC_Factsheet_Resilience | 6 |
 | 69 | Boell_Nordic_Baltic | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
+| 85 | Wikipedia_Brandanschlag_Berlin | 5 |
 | 219 | CSIS_Russia_Shadow | 5 |
 | 08 | BBK_Risikoanalysen_Uebersicht | 4 |
-| 141 | UA_Flut_RLP | 4 |
-| 85 | Wikipedia_Brandanschlag_Berlin | 4 |
 | 60 | Wikipedia_OPLAN_Deutschland | 4 |
+| 141 | UA_Flut_RLP | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 | 17 | Bayika_Gebbeken_KRITIS | 4 |
 
@@ -56,8 +56,8 @@ Stand: 2026-04-28
 |--------|-----------------|---------|
 | bbk.bund.de | 32 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | bmi.bund.de | 15 | 04, 08, 112, 12, 13, 141, 17, 226, 264, 30... |
-| nato.int | 14 | 148, 165, 211, 219, 22, 230, 24, 252, 261, 29... |
-| dserver.bundestag.de | 13 | 06, 07, 08, 14, 15, 17, 234, 269, 30, 66... |
+| nato.int | 15 | 148, 165, 211, 219, 22, 230, 24, 252, 261, 29... |
+| dserver.bundestag.de | 14 | 06, 07, 08, 14, 15, 17, 234, 269, 298, 30... |
 | bundestag.de | 12 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 49... |
 | bundeswehr.de | 12 | 131, 197, 234, 251, 258, 291, 60, 61, 62, 63... |
 | dwd.de | 11 | 100, 102, 103, 131, 141, 171, 212, 267, 273, 95... |
@@ -66,8 +66,8 @@ Stand: 2026-04-28
 | bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
 | doi.org | 7 | 102, 216, 219, 30, 65, 83, 96 |
-| youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | tagesschau.de | 6 | 100, 13, 234, 49, 79, 93 |
+| youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
 | ec.europa.eu | 6 | 138, 148, 216, 234, 24, 30 |
 | civil-protection-humanitarian-aid.ec.europa.eu | 6 | 245, 246, 262, 288, 30, 33 |
@@ -81,20 +81,20 @@ Stand: 2026-04-28
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 72 | 26% |
-| Sekundaerquelle | 51 | 19% |
-| Graue Literatur | 74 | 27% |
-| Journalistische Quelle | 46 | 17% |
-| Tertiaerquelle | 6 | 2% |
+| Primaerquelle | 74 | 26% |
+| Sekundaerquelle | 52 | 18% |
+| Graue Literatur | 76 | 27% |
+| Journalistische Quelle | 48 | 17% |
+| Tertiaerquelle | 7 | 2% |
 | Aktivistische Quelle | 6 | 2% |
 
 ### Verteilung nach Evidenzgrad
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 105 | 38% |
-| mittel | 116 | 42% |
-| niedrig | 34 | 12% |
+| hoch | 108 | 38% |
+| mittel | 120 | 43% |
+| niedrig | 35 | 12% |
 
 ### Farbcodierung im Graph
 
@@ -383,6 +383,14 @@ Stand: 2026-04-28
 | 294 | DKKV_Digitale_Woche | grau | DKKV | 2026 | niedrig |
 | 295 | Tagesspiegel_Abwehrzentrum_Hybride | journalistisch | Tagesspiegel | 2026 | niedrig |
 | 296 | EPC_EU_Preparedness | sekundaer | EPC | 2025 | mittel |
+| 297 | NATO_Resilience_Officials | primaer | NATO | 2026 | hoch |
+| 298 | BT_Drs_21 | primaer | Deutscher Bundestag (Fraktion AfD) | 2026 | mittel |
+| 299 | CISS_Nationale_Wirtschaftsschutzstrategie | sekundaer | CISS UniBw | 2026 | mittel |
+| 300 | bpb_IzpB_365 | tertiaer | Bundeszentrale fuer politische Bildung | 2026 | hoch |
+| 301 | BehoerdenSpiegel_Schutzraumkonzept_2026 | journalistisch | Behoerden Spiegel | 2026 | mittel |
+| 302 | DKKV_DWD_Klimapressekonferenz | grau | Deutsches Komitee Katastrophenvorsorge (DKKV) | 2026 | hoch |
+| 303 | OPLAN_Reservistenverband_Dienstjahr | grau | OPLAN.de / Reservistenverband | 2026 | niedrig |
+| 304 | SecNet_Hambach_OPlan | journalistisch | Security Network | 2025 | mittel |
 
 ## Isolierte Dokumente
 
@@ -554,6 +562,13 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 294: DKKV_Digitale_Woche (grau)
 - 295: Tagesspiegel_Abwehrzentrum_Hybride (journalistisch)
 - 296: EPC_EU_Preparedness (sekundaer)
+- 297: NATO_Resilience_Officials (primaer)
+- 299: CISS_Nationale_Wirtschaftsschutzstrategie (sekundaer)
+- 300: bpb_IzpB_365 (tertiaer)
+- 301: BehoerdenSpiegel_Schutzraumkonzept_2026 (journalistisch)
+- 302: DKKV_DWD_Klimapressekonferenz (grau)
+- 303: OPLAN_Reservistenverband_Dienstjahr (grau)
+- 304: SecNet_Hambach_OPlan (journalistisch)
 - 34: EU_TAFF_Civil (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
@@ -638,6 +653,7 @@ graph LR
     D269["269: Drs_21_3600<br/>PRI | 2 URLs"]
     D272["272: BBK_Fachkongress_Forschung<br/>PRI | 2 URLs"]
     D273["273: DWD_PhaenoNetz_FloraIncognita<br/>PRI | 5 URLs"]
+    D298["298: BT_Drs_21<br/>PRI | 3 URLs"]
     D30["30: Bertelsmann_NATO_Resilience<br/>GRA | 65 URLs"]
     D31["31: NAADSN_7BLR_Policy<br/>GRA | 85 URLs"]
     D33["33: JRC_Cross_Border<br/>SEK | 10 URLs"]
@@ -682,8 +698,8 @@ graph LR
     D101 -->|2| D76
     D266 -->|2| D272
     D148 -->|2| D30
-    D165 -->|2| D30
     D24 -->|2| D30
+    D165 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -698,13 +714,13 @@ graph LR
     D07 -->|1| D269
     D08 -->|1| D269
     D08 -->|1| D255
+    D100 -->|1| D60
+    D60 -->|1| D85
+    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D60
-    D60 -->|1| D85
-    D100 -->|1| D102
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108
@@ -732,12 +748,13 @@ graph LR
     D17 -->|1| D93
     D200 -->|1| D234
     D216 -->|1| D30
-    D219 -->|1| D261
-    D219 -->|1| D31
-    D219 -->|1| D38
     D219 -->|1| D234
     D234 -->|1| D30
+    D219 -->|1| D38
+    D219 -->|1| D261
+    D219 -->|1| D31
     D267 -->|1| D273
+    D298 -->|1| D85
     D30 -->|1| D66
     D48 -->|1| D49
     D59 -->|1| D60
@@ -745,7 +762,7 @@ graph LR
     D73 -->|1| D74
     D80 -->|1| D91
     D95 -->|1| D96
-    style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D200,D255,D267,D269,D272,D273,D96 fill:#2563eb,color:#fff
+    style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D200,D255,D267,D269,D272,D273,D298,D96 fill:#2563eb,color:#fff
     style D102,D112,D16,D165,D216,D219,D234,D261,D33,D36,D37,D38,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
     style D100,D60,D85 fill:#6b7280,color:#fff
     style D101,D106,D108,D124,D148,D151,D17,D24,D266,D30,D31,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
