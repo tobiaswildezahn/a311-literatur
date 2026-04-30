@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-04-29
+Stand: 2026-04-30
 
 ## Statistik
 
-- **282** Dokumente im Korpus
-- **1563** unique externe URLs
+- **292** Dokumente im Korpus
+- **1573** unique externe URLs
 - **71** Dokumente mit geteilten Quellen
-- **211** isolierte Dokumente (keine geteilten URLs)
+- **221** isolierte Dokumente (keine geteilten URLs)
 - **79** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -15,9 +15,9 @@ Stand: 2026-04-29
 | Dok | Label | Verbindungen |
 |-----|-------|-------------|
 | 30 | Bertelsmann_NATO_Resilience | 11 |
+| 165 | Clingendael_NATO_Resilience | 7 |
 | 261 | NAADSN_7BLR_Infrastructure | 7 |
 | 31 | NAADSN_7BLR_Policy | 7 |
-| 165 | Clingendael_NATO_Resilience | 7 |
 | 148 | CIMIC_Factsheet_Resilience | 6 |
 | 24 | CIMIC_Factsheet_Resilience | 6 |
 | 69 | Boell_Nordic_Baltic | 6 |
@@ -61,19 +61,19 @@ Stand: 2026-04-29
 | bundestag.de | 12 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 49... |
 | bundeswehr.de | 12 | 131, 197, 234, 251, 258, 291, 60, 61, 62, 63... |
 | dwd.de | 11 | 100, 102, 103, 131, 141, 171, 212, 267, 273, 95... |
+| dgap.org | 11 | 166, 167, 169, 221, 227, 307, 308, 309, 65, 66... |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
-| dgap.org | 8 | 166, 167, 169, 221, 227, 65, 66, 67 |
 | bundesregierung.de | 7 | 01, 12, 144, 17, 197, 85, 97 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
 | doi.org | 7 | 102, 216, 219, 30, 65, 83, 96 |
+| behoerden-spiegel.de | 7 | 115, 301, 305, 310, 311, 312, 58 |
+| bmvg.de | 6 | 04, 05, 274, 306, 45, 65 |
 | tagesschau.de | 6 | 100, 13, 234, 49, 79, 93 |
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
 | ec.europa.eu | 6 | 138, 148, 216, 234, 24, 30 |
 | civil-protection-humanitarian-aid.ec.europa.eu | 6 | 245, 246, 262, 288, 30, 33 |
-| bmvg.de | 5 | 04, 05, 274, 45, 65 |
 | de.wikipedia.org | 5 | 100, 123, 60, 61, 99 |
-| umweltbundesamt.de | 5 | 102, 103, 105, 96, 99 |
 
 ## Quellenklassifikation
 
@@ -81,10 +81,10 @@ Stand: 2026-04-29
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 74 | 26% |
-| Sekundaerquelle | 52 | 18% |
-| Graue Literatur | 76 | 27% |
-| Journalistische Quelle | 48 | 17% |
+| Primaerquelle | 75 | 26% |
+| Sekundaerquelle | 55 | 19% |
+| Graue Literatur | 77 | 26% |
+| Journalistische Quelle | 53 | 18% |
 | Tertiaerquelle | 7 | 2% |
 | Aktivistische Quelle | 6 | 2% |
 
@@ -92,8 +92,8 @@ Stand: 2026-04-29
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 108 | 38% |
-| mittel | 120 | 43% |
+| hoch | 109 | 37% |
+| mittel | 129 | 44% |
 | niedrig | 35 | 12% |
 
 ### Farbcodierung im Graph
@@ -391,6 +391,16 @@ Stand: 2026-04-29
 | 302 | DKKV_DWD_Klimapressekonferenz | grau | Deutsches Komitee Katastrophenvorsorge (DKKV) | 2026 | hoch |
 | 303 | OPLAN_Reservistenverband_Dienstjahr | grau | OPLAN.de / Reservistenverband | 2026 | niedrig |
 | 304 | SecNet_Hambach_OPlan | journalistisch | Security Network | 2025 | mittel |
+| 305 | BehSpiegel_Nach_OPLAN | journalistisch | Behoerden Spiegel | 2026 | mittel |
+| 306 | BMVG_Strategie_Neue | primaer | BMVG | 2026 | hoch |
+| 307 | DGAP_Multilaterale_Resilienzbank | sekundaer | DGAP | 2026 | mittel |
+| 308 | DGAP_Militaerstrategie_Bundeswehr | sekundaer | DGAP | 2026 | mittel |
+| 309 | DGAP_Lehren_Krieg | sekundaer | DGAP | 2026 | mittel |
+| 310 | BehSpiegel_KRITIS_Unternehmen | journalistisch | Behoerden Spiegel | 2026 | mittel |
+| 311 | BehSpiegel_Kritik_KRITIS | journalistisch | Behoerden Spiegel | 2026 | mittel |
+| 312 | BehSpiegel_Letzte_Glied | journalistisch | Behoerden Spiegel | 2026 | mittel |
+| 313 | HK_Hamburg_Krisenvorsorgeplan | grau | Handelskammer Hamburg | 2026 | mittel |
+| 314 | ESUT_Staerkste_Konventionelle | journalistisch | ESUT | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -569,6 +579,16 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 302: DKKV_DWD_Klimapressekonferenz (grau)
 - 303: OPLAN_Reservistenverband_Dienstjahr (grau)
 - 304: SecNet_Hambach_OPlan (journalistisch)
+- 305: BehSpiegel_Nach_OPLAN (journalistisch)
+- 306: BMVG_Strategie_Neue (primaer)
+- 307: DGAP_Multilaterale_Resilienzbank (sekundaer)
+- 308: DGAP_Militaerstrategie_Bundeswehr (sekundaer)
+- 309: DGAP_Lehren_Krieg (sekundaer)
+- 310: BehSpiegel_KRITIS_Unternehmen (journalistisch)
+- 311: BehSpiegel_Kritik_KRITIS (journalistisch)
+- 312: BehSpiegel_Letzte_Glied (journalistisch)
+- 313: HK_Hamburg_Krisenvorsorgeplan (grau)
+- 314: ESUT_Staerkste_Konventionelle (journalistisch)
 - 34: EU_TAFF_Civil (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
@@ -698,8 +718,8 @@ graph LR
     D101 -->|2| D76
     D266 -->|2| D272
     D148 -->|2| D30
-    D24 -->|2| D30
     D165 -->|2| D30
+    D24 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -716,11 +736,11 @@ graph LR
     D08 -->|1| D255
     D100 -->|1| D60
     D60 -->|1| D85
-    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
+    D100 -->|1| D102
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108
@@ -748,11 +768,11 @@ graph LR
     D17 -->|1| D93
     D200 -->|1| D234
     D216 -->|1| D30
-    D219 -->|1| D234
-    D234 -->|1| D30
-    D219 -->|1| D38
     D219 -->|1| D261
     D219 -->|1| D31
+    D219 -->|1| D38
+    D219 -->|1| D234
+    D234 -->|1| D30
     D267 -->|1| D273
     D298 -->|1| D85
     D30 -->|1| D66
