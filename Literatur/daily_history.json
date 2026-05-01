@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-04-30T05:11:47",
-  "run_count": 35,
+  "last_run": "2026-05-01T05:11:00",
+  "run_count": 36,
   "corpus_state": {
-    "total_docs": 292,
-    "total_urls": 1753,
-    "unique_urls": 1573,
-    "connected_docs": 71,
-    "isolated_docs": 221,
-    "edges": 79
+    "total_docs": 301,
+    "total_urls": 1764,
+    "unique_urls": 1581,
+    "connected_docs": 77,
+    "isolated_docs": 224,
+    "edges": 82
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -204,6 +204,7 @@
     "https://dip.bundestag.de/drucksache/lehren-aus-dem-stromausfall-in-spanien-und-portugal-f%C3%BCr-das/279929",
     "https://dip.bundestag.de/drucksache/m%C3%B6gliche-belastung-des-50-herz-stromnetzes-durch-wind-und-solarenergie/284006",
     "https://dkkv.org/digitale-woche-2026-resilienz-im-bevoelkerungsschutz/",
+    "https://dkkv.org/gsw-newsletter-aktuelle-entwicklungen-zu-katastrophenschutz-und-kritischen-infrastrukturen-2026-kw5/",
     "https://dkkv.org/klimapressekonferenz-2026-des-dwd/",
     "https://dkkv.org/neue-bbk-praesidentin/",
     "https://doi.org/10.1002/joc.7739",
@@ -505,10 +506,12 @@
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2024/01/pm-03-hochwasser-niedersachsen.html",
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2024/10/pm-23-notstromleitfaden.html",
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/01/pm-28-start-luekex-26.html",
+    "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/02/pm-11-zsh-2025.html",
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/03/pm-09-isf-projekt-abgeschlossen.html",
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/03/pm-17-aktionsreihe-selbstschutz-bonn.html",
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/04/pm-22-fachkongress.html",
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/04/pm-24-buwata25-umfrage-ergebnisse.html",
+    "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/04/pm-28-heha-lebenserfahrung.html",
     "https://www.bbk.bund.de/magazin",
     "https://www.bcm-beratung.de/Business-Continuity-Management-ISO-22301-BSI-Standard-200-4.29.0.html",
     "https://www.bdew.de/presse/stromausfall-stromnetz-kritische-infrastruktur/",
@@ -554,6 +557,7 @@
     "https://www.blogist.de/category/sicherheit/",
     "https://www.blogist.de/cyberangriffe-auf-kritische-infrastruktur-warum-der-schutz-jetzt-prioritaet-hat/",
     "https://www.blogist.de/cyberangriffe-auf-kritische-infrastruktur-warum-der-schutz-jetzt-prioritaet-hat/#respond",
+    "https://www.bmftr.bund.de/SharedDocs/Bekanntmachungen/DE/2026/04/2026-04-17-bekanntmachung-hybride-bedrohungen.html",
     "https://www.bmi.bund.de/",
     "https://www.bmi.bund.de/DE/themen/bevoelkerungsschutz/schutz-kritischer-infrastrukturen/schutz-kritischer-infrastrukturen-node.html",
     "https://www.bmi.bund.de/DE/themen/bevoelkerungsschutz/zivil-und-katastrophenschutz/konzeption-zivile-verteidigung/konzeption-zivile-verteidigung-node.html",
@@ -621,6 +625,7 @@
     "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1062/1062-node.html",
     "https://www.bundesrechnungshof.de/SharedDocs/Downloads/DE/Berichte/2025/einzelplan-2026/06-volltext.pdf",
     "https://www.bundesrechnungshof.de/SharedDocs/Kurzmeldungen/DE/2025/einzelplananalyse_2026/epa-2026-kurzmeldung.html",
+    "https://www.bundesregierung.de/breg-de/aktuelles/bundeshaushalt-2026-2374030",
     "https://www.bundesregierung.de/breg-de/aktuelles/gedenken-flut-ahrtal-2364150",
     "https://www.bundesregierung.de/breg-de/aktuelles/kabinett-kritis-dachgesetz-2383682",
     "https://www.bundesregierung.de/breg-de/aktuelles/stromausfall-blackout-2129818",
@@ -810,6 +815,7 @@
     "https://www.feuerwehr-fachjournal.de/tag/thw/",
     "https://www.feuerwehr-fachjournal.de/thw-blickt-auf-starkes-jahr-2025-und-75-jahre-engagement-fuer-den-bevoelkerungsschutz-zurueck/",
     "https://www.feuerwehrmagazin.de/nachrichten/news/thw-schliesst-orinoco-hochwassereinsaetze-ab-130263",
+    "https://www.feuerwehrmagazin.de/nachrichten/sirenen-apps-cell-broadcast-so-laeuft-der-warntag-am-12-maerz-2026-141981",
     "https://www.finanznachrichten.de/",
     "https://www.finanznachrichten.de/nachrichten-2026-01/67545850-die-krisenmanagementuebung-luekex-2026-verzeichnet-rekord-an-teilnehmenden-organisationen-007.htm",
     "https://www.finanznachrichten.de/nachrichten-medien/news-aktuell.htm",
@@ -1752,6 +1758,22 @@
       "new": 10,
       "downloaded": 10,
       "failed": 0
+    },
+    {
+      "date": "2026-05-01",
+      "queries": [
+        "Bevölkerungsschutz/Zivilschutz Mai 2026",
+        "KRITIS-Dachgesetz 2026",
+        "NATO civil preparedness 2026",
+        "Katastrophenschutz Hamburg/BBK 2026",
+        "Hybride Bedrohung Sabotage Unterwasserkabel",
+        "Pakt für Bevoelkerungsschutz Dobrindt",
+        "OPLAN Deutschland 2026 Aktualisierung"
+      ],
+      "results": "via WebSearch (10) + WebFetch (8 institutional)",
+      "new": 9,
+      "downloaded": 9,
+      "failed": 3
     }
   ],
   "failed_downloads": {
@@ -1765,7 +1787,7 @@
     "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html": {
       "title": "BMI Hybride Bedrohungen Gemeinsame Erklaerung",
       "target_nr": 293,
-      "retry_count": 1,
+      "retry_count": 2,
       "last_attempt": "2026-04-27",
       "reason": "HTTP 400 — BMI Bot-Schutz, manueller Browser-Download in inbox/ noetig"
     },
@@ -1782,6 +1804,12 @@
       "retry_count": 1,
       "last_attempt": "2026-04-29",
       "reason": "HTTP 303 Redirect — paywallt. UB-Hamburg-Zugang pruefen."
+    },
+    "https://www.swp-berlin.org/publications/products/arbeitspapiere/SWP_WP_Enhancing_EU-NATO_Cooperation_Critical_Infrastructure_Protection_Bendiek_Kerttunen.pdf": {
+      "title": "SWP WP Bendiek/Kerttunen EU-NATO CIP",
+      "first_seen": "2026-05-01",
+      "retry_count": 1,
+      "reason": "PDF-Binärdownload nicht parsebar via WebFetch"
     }
   }
 }
