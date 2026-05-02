@@ -1690,5 +1690,29 @@
     "institution": "Greenpeace",
     "jahr": 2024,
     "typ": "aktivistisch"
+  },
+  "324": {
+    "typ": "sekundaer",
+    "institution": "SWP",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "325": {
+    "typ": "journalistisch",
+    "institution": "Behoerden Spiegel",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "326": {
+    "typ": "journalistisch",
+    "institution": "suv.report",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "327": {
+    "typ": "journalistisch",
+    "institution": "Behoerden Spiegel",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }

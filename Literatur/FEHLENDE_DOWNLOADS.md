@@ -1,7 +1,15 @@
 # Fehlende Downloads — Manuell im Browser speichern (Cmd+S)
 
-Stand: 2026-03-27
-12 Dokumente konnten nicht automatisch heruntergeladen werden (Bot-Schutz / 403/400-Fehler).
+Stand: 2026-05-02
+13 Dokumente konnten nicht automatisch heruntergeladen werden (Bot-Schutz / 403/400-Fehler).
+
+## Neu 2026-05-02
+
+| URL | Hinweis |
+|-----|---------|
+| https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/04/thw-bbk-bonn.html | BMI THW/BBK Spezialfahrzeuge — HTTP 400 sowohl WebFetch als auch curl+Mozilla-UA. Manueller Browser-Download in inbox/ noetig. |
+
+---
 
 ## Anleitung
 1. URL im Browser öffnen
