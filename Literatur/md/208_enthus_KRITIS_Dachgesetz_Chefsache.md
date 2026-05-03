@@ -11,7 +11,7 @@ schlagworte: ["kritis-dachgesetz", "physische-resilienz", "betreiberpflichten", 
 zusammenfassung: "Management-orientierter Ueberblick zum KRITIS-Dachgesetz: Neue Pflichten fuer Betreiber in 10 Sektoren, Verzahnung mit BSI-Gesetz und AWV, strategische Handlungsempfehlungen fuer Compliance."
 url: "https://enthus.de/blog/kritis-dachgesetz-2026-warum-resilienz-jetzt-zur-chefsache-wird"
 autor: "Jakob Rinkewitz"
-bezug: [15, 155, 156, 161, 175]
+bezug: ["[[15_BT_Beschluss_KRITIS_Dachgesetz]]", "[[155_Taylor_Wessing_KRITIS_Registrierung]]", "[[156_GOERG_KRITIS_DachG]]", "[[161_SecurityToday_KRITIS_Fristen]]", "[[175_BDEW_VKU_KRITIS_Gipfel_2026]]"]
 ---
 
 # KRITIS-Dachgesetz 2026: Warum Resilienz jetzt zur Chefsache wird
@@ -64,3 +64,11 @@ Dies hat drei Folgen:
 2. **Governance-Integration:** Verzahnung des KRITIS-Dachgesetzes mit BSI-Gesetz, sektorspezifischen Anforderungen und internem Risikomanagement
 3. **Prozessaufbau:** Etablierung integrierter Risiko- und Resilienzprozesse als Unternehmenssteuerung
 4. **Behördenschnittstellen:** Professionalisierung der Koordination mit mehreren Aufsichtsbehörden und EU-Regimen
+
+## Verweise
+
+- [[15_BT_Beschluss_KRITIS_Dachgesetz]]
+- [[155_Taylor_Wessing_KRITIS_Registrierung]]
+- [[156_GOERG_KRITIS_DachG]]
+- [[161_SecurityToday_KRITIS_Fristen]]
+- [[175_BDEW_VKU_KRITIS_Gipfel_2026]]

@@ -10,7 +10,7 @@ ebene: land
 schlagworte: ["krisenvorsorge", "oeffentliche-betriebe", "kritis-dachgesetz", "zks", "hamburg", "resilienz"]
 zusammenfassung: "SKA Becken (CDU) zur Krisenvorsorge öffentlicher Betriebe in Hamburg. Senat beschreibt Gesamtstrategie mit Abt. Krisenbewältigung/BevS, KOST KRITIS, Stabsrahmenübungen und Blackout-Vereinbarungen."
 url: ""
-bezug: [179]
+bezug: ["[[179_RettDG_Hamburg]]"]
 ---
 
 23. Wahlperiode **03.03.26**
@@ -86,3 +86,7 @@ Siehe Vorbemerkung.
 
 ### Antwort zu Frage 9:
 Siehe Drs. 23/3008 und Vorbemerkung.
+
+## Verweise
+
+- [[179_RettDG_Hamburg]]

@@ -11,7 +11,7 @@ schlagworte: ["nato-resilienz", "civil-preparedness", "spending-target", "ucpm",
 zusammenfassung: "Policy Brief zum NATO-Ausgabenziel von 1,5% BIP fuer zivile Verteidigung. Analysiert Fragmentierungsrisiken, empfiehlt NATO Resilience Planning Process, EU-UCPM-Ausbau und deutsche Fuehrungsrolle."
 url: "https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/GrauePublikationen/410_2025_BST_Policy_Brief_European_Resilience_IDXXXX_screen.pdf"
 autor: "Helena Quis, Torben Schuetz"
-bezug: [5, 22, 140, 142, 151, 165]
+bezug: ["[[05_KZV_2016_Info]]", "[[22_NATO_Resilience_Article3]]", "[[140_Weissbuch_Zivile_Verteidigung_1972]]", "[[142_NATO_Strategic_Concept_2022]]", "[[151_GMF_NATO_Societal_Resilience]]", "[[165_Clingendael_NATO_Resilience_NL]]"]
 ---
 
 Europe's Future | June 18. 2025
@@ -147,3 +147,12 @@ Roepke, Wolf-Diether, and Hasit Thankey. 2019. 'Resilience: The First Line of De
 Rongved (ed.). 2025. European Total Defence: Past, Present and Future. Routledge.
 
 DOI: 10.11586/2025052
+
+## Verweise
+
+- [[05_KZV_2016_Info]]
+- [[22_NATO_Resilience_Article3]]
+- [[140_Weissbuch_Zivile_Verteidigung_1972]]
+- [[142_NATO_Strategic_Concept_2022]]
+- [[151_GMF_NATO_Societal_Resilience]]
+- [[165_Clingendael_NATO_Resilience_NL]]

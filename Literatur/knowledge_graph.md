@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-05-02
+Stand: 2026-05-03
 
 ## Statistik
 
-- **305** Dokumente im Korpus
-- **1682** unique externe URLs
+- **308** Dokumente im Korpus
+- **1685** unique externe URLs
 - **78** Dokumente mit geteilten Quellen
-- **227** isolierte Dokumente (keine geteilten URLs)
+- **230** isolierte Dokumente (keine geteilten URLs)
 - **87** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -72,8 +72,8 @@ Stand: 2026-05-02
 | tagesschau.de | 6 | 100, 13, 234, 49, 79, 93 |
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
+| security-network.com | 6 | 17, 278, 304, 328, 55, 57 |
 | creativecommons.org | 6 | 203, 324, 65, 66, 68, 83 |
-| civil-protection-humanitarian-aid.ec.europa.eu | 6 | 245, 246, 262, 288, 30, 33 |
 
 ## Quellenklassifikation
 
@@ -84,7 +84,7 @@ Stand: 2026-05-02
 | Primaerquelle | 79 | 26% |
 | Sekundaerquelle | 57 | 19% |
 | Graue Literatur | 77 | 25% |
-| Journalistische Quelle | 59 | 19% |
+| Journalistische Quelle | 62 | 20% |
 | Tertiaerquelle | 7 | 2% |
 | Aktivistische Quelle | 7 | 2% |
 
@@ -93,7 +93,7 @@ Stand: 2026-05-02
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
 | hoch | 114 | 37% |
-| mittel | 137 | 45% |
+| mittel | 140 | 45% |
 | niedrig | 35 | 11% |
 
 ### Farbcodierung im Graph
@@ -414,6 +414,9 @@ Stand: 2026-05-02
 | 325 | BS_Dritter_BBK | journalistisch | Behoerden Spiegel | 2026 | mittel |
 | 326 | suv_report_Reserve | journalistisch | suv.report | 2026 | mittel |
 | 327 | BS_Hessen_Feuerwehr | journalistisch | Behoerden Spiegel | 2026 | mittel |
+| 328 | SecurityNetwork_Dobrindt_BBK | journalistisch | CPM Security Network | 2026 | mittel |
+| 329 | dpa_Dobrindt_Bevoelkerungsschutz | journalistisch | dpa (via t-online) | 2026 | mittel |
+| 330 | dpa_AFX_SPD | journalistisch | dpa-AFX | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -608,6 +611,9 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 325: BS_Dritter_BBK (journalistisch)
 - 326: suv_report_Reserve (journalistisch)
 - 327: BS_Hessen_Feuerwehr (journalistisch)
+- 328: SecurityNetwork_Dobrindt_BBK (journalistisch)
+- 329: dpa_Dobrindt_Bevoelkerungsschutz (journalistisch)
+- 330: dpa_AFX_SPD (journalistisch)
 - 34: EU_TAFF_Civil (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
@@ -744,15 +750,15 @@ graph LR
     D101 -->|2| D76
     D266 -->|2| D272
     D148 -->|2| D30
-    D165 -->|2| D30
     D24 -->|2| D30
+    D165 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
-    D219 -->|2| D30
     D219 -->|2| D324
-    D30 -->|2| D324
+    D219 -->|2| D30
     D30 -->|2| D33
+    D30 -->|2| D324
     D36 -->|2| D40
     D65 -->|2| D66
     D66 -->|2| D67
@@ -762,13 +768,13 @@ graph LR
     D07 -->|1| D269
     D08 -->|1| D269
     D08 -->|1| D255
+    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
     D100 -->|1| D60
     D60 -->|1| D85
-    D100 -->|1| D102
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108

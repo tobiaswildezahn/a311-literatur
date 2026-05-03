@@ -1714,5 +1714,23 @@
     "institution": "Behoerden Spiegel",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "328": {
+    "typ": "journalistisch",
+    "institution": "CPM Security Network",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "329": {
+    "typ": "journalistisch",
+    "institution": "dpa (via t-online)",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "330": {
+    "typ": "journalistisch",
+    "institution": "dpa-AFX",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }

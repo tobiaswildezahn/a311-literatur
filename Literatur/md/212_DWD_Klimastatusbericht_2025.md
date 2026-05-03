@@ -10,7 +10,7 @@ ebene: bund
 schlagworte: ["klimawandel", "referenz-ensembles", "hitze", "extremwetter", "klimaanpassung"]
 zusammenfassung: "DWD praesentiert neue Referenz-Ensembles fuer Klimaprojektionen. 2025 Jahresmittel 10,0 °C, Trend zu mehr Hitze in Sued-/Ostdeutschland. Grundlage fuer kommunale Klimaanpassung."
 url: "https://www.dwd.de/DE/presse/pressemitteilungen/DE/2026/20260331_pressemitteilung_klima_pk_news.html"
-bezug: [95, 96, 171]
+bezug: ["[[95_DWD_Faktenpapier_Extremwetter]]", "[[96_DWD_Faktenpapier_Vollversion]]", "[[171_DWD_AICON_KI_Wettervorhersage]]"]
 ---
 
 # Klimapressekonferenz 2026 des Deutschen Wetterdienstes
@@ -72,3 +72,9 @@ Neben der Klimabilanz analysiert der DWD jährlich auch die meteorologischen Bed
 Meteorologisch war das Jahr 2025 in Deutschland insgesamt windärmer als im langjährigen Mittel, während die Sonneneinstrahlung überdurchschnittlich ausfiel. Solche Schwankungen sind für Wind und Strahlung typisch.
 
 Betrachtet man Europa insgesamt, gleichen sich regionale Unterschiede häufig aus: Während einzelne Regionen windärmere Phasen erleben, können andere gleichzeitig windreicher sein. Wind- und Solarenergie ergänzen sich sowohl über das Jahr hinweg als auch über verschiedene Regionen Europas. Diese Vielfalt kann dazu beitragen, wetterbedingte Schwankungen bei der Stromerzeugung besser auszugleichen.
+
+## Verweise
+
+- [[95_DWD_Faktenpapier_Extremwetter]]
+- [[96_DWD_Faktenpapier_Vollversion]]
+- [[171_DWD_AICON_KI_Wettervorhersage]]

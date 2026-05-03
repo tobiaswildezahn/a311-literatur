@@ -10,7 +10,7 @@ ebene: bund
 schlagworte: ["ehrenamt", "spontanhelfende", "psnv", "selbstschutz", "bbk-ratgeber", "hilfsorganisationen"]
 zusammenfassung: "BBK-Magazin 1/2026: Ehrenamt als tragendes Fundament des Bevölkerungsschutzes. 1,76 Mio. Freiwillige, psychische Belastung von Spontanhelfenden, Relaunch BBK-Notfallratgeber, PSNV international."
 url: "https://www.bbk.bund.de/DE/Infothek/Magazin-Bevoelkerungsschutz/Ausgaben/magazin-2026-1/magazin-2026-1_node.html"
-bezug: [131, 10]
+bezug: ["[[131_BBK_Magazin_Zivile_Verteidigung_2025]]", "[[10_BBK_Magazin_2024_20Jahre]]"]
 ---
 
 # BBK Magazin Bevölkerungsschutz 1/2026 – Schwerpunkt Ehrenamt und Engagement
@@ -49,3 +49,8 @@ Beiträge von: ARKAT, ASB, DFV, DLRG, DRK, JUH, MHD, THW
 
 ### Serie: Kulturgutschutz
 - **Die Michaeliskirche in Hildesheim**
+
+## Verweise
+
+- [[131_BBK_Magazin_Zivile_Verteidigung_2025]]
+- [[10_BBK_Magazin_2024_20Jahre]]

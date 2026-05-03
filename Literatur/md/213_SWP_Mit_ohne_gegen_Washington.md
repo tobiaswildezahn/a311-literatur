@@ -11,7 +11,7 @@ schlagworte: ["transatlantisch", "nato-europaeisierung", "strategische-autonomie
 zusammenfassung: "SWP-Studie zu drei Optionen europaeischer Sicherheitspolitik gegenueber den USA. Fordert Europaeisierung der NATO, technologische Resilienz und neue Partnerschaften."
 url: "https://www.swp-berlin.org/10.18449/2026S03/"
 autor: "Barbara Lippert, Stefan Mair"
-bezug: [65, 66, 67, 162]
+bezug: ["[[65_DGAP_Zeitenwende_Zivile_Verteidigung]]", "[[66_DGAP_Gesamtverteidigung_Ernstfall]]", "[[67_DGAP_Schutzraumkonzept]]", "[[162_NATO_ACT_Resilience_Civil_Preparedness]]"]
 ---
 
 # Mit, ohne, gegen Washington: Die Neubestimmung der Beziehungen Europas zu den USA
@@ -51,3 +51,10 @@ Klimapolitik, Handelspolitik und internationale Governance erfordern neue Partne
 ## Fazit
 
 Die Studie betont, dass diese Transformation kein ideologisches Unterfangen darstellt, sondern rationale Risikovorsorge angesichts struktureller Verschiebungen in der US-Politik, die über einzelne Amtszeiten hinausweisen.
+
+## Verweise
+
+- [[65_DGAP_Zeitenwende_Zivile_Verteidigung]]
+- [[66_DGAP_Gesamtverteidigung_Ernstfall]]
+- [[67_DGAP_Schutzraumkonzept]]
+- [[162_NATO_ACT_Resilience_Civil_Preparedness]]

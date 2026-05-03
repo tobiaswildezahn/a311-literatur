@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-02T05:11:00",
-  "run_count": 37,
+  "last_run": "2026-05-03T05:08:00",
+  "run_count": 38,
   "corpus_state": {
-    "total_docs": 305,
-    "total_urls": 1871,
-    "unique_urls": 1682,
+    "total_docs": 308,
+    "total_urls": 1874,
+    "unique_urls": 1685,
     "connected_docs": 78,
-    "isolated_docs": 227,
+    "isolated_docs": 230,
     "edges": 87
   },
   "known_urls": [
@@ -102,6 +102,7 @@
     "https://bks-portal.rlp.de/sites/default/files/og",
     "https://bks-portal.rlp.de/sites/default/files/og-group/21/dokumente/RAEP%20Hochwasser%20Stand%2018.08.2020_0.pdf",
     "https://blaulicht-magazin.net/helden-des-alltags-ehrenamt-bei-feuerwehr-thw-und-rettungsdienst-ist-unverzichtbar/",
+    "https://bonn.t-online.de/region/bonn/id_101236196/innenminister-dobrindt-rueckt-bevoelkerungsschutz-in-den-fokus.html",
     "https://books.google.co.uk/books?redir_esc=y&id=h9QQAAAAIAAJ&q=Lykke#v=snippet&q=Lykke&f=false",
     "https://books.google.com/books/about/An_Introduction_to_Strategy_With_Particu.html?id=_jQVcgAACAAJ",
     "https://books.google.com/books?id=ld8NPYqqUnMC&q=constant+adaptation#v=snippet&q=constant%20adaptation&f=false",
@@ -392,6 +393,7 @@
     "https://sbahn.berlin/fahren/bauen-stoerung/?tabs=tbc-l3",
     "https://security-network.com/berg-gesamtverteidigung-o-plan-deutschland/",
     "https://security-network.com/bundeskabinett-entwurf-kritis-dachgesetz/",
+    "https://security-network.com/dobrindt-treibt-bevoelkerungsschutz-voran/",
     "https://security-network.com/interschutz-zukunft-schuetzen/",
     "https://security-network.com/operationsplan-deutschland-eine-einfuehrung/",
     "https://security-network.com/wo-stehen-die-hilfsorganisationen-im-oplan/",
@@ -410,6 +412,7 @@
     "https://t.me/share/url?url=https://www.nd-aktuell.de/artikel/1196646.kritische-infrastruktur-stromausfall-in-berlin-infrastrukturen-wurden-kaputtgespart.html&pk_campaign=SocialMedia&text=Hallo%21%20Ich%20empfehle%20Dir%20folgenden%20Artikel",
     "https://table.media/berlin/news/kriegsfall-bmi-erstellt-nun-doch-einen-plan-fuer-die-zivile-verteidigung",
     "https://table.media/berlin/news/kritische-infrastruktur-kompromiss-zum-kritis-dachgesetz-schafft-neue-rechtsunsicherheiten",
+    "https://table.media/en/security/news-en/dobrindt-plans-to-unveil-the-pact-for-civil-protection-in-may",
     "https://taz.de/Brandanschlag-auf-Stromnetz-in-Berlin/!6142611/",
     "https://taz.de/Brandanschlag-auf-Stromnetz-in-Berlin/!6143455/",
     "https://taz.de/Nach-Anschlag-auf-Stromkabel-in-Berlin/!6143002/",
@@ -820,6 +823,7 @@
     "https://www.feuerwehrmagazin.de/nachrichten/news/thw-schliesst-orinoco-hochwassereinsaetze-ab-130263",
     "https://www.feuerwehrmagazin.de/nachrichten/sirenen-apps-cell-broadcast-so-laeuft-der-warntag-am-12-maerz-2026-141981",
     "https://www.finanznachrichten.de/",
+    "https://www.finanznachrichten.de/nachrichten-2026-01/67514293-spd-innenminister-draengen-bei-zivilverteidigung-aufs-tempo-016.htm",
     "https://www.finanznachrichten.de/nachrichten-2026-01/67545850-die-krisenmanagementuebung-luekex-2026-verzeichnet-rekord-an-teilnehmenden-organisationen-007.htm",
     "https://www.finanznachrichten.de/nachrichten-medien/news-aktuell.htm",
     "https://www.finanznachrichten.de/nachrichten/ad-hoc-mitteilungen.htm",
@@ -1792,6 +1796,21 @@
       "downloaded": 4,
       "failed": 1,
       "notes": "1 failed_downloads-Retry erfolgreich (SWP Bendiek/Kerttunen). 1 neuer Bot-Schutz-Block (BMI thw-bbk-bonn). 2 Retry-Eintraege (BMI thw-med, BMI hh-hybride) nach 3 Versuchen aufgegeben."
+    },
+    {
+      "date": "2026-05-03",
+      "queries": [
+        "bundesrecht: ZSKG, KRITIS-Dachgesetz, Zivilschutzgesetz, Katastrophenhilfe",
+        "landesrecht HH: Katastrophenschutz, Bevoelkerungsschutz",
+        "WebSearch: Bevoelkerungsschutz/Zivilschutz 2026 BBK; KRITIS-Dachgesetz Bundestag 2026; NATO civil preparedness 2026; Katastrophenschutz Hamburg 2026; Pakt Bevoelkerungsschutz Dobrindt Mai 2026",
+        "WebFetch: bbk.bund.de Kurzmeldungen 2026 (404); bmi.bund.de Suche (400); dgap.org/de/forschung (404); dwd.de/DE/presse (OK)",
+        "WebFetch: bmi thw-bbk-bonn (400); table.media Pakt (paywall, skipped); security-network Dobrindt (OK); t-online Dobrindt (OK); finanznachrichten SPD-IM (OK)"
+      ],
+      "results": 11,
+      "new": 3,
+      "downloaded": 3,
+      "failed": 1,
+      "notes": "Pakt fuer Bevoelkerungsschutz (Dobrindt 30.04. Bonn, Vorstellung 20.05.). Korpus deckt Thema bereits stark ab — viele Kandidaten als Duplikate aussortiert."
     }
   ],
   "failed_downloads": {
@@ -1819,8 +1838,8 @@
     "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/04/thw-bbk-bonn.html": {
       "title": "BMI THW/BBK Spezialfahrzeuge fuer den Zivilschutz",
       "first_seen": "2026-05-02",
-      "retry_count": 1,
-      "last_attempt": "2026-05-02",
+      "retry_count": 2,
+      "last_attempt": "2026-05-03",
       "reason": "HTTP 400 — BMI Bot-Schutz, manueller Browser-Download in inbox/ noetig"
     }
   }

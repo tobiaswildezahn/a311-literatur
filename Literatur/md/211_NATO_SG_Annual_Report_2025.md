@@ -10,7 +10,7 @@ ebene: nato
 schlagworte: ["nato", "annual-report", "defence-spending", "resilience", "civil-preparedness", "ukraine"]
 zusammenfassung: "Jahresbericht des NATO-Generalsekretaers 2025. Schwerpunkte: 5%-BIP-Ziel bis 2035, davon 1,5% fuer Resilienz; Staerkung ziviler Krisenvorsorge; Ukraine-Unterstuetzung."
 url: "https://www.nato.int/en/about-us/official-texts-and-resources/secretary-generals-annual-report/secretary-generals-annual-report-2025"
-bezug: [22, 142, 162, 29]
+bezug: ["[[22_NATO_Resilience_Article3]]", "[[142_NATO_Strategic_Concept_2022]]", "[[162_NATO_ACT_Resilience_Civil_Preparedness]]", "[[29_NATO_CPG_Seminar_Stockholm]]"]
 ---
 
 The Secretary General's
@@ -1484,3 +1484,10 @@ To avoid any ambiguity, the fiscal year has been designated by the year which in
 NATO 1110 Brussels - Belgium www.nato.int
 
 © NATO 2026
+
+## Verweise
+
+- [[22_NATO_Resilience_Article3]]
+- [[142_NATO_Strategic_Concept_2022]]
+- [[162_NATO_ACT_Resilience_Civil_Preparedness]]
+- [[29_NATO_CPG_Seminar_Stockholm]]

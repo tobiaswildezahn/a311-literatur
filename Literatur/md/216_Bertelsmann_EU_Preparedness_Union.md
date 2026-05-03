@@ -11,7 +11,7 @@ schlagworte: ["eu-preparedness-union", "resilienz", "krisenvorsorge", "nato-eu-k
 zusammenfassung: "Analyse der EU Preparedness Union Strategy. Warnt vor zu breiter Agenda ohne Fokus. Fordert klare EU-Rolle neben NATO und staerkere gesellschaftliche Krisenvorsorge."
 url: "https://www.bertelsmann-stiftung.de/fileadmin/files/user_upload/426_25_BST_Policy_Brief_Preparedness_Union_ID2853_screen.pdf"
 autor: "Helena Quis, Goran Buldioski"
-bezug: [207, 30, 200]
+bezug: ["[[207_Bertelsmann_NATO_Resilience_Spending]]", "[[30_Bertelsmann_NATO_Resilience_Spending]]", "[[200_Finnland_Security_Strategy_2025]]"]
 ---
 
 Helena Quis and Goran Buldioski | December 2025
@@ -171,3 +171,9 @@ Markus Diekmann, Bielefeld
 DOI: 10.11586/2025092
 
 ID2853
+
+## Verweise
+
+- [[207_Bertelsmann_NATO_Resilience_Spending]]
+- [[30_Bertelsmann_NATO_Resilience_Spending]]
+- [[200_Finnland_Security_Strategy_2025]]

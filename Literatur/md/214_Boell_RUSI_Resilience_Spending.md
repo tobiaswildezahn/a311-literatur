@@ -11,7 +11,7 @@ schlagworte: ["nato-resilienz", "1-5-prozent-ziel", "resilience-spending", "nati
 zusammenfassung: "Warnung vor Umetikettierung bestehender Ausgaben als NATO-Resilienz. Fordert rollenbasiertes Framework und nationale Resilienzplaene gekoppelt an NATO-Regionalstrategien."
 url: "https://eu.boell.org/en/2026/03/04/press-release-resilience-spending-must-strengthen-europes-security-not-become-accounting"
 autor: "Dan Marks, Ed Arnold"
-bezug: [207, 30, 162]
+bezug: ["[[207_Bertelsmann_NATO_Resilience_Spending]]", "[[30_Bertelsmann_NATO_Resilience_Spending]]", "[[162_NATO_ACT_Resilience_Civil_Preparedness]]"]
 ---
 
 # Resilience Spending Must Strengthen Europe's Security – Not Become an Accounting Exercise
@@ -39,3 +39,9 @@ The authors propose implementing a role-based framework that aligns investments 
 ## Expert Commentary
 
 Roderick Kefferpütz, Director of Heinrich-Böll-Stiftung EU, stated: "investments in energy systems, rail infrastructure or even nature-based barriers can significantly enhance NATO's defence."
+
+## Verweise
+
+- [[207_Bertelsmann_NATO_Resilience_Spending]]
+- [[30_Bertelsmann_NATO_Resilience_Spending]]
+- [[162_NATO_ACT_Resilience_Civil_Preparedness]]
