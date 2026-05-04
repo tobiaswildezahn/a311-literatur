@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-03T05:08:00",
-  "run_count": 38,
+  "last_run": "2026-05-04T05:08:00",
+  "run_count": 39,
   "corpus_state": {
-    "total_docs": 308,
-    "total_urls": 1874,
-    "unique_urls": 1685,
+    "total_docs": 312,
+    "total_urls": 1878,
+    "unique_urls": 1689,
     "connected_docs": 78,
-    "isolated_docs": 230,
+    "isolated_docs": 234,
     "edges": 87
   },
   "known_urls": [
@@ -292,6 +292,7 @@
     "https://grafkerssenbrock.com/tag/krisenmanagement",
     "https://grafkerssenbrock.com/tag/kritische-infrastruktur",
     "https://guenther-pfeifer.de/kritis-dachgesetz-physische-resilienz-2026/",
+    "https://hamburg.t-online.de/region/hamburg/id_100603696/katastrophenschutz-in-hamburg-bunker-veraltet-alarmierende-luecke.html",
     "https://hcss.nl/report/assessing-europes-resilience-and-preparedness-in-an-era-of-strategic-risks/",
     "https://hess.copernicus.org/articles/19/309/2015/",
     "https://hochwassermanage",
@@ -502,6 +503,7 @@
     "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warn-App-NINA/warn-app-nina_node.html",
     "https://www.bbk.bund.de/DE/Warnung-Vorsorge/Warnung-in-Deutschland/Warnmittel/MoWaS/mowas_node.html",
     "https://www.bbk.bund.de/SharedDocs/Downloads/DE/",
+    "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag_26_1.pdf",
     "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Buergerinformationen/Ratgeber/ratgeber-notfallvorsorge.pdf?__blob=publicationFile&v=37",
     "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/KRITIS/heikat-handlungsempfehlungen.pdf?__blob=publicationFile&v=10",
     "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/Risikomanagement/handbuch-risikokommunikation.pdf?__blob=publicationFile&v=5",
@@ -634,6 +636,7 @@
     "https://www.bundesregierung.de/breg-de/aktuelles/bundeshaushalt-2026-2374030",
     "https://www.bundesregierung.de/breg-de/aktuelles/gedenken-flut-ahrtal-2364150",
     "https://www.bundesregierung.de/breg-de/aktuelles/kabinett-kritis-dachgesetz-2383682",
+    "https://www.bundesregierung.de/breg-de/aktuelles/nis-2-richtlinie-deutschland-2373174",
     "https://www.bundesregierung.de/breg-de/aktuelles/stromausfall-blackout-2129818",
     "https://www.bundesregierung.de/breg-de/aktuelles/stromausfall-unterstuetzung-des-bundes-2401638",
     "https://www.bundesregierung.de/breg-de/themen/umgang-mit-desinformation",
@@ -642,6 +645,7 @@
     "https://www.bundestag.de/dokumente/textarchiv/2024/kw12-de-zivilschutz-994512",
     "https://www.bundestag.de/dokumente/textarchiv/2025/kw39-de-inneres-1104132",
     "https://www.bundestag.de/dokumente/textarchiv/2025/kw45-de-kritische-anlagen-1116726",
+    "https://www.bundestag.de/dokumente/textarchiv/2025/kw46-de-nis-2-1123138",
     "https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002",
     "https://www.bundestag.de/dokumente/textarchiv/2026/kw12-de-zivile-verteidigung-1151718",
     "https://www.bundestag.de/dokumente/textarchiv/2026/kw17-de-tschernobyl-1165948",
@@ -1053,6 +1057,7 @@
     "https://www.openkritis.de/it-sicherheitsgesetz/kritis-dachgesetz-sicherheitsgesetz-3-0.html",
     "https://www.openkritis.de/it-sicherheitsgesetz/kritis-dachgesetz-sicherheitsgesetz-3-0.html#:~:text=Erh%C3%B6hung%20der%20Geldbu%C3%9Fen%20auf%20bis%20zu%201%20Mio.%20EUR",
     "https://www.openkritis.de/it-sicherheitsgesetz/kritis-dachgesetz-sicherheitsgesetz-3-0.html#:~:text=KRITIS%2DDachgesetz%20in%202026",
+    "https://www.openkritis.de/it-sicherheitsgesetz/nis2-umsetzung-gesetz-cybersicherheit.html",
     "https://www.oxfordreference.com/view/10.1093/acref/9780191826719.001.0001/q-oro-ed4-00007547",
     "https://www.patreon.com/pravdaua",
     "https://www.pbs.org/wgbh/pages/frontline/shows/military/force/",
@@ -1811,36 +1816,31 @@
       "downloaded": 3,
       "failed": 1,
       "notes": "Pakt fuer Bevoelkerungsschutz (Dobrindt 30.04. Bonn, Vorstellung 20.05.). Korpus deckt Thema bereits stark ab — viele Kandidaten als Duplikate aussortiert."
+    },
+    {
+      "date": "2026-05-04",
+      "queries": [
+        "Bevoelkerungsschutz Zivilschutz 2026 Mai",
+        "KRITIS-Dachgesetz 2026 Sabotage",
+        "NATO resilience 2026 baseline",
+        "Katastrophenschutz Hamburg 2026",
+        "OPLAN Deutschland Gesamtverteidigung 2026",
+        "DGAP Resilienz Hybride Bedrohung 2026",
+        "Hochwasser Hamburg 2026",
+        "Sabotage Ostsee 2026",
+        "NIS2 2026 Bundestag",
+        "Buergerschaft Hamburg Drucksache 2026 Katastrophenschutz"
+      ],
+      "results": 60,
+      "new": 4,
+      "downloaded": 4,
+      "failed": 1
     }
   ],
-  "failed_downloads": {
-    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html": {
-      "title": "BMI Hybride Bedrohungen Gemeinsame Erklaerung",
-      "target_nr": 293,
-      "retry_count": 2,
-      "last_attempt": "2026-04-27",
-      "reason": "HTTP 400 — BMI Bot-Schutz, manueller Browser-Download in inbox/ noetig"
-    },
-    "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag-26-01.pdf": {
-      "title": "BBK Magazin Ehrenamt 1/2026 (PDF Vollausgabe)",
-      "target_nr": null,
-      "retry_count": 1,
-      "last_attempt": "2026-04-29",
-      "reason": "URL liefert 404 (BBK 'Monster'-Seite). Korrekte URL nicht ermittelbar — Landing Page bereits als Nr 205 im Korpus."
-    },
-    "https://link.springer.com/book/10.1007/978-3-662-71881-0": {
-      "title": "Springer Sammelband: Zeitenwende, Zivile Verteidigung und Bevoelkerungsschutz",
-      "target_nr": null,
-      "retry_count": 1,
-      "last_attempt": "2026-04-29",
-      "reason": "HTTP 303 Redirect — paywallt. UB-Hamburg-Zugang pruefen."
-    },
-    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/04/thw-bbk-bonn.html": {
-      "title": "BMI THW/BBK Spezialfahrzeuge fuer den Zivilschutz",
-      "first_seen": "2026-05-02",
-      "retry_count": 2,
-      "last_attempt": "2026-05-03",
-      "reason": "HTTP 400 — BMI Bot-Schutz, manueller Browser-Download in inbox/ noetig"
-    }
-  }
+  "failed_downloads": [
+    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html",
+    "https://link.springer.com/book/10.1007/978-3-662-71881-0",
+    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/04/thw-bbk-bonn.html",
+    "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag_26_1.pdf"
+  ]
 }
