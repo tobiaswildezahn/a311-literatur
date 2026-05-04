@@ -1301,11 +1301,83 @@
     "jahr": 2026,
     "typ": "journalistisch"
   },
+  "324": {
+    "evidenzgrad": "hoch",
+    "institution": "SWP",
+    "jahr": 2025,
+    "typ": "sekundaer"
+  },
+  "325": {
+    "evidenzgrad": "mittel",
+    "institution": "Behoerden Spiegel",
+    "jahr": 2026,
+    "typ": "journalistisch"
+  },
+  "326": {
+    "evidenzgrad": "mittel",
+    "institution": "suv.report",
+    "jahr": 2026,
+    "typ": "journalistisch"
+  },
+  "327": {
+    "evidenzgrad": "mittel",
+    "institution": "Behoerden Spiegel",
+    "jahr": 2026,
+    "typ": "journalistisch"
+  },
+  "328": {
+    "evidenzgrad": "mittel",
+    "institution": "CPM Security Network",
+    "jahr": 2026,
+    "typ": "journalistisch"
+  },
+  "329": {
+    "evidenzgrad": "mittel",
+    "institution": "dpa (via t-online)",
+    "jahr": 2026,
+    "typ": "journalistisch"
+  },
   "33": {
     "evidenzgrad": "hoch",
     "institution": "EU JRC",
     "jahr": 2024,
     "typ": "sekundaer"
+  },
+  "330": {
+    "evidenzgrad": "mittel",
+    "institution": "dpa-AFX",
+    "jahr": 2026,
+    "typ": "journalistisch"
+  },
+  "331": {
+    "evidenzgrad": "hoch",
+    "institution": "Bundesregierung",
+    "jahr": 2025,
+    "typ": "primaer"
+  },
+  "332": {
+    "evidenzgrad": "hoch",
+    "institution": "Deutscher Bundestag",
+    "jahr": 2025,
+    "typ": "primaer"
+  },
+  "333": {
+    "evidenzgrad": "mittel",
+    "institution": "OpenKRITIS",
+    "jahr": 2025,
+    "typ": "grau"
+  },
+  "334": {
+    "evidenzgrad": "mittel",
+    "institution": "t-online",
+    "jahr": 2025,
+    "typ": "journalistisch"
+  },
+  "335": {
+    "evidenzgrad": "hoch",
+    "institution": "ISL / HPA",
+    "jahr": 2021,
+    "typ": "grau"
   },
   "34": {
     "evidenzgrad": "mittel",
@@ -1690,71 +1762,5 @@
     "institution": "Greenpeace",
     "jahr": 2024,
     "typ": "aktivistisch"
-  },
-  "324": {
-    "typ": "sekundaer",
-    "institution": "SWP",
-    "jahr": 2025,
-    "evidenzgrad": "hoch"
-  },
-  "325": {
-    "typ": "journalistisch",
-    "institution": "Behoerden Spiegel",
-    "jahr": 2026,
-    "evidenzgrad": "mittel"
-  },
-  "326": {
-    "typ": "journalistisch",
-    "institution": "suv.report",
-    "jahr": 2026,
-    "evidenzgrad": "mittel"
-  },
-  "327": {
-    "typ": "journalistisch",
-    "institution": "Behoerden Spiegel",
-    "jahr": 2026,
-    "evidenzgrad": "mittel"
-  },
-  "328": {
-    "typ": "journalistisch",
-    "institution": "CPM Security Network",
-    "jahr": 2026,
-    "evidenzgrad": "mittel"
-  },
-  "329": {
-    "typ": "journalistisch",
-    "institution": "dpa (via t-online)",
-    "jahr": 2026,
-    "evidenzgrad": "mittel"
-  },
-  "330": {
-    "typ": "journalistisch",
-    "institution": "dpa-AFX",
-    "jahr": 2026,
-    "evidenzgrad": "mittel"
-  },
-  "331": {
-    "typ": "primaer",
-    "institution": "Bundesregierung",
-    "jahr": 2025,
-    "evidenzgrad": "hoch"
-  },
-  "332": {
-    "typ": "primaer",
-    "institution": "Deutscher Bundestag",
-    "jahr": 2025,
-    "evidenzgrad": "hoch"
-  },
-  "333": {
-    "typ": "grau",
-    "institution": "OpenKRITIS",
-    "jahr": 2025,
-    "evidenzgrad": "mittel"
-  },
-  "334": {
-    "typ": "journalistisch",
-    "institution": "t-online",
-    "jahr": 2025,
-    "evidenzgrad": "mittel"
   }
 }

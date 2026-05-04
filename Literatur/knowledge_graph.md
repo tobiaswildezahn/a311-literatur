@@ -4,10 +4,10 @@ Stand: 2026-05-04
 
 ## Statistik
 
-- **312** Dokumente im Korpus
-- **1689** unique externe URLs
+- **313** Dokumente im Korpus
+- **1700** unique externe URLs
 - **78** Dokumente mit geteilten Quellen
-- **234** isolierte Dokumente (keine geteilten URLs)
+- **235** isolierte Dokumente (keine geteilten URLs)
 - **87** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -26,8 +26,8 @@ Stand: 2026-05-04
 | 85 | Wikipedia_Brandanschlag_Berlin | 5 |
 | 324 | SWP_Bendiek_Kerttunen | 5 |
 | 08 | BBK_Risikoanalysen_Uebersicht | 4 |
-| 141 | UA_Flut_RLP | 4 |
 | 60 | Wikipedia_OPLAN_Deutschland | 4 |
+| 141 | UA_Flut_RLP | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 
 ## Meistzitierte externe Quellen
@@ -65,9 +65,9 @@ Stand: 2026-05-04
 | behoerden-spiegel.de | 10 | 115, 301, 305, 310, 311, 312, 320, 325, 327, 58 |
 | bundesregierung.de | 9 | 01, 12, 144, 17, 197, 319, 331, 85, 97 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
+| ec.europa.eu | 8 | 138, 148, 216, 234, 24, 30, 324, 335 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
 | doi.org | 7 | 102, 216, 219, 30, 65, 83, 96 |
-| ec.europa.eu | 7 | 138, 148, 216, 234, 24, 30, 324 |
 | bmvg.de | 6 | 04, 05, 274, 306, 45, 65 |
 | tagesschau.de | 6 | 100, 13, 234, 49, 79, 93 |
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
@@ -83,7 +83,7 @@ Stand: 2026-05-04
 |-----|--------|--------|
 | Primaerquelle | 81 | 26% |
 | Sekundaerquelle | 57 | 18% |
-| Graue Literatur | 78 | 25% |
+| Graue Literatur | 79 | 25% |
 | Journalistische Quelle | 63 | 20% |
 | Tertiaerquelle | 7 | 2% |
 | Aktivistische Quelle | 7 | 2% |
@@ -92,8 +92,8 @@ Stand: 2026-05-04
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 116 | 37% |
-| mittel | 142 | 46% |
+| hoch | 117 | 37% |
+| mittel | 142 | 45% |
 | niedrig | 35 | 11% |
 
 ### Farbcodierung im Graph
@@ -421,6 +421,7 @@ Stand: 2026-05-04
 | 332 | Bundestag_NIS2_Verabschiedung | primaer | Deutscher Bundestag | 2025 | hoch |
 | 333 | OpenKRITIS_NIS2_Umsetzungsgesetz | grau | OpenKRITIS | 2025 | mittel |
 | 334 | tonline_Hamburg_Bunker | journalistisch | t-online | 2025 | mittel |
+| 335 | ISL_HPA_Hafenstudie | grau | ISL / HPA | 2021 | hoch |
 
 ## Isolierte Dokumente
 
@@ -622,6 +623,7 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 332: Bundestag_NIS2_Verabschiedung (primaer)
 - 333: OpenKRITIS_NIS2_Umsetzungsgesetz (grau)
 - 334: tonline_Hamburg_Bunker (journalistisch)
+- 335: ISL_HPA_Hafenstudie (grau)
 - 34: EU_TAFF_Civil (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
@@ -758,13 +760,13 @@ graph LR
     D101 -->|2| D76
     D266 -->|2| D272
     D148 -->|2| D30
-    D165 -->|2| D30
     D24 -->|2| D30
+    D165 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
-    D219 -->|2| D30
     D219 -->|2| D324
+    D219 -->|2| D30
     D30 -->|2| D33
     D30 -->|2| D324
     D36 -->|2| D40
@@ -777,12 +779,12 @@ graph LR
     D08 -->|1| D269
     D08 -->|1| D255
     D100 -->|1| D102
+    D100 -->|1| D60
+    D60 -->|1| D85
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D60
-    D60 -->|1| D85
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108
@@ -812,10 +814,10 @@ graph LR
     D200 -->|1| D234
     D216 -->|1| D30
     D219 -->|1| D38
-    D219 -->|1| D234
-    D234 -->|1| D30
     D219 -->|1| D261
     D219 -->|1| D31
+    D219 -->|1| D234
+    D234 -->|1| D30
     D225 -->|1| D322
     D261 -->|1| D324
     D31 -->|1| D324
