@@ -1732,5 +1732,29 @@
     "institution": "dpa-AFX",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "331": {
+    "typ": "primaer",
+    "institution": "Bundesregierung",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "332": {
+    "typ": "primaer",
+    "institution": "Deutscher Bundestag",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "333": {
+    "typ": "grau",
+    "institution": "OpenKRITIS",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
+  },
+  "334": {
+    "typ": "journalistisch",
+    "institution": "t-online",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
   }
 }

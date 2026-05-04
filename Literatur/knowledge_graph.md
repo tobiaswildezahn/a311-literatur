@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-05-03
+Stand: 2026-05-04
 
 ## Statistik
 
-- **308** Dokumente im Korpus
-- **1685** unique externe URLs
+- **312** Dokumente im Korpus
+- **1689** unique externe URLs
 - **78** Dokumente mit geteilten Quellen
-- **230** isolierte Dokumente (keine geteilten URLs)
+- **234** isolierte Dokumente (keine geteilten URLs)
 - **87** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -58,12 +58,12 @@ Stand: 2026-05-03
 | nato.int | 16 | 148, 165, 211, 219, 22, 230, 24, 252, 261, 29... |
 | bmi.bund.de | 15 | 04, 08, 112, 12, 13, 141, 17, 226, 264, 30... |
 | dserver.bundestag.de | 14 | 06, 07, 08, 14, 15, 17, 234, 269, 298, 30... |
-| bundestag.de | 12 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 49... |
+| bundestag.de | 13 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 332... |
 | bundeswehr.de | 12 | 131, 197, 234, 251, 258, 291, 60, 61, 62, 63... |
 | dgap.org | 12 | 166, 167, 169, 221, 227, 307, 308, 309, 324, 65... |
 | dwd.de | 11 | 100, 102, 103, 131, 141, 171, 212, 267, 273, 95... |
 | behoerden-spiegel.de | 10 | 115, 301, 305, 310, 311, 312, 320, 325, 327, 58 |
-| bundesregierung.de | 8 | 01, 12, 144, 17, 197, 319, 85, 97 |
+| bundesregierung.de | 9 | 01, 12, 144, 17, 197, 319, 331, 85, 97 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
 | doi.org | 7 | 102, 216, 219, 30, 65, 83, 96 |
@@ -81,10 +81,10 @@ Stand: 2026-05-03
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 79 | 26% |
-| Sekundaerquelle | 57 | 19% |
-| Graue Literatur | 77 | 25% |
-| Journalistische Quelle | 62 | 20% |
+| Primaerquelle | 81 | 26% |
+| Sekundaerquelle | 57 | 18% |
+| Graue Literatur | 78 | 25% |
+| Journalistische Quelle | 63 | 20% |
 | Tertiaerquelle | 7 | 2% |
 | Aktivistische Quelle | 7 | 2% |
 
@@ -92,8 +92,8 @@ Stand: 2026-05-03
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 114 | 37% |
-| mittel | 140 | 45% |
+| hoch | 116 | 37% |
+| mittel | 142 | 46% |
 | niedrig | 35 | 11% |
 
 ### Farbcodierung im Graph
@@ -417,6 +417,10 @@ Stand: 2026-05-03
 | 328 | SecurityNetwork_Dobrindt_BBK | journalistisch | CPM Security Network | 2026 | mittel |
 | 329 | dpa_Dobrindt_Bevoelkerungsschutz | journalistisch | dpa (via t-online) | 2026 | mittel |
 | 330 | dpa_AFX_SPD | journalistisch | dpa-AFX | 2026 | mittel |
+| 331 | Bundesregierung_NIS2_Umsetzungsgesetz | primaer | Bundesregierung | 2025 | hoch |
+| 332 | Bundestag_NIS2_Verabschiedung | primaer | Deutscher Bundestag | 2025 | hoch |
+| 333 | OpenKRITIS_NIS2_Umsetzungsgesetz | grau | OpenKRITIS | 2025 | mittel |
+| 334 | tonline_Hamburg_Bunker | journalistisch | t-online | 2025 | mittel |
 
 ## Isolierte Dokumente
 
@@ -614,6 +618,10 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 328: SecurityNetwork_Dobrindt_BBK (journalistisch)
 - 329: dpa_Dobrindt_Bevoelkerungsschutz (journalistisch)
 - 330: dpa_AFX_SPD (journalistisch)
+- 331: Bundesregierung_NIS2_Umsetzungsgesetz (primaer)
+- 332: Bundestag_NIS2_Verabschiedung (primaer)
+- 333: OpenKRITIS_NIS2_Umsetzungsgesetz (grau)
+- 334: tonline_Hamburg_Bunker (journalistisch)
 - 34: EU_TAFF_Civil (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
@@ -750,13 +758,13 @@ graph LR
     D101 -->|2| D76
     D266 -->|2| D272
     D148 -->|2| D30
-    D24 -->|2| D30
     D165 -->|2| D30
+    D24 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
-    D219 -->|2| D324
     D219 -->|2| D30
+    D219 -->|2| D324
     D30 -->|2| D33
     D30 -->|2| D324
     D36 -->|2| D40
@@ -803,11 +811,11 @@ graph LR
     D199 -->|1| D324
     D200 -->|1| D234
     D216 -->|1| D30
-    D219 -->|1| D261
-    D219 -->|1| D31
+    D219 -->|1| D38
     D219 -->|1| D234
     D234 -->|1| D30
-    D219 -->|1| D38
+    D219 -->|1| D261
+    D219 -->|1| D31
     D225 -->|1| D322
     D261 -->|1| D324
     D31 -->|1| D324

@@ -99,3 +99,9 @@ Nr. 3 (BMI PM Gesamtverteidigung) wurde bereits als .txt gespeichert.
 |-----|-----------|-----------|-----|---------|
 | (drop) | `Literatur/inbox/` | `BBK_Magazin_Ehrenamt_2026_1.pdf` | https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag-26-01.pdf | URL liefert 404 ("Ups, ein Monster..."). Korrekte URL fuer BBK-Magazin Ehrenamt-Ausgabe 1/2026 manuell suchen — Landing Page bereits als Nr 205 im Korpus. |
 | (drop) | `Literatur/inbox/` | `Springer_Zeitenwende_Zivile_Verteidigung_2025.pdf` | https://link.springer.com/book/10.1007/978-3-662-71881-0 | HTTP 303-Redirect, vermutlich paywallt. Sammelband "Zeitenwende, Zivile Verteidigung und Bevoelkerungsschutz" — UB-Hamburg pruefen. |
+
+## Ergaenzung 2026-05-04 — BBK Cookie-Wall
+
+| Nr. | Zielordner | Dateiname | URL | Hinweis |
+|-----|-----------|-----------|-----|---------|
+| (drop) | `Literatur/inbox/` | `BBK_BSMAG_2026_1_Ehrenamt.pdf` | https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag_26_1.pdf | Korrekte BSMAG-URL gefunden (Underscore statt Bindestrich), liefert aber HTML statt PDF — myracloud Cookie-Wall. Im Browser oeffnen, PDF speichern. Inhalt: Ehrenamt-Schwerpunkt 2026. |
