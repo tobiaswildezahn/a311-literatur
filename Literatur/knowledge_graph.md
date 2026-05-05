@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-05-04
+Stand: 2026-05-05
 
 ## Statistik
 
-- **313** Dokumente im Korpus
-- **1700** unique externe URLs
+- **316** Dokumente im Korpus
+- **1703** unique externe URLs
 - **78** Dokumente mit geteilten Quellen
-- **235** isolierte Dokumente (keine geteilten URLs)
+- **238** isolierte Dokumente (keine geteilten URLs)
 - **87** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -26,8 +26,8 @@ Stand: 2026-05-04
 | 85 | Wikipedia_Brandanschlag_Berlin | 5 |
 | 324 | SWP_Bendiek_Kerttunen | 5 |
 | 08 | BBK_Risikoanalysen_Uebersicht | 4 |
-| 60 | Wikipedia_OPLAN_Deutschland | 4 |
 | 141 | UA_Flut_RLP | 4 |
+| 60 | Wikipedia_OPLAN_Deutschland | 4 |
 | 15 | BT_Beschluss_KRITIS | 4 |
 
 ## Meistzitierte externe Quellen
@@ -37,8 +37,8 @@ Stand: 2026-05-04
 | https://www.nato.int/cps/en/natohq/topics_132722.htm | 148, 165, 24, 261, 30, 31, 69 |
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 261, 30, 31 |
 | https://www.youtube.com/watch | 100, 141, 85, 87 |
-| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31 |
 | https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 261, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
 | https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 261, 30, 31 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08, 269 |
@@ -62,17 +62,17 @@ Stand: 2026-05-04
 | bundeswehr.de | 12 | 131, 197, 234, 251, 258, 291, 60, 61, 62, 63... |
 | dgap.org | 12 | 166, 167, 169, 221, 227, 307, 308, 309, 324, 65... |
 | dwd.de | 11 | 100, 102, 103, 131, 141, 171, 212, 267, 273, 95... |
-| behoerden-spiegel.de | 10 | 115, 301, 305, 310, 311, 312, 320, 325, 327, 58 |
+| behoerden-spiegel.de | 11 | 115, 301, 305, 310, 311, 312, 320, 325, 327, 336... |
 | bundesregierung.de | 9 | 01, 12, 144, 17, 197, 319, 331, 85, 97 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
 | ec.europa.eu | 8 | 138, 148, 216, 234, 24, 30, 324, 335 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
 | doi.org | 7 | 102, 216, 219, 30, 65, 83, 96 |
+| security-network.com | 7 | 17, 278, 304, 328, 337, 55, 57 |
 | bmvg.de | 6 | 04, 05, 274, 306, 45, 65 |
 | tagesschau.de | 6 | 100, 13, 234, 49, 79, 93 |
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
-| security-network.com | 6 | 17, 278, 304, 328, 55, 57 |
 | creativecommons.org | 6 | 203, 324, 65, 66, 68, 83 |
 
 ## Quellenklassifikation
@@ -84,7 +84,7 @@ Stand: 2026-05-04
 | Primaerquelle | 81 | 26% |
 | Sekundaerquelle | 57 | 18% |
 | Graue Literatur | 79 | 25% |
-| Journalistische Quelle | 63 | 20% |
+| Journalistische Quelle | 66 | 21% |
 | Tertiaerquelle | 7 | 2% |
 | Aktivistische Quelle | 7 | 2% |
 
@@ -93,7 +93,7 @@ Stand: 2026-05-04
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
 | hoch | 117 | 37% |
-| mittel | 142 | 45% |
+| mittel | 145 | 46% |
 | niedrig | 35 | 11% |
 
 ### Farbcodierung im Graph
@@ -422,6 +422,9 @@ Stand: 2026-05-04
 | 333 | OpenKRITIS_NIS2_Umsetzungsgesetz | grau | OpenKRITIS | 2025 | mittel |
 | 334 | tonline_Hamburg_Bunker | journalistisch | t-online | 2025 | mittel |
 | 335 | ISL_HPA_Hafenstudie | grau | ISL / HPA | 2021 | hoch |
+| 336 | Pakt_Bevoelkerungsschutz | journalistisch | Behörden Spiegel | 2026 | mittel |
+| 337 | LUEKEX_26_Planbesprechung | journalistisch | security-network.com | 2024 | mittel |
+| 338 | NSRI_Sicherheitsindex_DGAP | journalistisch | ESUT | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -624,6 +627,9 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 333: OpenKRITIS_NIS2_Umsetzungsgesetz (grau)
 - 334: tonline_Hamburg_Bunker (journalistisch)
 - 335: ISL_HPA_Hafenstudie (grau)
+- 336: Pakt_Bevoelkerungsschutz (journalistisch)
+- 337: LUEKEX_26_Planbesprechung (journalistisch)
+- 338: NSRI_Sicherheitsindex_DGAP (journalistisch)
 - 34: EU_TAFF_Civil (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
@@ -767,8 +773,8 @@ graph LR
     D197 -->|2| D199
     D219 -->|2| D324
     D219 -->|2| D30
-    D30 -->|2| D33
     D30 -->|2| D324
+    D30 -->|2| D33
     D36 -->|2| D40
     D65 -->|2| D66
     D66 -->|2| D67
@@ -778,13 +784,13 @@ graph LR
     D07 -->|1| D269
     D08 -->|1| D269
     D08 -->|1| D255
-    D100 -->|1| D102
-    D100 -->|1| D60
-    D60 -->|1| D85
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
+    D100 -->|1| D60
+    D60 -->|1| D85
+    D100 -->|1| D102
     D101 -->|1| D141
     D103 -->|1| D104
     D106 -->|1| D108
@@ -814,10 +820,10 @@ graph LR
     D200 -->|1| D234
     D216 -->|1| D30
     D219 -->|1| D38
-    D219 -->|1| D261
-    D219 -->|1| D31
     D219 -->|1| D234
     D234 -->|1| D30
+    D219 -->|1| D261
+    D219 -->|1| D31
     D225 -->|1| D322
     D261 -->|1| D324
     D31 -->|1| D324

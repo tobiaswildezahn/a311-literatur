@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-04T21:26:45",
-  "run_count": 40,
+  "last_run": "2026-05-05T05:00:00",
+  "run_count": 41,
   "corpus_state": {
-    "total_docs": 313,
-    "total_urls": 1889,
-    "unique_urls": 1700,
+    "total_docs": 316,
+    "total_urls": 1892,
+    "unique_urls": 1703,
     "connected_docs": 78,
-    "isolated_docs": 235,
+    "isolated_docs": 238,
     "edges": 87
   },
   "known_urls": [
@@ -264,6 +264,7 @@
     "https://emergency.copernicus.eu/mapping/ems/copernicus-emergency-management-service-forecasts-notifies-and-monitors-devastating-floods",
     "https://enthus.de/blog/kritis-dachgesetz-2026-warum-resilienz-jetzt-zur-chefsache-wird",
     "https://epc.eu/publication/European-Preparedness-Union-Strategy-a-step-closer-to-a-vision-for-t-63c6f8/",
+    "https://esut.de/2026/02/meldungen/68039/pwc-und-dgap-stellen-auf-der-msc-neuen-sicherheitsindex-vor/",
     "https://esut.de/2026/03/fachbeitraege/68389/gesamtverteidigung-ein-neues-projekt-der-gsp/",
     "https://esut.de/en/2026/04/meldungen/70124/deutschland-auf-dem-weg-zur-staerksten-konventionellen-armee-europas/",
     "https://eswd.eu/en?filter=%7B%22startCoordinates%22%3A%7B%7D%2C%22endCoordinates%22",
@@ -396,6 +397,7 @@
     "https://security-network.com/bundeskabinett-entwurf-kritis-dachgesetz/",
     "https://security-network.com/dobrindt-treibt-bevoelkerungsschutz-voran/",
     "https://security-network.com/interschutz-zukunft-schuetzen/",
+    "https://security-network.com/luekex-26-startet-mit-planbesprechung-ra/",
     "https://security-network.com/operationsplan-deutschland-eine-einfuehrung/",
     "https://security-network.com/wo-stehen-die-hilfsorganisationen-im-oplan/",
     "https://shape.nato.int/news-archive/2026/nato-militaries-strengthening-allied-medical-resilience.aspx",
@@ -542,6 +544,7 @@
     "https://www.behoerden-spiegel.de/2026/04/27/kritis-unternehmen-muessen-handeln/",
     "https://www.behoerden-spiegel.de/2026/04/28/dritter-bbk-fachkongress-angekuendigt/",
     "https://www.behoerden-spiegel.de/2026/04/29/nach-dem-oplan-kommt-der-zplan/",
+    "https://www.behoerden-spiegel.de/2026/05/04/pakt-fuer-den-bevoelkerungsschutz-angekuendigt/",
     "https://www.behoerden-spiegel.de/author/bennet-klawon/",
     "https://www.behoerden-spiegel.de/author/jonas-brandstetter/",
     "https://www.behoerden-spiegel.de/category/finanzen/",
@@ -1845,6 +1848,15 @@
       "downloaded": 1,
       "failed": 0,
       "notes": "Inbox: 335_ISL_HPA_Hafenstudie_2019 (Beschäftigungsstudie Hafen Hamburg 2019)"
+    },
+    {
+      "date": "2026-05-05",
+      "queries": 10,
+      "results_total": "web+mcp",
+      "new_added": 3,
+      "downloaded": 3,
+      "failed": 0,
+      "notes": "Pakt für den Bevölkerungsschutz (Dobrindt 04.05.2026) als Top-Quelle aufgenommen. KG-Bug behoben: --output-dir ergänzt."
     }
   ],
   "failed_downloads": [

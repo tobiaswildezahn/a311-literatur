@@ -1762,5 +1762,23 @@
     "institution": "Greenpeace",
     "jahr": 2024,
     "typ": "aktivistisch"
+  },
+  "336": {
+    "typ": "journalistisch",
+    "institution": "Behörden Spiegel",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "337": {
+    "typ": "journalistisch",
+    "institution": "security-network.com",
+    "jahr": 2024,
+    "evidenzgrad": "mittel"
+  },
+  "338": {
+    "typ": "journalistisch",
+    "institution": "ESUT",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }
