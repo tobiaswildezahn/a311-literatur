@@ -1780,5 +1780,35 @@
     "institution": "ESUT",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "339": {
+    "typ": "sekundaer",
+    "institution": "SWP",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "340": {
+    "typ": "journalistisch",
+    "institution": "ZDF heute",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "341": {
+    "typ": "sekundaer",
+    "institution": "Deloitte Legal",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "342": {
+    "typ": "grau",
+    "institution": "Notfallakademie",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "343": {
+    "typ": "grau",
+    "institution": "3-core",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }

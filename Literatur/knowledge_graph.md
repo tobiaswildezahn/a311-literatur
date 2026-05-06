@@ -1,30 +1,30 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-05-05
+Stand: 2026-05-06
 
 ## Statistik
 
-- **316** Dokumente im Korpus
-- **1703** unique externe URLs
-- **78** Dokumente mit geteilten Quellen
-- **238** isolierte Dokumente (keine geteilten URLs)
-- **87** Verbindungen (mind. 2 geteilte URLs)
+- **321** Dokumente im Korpus
+- **1920** unique externe URLs
+- **79** Dokumente mit geteilten Quellen
+- **242** isolierte Dokumente (keine geteilten URLs)
+- **91** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
 
 | Dok | Label | Verbindungen |
 |-----|-------|-------------|
-| 30 | Bertelsmann_NATO_Resilience | 12 |
+| 30 | Bertelsmann_NATO_Resilience | 13 |
 | 261 | NAADSN_7BLR_Infrastructure | 8 |
 | 31 | NAADSN_7BLR_Policy | 8 |
 | 165 | Clingendael_NATO_Resilience | 7 |
+| 219 | CSIS_Russia_Shadow | 7 |
 | 148 | CIMIC_Factsheet_Resilience | 6 |
 | 24 | CIMIC_Factsheet_Resilience | 6 |
 | 69 | Boell_Nordic_Baltic | 6 |
-| 219 | CSIS_Russia_Shadow | 6 |
+| 324 | SWP_Bendiek_Kerttunen | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 85 | Wikipedia_Brandanschlag_Berlin | 5 |
-| 324 | SWP_Bendiek_Kerttunen | 5 |
 | 08 | BBK_Risikoanalysen_Uebersicht | 4 |
 | 141 | UA_Flut_RLP | 4 |
 | 60 | Wikipedia_OPLAN_Deutschland | 4 |
@@ -40,11 +40,11 @@ Stand: 2026-05-05
 | https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 261, 31 |
 | https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
+| https://www | 219, 234, 30, 339 |
 | https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 261, 30, 31 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08, 269 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
 | https://www.fkfb.de | 124, 266, 272 |
-| https://www | 219, 234, 30 |
 | https://www.nato.int/cps/en/natohq/official_texts_133180.htm | 261, 31, 324 |
 | https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376 | 04, 05 |
 | https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
@@ -57,23 +57,23 @@ Stand: 2026-05-05
 | bbk.bund.de | 34 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | nato.int | 16 | 148, 165, 211, 219, 22, 230, 24, 252, 261, 29... |
 | bmi.bund.de | 15 | 04, 08, 112, 12, 13, 141, 17, 226, 264, 30... |
-| dserver.bundestag.de | 14 | 06, 07, 08, 14, 15, 17, 234, 269, 298, 30... |
-| bundestag.de | 13 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 332... |
+| dserver.bundestag.de | 15 | 06, 07, 08, 14, 15, 17, 234, 269, 298, 30... |
+| bundestag.de | 14 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 332... |
 | bundeswehr.de | 12 | 131, 197, 234, 251, 258, 291, 60, 61, 62, 63... |
 | dgap.org | 12 | 166, 167, 169, 221, 227, 307, 308, 309, 324, 65... |
 | dwd.de | 11 | 100, 102, 103, 131, 141, 171, 212, 267, 273, 95... |
 | behoerden-spiegel.de | 11 | 115, 301, 305, 310, 311, 312, 320, 325, 327, 336... |
-| bundesregierung.de | 9 | 01, 12, 144, 17, 197, 319, 331, 85, 97 |
+| bundesregierung.de | 10 | 01, 12, 144, 17, 197, 319, 331, 339, 85, 97 |
+| ec.europa.eu | 9 | 138, 148, 216, 234, 24, 30, 324, 335, 339 |
 | spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
-| ec.europa.eu | 8 | 138, 148, 216, 234, 24, 30, 324, 335 |
+| doi.org | 8 | 102, 216, 219, 30, 339, 65, 83, 96 |
+| tagesschau.de | 7 | 100, 13, 234, 339, 49, 79, 93 |
 | instagram.com | 7 | 101, 110, 165, 17, 64, 71, 76 |
-| doi.org | 7 | 102, 216, 219, 30, 65, 83, 96 |
 | security-network.com | 7 | 17, 278, 304, 328, 337, 55, 57 |
+| creativecommons.org | 7 | 203, 324, 339, 65, 66, 68, 83 |
 | bmvg.de | 6 | 04, 05, 274, 306, 45, 65 |
-| tagesschau.de | 6 | 100, 13, 234, 49, 79, 93 |
 | youtube.com | 6 | 100, 141, 165, 17, 85, 87 |
 | twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
-| creativecommons.org | 6 | 203, 324, 65, 66, 68, 83 |
 
 ## Quellenklassifikation
 
@@ -81,10 +81,10 @@ Stand: 2026-05-05
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 81 | 26% |
-| Sekundaerquelle | 57 | 18% |
-| Graue Literatur | 79 | 25% |
-| Journalistische Quelle | 66 | 21% |
+| Primaerquelle | 81 | 25% |
+| Sekundaerquelle | 59 | 18% |
+| Graue Literatur | 81 | 25% |
+| Journalistische Quelle | 67 | 21% |
 | Tertiaerquelle | 7 | 2% |
 | Aktivistische Quelle | 7 | 2% |
 
@@ -92,8 +92,8 @@ Stand: 2026-05-05
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 117 | 37% |
-| mittel | 145 | 46% |
+| hoch | 118 | 37% |
+| mittel | 149 | 46% |
 | niedrig | 35 | 11% |
 
 ### Farbcodierung im Graph
@@ -425,6 +425,11 @@ Stand: 2026-05-05
 | 336 | Pakt_Bevoelkerungsschutz | journalistisch | Behörden Spiegel | 2026 | mittel |
 | 337 | LUEKEX_26_Planbesprechung | journalistisch | security-network.com | 2024 | mittel |
 | 338 | NSRI_Sicherheitsindex_DGAP | journalistisch | ESUT | 2026 | mittel |
+| 339 | SWP_Studie_Mit | sekundaer | SWP | 2026 | hoch |
+| 340 | ZDF_Heute_Dobrindt | journalistisch | ZDF heute | 2026 | mittel |
+| 341 | Deloitte_Legal_KRITIS | sekundaer | Deloitte Legal | 2026 | mittel |
+| 342 | Notfallakademie_KRITIS_Registrierungsfrist | grau | Notfallakademie | 2026 | mittel |
+| 343 | 3core_KRITIS_DachG | grau | 3-core | 2026 | mittel |
 
 ## Isolierte Dokumente
 
@@ -631,6 +636,10 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 337: LUEKEX_26_Planbesprechung (journalistisch)
 - 338: NSRI_Sicherheitsindex_DGAP (journalistisch)
 - 34: EU_TAFF_Civil (grau)
+- 340: ZDF_Heute_Dobrindt (journalistisch)
+- 341: Deloitte_Legal_KRITIS (sekundaer)
+- 342: Notfallakademie_KRITIS_Registrierungsfrist (grau)
+- 343: 3core_KRITIS_DachG (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
 - 42: Marshall_Lykke_AWC (sekundaer)
@@ -725,6 +734,7 @@ graph LR
     D322["322: IMI_Operationsplan_Deutschland<br/>AKT | 1 URLs"]
     D324["324: SWP_Bendiek_Kerttunen<br/>SEK | 104 URLs"]
     D33["33: JRC_Cross_Border<br/>SEK | 10 URLs"]
+    D339["339: SWP_Studie_Mit<br/>SEK | 217 URLs"]
     D36["36: Parameters_Bad_Strategy<br/>SEK | 14 URLs"]
     D37["37: Parameters_Repliken<br/>SEK | 8 URLs"]
     D38["38: MWI_Beyond_Ends<br/>SEK | 15 URLs"]
@@ -766,15 +776,17 @@ graph LR
     D101 -->|2| D76
     D266 -->|2| D272
     D148 -->|2| D30
-    D24 -->|2| D30
     D165 -->|2| D30
+    D24 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
     D219 -->|2| D324
     D219 -->|2| D30
+    D30 -->|2| D339
     D30 -->|2| D324
     D30 -->|2| D33
+    D324 -->|2| D339
     D36 -->|2| D40
     D65 -->|2| D66
     D66 -->|2| D67
@@ -821,7 +833,9 @@ graph LR
     D216 -->|1| D30
     D219 -->|1| D38
     D219 -->|1| D234
+    D219 -->|1| D339
     D234 -->|1| D30
+    D234 -->|1| D339
     D219 -->|1| D261
     D219 -->|1| D31
     D225 -->|1| D322
@@ -839,7 +853,7 @@ graph LR
     D80 -->|1| D91
     D95 -->|1| D96
     style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D200,D255,D267,D269,D272,D273,D298,D96 fill:#2563eb,color:#fff
-    style D102,D112,D16,D165,D216,D219,D234,D261,D324,D33,D36,D37,D38,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
+    style D102,D112,D16,D165,D216,D219,D234,D261,D324,D33,D339,D36,D37,D38,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
     style D100,D60,D85 fill:#6b7280,color:#fff
     style D101,D106,D108,D124,D148,D151,D17,D24,D266,D30,D31,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
     style D110,D115,D116,D275,D305,D320,D321,D48,D49,D58,D59,D62,D80,D87,D91,D93,D94 fill:#059669,color:#fff
