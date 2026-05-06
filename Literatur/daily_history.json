@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-05T05:00:00",
-  "run_count": 41,
+  "last_run": "2026-05-06T05:11:00",
+  "run_count": 42,
   "corpus_state": {
-    "total_docs": 316,
-    "total_urls": 1892,
-    "unique_urls": 1703,
-    "connected_docs": 78,
-    "isolated_docs": 238,
-    "edges": 87
+    "total_docs": 321,
+    "total_urls": 2113,
+    "unique_urls": 1920,
+    "connected_docs": 79,
+    "isolated_docs": 242,
+    "edges": 91
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -71,6 +71,7 @@
     "http://www.wiederbelebung.de",
     "http://www.wieselhuber.de/karriere/",
     "http://www.zum-staunen.de",
+    "https://3-core.de/blog/kritis-dachgesetz-2026/",
     "https://academic.oup.com/book/32019/chapter-abstract/267794613?redirectedFrom=fulltext",
     "https://act.greenpeace.de/protestmail-gaskosten-falle",
     "https://afn.ca/economy",
@@ -740,6 +741,7 @@
     "https://www.datenschutz-notizen.de/tag/schwellenwerte/",
     "https://www.datenschutz-notizen.de/wp-content/uploads/2026/01/Tabelle_KRITIS_Dachgesetz_2026_Entwurf.jpg",
     "https://www.defmin.fi/en/topical/press_releases_and_news/finland_s_comprehensive_security_reinforced_through_new_security_strategy_for_society.14801.news#f5416cb5",
+    "https://www.deloittelegal.de/dl/de/services/legal/perspectives/kritis-dachgesetz.html",
     "https://www.dena.de/ueber-die-dena/unser-unternehmen/",
     "https://www.derstandard.at/story/3000000223235/land-unter-und-wer-zahlt-danach",
     "https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Sterbefaelle-Lebenserwartung/sterbefallzahlen.html",
@@ -1054,6 +1056,7 @@
     "https://www.nd-aktuell.de/newsletter/",
     "https://www.nordbayern.de/polizeiberichte/nach-uberflutung-und-komplett-sperrung-a3-bei-neumarkt-wieder-frei-1.14285276",
     "https://www.nordkurier.de/regional/rostock/trotz-marine-hauptquartier-stadt-muss-keine-bunkerliste-anlegen-4525505",
+    "https://www.notfallakademie.org/blog/kritis-dachgesetz-registrierungsfrist-17-juli",
     "https://www.noz.de/deutschland-welt/panorama/artikel/hochwasser-feuerwehrmann-stirbt-bei-einsatz-in-bayern-47125768",
     "https://www.nytimes.com/2025/06/09/world/canada/carney-canada-nato-military-spending.html",
     "https://www.nytimes.com/2025/11/07/realestate/helsinki-finland-bunkers-bomb-shelters.html",
@@ -1196,6 +1199,7 @@
     "https://www.sueddeutsche.de/wissen/analyse-klimawandel-verschlimmerte-hochwasser-dpa.urn-newsml-dpa-com-20090101-240607-99-309485",
     "https://www.swp-berlin.org/10.18449/2026S03/",
     "https://www.swp-berlin.org/publications/products/arbeitspapiere/SWP_WP_Enhancing_EU-NATO_Cooperation_Critical_Infrastructure_Protection_Bendiek_Kerttunen.pdf",
+    "https://www.swp-berlin.org/publications/products/studien/2026S03_Ausblick_Studie_Gesamt.pdf",
     "https://www.swp.de/lokales/ehingen/hochwasser-in-der-region-von-flut-bedroht-so-kaempft-die-feuerwehr-um-das-umspannwerk-dellmensingen-73903137.html",
     "https://www.swp.de/lokales/goeppingen/hochwasser-im-kreis-goeppingen-lage-verschaerft-sich-dramatisch-es-geht-darum-menschenleben-zu-retten-73908737.html",
     "https://www.swp.de/lokales/goeppingen/hochwasser-im-kreis-goeppingen-schafe-auf-der-weide-von-den-fluten-mitgerissen-73939451.html",
@@ -1331,6 +1335,7 @@
     "https://www.zdf.de/nachrichten/wirtschaft/pflichtversicherung-hochwasser-elementarschaden-100.html",
     "https://www.zdfheute.de/politik/ausland/ostsee-finnland-schweden-litauen-unterseekabel-100.html",
     "https://www.zdfheute.de/politik/deutschland/anschlag-berlin-stromausfall-afd-anfrage-faktencheck-100.html",
+    "https://www.zdfheute.de/politik/deutschland/dobrindt-bevoelkerung-zivil-katastrophen-schutz-milliarden-100.html",
     "https://www.zdfheute.de/politik/russland-sabotage-spionage-hybride-angriffe-deutsche-unternehmen-100.html",
     "https://www.zdfheute.de/politik/strommast-blackout-kritische-infrastruktur-100.html",
     "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-01/berlin-stromversorgung-vollstaendig-wiederhergestellt",
@@ -1857,6 +1862,28 @@
       "downloaded": 3,
       "failed": 0,
       "notes": "Pakt für den Bevölkerungsschutz (Dobrindt 04.05.2026) als Top-Quelle aufgenommen. KG-Bug behoben: --output-dir ergänzt."
+    },
+    {
+      "date": "2026-05-06",
+      "queries": [
+        "Bevoelkerungsschutz Zivilschutz 2026 Deutschland",
+        "KRITIS-Dachgesetz 2026 Bundestag",
+        "NATO resilience civil preparedness 2026",
+        "Katastrophenschutz Hamburg 2026 Buergerschaft",
+        "OPLAN Deutschland 2026 Gesamtverteidigung",
+        "Zivilschutzgesetz ZSKG 2026 Reform",
+        "Pakt Bevoelkerungsschutz Dobrindt 10 Milliarden",
+        "LUEKEX 2026 Stabsrahmenuebung",
+        "Schutzraumstrategie 2026 Bunker",
+        "BBK Pressemitteilung Mai 2026 Risikoanalyse",
+        "DGAP SWP Resilienz Bevoelkerungsschutz 2026",
+        "Stresstest Risikoanalyse KRITIS Bundesnetzagentur 2026"
+      ],
+      "results_total": 60,
+      "new": 7,
+      "downloaded": 5,
+      "failed": 1,
+      "failed_detail": "Bird&Bird (twobirds.com): HTTP 402, Paywall — verworfen, kein Retry"
     }
   ],
   "failed_downloads": [
