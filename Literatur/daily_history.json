@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-06T05:11:00",
-  "run_count": 42,
+  "last_run": "2026-05-07T05:11:00",
+  "run_count": 43,
   "corpus_state": {
-    "total_docs": 321,
-    "total_urls": 2113,
-    "unique_urls": 1920,
-    "connected_docs": 79,
-    "isolated_docs": 242,
-    "edges": 91
+    "total_docs": 330,
+    "total_urls": 2181,
+    "unique_urls": 1986,
+    "connected_docs": 80,
+    "isolated_docs": 250,
+    "edges": 93
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -1353,7 +1353,16 @@
     "https://zdb-katalog.de/list.xhtml?t=iss%3D%221865-2263%22&key=cql",
     "https://zdb-katalog.de/list.xhtml?t=iss%3D%222195-1349%22&key=cql",
     "https://zentrum-klimaanpassung.de/",
-    "https://zoes-bund.de/publikationen/gruenbuch-zmz/"
+    "https://zoes-bund.de/publikationen/gruenbuch-zmz/",
+    "https://www.goerg.de/de/aktuelles/veroeffentlichungen/09-03-2026/kritis-dachgesetz-neuer-bundeseinheitlicher-rechtsrahmen-fuer-den-physischen-schutz-kritischer-infrastrukturen-tritt-in-kraft",
+    "https://www.behoerden-spiegel.de/2026/05/05/erste-stunde-zivilschutz/",
+    "https://www.behoerden-spiegel.de/2026/03/02/ausbau-von-zivilschutz-und-selbsthilfekompetenzen-gefordert/",
+    "https://dgap.org/de/forschung/publikationen/sicherheit-als-generationenfrage",
+    "https://dgap.org/en/research/publications/building-european-resilience-and-capacity-act",
+    "https://dkkv.org/wp-content/uploads/2025/06/2025_02_Magazin.pdf",
+    "https://www.drohnen.de/67925/anti-drohnen-plan-bundesregierung-will-zustaendigkeiten-und-abwehrstrategie-neu-ordnen/",
+    "https://www.gfa-news.de/news/drohnenabwehr-und-kritische-infrastruktur-bundeswehr-darf-helfen",
+    "https://www.smarter-service.com/2026/04/29/gesamtstaatliches-sicherheitsoekosystem-2030-warum-verteidigung-zur-wachstumsfrage-wird/"
   ],
   "processed_sources": [],
   "search_log": [
@@ -1884,12 +1893,29 @@
       "downloaded": 5,
       "failed": 1,
       "failed_detail": "Bird&Bird (twobirds.com): HTTP 402, Paywall — verworfen, kein Retry"
+    },
+    {
+      "date": "2026-05-07",
+      "queries": [
+        "bundesrecht: ZSKG, KRITIS-Dachgesetz, Zivilschutzgesetz, Katastrophenhilfe",
+        "landesrecht: Katastrophenschutz, Bevoelkerungsschutz",
+        "web: Bevoelkerungsschutz/Zivilschutz 2026, KRITIS-Dachgesetz Inkrafttreten, NATO civil preparedness, Katastrophenschutz Hamburg, OPLAN Deutschland 2026, BBK Mai 2026, hybride Bedrohung Mai 2026, Behoerden Spiegel Bevoelkerungsschutz, SWP/DGAP Resilienz, THW April Mai, Hamburg Buergerschaft, DKKV Klimawandel, Dobrindt Pakt, Drohnenabwehr KRITIS"
+      ],
+      "results_seen": 110,
+      "candidates": 36,
+      "new": 9,
+      "downloaded": 9,
+      "failed": 1,
+      "failed_urls": [
+        "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html"
+      ]
     }
   ],
   "failed_downloads": [
     "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html",
     "https://link.springer.com/book/10.1007/978-3-662-71881-0",
     "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/04/thw-bbk-bonn.html",
-    "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag_26_1.pdf"
+    "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag_26_1.pdf",
+    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html"
   ]
 }
