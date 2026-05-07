@@ -1810,5 +1810,59 @@
     "institution": "3-core",
     "jahr": 2026,
     "evidenzgrad": "mittel"
+  },
+  "344": {
+    "typ": "sekundaer",
+    "institution": "GOERG Rechtsanwaelte",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "345": {
+    "typ": "grau",
+    "institution": "Behoerden Spiegel",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "346": {
+    "typ": "grau",
+    "institution": "Behoerden Spiegel",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "347": {
+    "typ": "sekundaer",
+    "institution": "DGAP",
+    "jahr": 2023,
+    "evidenzgrad": "mittel"
+  },
+  "348": {
+    "typ": "sekundaer",
+    "institution": "DGAP",
+    "jahr": 2021,
+    "evidenzgrad": "hoch"
+  },
+  "349": {
+    "typ": "grau",
+    "institution": "Deutsches Komitee Katastrophenvorsorge (DKKV)",
+    "jahr": 2025,
+    "evidenzgrad": "hoch"
+  },
+  "350": {
+    "typ": "journalistisch",
+    "institution": "drohnen.de",
+    "jahr": 2025,
+    "evidenzgrad": "niedrig"
+  },
+  "351": {
+    "typ": "journalistisch",
+    "institution": "GFA-News",
+    "jahr": 2026,
+    "evidenzgrad": "niedrig"
+  },
+  "352": {
+    "typ": "journalistisch",
+    "institution": "Smarter Service",
+    "jahr": 2026,
+    "evidenzgrad": "niedrig"
   }
 }
