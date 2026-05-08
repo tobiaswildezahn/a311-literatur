@@ -1864,5 +1864,35 @@
     "institution": "Smarter Service",
     "jahr": 2026,
     "evidenzgrad": "niedrig"
+  },
+  "353": {
+    "typ": "primaer",
+    "institution": "Bundesministerium der Verteidigung",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "354": {
+    "typ": "grau",
+    "institution": "DGAP",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "355": {
+    "typ": "journalistisch",
+    "institution": "Das Parlament (Bundestag)",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
+  },
+  "356": {
+    "typ": "aktivistisch",
+    "institution": "Reservistenverband / OPLAN.de",
+    "jahr": 2026,
+    "evidenzgrad": "niedrig"
+  },
+  "357": {
+    "typ": "sekundaer",
+    "institution": "Heinrich-Boell-Stiftung",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
   }
 }

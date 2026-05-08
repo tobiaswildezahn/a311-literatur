@@ -9,6 +9,14 @@ Stand: 2026-05-02
 |-----|---------|
 | https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/04/thw-bbk-bonn.html | BMI THW/BBK Spezialfahrzeuge — HTTP 400 sowohl WebFetch als auch curl+Mozilla-UA. Manueller Browser-Download in inbox/ noetig. |
 
+## Neu 2026-05-08
+
+| URL | Hinweis |
+|-----|---------|
+| https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html | BMI Ein-Jahr-Bilanz Bundesregierung — HTTP 400. Manueller Browser-Download. |
+| https://www.kas.de/en/country-reports/detail/-/content/finnlands-reaktion-auf-hybride-bedrohungen-in-der-ostsee | KAS Finnland-Laenderbericht hybride Bedrohungen — HTTP 403. Manueller Download in inbox/. |
+| https://www.naadsn.ca/wp-content/uploads/2025/11/25nov3-NAADSN-7BLR-Policy-Primer-RD-PWL.pdf | NAADSN 7BLR Policy Primer — PDF heruntergeladen, lldr-Konvertierung schlug fehl (Surya GPU-Fehler). PDF erneut versuchen oder pdftotext-Fallback. |
+
 ---
 
 ## Anleitung

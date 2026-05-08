@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-07T05:11:00",
-  "run_count": 43,
+  "last_run": "2026-05-08T05:14:15",
+  "run_count": 44,
   "corpus_state": {
-    "total_docs": 330,
-    "total_urls": 2181,
-    "unique_urls": 1986,
-    "connected_docs": 80,
-    "isolated_docs": 250,
-    "edges": 93
+    "total_docs": 335,
+    "total_urls": 2186,
+    "unique_urls": 1989,
+    "connected_docs": 84,
+    "isolated_docs": 251,
+    "edges": 95
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -193,11 +193,14 @@
     "https://dgap.org/de/forschung/publikationen/lehren-aus-krieg-im-nahen-osten",
     "https://dgap.org/de/forschung/publikationen/nationales-schutzraumkonzept-was-deutschland-von-seinen-nachbarn-lernen",
     "https://dgap.org/de/forschung/publikationen/schritte-zum-europaeischen-nukleardialog",
+    "https://dgap.org/de/forschung/publikationen/sicherheit-als-generationenfrage",
     "https://dgap.org/de/forschung/publikationen/sicherheitspolitik-mit-strategie",
     "https://dgap.org/de/forschung/publikationen/warum-deutschland-mit-initiator-einer-multilateralen-resilienzbank-sein",
     "https://dgap.org/de/forschung/publikationen/zeitenwende-auch-der-zivilen-verteidigung",
     "https://dgap.org/de/forschung/publikationen/zeitenwende-der-verteidigungspolitik",
+    "https://dgap.org/de/veranstaltungen/kritische-resilienz-und-der-operationsplan-deutschland-ist-die-bundesrepublik",
     "https://dgap.org/en/research/publications/action-plan-security-and-defense-policy",
+    "https://dgap.org/en/research/publications/building-european-resilience-and-capacity-act",
     "https://dgap.org/en/research/publications/new-concepts-new-era-european-security",
     "https://dgap.org/system/files/article_pdfs/02-Essay_Gesamtverteidigung-online.pdf",
     "https://digital-strategy.ec.europa.eu/en/policies/nis2",
@@ -209,6 +212,7 @@
     "https://dkkv.org/gsw-newsletter-aktuelle-entwicklungen-zu-katastrophenschutz-und-kritischen-infrastrukturen-2026-kw5/",
     "https://dkkv.org/klimapressekonferenz-2026-des-dwd/",
     "https://dkkv.org/neue-bbk-praesidentin/",
+    "https://dkkv.org/wp-content/uploads/2025/06/2025_02_Magazin.pdf",
     "https://doi.org/10.1002/joc.7739",
     "https://doi.org/10.1016/j.cliser.2023.100428",
     "https://doi.org/10.1016/j.egypro.2015.07.552",
@@ -533,6 +537,7 @@
     "https://www.behoerden-spiegel.de/2026/02/03/teilerholung-der-bauwirtschaft/",
     "https://www.behoerden-spiegel.de/2026/02/05/luekex-2026-mit-rekordbeteiligung/",
     "https://www.behoerden-spiegel.de/2026/02/06/juh-und-bundeswehr-ruecken-zusammen/",
+    "https://www.behoerden-spiegel.de/2026/03/02/ausbau-von-zivilschutz-und-selbsthilfekompetenzen-gefordert/",
     "https://www.behoerden-spiegel.de/2026/03/12/was-vom-schutzraumkonzept-blieb/",
     "https://www.behoerden-spiegel.de/2026/03/19/zustimmung-und-kritik-am-kritis-dachgesetz/",
     "https://www.behoerden-spiegel.de/2026/03/20/buerger-hoert-die-warn-signale/",
@@ -546,6 +551,7 @@
     "https://www.behoerden-spiegel.de/2026/04/28/dritter-bbk-fachkongress-angekuendigt/",
     "https://www.behoerden-spiegel.de/2026/04/29/nach-dem-oplan-kommt-der-zplan/",
     "https://www.behoerden-spiegel.de/2026/05/04/pakt-fuer-den-bevoelkerungsschutz-angekuendigt/",
+    "https://www.behoerden-spiegel.de/2026/05/05/erste-stunde-zivilschutz/",
     "https://www.behoerden-spiegel.de/author/bennet-klawon/",
     "https://www.behoerden-spiegel.de/author/jonas-brandstetter/",
     "https://www.behoerden-spiegel.de/category/finanzen/",
@@ -600,6 +606,7 @@
     "https://www.bmvg.de/de/presse",
     "https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376",
     "https://www.bmvg.de/de/presse/strategie-zur-landes-und-buendnisverteidigung-6093690",
+    "https://www.bmvg.de/de/presse/weichenstellung-aufwuchs-6097806",
     "https://www.bmvg.de/de/themen/sicherheitspolitik/hybride-bedrohungen",
     "https://www.bmvg.de/resource/blob/5777780/1d5d88d162f8c172940424625799e714/a-04-05-download-osnabruecker-erlass-data.pdf",
     "https://www.bnd.bund.de/DE/Die_Themen/hybride-bedrohungen/hybride-bedrohungen-node.html",
@@ -721,6 +728,7 @@
     "https://www.d-copernicus.de/daten/fernerkundungsdienste/copernicus-kerndienste/",
     "https://www.d-copernicus.de/daten/fernerkundungsdienste/copernicus-kerndienste/katastrophen",
     "https://www.d-copernicus.de/daten/fernerkundungsdienste/copernicus-kerndienste/katastrophen-und-krisenmanagement/",
+    "https://www.das-parlament.de/inland/innenpolitik/die-koalition-preist-ihren-sicherheitshaushalt",
     "https://www.datenschutz-cert.de/leistungen/nis-2-bsig-und-kritis",
     "https://www.datenschutz-notizen.de/author/mbauer/",
     "https://www.datenschutz-notizen.de/category/informationssicherheit/",
@@ -757,6 +765,7 @@
     "https://www.donaukurier.de/lokales/landkreis-pfaffenhofen/dammbruch-bei-baar-ebenhausen-bewohner-sollen-umgehend-das-erdgeschoss-verlassen-16167291",
     "https://www.donaukurier.de/lokales/landkreis-pfaffenhofen/ueberflutungen-ungeahnten-ausmasses-landkreis-pfaffenhofen-besonders-stark-betroffen-16170384",
     "https://www.drk.de/presse/pressemitteilungen/meldung/gemeinsame-pressemitteilung-keine-zeitenwende-im-bevoelkerungsschutz-erkennbar/",
+    "https://www.drohnen.de/67925/anti-drohnen-plan-bundesregierung-will-zustaendigkeiten-und-abwehrstrategie-neu-ordnen/",
     "https://www.dstgb.de/aktuelles/archiv/archiv-2020/nationales-konzept-fuer-besonders-grosse-oder-schwierige-vegetationsbraende-erstellt/konzept-vegetationsbraende-051020.pdf?cid=5tk",
     "https://www.dstgb.de/themen/klimaschutz-und-klimaanpassung/",
     "https://www.dstgb.de/themen/klimaschutz-und-klimaanpassung/aktuelles/feuerwehr-zwischenbilanz-rekord-waldbrandjahr-2022/",
@@ -851,6 +860,7 @@
     "https://www.gesetze-im-internet.de/dwdg/__4.html",
     "https://www.gesetze-im-internet.de/gg/art_115a.html",
     "https://www.gesetze-im-internet.de/natotrstatvtrg/NATOTrStatVtrG.pdf",
+    "https://www.gfa-news.de/news/drohnenabwehr-und-kritische-infrastruktur-bundeswehr-darf-helfen",
     "https://www.gfz-potsdam.de/",
     "https://www.gfz-potsdam.de/en/staff/bruno.merz",
     "https://www.gfz-potsdam.de/en/staff/elena.macdonald",
@@ -864,6 +874,7 @@
     "https://www.globsec.org/what-we-do/commentaries/how-russias-hybrid-warfare-will-escalate-2026-and-what-europe-must-do",
     "https://www.gmfus.org/news/nato-and-societal-resilience-all-hands-deck-age-war",
     "https://www.gmx.net/magazine/politik/inland/wegner-wankt-tennis-match-folgen-41763218",
+    "https://www.goerg.de/de/aktuelles/veroeffentlichungen/09-03-2026/kritis-dachgesetz-neuer-bundeseinheitlicher-rechtsrahmen-fuer-den-physischen-schutz-kritischer-infrastrukturen-tritt-in-kraft",
     "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CAIQw7AJahcKEwiIpZHu69j_AhUAAAAAHQAAAAAQBg&url=https%3A%2F%2Fwww.lawa.de%2Fdocuments%2Flawa-empfehlungen_aufstellung_hw-gefahrenkarten_und_hw-risikokarten_2_1552298996.pdf&psig=AOvVaw3eCTNYUeFOHQ9moOGdmJXF&ust=1687590745812965&opi=89978449",
     "https://www.gov.nt.ca/sites/flagship/files/documents/pan-territorial_vision_for_sustainable_development_en.pdf",
     "https://www.government.se/government-policy/civil-defence/objectives/",
@@ -1160,6 +1171,7 @@
     "https://www.sifo.de/sifo/de/veranstaltungen/messen/bbk-kongress-2025/bbk-kongress-2025_node.html",
     "https://www.smard.de/home",
     "https://www.smard.de/page/home/topic-article/444/215556",
+    "https://www.smarter-service.com/2026/04/29/gesamtstaatliches-sicherheitsoekosystem-2030-warum-verteidigung-zur-wachstumsfrage-wird/",
     "https://www.spdfraktion-rlp.de/presse/mitteilungen/abschlussbericht-des-untersuchungsausschusses-veroeffentlicht",
     "https://www.spektrum.de/lexikon/geogra",
     "https://www.spektrum.de/lexikon/geographie/schleppkraft/6979",
@@ -1353,16 +1365,7 @@
     "https://zdb-katalog.de/list.xhtml?t=iss%3D%221865-2263%22&key=cql",
     "https://zdb-katalog.de/list.xhtml?t=iss%3D%222195-1349%22&key=cql",
     "https://zentrum-klimaanpassung.de/",
-    "https://zoes-bund.de/publikationen/gruenbuch-zmz/",
-    "https://www.goerg.de/de/aktuelles/veroeffentlichungen/09-03-2026/kritis-dachgesetz-neuer-bundeseinheitlicher-rechtsrahmen-fuer-den-physischen-schutz-kritischer-infrastrukturen-tritt-in-kraft",
-    "https://www.behoerden-spiegel.de/2026/05/05/erste-stunde-zivilschutz/",
-    "https://www.behoerden-spiegel.de/2026/03/02/ausbau-von-zivilschutz-und-selbsthilfekompetenzen-gefordert/",
-    "https://dgap.org/de/forschung/publikationen/sicherheit-als-generationenfrage",
-    "https://dgap.org/en/research/publications/building-european-resilience-and-capacity-act",
-    "https://dkkv.org/wp-content/uploads/2025/06/2025_02_Magazin.pdf",
-    "https://www.drohnen.de/67925/anti-drohnen-plan-bundesregierung-will-zustaendigkeiten-und-abwehrstrategie-neu-ordnen/",
-    "https://www.gfa-news.de/news/drohnenabwehr-und-kritische-infrastruktur-bundeswehr-darf-helfen",
-    "https://www.smarter-service.com/2026/04/29/gesamtstaatliches-sicherheitsoekosystem-2030-warum-verteidigung-zur-wachstumsfrage-wird/"
+    "https://zoes-bund.de/publikationen/gruenbuch-zmz/"
   ],
   "processed_sources": [],
   "search_log": [
@@ -1909,6 +1912,25 @@
       "failed_urls": [
         "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html"
       ]
+    },
+    {
+      "date": "2026-05-08",
+      "queries": [
+        "Bevoelkerungsschutz BBK 2026",
+        "KRITIS-Dachgesetz 2026",
+        "NATO civil preparedness",
+        "Katastrophenschutz Hamburg 2026",
+        "Gesamtverteidigung OPLAN",
+        "hybride Bedrohung Unterseekabel",
+        "Pakt Bevoelkerungsschutz Dobrindt",
+        "LUEKEX 2026",
+        "DGAP Resilienz",
+        "Hochwasser Hamburg 2026"
+      ],
+      "results_examined": 100,
+      "new": 5,
+      "downloaded": 5,
+      "failed": 3
     }
   ],
   "failed_downloads": [
@@ -1916,6 +1938,8 @@
     "https://link.springer.com/book/10.1007/978-3-662-71881-0",
     "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/04/thw-bbk-bonn.html",
     "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag_26_1.pdf",
-    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html"
+    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html",
+    "https://www.kas.de/en/country-reports/detail/-/content/finnlands-reaktion-auf-hybride-bedrohungen-in-der-ostsee",
+    "https://www.naadsn.ca/wp-content/uploads/2025/11/25nov3-NAADSN-7BLR-Policy-Primer-RD-PWL.pdf"
   ]
 }
