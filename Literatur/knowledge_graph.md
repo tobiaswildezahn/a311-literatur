@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-05-08
+Stand: 2026-05-09
 
 ## Statistik
 
-- **335** Dokumente im Korpus
-- **1989** unique externe URLs
+- **341** Dokumente im Korpus
+- **1995** unique externe URLs
 - **84** Dokumente mit geteilten Quellen
-- **251** isolierte Dokumente (keine geteilten URLs)
+- **257** isolierte Dokumente (keine geteilten URLs)
 - **95** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -37,8 +37,8 @@ Stand: 2026-05-08
 | https://www.nato.int/cps/en/natohq/topics_132722.htm | 148, 165, 24, 261, 30, 31, 69 |
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 261, 30, 31 |
 | https://www.youtube.com/watch | 100, 141, 85, 87 |
-| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31 |
 | https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 261, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
 | https://www | 219, 234, 30, 339 |
 | https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 261, 30, 31 |
@@ -54,15 +54,15 @@ Stand: 2026-05-08
 
 | Domain | Anzahl Dokumente | Dok-IDs |
 |--------|-----------------|---------|
-| bbk.bund.de | 34 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
-| nato.int | 16 | 148, 165, 211, 219, 22, 230, 24, 252, 261, 29... |
+| bbk.bund.de | 35 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
+| nato.int | 17 | 148, 165, 211, 219, 22, 230, 24, 252, 261, 29... |
 | bmi.bund.de | 15 | 04, 08, 112, 12, 13, 141, 17, 226, 264, 30... |
 | dserver.bundestag.de | 15 | 06, 07, 08, 14, 15, 17, 234, 269, 298, 30... |
 | dgap.org | 15 | 166, 167, 169, 221, 227, 307, 308, 309, 324, 347... |
 | bundestag.de | 14 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 332... |
 | behoerden-spiegel.de | 13 | 115, 301, 305, 310, 311, 312, 320, 325, 327, 336... |
+| bundeswehr.de | 13 | 131, 197, 234, 251, 258, 291, 359, 60, 61, 62... |
 | dwd.de | 12 | 100, 102, 103, 131, 141, 171, 212, 267, 273, 349... |
-| bundeswehr.de | 12 | 131, 197, 234, 251, 258, 291, 60, 61, 62, 63... |
 | bundesregierung.de | 10 | 01, 12, 144, 17, 197, 319, 331, 339, 85, 97 |
 | doi.org | 9 | 102, 216, 219, 30, 339, 349, 65, 83, 96 |
 | ec.europa.eu | 9 | 138, 148, 216, 234, 24, 30, 324, 335, 339 |
@@ -81,10 +81,10 @@ Stand: 2026-05-08
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 82 | 24% |
-| Sekundaerquelle | 63 | 19% |
-| Graue Literatur | 85 | 25% |
-| Journalistische Quelle | 71 | 21% |
+| Primaerquelle | 85 | 25% |
+| Sekundaerquelle | 63 | 18% |
+| Graue Literatur | 86 | 25% |
+| Journalistische Quelle | 73 | 21% |
 | Tertiaerquelle | 7 | 2% |
 | Aktivistische Quelle | 8 | 2% |
 
@@ -92,9 +92,9 @@ Stand: 2026-05-08
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 122 | 36% |
-| mittel | 155 | 46% |
-| niedrig | 39 | 12% |
+| hoch | 126 | 37% |
+| mittel | 157 | 46% |
+| niedrig | 39 | 11% |
 
 ### Farbcodierung im Graph
 
@@ -444,6 +444,12 @@ Stand: 2026-05-08
 | 355 | DasParlament_Sicherheitshaushalt_2026 | journalistisch | Das Parlament (Bundestag) | 2025 | mittel |
 | 356 | OPLAN_de_Reserve | aktivistisch | Reservistenverband / OPLAN.de | 2026 | niedrig |
 | 357 | Boell_Comprehensive_Defence | sekundaer | Heinrich-Boell-Stiftung | 2026 | mittel |
+| 358 | NATO_Senior_Officials | primaer | NATO HQ | 2026 | hoch |
+| 359 | Bundeswehr_Medic_Quadriga | primaer | Bundeswehr | 2026 | hoch |
+| 360 | BBK_LUEKEX26_Duerre | primaer | BBK | 2026 | hoch |
+| 361 | KOMMUNAL_Schutzraeume_Kommunen | journalistisch | KOMMUNAL | 2025 | mittel |
+| 362 | Table_Schutzraeume_Identifizieren | journalistisch | Table.Briefings | 2025 | mittel |
+| 363 | Hamburg_Warnkonzept_Bevoelkerung | grau | BIS Hamburg | 2026 | hoch |
 
 ## Isolierte Dokumente
 
@@ -663,6 +669,12 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 353: BMVg_365_Tage (primaer)
 - 354: DGAP_Veranstaltung_Kritische (grau)
 - 355: DasParlament_Sicherheitshaushalt_2026 (journalistisch)
+- 358: NATO_Senior_Officials (primaer)
+- 359: Bundeswehr_Medic_Quadriga (primaer)
+- 360: BBK_LUEKEX26_Duerre (primaer)
+- 361: KOMMUNAL_Schutzraeume_Kommunen (journalistisch)
+- 362: Table_Schutzraeume_Identifizieren (journalistisch)
+- 363: Hamburg_Warnkonzept_Bevoelkerung (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
 - 42: Marshall_Lykke_AWC (sekundaer)
@@ -804,8 +816,8 @@ graph LR
     D101 -->|2| D76
     D266 -->|2| D272
     D148 -->|2| D30
-    D24 -->|2| D30
     D165 -->|2| D30
+    D24 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
@@ -826,11 +838,11 @@ graph LR
     D08 -->|1| D255
     D100 -->|1| D60
     D60 -->|1| D85
+    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D102
     D101 -->|1| D141
     D102 -->|1| D349
     D103 -->|1| D104
@@ -864,9 +876,9 @@ graph LR
     D219 -->|1| D339
     D234 -->|1| D30
     D234 -->|1| D339
-    D219 -->|1| D38
     D219 -->|1| D261
     D219 -->|1| D31
+    D219 -->|1| D38
     D225 -->|1| D322
     D241 -->|1| D357
     D261 -->|1| D324

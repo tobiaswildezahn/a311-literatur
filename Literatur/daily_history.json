@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-08T05:14:15",
-  "run_count": 44,
+  "last_run": "2026-05-09T05:08:23",
+  "run_count": 45,
   "corpus_state": {
-    "total_docs": 335,
-    "total_urls": 2186,
-    "unique_urls": 1989,
+    "total_docs": 341,
+    "total_urls": 2192,
+    "unique_urls": 1995,
     "connected_docs": 84,
-    "isolated_docs": 251,
+    "isolated_docs": 257,
     "edges": 95
   },
   "known_urls": [
@@ -323,6 +323,7 @@
     "https://knack.news/14765",
     "https://koerber-stiftung.de/mediathek/friedrich-merz-zu-aussen-und-europapolitischen-prioritaeten-fuer-deutschland/",
     "https://kommunal.de/artikel/feuerwehr-mit-65/",
+    "https://kommunal.de/kriegsgefahr-schutzraeume-kommunen-gesucht",
     "https://kommunal.de/nachwuchsprobleme-bei-der-feuerwehr",
     "https://kommunal.de/zivilschutz-deutschland-schutzlos-im-ernstfall",
     "https://kreisfeuerwehrverband.net/menukfvaktuelles/19078-positionspapier-27-03-2026.html",
@@ -420,6 +421,7 @@
     "https://t.me/share/url?url=https://www.nd-aktuell.de/artikel/1196646.kritische-infrastruktur-stromausfall-in-berlin-infrastrukturen-wurden-kaputtgespart.html&pk_campaign=SocialMedia&text=Hallo%21%20Ich%20empfehle%20Dir%20folgenden%20Artikel",
     "https://table.media/berlin/news/kriegsfall-bmi-erstellt-nun-doch-einen-plan-fuer-die-zivile-verteidigung",
     "https://table.media/berlin/news/kritische-infrastruktur-kompromiss-zum-kritis-dachgesetz-schafft-neue-rechtsunsicherheiten",
+    "https://table.media/berlin/news/zivilschutz-staedte-und-gemeinden-sollen-ab-maerz-schutzraeume-identifizieren",
     "https://table.media/en/security/news-en/dobrindt-plans-to-unveil-the-pact-for-civil-protection-in-may",
     "https://taz.de/Brandanschlag-auf-Stromnetz-in-Berlin/!6142611/",
     "https://taz.de/Brandanschlag-auf-Stromnetz-in-Berlin/!6143455/",
@@ -493,6 +495,7 @@
     "https://www.bbk.bund.de/DE/Infothek/Magazin-Bevoelkerungsschutz/magazin-bevoelkerungsschutz_node.html",
     "https://www.bbk.bund.de/DE/Themen/",
     "https://www.bbk.bund.de/DE/Themen/GMLZ/gmlz_node.html",
+    "https://www.bbk.bund.de/DE/Themen/Krisenmanagement/LUEKEX/Naechste-Luekex/nachste-luekex_node.html",
     "https://www.bbk.bund.de/DE/Themen/Krisenmanagement/Lernen-aus-Krisenlagen/lernen-aus-krisenlagen_node.html",
     "https://www.bbk.bund.de/DE/Themen/Krisenmanagement/Mensch-",
     "https://www.bbk.bund.de/DE/Themen/Kritische-Infrastrukturen/KRITIS-Gefahrenlagen/Hybride-Bedrohungen/Sabotage/sabotage_node.html",
@@ -664,6 +667,7 @@
     "https://www.bundestag.de/presse/hib/kurzmeldungen-1139366",
     "https://www.bundestag.de/presse/hib/kurzmeldungen-1139978",
     "https://www.bundesumweltministerium.de/download/deutsche-anpassungsstrategie-an-den-klimawandel-2024",
+    "https://www.bundeswehr.de/de/auftrag/uebungen/quadriga/quadriga-2026/medic-quadriga",
     "https://www.bundeswehr.de/de/landes-buendnisverteidigung-kernauftrag/personal-schluessel-zur-verteidigungsfaehigkeit",
     "https://www.bundeswehr.de/de/meldungen/getex-polizeibehoerden-antiterroruebung-6082366",
     "https://www.bundeswehr.de/de/meldungen/nachgefragt-operationsplan-deutschland-5764494",
@@ -884,6 +888,7 @@
     "https://www.greenpeace.de/klimaschutz/klimakrise/ursachen-jahrhunderthochwassers",
     "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-inneres-und-sport/themen/katastrophenschutz",
     "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-inneres-und-sport/themen/katastrophenschutz/warnung-der-bevoelkerung",
+    "https://www.hamburg.de/politik-und-verwaltung/behoerden/behoerde-fuer-inneres-und-sport/themen/katastrophenschutz/warnung-der-bevoelkerung/warnkonzept-hamburg-94178",
     "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/hochwasser-versicherer-lehnen-pflichtversicherung-fuer-gebaeude-ab/100045833.html",
     "https://www.handelsblatt.com/politik/deutschland/berlin-verfassungsschutz-untersucht-bekennerschreiben-zum-stromausfall/100188689.html",
     "https://www.handelsblatt.com/politik/deutschland/energieversorgung-einigung-beim-gesetz-zum-schutz-kritischer-infrastruktur/100194752.html",
@@ -1056,6 +1061,7 @@
     "https://www.nato.int/docu/review/articles/2019/02/27/resilience-the-first-line-of-defence/index.html",
     "https://www.nato.int/en/about-us/official-texts-and-resources/secretary-generals-annual-report/secretary-generals-annual-report-2025",
     "https://www.nato.int/en/news-and-events/articles/news/2026/01/22/nato-secretary-general-discusses-transatlantic-security-champions-defence-investments-and-ukraine-support-in-davos",
+    "https://www.nato.int/en/news-and-events/articles/news/2026/04/28/senior-national-officials-for-resilience-meet-at-nato-to-address-the-crucial-role-of-resilience-in-allied-security",
     "https://www.nato.int/en/what-we-do/deterrence-and-defence/resilience-civil-preparedness-and-article-3",
     "https://www.nato.int/nato_static_fl2014/assets/pdf/2022/6/pdf/290622-strategic-concept.pdf",
     "https://www.nato.int/nato_static_fl2014/assets/pdf/2024/6/pdf/240617-def-exp-2024-en.pdf",
@@ -1931,6 +1937,29 @@
       "new": 5,
       "downloaded": 5,
       "failed": 3
+    },
+    {
+      "date": "2026-05-09",
+      "queries": [
+        "Bevoelkerungsschutz Zivilschutz Mai 2026",
+        "KRITIS-Dachgesetz Bundestag Mai 2026",
+        "NATO civil preparedness resilience baseline 2026",
+        "Katastrophenschutz Hamburg Buergerschaft Drucksache 2026",
+        "Pakt Bevoelkerungsschutz Dobrindt Eckpunkte",
+        "BBK Schutzraeume CBRN Mai 2026",
+        "DGAP SWP Resilienz Bundeswehr 2026",
+        "LUEKEX 26 Auswertung",
+        "Hybride Bedrohung Ostseekabel 2026",
+        "BBK Magazin Bevoelkerungsschutz 1/2026",
+        "Hamburg Sirenen Warnsystem 2026",
+        "EU CER Richtlinie Resilienz 2026"
+      ],
+      "results_examined": 100,
+      "candidates": 14,
+      "new": 6,
+      "downloaded": 6,
+      "failed": 0,
+      "notes": "parldok offline (Server disconnect); rechtssammlung-diff leer."
     }
   ],
   "failed_downloads": [
