@@ -17,6 +17,14 @@ Stand: 2026-05-02
 | https://www.kas.de/en/country-reports/detail/-/content/finnlands-reaktion-auf-hybride-bedrohungen-in-der-ostsee | KAS Finnland-Laenderbericht hybride Bedrohungen — HTTP 403. Manueller Download in inbox/. |
 | https://www.naadsn.ca/wp-content/uploads/2025/11/25nov3-NAADSN-7BLR-Policy-Primer-RD-PWL.pdf | NAADSN 7BLR Policy Primer — PDF heruntergeladen, lldr-Konvertierung schlug fehl (Surya GPU-Fehler). PDF erneut versuchen oder pdftotext-Fallback. |
 
+## Neu 2026-05-10
+
+| URL | Hinweis |
+|-----|---------|
+| https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html | BMI-Kurzmeldung Hamburg hybride Bedrohung Maerz 2026 — HTTP 400 via WebFetch. Manueller Browser-Download in inbox/. |
+| https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html | BMI Ein-Jahr-Bilanz Bundesregierung Mai 2026 — HTTP 400 (zweiter Versuch). Manueller Download. |
+| https://www.nzz.ch/international/kriegsschauplatz-ostsee-kommen-nach-den-kabelschneidern-die-umweltzerstoerer-ld.1868615 | NZZ Ostsee Kabelsabotage — HTTP 402 Paywall. Falls Zugang vorhanden, Volltext speichern. |
+
 ---
 
 ## Anleitung

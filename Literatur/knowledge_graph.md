@@ -1,14 +1,14 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-05-09
+Stand: 2026-05-10
 
 ## Statistik
 
-- **341** Dokumente im Korpus
-- **1995** unique externe URLs
-- **84** Dokumente mit geteilten Quellen
-- **257** isolierte Dokumente (keine geteilten URLs)
-- **95** Verbindungen (mind. 2 geteilte URLs)
+- **349** Dokumente im Korpus
+- **2002** unique externe URLs
+- **86** Dokumente mit geteilten Quellen
+- **263** isolierte Dokumente (keine geteilten URLs)
+- **96** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
 
@@ -37,11 +37,11 @@ Stand: 2026-05-09
 | https://www.nato.int/cps/en/natohq/topics_132722.htm | 148, 165, 24, 261, 30, 31, 69 |
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 261, 30, 31 |
 | https://www.youtube.com/watch | 100, 141, 85, 87 |
-| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 261, 31 |
 | https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31 |
+| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 261, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
-| https://www | 219, 234, 30, 339 |
 | https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 261, 30, 31 |
+| https://www | 219, 234, 30, 339 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08, 269 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
 | https://www.fkfb.de | 124, 266, 272 |
@@ -54,11 +54,11 @@ Stand: 2026-05-09
 
 | Domain | Anzahl Dokumente | Dok-IDs |
 |--------|-----------------|---------|
-| bbk.bund.de | 35 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
+| bbk.bund.de | 36 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
 | nato.int | 17 | 148, 165, 211, 219, 22, 230, 24, 252, 261, 29... |
+| dgap.org | 16 | 166, 167, 169, 221, 227, 307, 308, 309, 324, 347... |
 | bmi.bund.de | 15 | 04, 08, 112, 12, 13, 141, 17, 226, 264, 30... |
 | dserver.bundestag.de | 15 | 06, 07, 08, 14, 15, 17, 234, 269, 298, 30... |
-| dgap.org | 15 | 166, 167, 169, 221, 227, 307, 308, 309, 324, 347... |
 | bundestag.de | 14 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 332... |
 | behoerden-spiegel.de | 13 | 115, 301, 305, 310, 311, 312, 320, 325, 327, 336... |
 | bundeswehr.de | 13 | 131, 197, 234, 251, 258, 291, 359, 60, 61, 62... |
@@ -81,20 +81,20 @@ Stand: 2026-05-09
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 85 | 25% |
-| Sekundaerquelle | 63 | 18% |
+| Primaerquelle | 87 | 25% |
+| Sekundaerquelle | 65 | 19% |
 | Graue Literatur | 86 | 25% |
-| Journalistische Quelle | 73 | 21% |
+| Journalistische Quelle | 76 | 22% |
 | Tertiaerquelle | 7 | 2% |
-| Aktivistische Quelle | 8 | 2% |
+| Aktivistische Quelle | 9 | 3% |
 
 ### Verteilung nach Evidenzgrad
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 126 | 37% |
-| mittel | 157 | 46% |
-| niedrig | 39 | 11% |
+| hoch | 130 | 37% |
+| mittel | 160 | 46% |
+| niedrig | 40 | 11% |
 
 ### Farbcodierung im Graph
 
@@ -450,6 +450,14 @@ Stand: 2026-05-09
 | 361 | KOMMUNAL_Schutzraeume_Kommunen | journalistisch | KOMMUNAL | 2025 | mittel |
 | 362 | Table_Schutzraeume_Identifizieren | journalistisch | Table.Briefings | 2025 | mittel |
 | 363 | Hamburg_Warnkonzept_Bevoelkerung | grau | BIS Hamburg | 2026 | hoch |
+| 364 | BBK_Symposium_Hilfe | primaer | BBK | 2026 | hoch |
+| 365 | Boell_All_Hands | sekundaer | Heinrich Boell Stiftung | 2026 | hoch |
+| 366 | THW_Dobrindt_Besuch | primaer | THW | 2026 | hoch |
+| 367 | THW_BV_Zukunft | aktivistisch | THW-Bundesvereinigung | 2022 | mittel |
+| 368 | AdHocNews_Zivilschutz_Milliarden | journalistisch | ad-hoc-news.de | 2026 | niedrig |
+| 369 | ZDF_Datenkabel_KRITIS | journalistisch | ZDFheute | 2025 | mittel |
+| 370 | ESUT_NSRI_MSC | journalistisch | esut.de | 2026 | mittel |
+| 371 | DGAP_Measuring_What | sekundaer | DGAP | 2026 | hoch |
 
 ## Isolierte Dokumente
 
@@ -652,7 +660,6 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 335: ISL_HPA_Hafenstudie (grau)
 - 336: Pakt_Bevoelkerungsschutz (journalistisch)
 - 337: LUEKEX_26_Planbesprechung (journalistisch)
-- 338: NSRI_Sicherheitsindex_DGAP (journalistisch)
 - 34: EU_TAFF_Civil (grau)
 - 340: ZDF_Heute_Dobrindt (journalistisch)
 - 341: Deloitte_Legal_KRITIS (sekundaer)
@@ -675,6 +682,13 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 361: KOMMUNAL_Schutzraeume_Kommunen (journalistisch)
 - 362: Table_Schutzraeume_Identifizieren (journalistisch)
 - 363: Hamburg_Warnkonzept_Bevoelkerung (grau)
+- 364: BBK_Symposium_Hilfe (primaer)
+- 365: Boell_All_Hands (sekundaer)
+- 366: THW_Dobrindt_Besuch (primaer)
+- 367: THW_BV_Zukunft (aktivistisch)
+- 368: AdHocNews_Zivilschutz_Milliarden (journalistisch)
+- 369: ZDF_Datenkabel_KRITIS (journalistisch)
+- 371: DGAP_Measuring_What (sekundaer)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
 - 42: Marshall_Lykke_AWC (sekundaer)
@@ -771,12 +785,14 @@ graph LR
     D322["322: IMI_Operationsplan_Deutschland<br/>AKT | 1 URLs"]
     D324["324: SWP_Bendiek_Kerttunen<br/>SEK | 104 URLs"]
     D33["33: JRC_Cross_Border<br/>SEK | 10 URLs"]
+    D338["338: NSRI_Sicherheitsindex_DGAP<br/>JOU | 1 URLs"]
     D339["339: SWP_Studie_Mit<br/>SEK | 217 URLs"]
     D349["349: DKKV-Magazin-2025-2-WaX<br/>GRA | 60 URLs"]
     D356["356: OPLAN_de_Reserve<br/>AKT | 1 URLs"]
     D357["357: Boell_Comprehensive_Defence<br/>SEK | 1 URLs"]
     D36["36: Parameters_Bad_Strategy<br/>SEK | 14 URLs"]
     D37["37: Parameters_Repliken<br/>SEK | 8 URLs"]
+    D370["370: ESUT_NSRI_MSC<br/>JOU | 1 URLs"]
     D38["38: MWI_Beyond_Ends<br/>SEK | 15 URLs"]
     D40["40: StrategyCentral_Bad_Strategy<br/>SEK | 8 URLs"]
     D48["48: Correctiv_Hybride_Kriegfuehrung<br/>JOU | 4 URLs"]
@@ -816,14 +832,14 @@ graph LR
     D101 -->|2| D76
     D266 -->|2| D272
     D148 -->|2| D30
-    D165 -->|2| D30
     D24 -->|2| D30
+    D165 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
-    D219 -->|2| D324
     D219 -->|2| D30
     D30 -->|2| D339
+    D219 -->|2| D324
     D30 -->|2| D324
     D30 -->|2| D33
     D324 -->|2| D339
@@ -836,9 +852,9 @@ graph LR
     D07 -->|1| D269
     D08 -->|1| D269
     D08 -->|1| D255
+    D100 -->|1| D102
     D100 -->|1| D60
     D60 -->|1| D85
-    D100 -->|1| D102
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
@@ -872,12 +888,12 @@ graph LR
     D199 -->|1| D324
     D200 -->|1| D234
     D216 -->|1| D30
+    D219 -->|1| D261
+    D219 -->|1| D31
     D219 -->|1| D234
     D219 -->|1| D339
     D234 -->|1| D30
     D234 -->|1| D339
-    D219 -->|1| D261
-    D219 -->|1| D31
     D219 -->|1| D38
     D225 -->|1| D322
     D241 -->|1| D357
@@ -889,6 +905,7 @@ graph LR
     D303 -->|1| D356
     D305 -->|1| D320
     D30 -->|1| D66
+    D338 -->|1| D370
     D349 -->|1| D96
     D48 -->|1| D49
     D59 -->|1| D60
@@ -900,6 +917,6 @@ graph LR
     style D102,D112,D16,D165,D216,D219,D234,D241,D261,D324,D33,D339,D357,D36,D37,D38,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
     style D100,D60,D85 fill:#6b7280,color:#fff
     style D101,D106,D108,D124,D148,D151,D17,D24,D266,D30,D303,D31,D349,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
-    style D110,D115,D116,D275,D305,D320,D321,D48,D49,D58,D59,D62,D80,D87,D91,D93,D94 fill:#059669,color:#fff
+    style D110,D115,D116,D275,D305,D320,D321,D338,D370,D48,D49,D58,D59,D62,D80,D87,D91,D93,D94 fill:#059669,color:#fff
     style D111,D225,D322,D356 fill:#dc2626,color:#fff
 ```

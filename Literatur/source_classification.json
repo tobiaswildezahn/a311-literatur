@@ -1930,5 +1930,53 @@
     "institution": "BIS Hamburg",
     "jahr": 2026,
     "evidenzgrad": "hoch"
+  },
+  "364": {
+    "typ": "primaer",
+    "institution": "BBK",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "365": {
+    "typ": "sekundaer",
+    "institution": "Heinrich Boell Stiftung",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "366": {
+    "typ": "primaer",
+    "institution": "THW",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "367": {
+    "typ": "aktivistisch",
+    "institution": "THW-Bundesvereinigung",
+    "jahr": 2022,
+    "evidenzgrad": "mittel"
+  },
+  "368": {
+    "typ": "journalistisch",
+    "institution": "ad-hoc-news.de",
+    "jahr": 2026,
+    "evidenzgrad": "niedrig"
+  },
+  "369": {
+    "typ": "journalistisch",
+    "institution": "ZDFheute",
+    "jahr": 2025,
+    "evidenzgrad": "mittel"
+  },
+  "370": {
+    "typ": "journalistisch",
+    "institution": "esut.de",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "371": {
+    "typ": "sekundaer",
+    "institution": "DGAP",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
   }
 }
