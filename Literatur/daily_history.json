@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-09T05:08:23",
-  "run_count": 45,
+  "last_run": "2026-05-10T05:30:00",
+  "run_count": 46,
   "corpus_state": {
-    "total_docs": 341,
-    "total_urls": 2192,
-    "unique_urls": 1995,
-    "connected_docs": 84,
-    "isolated_docs": 257,
-    "edges": 95
+    "total_docs": 349,
+    "total_urls": 2200,
+    "unique_urls": 2002,
+    "connected_docs": 86,
+    "isolated_docs": 263,
+    "edges": 96
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -201,6 +201,7 @@
     "https://dgap.org/de/veranstaltungen/kritische-resilienz-und-der-operationsplan-deutschland-ist-die-bundesrepublik",
     "https://dgap.org/en/research/publications/action-plan-security-and-defense-policy",
     "https://dgap.org/en/research/publications/building-european-resilience-and-capacity-act",
+    "https://dgap.org/en/research/publications/measuring-what-matters",
     "https://dgap.org/en/research/publications/new-concepts-new-era-european-security",
     "https://dgap.org/system/files/article_pdfs/02-Essay_Gesamtverteidigung-online.pdf",
     "https://digital-strategy.ec.europa.eu/en/policies/nis2",
@@ -430,6 +431,7 @@
     "https://taz.de/Tennis-Affaere-im-Stromausfall/!6143841/",
     "https://theconversation.com/permacrisis-what-it-means-and-why-its-word-of-the-year-for-2022-194306",
     "https://thestrategybridge.org/the-bridge/2019/2/12/what-do-cognitive-biases-mean-for-deterrence",
+    "https://thw-bv.de/was-wir-machen/neuigkeiten/detail/die-zukunft-des-bevoelkerungsschutzes",
     "https://thw-bv.de/was-wir-machen/neuigkeiten/detail/haushalt2024",
     "https://tnsr.org/2017/11/meaning-strategy-part-origin-story/",
     "https://turvallisuuskomitea.fi/en/frontpage/",
@@ -465,6 +467,7 @@
     "https://www.abc-gefahren.de/blog/2026/01/29/risikoanalyse-zivilschutz-2025-fokus-einsatz-chemischer-kampfstoffe/",
     "https://www.act.nato.int/article/a-new-resilience-data-analytics-tool/",
     "https://www.ad-hoc-news.de/boerse/news/ueberblick/offenbach-dialog-wirtschaft-wird-zum-rueckgrat-der-landesverteidigung/69188037",
+    "https://www.ad-hoc-news.de/wirtschaft/zivilschutz-milliarden-pakt-fuer-deutschlands-sicherheit/69271951",
     "https://www.aerzteblatt.de/archiv/225954/Hitzebedingte-Mortalitaet-in-Deutschland-zwischen-1992-und-2021",
     "https://www.aerzteblatt.de/news/205-arztpraxen-liegen-im-berliner-stromausfallgebiet-fb74ac63-9776-4cb5-89e6-344a42982037",
     "https://www.akademienunion.de/fileadmin/au-uploads/publikationen/Publikationen_PDFs/2023/ESYS_Impuls_Blackouts.pdf",
@@ -528,6 +531,7 @@
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/04/pm-22-fachkongress.html",
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/04/pm-24-buwata25-umfrage-ergebnisse.html",
     "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/04/pm-28-heha-lebenserfahrung.html",
+    "https://www.bbk.bund.de/SharedDocs/Pressemitteilungen/DE/2026/05/pm-08-symposium-hilfe-fuer-helfer.html",
     "https://www.bbk.bund.de/magazin",
     "https://www.bcm-beratung.de/Business-Continuity-Management-ISO-22301-BSI-Standard-200-4.29.0.html",
     "https://www.bdew.de/presse/stromausfall-stromnetz-kritische-infrastruktur/",
@@ -595,6 +599,8 @@
     "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/sicherheit/RRGV.pdf?__blob=publicationFile&v=1",
     "https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/referentenentwuerfe/KM4/KRITIS-DachG-1.pdf?__blob=publicationFile&v=5",
     "https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/referentenentwuerfe/KM4/KRITIS-DachG-2.pdf",
+    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html",
+    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html",
     "https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2025/09/kritis-dg-kabinett.html",
     "https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2026/03/neue-praesidentin-bbk.html",
     "https://www.bmi.bund.de/SharedDocs/schwerpunkte/EN/ukrain/security_meldung.html?nn=9386226",
@@ -613,6 +619,7 @@
     "https://www.bmvg.de/de/themen/sicherheitspolitik/hybride-bedrohungen",
     "https://www.bmvg.de/resource/blob/5777780/1d5d88d162f8c172940424625799e714/a-04-05-download-osnabruecker-erlass-data.pdf",
     "https://www.bnd.bund.de/DE/Die_Themen/hybride-bedrohungen/hybride-bedrohungen-node.html",
+    "https://www.boell.de/en/2026/01/13/all-hands-deck-comprehensive-defence-planning-within-nato",
     "https://www.boell.de/en/2026/01/13/implementing-comprehensive-defence-three-areas-reinforce-civil-dimension",
     "https://www.boell.de/en/2026/01/21/comprehensive-defence-climate-crisis-why-preparedness-shapes-resilience",
     "https://www.boersennews.de/nachrichten/artikel/dpa-afx/bundestag-verabschiedet-gesetz-zum-schutz-wichtiger-anlagen/5024274/",
@@ -1077,6 +1084,7 @@
     "https://www.noz.de/deutschland-welt/panorama/artikel/hochwasser-feuerwehrmann-stirbt-bei-einsatz-in-bayern-47125768",
     "https://www.nytimes.com/2025/06/09/world/canada/carney-canada-nato-military-spending.html",
     "https://www.nytimes.com/2025/11/07/realestate/helsinki-finland-bunkers-bomb-shelters.html",
+    "https://www.nzz.ch/international/kriegsschauplatz-ostsee-kommen-nach-den-kabelschneidern-die-umweltzerstoerer-ld.1868615",
     "https://www.openkritis.de/it-sicherheitsgesetz/kritis-dachgesetz-sicherheitsgesetz-3-0.html",
     "https://www.openkritis.de/it-sicherheitsgesetz/kritis-dachgesetz-sicherheitsgesetz-3-0.html#:~:text=Erh%C3%B6hung%20der%20Geldbu%C3%9Fen%20auf%20bis%20zu%201%20Mio.%20EUR",
     "https://www.openkritis.de/it-sicherheitsgesetz/kritis-dachgesetz-sicherheitsgesetz-3-0.html#:~:text=KRITIS%2DDachgesetz%20in%202026",
@@ -1273,6 +1281,7 @@
     "https://www.themenmanagement.info/Grundlagen-des-Themenmanagements.1168.0.html",
     "https://www.thw.de/DE/Startseite/startseite_node.html",
     "https://www.thw.de/SharedDocs/Meldungen/DE/Einsaetze/Inland/2026/01/berlin_stromausfall.html",
+    "https://www.thw.de/SharedDocs/Meldungen/DE/Meldungen/Inland/2026/04/bundesinnenminister_dobrindt_besucht_das_thw.html",
     "https://www.timeanddate.de/zeit",
     "https://www.timeanddate.de/zeitzonen/weltweit/mesz",
     "https://www.traunsteiner-tagblatt.de/region/nachrichten-aus-bayern_artikel",
@@ -1354,6 +1363,7 @@
     "https://www.zdfheute.de/politik/ausland/ostsee-finnland-schweden-litauen-unterseekabel-100.html",
     "https://www.zdfheute.de/politik/deutschland/anschlag-berlin-stromausfall-afd-anfrage-faktencheck-100.html",
     "https://www.zdfheute.de/politik/deutschland/dobrindt-bevoelkerung-zivil-katastrophen-schutz-milliarden-100.html",
+    "https://www.zdfheute.de/politik/deutschland/kritische-infrastruktur-offshore-lng-pipeline-ostsee-100.html",
     "https://www.zdfheute.de/politik/russland-sabotage-spionage-hybride-angriffe-deutsche-unternehmen-100.html",
     "https://www.zdfheute.de/politik/strommast-blackout-kritische-infrastruktur-100.html",
     "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-01/berlin-stromversorgung-vollstaendig-wiederhergestellt",
@@ -1960,6 +1970,37 @@
       "downloaded": 6,
       "failed": 0,
       "notes": "parldok offline (Server disconnect); rechtssammlung-diff leer."
+    },
+    {
+      "date": "2026-05-10",
+      "queries": [
+        "bundesrecht: ZSKG, KRITIS-Dachgesetz, Zivilschutzgesetz",
+        "landesrecht: Katastrophenschutz, Bevoelkerungsschutz",
+        "web: Bevoelkerungsschutz Zivilschutz Mai 2026 Hamburg",
+        "web: KRITIS-Dachgesetz 2026 BMI Verabschiedung Bundestag",
+        "web: NATO resilience civil preparedness 2026 baseline Germany",
+        "web: Operationsplan Deutschland 2026 Gesamtverteidigung",
+        "web: BBK Pressemitteilung Mai 2026 Studie",
+        "web: BBK Risikoanalyse Bevoelkerungsschutz April Mai 2026 Hamburg",
+        "web: Buergerschaft Hamburg Drucksache Bevoelkerungsschutz Mai 2026",
+        "web: Hybride Bedrohungen 2026 Sabotage Unterwasserkabel Ostsee Nordsee Hamburg",
+        "web: DGAP Publikation Mai 2026 Resilienz Deutschland",
+        "web: BMI BBK Heimatschutz Mai 2026 IMK",
+        "web: THW Bundesanstalt Mai 2026 Zivilschutz Reform",
+        "web: Hamburg Buergerschaft 2026 Krisenstab Cyberangriff",
+        "web: site:dgap.org NSRI PwC Resilienz"
+      ],
+      "results_examined": 130,
+      "candidates": 12,
+      "new": 8,
+      "downloaded": 8,
+      "failed": 3,
+      "failed_urls": [
+        "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html",
+        "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html",
+        "https://www.nzz.ch/international/kriegsschauplatz-ostsee-kommen-nach-den-kabelschneidern-die-umweltzerstoerer-ld.1868615"
+      ],
+      "notes": "Cluster Zivilschutzpakt (THW Dobrindt) + NSRI Resilienzindex DGAP/PwC + PSNV-E BBK. Dedup via known_urls + Titel-Match. NZZ Paywall."
     }
   ],
   "failed_downloads": [
@@ -1969,6 +2010,7 @@
     "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag_26_1.pdf",
     "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html",
     "https://www.kas.de/en/country-reports/detail/-/content/finnlands-reaktion-auf-hybride-bedrohungen-in-der-ostsee",
-    "https://www.naadsn.ca/wp-content/uploads/2025/11/25nov3-NAADSN-7BLR-Policy-Primer-RD-PWL.pdf"
+    "https://www.naadsn.ca/wp-content/uploads/2025/11/25nov3-NAADSN-7BLR-Policy-Primer-RD-PWL.pdf",
+    "https://www.nzz.ch/international/kriegsschauplatz-ostsee-kommen-nach-den-kabelschneidern-die-umweltzerstoerer-ld.1868615"
   ]
 }
