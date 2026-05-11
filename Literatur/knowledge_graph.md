@@ -1,75 +1,75 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-05-10
+Stand: 2026-05-11
 
 ## Statistik
 
-- **349** Dokumente im Korpus
-- **2002** unique externe URLs
-- **86** Dokumente mit geteilten Quellen
-- **263** isolierte Dokumente (keine geteilten URLs)
-- **96** Verbindungen (mind. 2 geteilte URLs)
+- **358** Dokumente im Korpus
+- **2065** unique externe URLs
+- **91** Dokumente mit geteilten Quellen
+- **267** isolierte Dokumente (keine geteilten URLs)
+- **106** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
 
 | Dok | Label | Verbindungen |
 |-----|-------|-------------|
-| 30 | Bertelsmann_NATO_Resilience | 13 |
-| 261 | NAADSN_7BLR_Infrastructure | 8 |
-| 31 | NAADSN_7BLR_Policy | 8 |
-| 165 | Clingendael_NATO_Resilience | 7 |
+| 30 | Bertelsmann_NATO_Resilience | 14 |
+| 261 | NAADSN_7BLR_Infrastructure | 9 |
+| 31 | NAADSN_7BLR_Policy | 9 |
+| 165 | Clingendael_NATO_Resilience | 8 |
+| 148 | CIMIC_Factsheet_Resilience | 7 |
+| 24 | CIMIC_Factsheet_Resilience | 7 |
+| 376 | CIMIC_COE_Resilience | 7 |
+| 69 | Boell_Nordic_Baltic | 7 |
 | 219 | CSIS_Russia_Shadow | 7 |
-| 148 | CIMIC_Factsheet_Resilience | 6 |
-| 24 | CIMIC_Factsheet_Resilience | 6 |
-| 69 | Boell_Nordic_Baltic | 6 |
 | 324 | SWP_Bendiek_Kerttunen | 6 |
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 85 | Wikipedia_Brandanschlag_Berlin | 5 |
 | 08 | BBK_Risikoanalysen_Uebersicht | 4 |
 | 60 | Wikipedia_OPLAN_Deutschland | 4 |
 | 141 | UA_Flut_RLP | 4 |
-| 15 | BT_Beschluss_KRITIS | 4 |
 
 ## Meistzitierte externe Quellen
 
 | URL | Dokumente |
 |-----|-----------|
-| https://www.nato.int/cps/en/natohq/topics_132722.htm | 148, 165, 24, 261, 30, 31, 69 |
-| https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 261, 30, 31 |
+| https://www.nato.int/cps/en/natohq/topics_132722.htm | 148, 165, 24, 261, 30, 31, 376, 69 |
+| https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 261, 30, 31, 376 |
+| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31, 376 |
+| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 261, 31, 376 |
 | https://www.youtube.com/watch | 100, 141, 85, 87 |
-| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31 |
-| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 261, 31 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
-| https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 261, 30, 31 |
 | https://www | 219, 234, 30, 339 |
+| https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 261, 30, 31 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08, 269 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
 | https://www.fkfb.de | 124, 266, 272 |
-| https://www.nato.int/cps/en/natohq/official_texts_133180.htm | 261, 31, 324 |
-| https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376 | 04, 05 |
-| https://dserver.bundestag.de/btd/20/104/2010476.pdf | 06, 08 |
-| https://www.bbk.bund.de/DE/Infothek/Glossar/_functions/glossar.html | 08, 255 |
+| https://eeas.europa.eu/sites/eeas/files/join\\_2017\\_21\\_f1\\_communication\\_ | 148, 24, 376 |
+| https://www.preparecenter.org/sites/default/files/topics/gender_perspectives_ifrc.pdf | 148, 24, 376 |
+| https://www.nato.int/cps/en/natohq/news\\_160130.htm | 148, 24, 376 |
+| https://www.undp.org/content/undp/en/home/climate-and-disaster-resilience/disaster-risk-reduction.html | 148, 24, 376 |
 
 ## Meistgenutzte Domaenen
 
 | Domain | Anzahl Dokumente | Dok-IDs |
 |--------|-----------------|---------|
-| bbk.bund.de | 36 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
-| nato.int | 17 | 148, 165, 211, 219, 22, 230, 24, 252, 261, 29... |
+| bbk.bund.de | 37 | 05, 08, 10, 101, 11, 112, 114, 116, 118, 123... |
+| nato.int | 18 | 148, 165, 211, 219, 22, 230, 24, 252, 261, 29... |
+| dserver.bundestag.de | 17 | 06, 07, 08, 14, 15, 17, 234, 269, 298, 30... |
+| bmi.bund.de | 16 | 04, 08, 112, 12, 13, 141, 17, 226, 264, 30... |
 | dgap.org | 16 | 166, 167, 169, 221, 227, 307, 308, 309, 324, 347... |
-| bmi.bund.de | 15 | 04, 08, 112, 12, 13, 141, 17, 226, 264, 30... |
-| dserver.bundestag.de | 15 | 06, 07, 08, 14, 15, 17, 234, 269, 298, 30... |
-| bundestag.de | 14 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 332... |
+| bundestag.de | 15 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 332... |
 | behoerden-spiegel.de | 13 | 115, 301, 305, 310, 311, 312, 320, 325, 327, 336... |
 | bundeswehr.de | 13 | 131, 197, 234, 251, 258, 291, 359, 60, 61, 62... |
 | dwd.de | 12 | 100, 102, 103, 131, 141, 171, 212, 267, 273, 349... |
-| bundesregierung.de | 10 | 01, 12, 144, 17, 197, 319, 331, 339, 85, 97 |
+| bundesregierung.de | 11 | 01, 12, 144, 17, 197, 319, 331, 339, 379, 85... |
+| spiegel.de | 10 | 100, 13, 16, 30, 373, 374, 48, 49, 60, 85 |
+| ec.europa.eu | 10 | 138, 148, 216, 234, 24, 30, 324, 335, 339, 376 |
+| tagesschau.de | 9 | 100, 13, 234, 339, 373, 374, 49, 79, 93 |
 | doi.org | 9 | 102, 216, 219, 30, 339, 349, 65, 83, 96 |
-| ec.europa.eu | 9 | 138, 148, 216, 234, 24, 30, 324, 335, 339 |
-| spiegel.de | 8 | 100, 13, 16, 30, 48, 49, 60, 85 |
+| bmvg.de | 8 | 04, 05, 274, 306, 353, 377, 45, 65 |
 | instagram.com | 8 | 101, 110, 165, 17, 349, 64, 71, 76 |
-| bmvg.de | 7 | 04, 05, 274, 306, 353, 45, 65 |
-| tagesschau.de | 7 | 100, 13, 234, 339, 49, 79, 93 |
 | youtube.com | 7 | 100, 141, 165, 17, 349, 85, 87 |
 | security-network.com | 7 | 17, 278, 304, 328, 337, 55, 57 |
 | creativecommons.org | 7 | 203, 324, 339, 65, 66, 68, 83 |
@@ -81,10 +81,10 @@ Stand: 2026-05-10
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 87 | 25% |
-| Sekundaerquelle | 65 | 19% |
-| Graue Literatur | 86 | 25% |
-| Journalistische Quelle | 76 | 22% |
+| Primaerquelle | 92 | 26% |
+| Sekundaerquelle | 65 | 18% |
+| Graue Literatur | 90 | 25% |
+| Journalistische Quelle | 76 | 21% |
 | Tertiaerquelle | 7 | 2% |
 | Aktivistische Quelle | 9 | 3% |
 
@@ -92,8 +92,8 @@ Stand: 2026-05-10
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 130 | 37% |
-| mittel | 160 | 46% |
+| hoch | 137 | 38% |
+| mittel | 162 | 45% |
 | niedrig | 40 | 11% |
 
 ### Farbcodierung im Graph
@@ -458,6 +458,15 @@ Stand: 2026-05-10
 | 369 | ZDF_Datenkabel_KRITIS | journalistisch | ZDFheute | 2025 | mittel |
 | 370 | ESUT_NSRI_MSC | journalistisch | esut.de | 2026 | mittel |
 | 371 | DGAP_Measuring_What | sekundaer | DGAP | 2026 | hoch |
+| 372 | BfV_Russische_Spionage | primaer | BfV | 2025 | hoch |
+| 373 | BT_Drs_21 | primaer | Deutscher Bundestag | 2025 | hoch |
+| 374 | BT_Drs_21 | primaer | Deutscher Bundestag | 2025 | hoch |
+| 375 | BMG_Roadmap_Hitzeschutz | primaer | BMG | 2025 | hoch |
+| 376 | CIMIC_COE_Resilience | grau | CIMIC COE (NATO) | 2018 | mittel |
+| 377 | BMVg_Wehrdienst_Modernisierung | primaer | BMVg | 2025 | hoch |
+| 378 | NRW_IM_Bereit | grau | IM NRW | 2025 | mittel |
+| 379 | BReg_FAQ_Wehrdienst | grau | Bundesregierung | 2025 | hoch |
+| 380 | BfV_Proliferation_Broschuere | grau | BfV | 2026 | hoch |
 
 ## Isolierte Dokumente
 
@@ -474,7 +483,6 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 118: BBK_Klimaanpassung_Hitzevorsorge (grau)
 - 119: Feuerwehr_Fachjournal_THW (grau)
 - 12: BT_Drs_20 (primaer)
-- 120: VATM_Cell_Broadcast (grau)
 - 121: Protector_GeKoB (journalistisch)
 - 122: Publicus_GeKoB (grau)
 - 123: Bundesrechnungshof_GeKoB (primaer)
@@ -689,6 +697,12 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 368: AdHocNews_Zivilschutz_Milliarden (journalistisch)
 - 369: ZDF_Datenkabel_KRITIS (journalistisch)
 - 371: DGAP_Measuring_What (sekundaer)
+- 372: BfV_Russische_Spionage (primaer)
+- 374: BT_Drs_21 (primaer)
+- 377: BMVg_Wehrdienst_Modernisierung (primaer)
+- 378: NRW_IM_Bereit (grau)
+- 379: BReg_FAQ_Wehrdienst (grau)
+- 380: BfV_Proliferation_Broschuere (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
 - 42: Marshall_Lykke_AWC (sekundaer)
@@ -696,7 +710,6 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 45: BBK_Hybride_Bedrohungen (grau)
 - 46: BBK_Sabotage (grau)
 - 47: BfV_Sabotage_Nachrichtendienste (primaer)
-- 50: Bayern_Hybride_Bedrohungen (grau)
 - 51: Handelsblatt_Hybride_Kriegfuehrung (journalistisch)
 - 52: Pravda_Germans_Russia (journalistisch)
 - 53: Blogist_Cyberangriffe_KRITIS (journalistisch)
@@ -749,6 +762,7 @@ graph LR
     D112["112: BBK_Magazin_Hochwasser<br/>SEK | 13 URLs"]
     D115["115: Behoerden_Spiegel_LUEKEX<br/>JOU | 12 URLs"]
     D116["116: Finanznachrichten_LUEKEX_2026<br/>JOU | 8 URLs"]
+    D120["120: VATM_Cell_Broadcast<br/>GRA | 6 URLs"]
     D124["124: SIFO_Fachkongress_2025<br/>GRA | 4 URLs"]
     D14["14: BT_1Lesung_KRITIS<br/>PRI | 3 URLs"]
     D141["141: UA_Flut_RLP<br/>PRI | 95 URLs"]
@@ -793,10 +807,14 @@ graph LR
     D36["36: Parameters_Bad_Strategy<br/>SEK | 14 URLs"]
     D37["37: Parameters_Repliken<br/>SEK | 8 URLs"]
     D370["370: ESUT_NSRI_MSC<br/>JOU | 1 URLs"]
+    D373["373: BT_Drs_21<br/>PRI | 13 URLs"]
+    D375["375: BMG_Roadmap_Hitzeschutz<br/>PRI | 36 URLs"]
+    D376["376: CIMIC_COE_Resilience<br/>GRA | 17 URLs"]
     D38["38: MWI_Beyond_Ends<br/>SEK | 15 URLs"]
     D40["40: StrategyCentral_Bad_Strategy<br/>SEK | 8 URLs"]
     D48["48: Correctiv_Hybride_Kriegfuehrung<br/>JOU | 4 URLs"]
     D49["49: Correctiv_Vorsorge_Kriegspanik<br/>JOU | 18 URLs"]
+    D50["50: Bayern_Hybride_Bedrohungen<br/>GRA | 19 URLs"]
     D58["58: Behoerden_Spiegel_Gesamtverteidigung<br/>JOU | 12 URLs"]
     D59["59: Reservistenverband_Gesamtverteidigung<br/>JOU | 4 URLs"]
     D60["60: Wikipedia_OPLAN_Deutschland<br/>TER | 13 URLs"]
@@ -819,12 +837,16 @@ graph LR
     D96["96: DWD_Faktenpapier_Vollversion<br/>PRI | 27 URLs"]
     D261 ==>|85| D31
     D148 ==>|16| D24
+    D148 ==>|16| D376
+    D24 ==>|16| D376
     D115 ==>|8| D58
     D36 ==>|5| D37
     D148 ==>|4| D261
     D148 ==>|4| D31
     D24 ==>|4| D261
     D24 ==>|4| D31
+    D261 ==>|4| D376
+    D31 ==>|4| D376
     D261 ==>|3| D30
     D30 ==>|3| D31
     D100 -->|2| D85
@@ -833,6 +855,7 @@ graph LR
     D266 -->|2| D272
     D148 -->|2| D30
     D24 -->|2| D30
+    D30 -->|2| D376
     D165 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
@@ -862,10 +885,12 @@ graph LR
     D101 -->|1| D141
     D102 -->|1| D349
     D103 -->|1| D104
+    D104 -->|1| D375
     D106 -->|1| D108
     D110 -->|1| D111
     D112 -->|1| D116
     D11 -->|1| D94
+    D120 -->|1| D375
     D124 -->|1| D266
     D124 -->|1| D272
     D148 -->|1| D165
@@ -873,11 +898,13 @@ graph LR
     D165 -->|1| D24
     D165 -->|1| D261
     D165 -->|1| D31
+    D165 -->|1| D376
     D165 -->|1| D69
     D24 -->|1| D69
     D261 -->|1| D69
     D30 -->|1| D69
     D31 -->|1| D69
+    D376 -->|1| D69
     D151 -->|1| D165
     D15 -->|1| D16
     D15 -->|1| D17
@@ -888,12 +915,12 @@ graph LR
     D199 -->|1| D324
     D200 -->|1| D234
     D216 -->|1| D30
-    D219 -->|1| D261
-    D219 -->|1| D31
     D219 -->|1| D234
     D219 -->|1| D339
     D234 -->|1| D30
     D234 -->|1| D339
+    D219 -->|1| D261
+    D219 -->|1| D31
     D219 -->|1| D38
     D225 -->|1| D322
     D241 -->|1| D357
@@ -907,16 +934,17 @@ graph LR
     D30 -->|1| D66
     D338 -->|1| D370
     D349 -->|1| D96
+    D373 -->|1| D50
     D48 -->|1| D49
     D59 -->|1| D60
     D60 -->|1| D62
     D73 -->|1| D74
     D80 -->|1| D91
     D95 -->|1| D96
-    style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D200,D255,D267,D269,D272,D273,D298,D96 fill:#2563eb,color:#fff
+    style D04,D05,D06,D07,D08,D103,D104,D11,D14,D141,D15,D200,D255,D267,D269,D272,D273,D298,D373,D375,D96 fill:#2563eb,color:#fff
     style D102,D112,D16,D165,D216,D219,D234,D241,D261,D324,D33,D339,D357,D36,D37,D38,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
     style D100,D60,D85 fill:#6b7280,color:#fff
-    style D101,D106,D108,D124,D148,D151,D17,D24,D266,D30,D303,D31,D349,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
+    style D101,D106,D108,D120,D124,D148,D151,D17,D24,D266,D30,D303,D31,D349,D376,D50,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
     style D110,D115,D116,D275,D305,D320,D321,D338,D370,D48,D49,D58,D59,D62,D80,D87,D91,D93,D94 fill:#059669,color:#fff
     style D111,D225,D322,D356 fill:#dc2626,color:#fff
 ```

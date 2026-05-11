@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-10T05:30:00",
-  "run_count": 46,
+  "last_run": "2026-05-11T05:15:00",
+  "run_count": 47,
   "corpus_state": {
-    "total_docs": 349,
-    "total_urls": 2200,
-    "unique_urls": 2002,
-    "connected_docs": 86,
-    "isolated_docs": 263,
-    "edges": 96
+    "total_docs": 358,
+    "total_urls": 2282,
+    "unique_urls": 2065,
+    "connected_docs": 91,
+    "isolated_docs": 267,
+    "edges": 106
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -247,6 +247,8 @@
     "https://dserver.bundestag.de/btd/17/056/1705672.pdf",
     "https://dserver.bundestag.de/btd/17/082/1708250.pdf",
     "https://dserver.bundestag.de/btd/20/104/2010476.pdf",
+    "https://dserver.bundestag.de/btd/21/009/2100995.pdf",
+    "https://dserver.bundestag.de/btd/21/012/2101231.pdf",
     "https://dserver.bundestag.de/btd/21/015/2101501.pdf",
     "https://dserver.bundestag.de/btd/21/020/2102072.pdf",
     "https://dserver.bundestag.de/btd/21/025/2102510.pdf",
@@ -600,6 +602,7 @@
     "https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/referentenentwuerfe/KM4/KRITIS-DachG-1.pdf?__blob=publicationFile&v=5",
     "https://www.bmi.bund.de/SharedDocs/gesetzgebungsverfahren/DE/Downloads/referentenentwuerfe/KM4/KRITIS-DachG-2.pdf",
     "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html",
+    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/04/thw-bbk-bonn.html",
     "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html",
     "https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2025/09/kritis-dg-kabinett.html",
     "https://www.bmi.bund.de/SharedDocs/pressemitteilungen/DE/2026/03/neue-praesidentin-bbk.html",
@@ -613,6 +616,7 @@
     "https://www.bmvg.de/de/grundlagendokumente-strategische-ausrichtung/strategie-neue-reserve-sicherheitspolitische-lage-6093194",
     "https://www.bmvg.de/de/nationale-sicherheitsstrategie",
     "https://www.bmvg.de/de/presse",
+    "https://www.bmvg.de/de/presse/gesetzentwurf-zur-modernisierung-des-wehrdienstes-6049090",
     "https://www.bmvg.de/de/presse/staerkung-militaerische-zivile-verteidigung-deutschlands-5791376",
     "https://www.bmvg.de/de/presse/strategie-zur-landes-und-buendnisverteidigung-6093690",
     "https://www.bmvg.de/de/presse/weichenstellung-aufwuchs-6097806",
@@ -645,6 +649,7 @@
     "https://www.bsi.bund.de/cae/servlet/contentblob/476038/",
     "https://www.buchalik-broemmekamp.de/ihre-karriere",
     "https://www.bundesbank.de/en/publications/research/discussion-papers/geopolitical-hybrid-threats--961186",
+    "https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/H/Hitzeschutzplan/BMG_Roadmap_Hitzeschutzplanung_Sommer_2025.pdf",
     "https://www.bundesnetzagentur.de/DE/Allgemeines/DieBundesnetzagentur/Insight/Texte/Energiewende/Blog17_Energiewende_Blackout.html",
     "https://www.bundesnetzagentur.de/DE/Allgemeines/DieBundesnetzagentur/Ueberuns/start.html",
     "https://www.bundesnetzagentur.de/DE/Fachthem",
@@ -654,6 +659,7 @@
     "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1062/1062-node.html",
     "https://www.bundesrechnungshof.de/SharedDocs/Downloads/DE/Berichte/2025/einzelplan-2026/06-volltext.pdf",
     "https://www.bundesrechnungshof.de/SharedDocs/Kurzmeldungen/DE/2025/einzelplananalyse_2026/epa-2026-kurzmeldung.html",
+    "https://www.bundesregierung.de/breg-de/aktuelles/antworten-zum-neuen-wehrdienst-2397476",
     "https://www.bundesregierung.de/breg-de/aktuelles/bundeshaushalt-2026-2374030",
     "https://www.bundesregierung.de/breg-de/aktuelles/gedenken-flut-ahrtal-2364150",
     "https://www.bundesregierung.de/breg-de/aktuelles/kabinett-kritis-dachgesetz-2383682",
@@ -714,6 +720,7 @@
     "https://www.cimic-coe.org/courses/nato-cimic-resilience-through-civil-preparedness-course/",
     "https://www.cimic-coe.org/handbook-entries/welcome-to-the-cimic-",
     "https://www.cimic-coe.org/handbook-entries/welcome-to-the-cimic-handbook/vii-resilience/7-2-seven-baseline-requirements/",
+    "https://www.cimic-coe.org/wp-content/uploads/2025/01/factsheet-resilience-through-civil-preparedness.pdf",
     "https://www.cimic-coe.org/wp-content/uploads/2025/03/cimic-handbook.pdf",
     "https://www.clausewitz.com/readings/Echevarria/APSTRAT1.htm",
     "https://www.cleanthinking.de/author/martin-jendrischik/",
@@ -921,6 +928,7 @@
     "https://www.hvz.baden-wuerttemberg.de/",
     "https://www.idgard.com/de/blog/hybride-cyberangriffe-deutschland-2026-schutz/",
     "https://www.idgard.com/de/glossar/kritis-dachgesetz/",
+    "https://www.im.nrw/themen/gefahrenabwehr/ehrenamt-im-brand-und-katastrophenschutz/bereit-wie-nie",
     "https://www.imi-online.de/2026/03/16/operationsplan-deutschland-2/",
     "https://www.imi-online.de/2026/04/02/zeitenwende-oder-zeitreise-das-strategische-recycling-der-abschreckung/",
     "https://www.infranken.de/ratgeber/verbraucher/angst-vor-stromausfall-in-deutschland-waechst-regierung-empfiehlt-notfall-vorraete-checkliste-fuer-blackout-art-5517516",
@@ -1325,6 +1333,8 @@
     "https://www.verfassungsschutz.de/SharedDocs/hintergruende/DE/linksextremismus/angriffe-von-linksextremisten-auf-kritis.html",
     "https://www.verfassungsschutz.de/SharedDocs/hintergruende/DE/spionage-und-proliferationsabwehr/die-neue-bedrohung-sabotage-durch-fremde-nachrichtendienste.html",
     "https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2024/2024-08-28-studie-bitkom.html",
+    "https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2026/2026-01-08-proliferation.html",
+    "https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/spionage-und-proliferationsabwehr/2025-05-gefaehrdungen-durch-russische-spionage-sabotage-und-desinformation.html",
     "https://www.vodafone.de/hilfe/cell-broadcast.html",
     "https://www.vogel.de/ueber-uns/unternehmensgruppe/",
     "https://www.volkswagenag.com/de/group.html",
@@ -1381,6 +1391,7 @@
     "https://zdb-katalog.de/list.xhtml?t=iss%3D%221865-2263%22&key=cql",
     "https://zdb-katalog.de/list.xhtml?t=iss%3D%222195-1349%22&key=cql",
     "https://zentrum-klimaanpassung.de/",
+    "https://ziviz.de/sites/ziv/files/2026-01/ehrenamtsstudie_freiwillige_feuerwehren_in_rheinland-pfalz_langfassung.pdf",
     "https://zoes-bund.de/publikationen/gruenbuch-zmz/"
   ],
   "processed_sources": [],
@@ -2001,16 +2012,25 @@
         "https://www.nzz.ch/international/kriegsschauplatz-ostsee-kommen-nach-den-kabelschneidern-die-umweltzerstoerer-ld.1868615"
       ],
       "notes": "Cluster Zivilschutzpakt (THW Dobrindt) + NSRI Resilienzindex DGAP/PwC + PSNV-E BBK. Dedup via known_urls + Titel-Match. NZZ Paywall."
+    },
+    {
+      "date": "2026-05-11",
+      "queries": 11,
+      "results": "BfV Sabotage, BT-Drs hybride Bedrohungen + Ostsee, BMG Hitzeschutz, CIMIC COE, BMVg WDModG, NRW Bereit wie nie, BReg FAQ Wehrdienst, BfV Proliferation",
+      "new": 9,
+      "downloaded": 9,
+      "failed": 2
     }
   ],
   "failed_downloads": [
-    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html",
     "https://link.springer.com/book/10.1007/978-3-662-71881-0",
-    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/04/thw-bbk-bonn.html",
     "https://www.bbk.bund.de/SharedDocs/Downloads/DE/Mediathek/Publikationen/BSMAG/bsmag_26_1.pdf",
+    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/03/hh-hybride-bedrohung.html",
+    "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/04/thw-bbk-bonn.html",
     "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html",
     "https://www.kas.de/en/country-reports/detail/-/content/finnlands-reaktion-auf-hybride-bedrohungen-in-der-ostsee",
     "https://www.naadsn.ca/wp-content/uploads/2025/11/25nov3-NAADSN-7BLR-Policy-Primer-RD-PWL.pdf",
-    "https://www.nzz.ch/international/kriegsschauplatz-ostsee-kommen-nach-den-kabelschneidern-die-umweltzerstoerer-ld.1868615"
+    "https://www.nzz.ch/international/kriegsschauplatz-ostsee-kommen-nach-den-kabelschneidern-die-umweltzerstoerer-ld.1868615",
+    "https://ziviz.de/sites/ziv/files/2026-01/ehrenamtsstudie_freiwillige_feuerwehren_in_rheinland-pfalz_langfassung.pdf"
   ]
 }
