@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-11T05:15:00",
-  "run_count": 47,
+  "last_run": "2026-05-12T05:13:41",
+  "run_count": 48,
   "corpus_state": {
-    "total_docs": 358,
-    "total_urls": 2282,
-    "unique_urls": 2065,
+    "total_docs": 362,
+    "total_urls": 2286,
+    "unique_urls": 2069,
     "connected_docs": 91,
-    "isolated_docs": 267,
+    "isolated_docs": 271,
     "edges": 106
   },
   "known_urls": [
@@ -343,6 +343,7 @@
     "https://maavoimat.fi/en/about-us",
     "https://mdi.rlp.de/fileadmin/03/Themen/Bevoelkerungs",
     "https://mdi.rlp.de/fileadmin/03/Themen/Bevoelkerungsschutz_und_Rettungsdienst/Krisenmanagement/Dokumente/2626-KM-Orga-Ruhlig.pdf",
+    "https://mdi.rlp.de/service/pressemitteilungen/detail/schutz-von-kritis-und-hybride-bedrohungen-im-fokus-a-innenministerkonferenz-tagt-in-mainz",
     "https://metis.unibw.de/",
     "https://mit-dir-für-uns-alle.de",
     "https://mkuem.rlp.de/de/pressemeldungen/detail/news/News/de",
@@ -626,6 +627,7 @@
     "https://www.boell.de/en/2026/01/13/all-hands-deck-comprehensive-defence-planning-within-nato",
     "https://www.boell.de/en/2026/01/13/implementing-comprehensive-defence-three-areas-reinforce-civil-dimension",
     "https://www.boell.de/en/2026/01/21/comprehensive-defence-climate-crisis-why-preparedness-shapes-resilience",
+    "https://www.boerse-express.com/news/articles/nis2-und-phishing-resistenz-bsi-startet-durchgriff-im-mai-2026-899938",
     "https://www.boersennews.de/nachrichten/artikel/dpa-afx/bundestag-verabschiedet-gesetz-zum-schutz-wichtiger-anlagen/5024274/",
     "https://www.boorberg.de/1754815",
     "https://www.boschbuildingsolutions.com/de/de/portfolio/gebaeudesicherheit/kritische-infrastrukturen/kritis-dachgesetz/",
@@ -680,6 +682,7 @@
     "https://www.bundestag.de/presse/hib/kurzmeldungen-1139366",
     "https://www.bundestag.de/presse/hib/kurzmeldungen-1139978",
     "https://www.bundesumweltministerium.de/download/deutsche-anpassungsstrategie-an-den-klimawandel-2024",
+    "https://www.bundeswehr-journal.de/2026/ministerium-trifft-entscheidung-ueber-musterungszentren/",
     "https://www.bundeswehr.de/de/auftrag/uebungen/quadriga/quadriga-2026/medic-quadriga",
     "https://www.bundeswehr.de/de/landes-buendnisverteidigung-kernauftrag/personal-schluessel-zur-verteidigungsfaehigkeit",
     "https://www.bundeswehr.de/de/meldungen/getex-polizeibehoerden-antiterroruebung-6082366",
@@ -1188,6 +1191,7 @@
     "https://www.security-insider.de/was-ist-nis2-a-b79c165e1330602799ad3862c0ac8e39/",
     "https://www.security-insider.de/was-ist-videoueberwachung-a-887893/",
     "https://www.securitytoday.de/2026/03/15/kritis-dachgesetz-betreiber-kritische-anlagen-juli-2026/",
+    "https://www.securitytoday.de/2026/05/03/nis2-enforcement-welle-q2-2026-erste-eu-verfahren-laufen-was-dach-unternehmen-bei-der-eigenen-compliance-jetzt-pruefen-muessen/",
     "https://www.service-public.fr/particuliers/vosdroits/F871",
     "https://www.sicherheitsmanagement.info/Sicherheitsmanagement.182.0.html",
     "https://www.sifo.de/sifo/de/veranstaltungen/messen/bbk-kongress-2025/bbk-kongress-2025_node.html",
@@ -1396,150 +1400,6 @@
   ],
   "processed_sources": [],
   "search_log": [
-    {
-      "date": "2026-03-28",
-      "queries_executed": 14,
-      "results_found": 15,
-      "new_relevant": 12,
-      "downloaded": 5,
-      "failed": 5
-    },
-    {
-      "date": "2026-03-28",
-      "queries_executed": 11,
-      "results_found": 10,
-      "new_relevant": 8,
-      "downloaded": 7,
-      "failed": 1
-    },
-    {
-      "date": "2026-03-29",
-      "queries": 11,
-      "results": 40,
-      "new": 4,
-      "downloaded": 4,
-      "failed": 0
-    },
-    {
-      "date": "2026-03-30",
-      "queries": 14,
-      "results": 31,
-      "new": 6,
-      "downloaded": 6,
-      "failed": 0
-    },
-    {
-      "date": "2026-03-31",
-      "queries": 14,
-      "results": 12,
-      "new": 5,
-      "downloaded": 5,
-      "failed": 0,
-      "note": "4 Inbox + 1 Web (BBK Magazin 1/2026)"
-    },
-    {
-      "date": "2026-04-01",
-      "queries": 14,
-      "results": 14,
-      "new": 3,
-      "downloaded": 3,
-      "failed": 0,
-      "note": "1 Inbox (NTW-Ausarbeitung) + 2 Web (Bertelsmann NATO 1.5%, enthus KRITIS). 6 failed_downloads bereinigt (max retries)."
-    },
-    {
-      "date": "2026-04-02",
-      "queries": 14,
-      "results": 32,
-      "new": 2,
-      "downloaded": 2,
-      "failed": 0,
-      "note": "2 Web (StMI Bayern Landesamt BevS, Staedtetag Bund BevS). Keine Rechtsaenderungen."
-    },
-    {
-      "date": "2026-04-03",
-      "queries": 14,
-      "results": 21,
-      "new": 6,
-      "downloaded": 5,
-      "failed": 1,
-      "note": "5 Web (NATO SG Report, DWD Klimastatusbericht, SWP Europa-USA, Boell/RUSI Resilience, Bertelsmann EU Preparedness). 1 Failed (CSR Stability Multipliers, JS). Keine Rechtsaenderungen."
-    },
-    {
-      "date": "2026-04-04",
-      "queries": 7,
-      "results": 15,
-      "new": 2,
-      "downloaded": 1,
-      "failed": 1
-    },
-    {
-      "date": "2026-04-05",
-      "queries": 12,
-      "results": 56,
-      "new": 5,
-      "downloaded": 4,
-      "failed": 1
-    },
-    {
-      "date": "2026-04-06",
-      "queries": 12,
-      "results": 22,
-      "new": 4,
-      "downloaded": 4,
-      "failed": 0,
-      "note": "1 Inbox (Gady/Kleine Zeitung), 3 Web (ESUT GSP Gesamtverteidigung, IMI OPLAN Analyse, BMI BBK-Praesidentin Tuengler). Keine Rechtsaenderungen."
-    },
-    {
-      "date": "2026-04-07",
-      "queries": 12,
-      "results": 10,
-      "new": 4,
-      "downloaded": 2,
-      "failed": 1,
-      "notes": "DGAP Munoz KI+Hybride, ZDF Russland-Sabotage. CANCOM JS-rendered."
-    },
-    {
-      "date": "2026-04-08",
-      "queries": 12,
-      "results": 16,
-      "new": 1,
-      "downloaded": 1,
-      "failed": 0,
-      "note": "1 Web (Boell/Stolzenburg Klimakrise+Gesamtverteidigung). 15 Duplikate. Keine Rechtsaenderungen."
-    },
-    {
-      "date": "2026-04-09",
-      "queries": 15,
-      "results": 12,
-      "new": 1,
-      "downloaded": 1,
-      "failed": 0
-    },
-    {
-      "date": "2026-04-10",
-      "queries": 8,
-      "results": 9,
-      "new": 1,
-      "downloaded": 1,
-      "failed": 0
-    },
-    {
-      "date": "2026-04-12",
-      "queries": 14,
-      "results": 50,
-      "new": 2,
-      "downloaded": 2,
-      "failed": 2
-    },
-    {
-      "date": "2026-04-13",
-      "queries": 12,
-      "results": 8,
-      "new": 1,
-      "downloaded": 1,
-      "failed": 0,
-      "note": "1 Inbox (PwC/DGAP NSRI, manuell heruntergeladen). Web-Recherche: alle Funde bereits im Korpus. Keine Rechtsaenderungen."
-    },
     {
       "date": "2026-04-14",
       "queries": [
@@ -2020,6 +1880,22 @@
       "new": 9,
       "downloaded": 9,
       "failed": 2
+    },
+    {
+      "date": "2026-05-12",
+      "queries": [
+        "Bevölkerungsschutz/Zivilschutz Bundestag 2026 Mai",
+        "KRITIS-Dachgesetz BMI BBK 2026",
+        "NATO civil preparedness 2026 Germany",
+        "Katastrophenschutz Hamburg LÜKEX 2026",
+        "Innenministerkonferenz 2026 Mai KRITIS",
+        "NIS2 BSI Lagebericht Mai 2026",
+        "BMVg Musterungszentren Reserve Heimatschutz Mai 2026"
+      ],
+      "results_inspected": 22,
+      "new_added": 4,
+      "duplicates_detected": 14,
+      "failed_downloads": 2
     }
   ],
   "failed_downloads": [
