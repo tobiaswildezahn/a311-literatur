@@ -1673,6 +1673,30 @@
     "jahr": 2026,
     "evidenzgrad": "hoch"
   },
+  "381": {
+    "typ": "journalistisch",
+    "institution": "SecurityToday",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "382": {
+    "typ": "primaer",
+    "institution": "MDI Rheinland-Pfalz",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
+  "383": {
+    "typ": "journalistisch",
+    "institution": "boerse-express.com",
+    "jahr": 2026,
+    "evidenzgrad": "mittel"
+  },
+  "384": {
+    "typ": "journalistisch",
+    "institution": "Bundeswehr-Journal",
+    "jahr": 2026,
+    "evidenzgrad": "hoch"
+  },
   "39": {
     "evidenzgrad": "mittel",
     "institution": "Army War College War Room",

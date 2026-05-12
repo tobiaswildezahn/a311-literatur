@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-05-11
+Stand: 2026-05-12
 
 ## Statistik
 
-- **358** Dokumente im Korpus
-- **2065** unique externe URLs
+- **362** Dokumente im Korpus
+- **2069** unique externe URLs
 - **91** Dokumente mit geteilten Quellen
-- **267** isolierte Dokumente (keine geteilten URLs)
+- **271** isolierte Dokumente (keine geteilten URLs)
 - **106** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -27,8 +27,8 @@ Stand: 2026-05-11
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 85 | Wikipedia_Brandanschlag_Berlin | 5 |
 | 08 | BBK_Risikoanalysen_Uebersicht | 4 |
-| 60 | Wikipedia_OPLAN_Deutschland | 4 |
 | 141 | UA_Flut_RLP | 4 |
+| 60 | Wikipedia_OPLAN_Deutschland | 4 |
 
 ## Meistzitierte externe Quellen
 
@@ -36,19 +36,19 @@ Stand: 2026-05-11
 |-----|-----------|
 | https://www.nato.int/cps/en/natohq/topics_132722.htm | 148, 165, 24, 261, 30, 31, 376, 69 |
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 261, 30, 31, 376 |
-| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31, 376 |
 | https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 261, 31, 376 |
+| https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31, 376 |
 | https://www.youtube.com/watch | 100, 141, 85, 87 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
-| https://www | 219, 234, 30, 339 |
 | https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 261, 30, 31 |
+| https://www | 219, 234, 30, 339 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08, 269 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
 | https://www.fkfb.de | 124, 266, 272 |
-| https://eeas.europa.eu/sites/eeas/files/join\\_2017\\_21\\_f1\\_communication\\_ | 148, 24, 376 |
-| https://www.preparecenter.org/sites/default/files/topics/gender_perspectives_ifrc.pdf | 148, 24, 376 |
 | https://www.nato.int/cps/en/natohq/news\\_160130.htm | 148, 24, 376 |
-| https://www.undp.org/content/undp/en/home/climate-and-disaster-resilience/disaster-risk-reduction.html | 148, 24, 376 |
+| https://www.nato.int/cps/en/natohq/news_160130.htm | 148, 24, 376 |
+| https://ec.europa.eu/europeaid/sites/devco/files/2018-01-cnl\\_conclusions\\_on\\_ia.pdf | 148, 24, 376 |
+| https://www.preparecenter.org/sites/default/files/topics/gender\\_perspectives\\_ifrc.pdf | 148, 24, 376 |
 
 ## Meistgenutzte Domaenen
 
@@ -81,19 +81,19 @@ Stand: 2026-05-11
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 92 | 26% |
+| Primaerquelle | 93 | 26% |
 | Sekundaerquelle | 65 | 18% |
 | Graue Literatur | 90 | 25% |
-| Journalistische Quelle | 76 | 21% |
+| Journalistische Quelle | 79 | 22% |
 | Tertiaerquelle | 7 | 2% |
-| Aktivistische Quelle | 9 | 3% |
+| Aktivistische Quelle | 9 | 2% |
 
 ### Verteilung nach Evidenzgrad
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 137 | 38% |
-| mittel | 162 | 45% |
+| hoch | 139 | 38% |
+| mittel | 164 | 45% |
 | niedrig | 40 | 11% |
 
 ### Farbcodierung im Graph
@@ -467,6 +467,10 @@ Stand: 2026-05-11
 | 378 | NRW_IM_Bereit | grau | IM NRW | 2025 | mittel |
 | 379 | BReg_FAQ_Wehrdienst | grau | Bundesregierung | 2025 | hoch |
 | 380 | BfV_Proliferation_Broschuere | grau | BfV | 2026 | hoch |
+| 381 | SecurityToday_NIS2_Enforcement | journalistisch | SecurityToday | 2026 | mittel |
+| 382 | MDI_RLP_AIMK | primaer | MDI Rheinland-Pfalz | 2026 | hoch |
+| 383 | BoerseExpress_NIS2_BSI | journalistisch | boerse-express.com | 2026 | mittel |
+| 384 | BMVg_Musterungszentren_Standorte | journalistisch | Bundeswehr-Journal | 2026 | hoch |
 
 ## Isolierte Dokumente
 
@@ -703,6 +707,10 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 378: NRW_IM_Bereit (grau)
 - 379: BReg_FAQ_Wehrdienst (grau)
 - 380: BfV_Proliferation_Broschuere (grau)
+- 381: SecurityToday_NIS2_Enforcement (journalistisch)
+- 382: MDI_RLP_AIMK (primaer)
+- 383: BoerseExpress_NIS2_BSI (journalistisch)
+- 384: BMVg_Musterungszentren_Standorte (journalistisch)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
 - 42: Marshall_Lykke_AWC (sekundaer)
@@ -854,15 +862,15 @@ graph LR
     D101 -->|2| D76
     D266 -->|2| D272
     D148 -->|2| D30
+    D165 -->|2| D30
     D24 -->|2| D30
     D30 -->|2| D376
-    D165 -->|2| D30
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
+    D219 -->|2| D324
     D219 -->|2| D30
     D30 -->|2| D339
-    D219 -->|2| D324
     D30 -->|2| D324
     D30 -->|2| D33
     D324 -->|2| D339
@@ -875,13 +883,13 @@ graph LR
     D07 -->|1| D269
     D08 -->|1| D269
     D08 -->|1| D255
-    D100 -->|1| D102
-    D100 -->|1| D60
-    D60 -->|1| D85
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
+    D100 -->|1| D60
+    D60 -->|1| D85
+    D100 -->|1| D102
     D101 -->|1| D141
     D102 -->|1| D349
     D103 -->|1| D104
@@ -915,13 +923,13 @@ graph LR
     D199 -->|1| D324
     D200 -->|1| D234
     D216 -->|1| D30
+    D219 -->|1| D38
+    D219 -->|1| D261
+    D219 -->|1| D31
     D219 -->|1| D234
     D219 -->|1| D339
     D234 -->|1| D30
     D234 -->|1| D339
-    D219 -->|1| D261
-    D219 -->|1| D31
-    D219 -->|1| D38
     D225 -->|1| D322
     D241 -->|1| D357
     D261 -->|1| D324
