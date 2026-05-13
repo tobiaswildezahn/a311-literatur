@@ -1,14 +1,14 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-05-12
+Stand: 2026-05-13
 
 ## Statistik
 
-- **362** Dokumente im Korpus
-- **2069** unique externe URLs
-- **91** Dokumente mit geteilten Quellen
-- **271** isolierte Dokumente (keine geteilten URLs)
-- **106** Verbindungen (mind. 2 geteilte URLs)
+- **368** Dokumente im Korpus
+- **2074** unique externe URLs
+- **95** Dokumente mit geteilten Quellen
+- **273** isolierte Dokumente (keine geteilten URLs)
+- **108** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
 
@@ -27,8 +27,8 @@ Stand: 2026-05-12
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 85 | Wikipedia_Brandanschlag_Berlin | 5 |
 | 08 | BBK_Risikoanalysen_Uebersicht | 4 |
-| 141 | UA_Flut_RLP | 4 |
 | 60 | Wikipedia_OPLAN_Deutschland | 4 |
+| 141 | UA_Flut_RLP | 4 |
 
 ## Meistzitierte externe Quellen
 
@@ -40,14 +40,14 @@ Stand: 2026-05-12
 | https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31, 376 |
 | https://www.youtube.com/watch | 100, 141, 85, 87 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
-| https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 261, 30, 31 |
 | https://www | 219, 234, 30, 339 |
+| https://www.nato.int/cps/en/natohq/official_texts_17120.htm | 219, 261, 30, 31 |
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08, 269 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
 | https://www.fkfb.de | 124, 266, 272 |
-| https://www.nato.int/cps/en/natohq/news\\_160130.htm | 148, 24, 376 |
+| https://www.undp.org/content/undp/en/home/climate-and-disaster-resilience/disaster-risk-reduction.html | 148, 24, 376 |
+| https://www.nato.int/cps/en/natohq/topics_50321.htm | 148, 24, 376 |
 | https://www.nato.int/cps/en/natohq/news_160130.htm | 148, 24, 376 |
-| https://ec.europa.eu/europeaid/sites/devco/files/2018-01-cnl\\_conclusions\\_on\\_ia.pdf | 148, 24, 376 |
 | https://www.preparecenter.org/sites/default/files/topics/gender\\_perspectives\\_ifrc.pdf | 148, 24, 376 |
 
 ## Meistgenutzte Domaenen
@@ -60,7 +60,7 @@ Stand: 2026-05-12
 | bmi.bund.de | 16 | 04, 08, 112, 12, 13, 141, 17, 226, 264, 30... |
 | dgap.org | 16 | 166, 167, 169, 221, 227, 307, 308, 309, 324, 347... |
 | bundestag.de | 15 | 06, 07, 14, 145, 15, 16, 17, 244, 270, 332... |
-| behoerden-spiegel.de | 13 | 115, 301, 305, 310, 311, 312, 320, 325, 327, 336... |
+| behoerden-spiegel.de | 14 | 115, 301, 305, 310, 311, 312, 320, 325, 327, 336... |
 | bundeswehr.de | 13 | 131, 197, 234, 251, 258, 291, 359, 60, 61, 62... |
 | dwd.de | 12 | 100, 102, 103, 131, 141, 171, 212, 267, 273, 349... |
 | bundesregierung.de | 11 | 01, 12, 144, 17, 197, 319, 331, 339, 379, 85... |
@@ -73,7 +73,7 @@ Stand: 2026-05-12
 | youtube.com | 7 | 100, 141, 165, 17, 349, 85, 87 |
 | security-network.com | 7 | 17, 278, 304, 328, 337, 55, 57 |
 | creativecommons.org | 7 | 203, 324, 339, 65, 66, 68, 83 |
-| twitter.com | 6 | 101, 111, 165, 65, 76, 84 |
+| civil-protection-humanitarian-aid.ec.europa.eu | 7 | 245, 246, 262, 288, 30, 33, 390 |
 
 ## Quellenklassifikation
 
@@ -81,10 +81,10 @@ Stand: 2026-05-12
 
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
-| Primaerquelle | 93 | 26% |
+| Primaerquelle | 96 | 26% |
 | Sekundaerquelle | 65 | 18% |
-| Graue Literatur | 90 | 25% |
-| Journalistische Quelle | 79 | 22% |
+| Graue Literatur | 91 | 25% |
+| Journalistische Quelle | 81 | 22% |
 | Tertiaerquelle | 7 | 2% |
 | Aktivistische Quelle | 9 | 2% |
 
@@ -92,9 +92,9 @@ Stand: 2026-05-12
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 139 | 38% |
-| mittel | 164 | 45% |
-| niedrig | 40 | 11% |
+| hoch | 142 | 39% |
+| mittel | 166 | 45% |
+| niedrig | 41 | 11% |
 
 ### Farbcodierung im Graph
 
@@ -471,6 +471,12 @@ Stand: 2026-05-12
 | 382 | MDI_RLP_AIMK | primaer | MDI Rheinland-Pfalz | 2026 | hoch |
 | 383 | BoerseExpress_NIS2_BSI | journalistisch | boerse-express.com | 2026 | mittel |
 | 384 | BMVg_Musterungszentren_Standorte | journalistisch | Bundeswehr-Journal | 2026 | hoch |
+| 385 | BehoerdenSpiegel_Pakt_Bevoelkerungsschutz | journalistisch | Behörden Spiegel | 2026 | mittel |
+| 386 | SPD_Fraktion_HH | primaer | SPD-Fraktion Hamburgische Bürgerschaft | 2023 | hoch |
+| 387 | RadioHamburg_Bevoelkerungsschutz_Umbau | journalistisch | Radio Hamburg | 2024 | niedrig |
+| 388 | BfV_VSW_Sicherheitstagung | primaer | Bundesamt für Verfassungsschutz | 2026 | hoch |
+| 389 | DIHK_NIS2_Mehr | grau | DIHK | 2026 | mittel |
+| 390 | EU_Commission_Hantavirus | primaer | European Commission (DG ECHO) | 2026 | hoch |
 
 ## Isolierte Dokumente
 
@@ -552,7 +558,6 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 195: EU_Council_Hybrid (unbekannt)
 - 196: MPK_Staatsmodernisierung (unbekannt)
 - 198: NSR_Geschaeftsordnung (unbekannt)
-- 20: RadioHH_Bevoelkerungsschutz_Umbau (journalistisch)
 - 201: HSS_Zivilschutz_Handlungsfaehigkeit (grau)
 - 202: SKA_Krisenvorsorge_Oeffentliche (primaer)
 - 203: Hertie_Initiative_Handlungsfaehiger (grau)
@@ -670,7 +675,6 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 333: OpenKRITIS_NIS2_Umsetzungsgesetz (grau)
 - 334: tonline_Hamburg_Bunker (journalistisch)
 - 335: ISL_HPA_Hafenstudie (grau)
-- 336: Pakt_Bevoelkerungsschutz (journalistisch)
 - 337: LUEKEX_26_Planbesprechung (journalistisch)
 - 34: EU_TAFF_Civil (grau)
 - 340: ZDF_Heute_Dobrindt (journalistisch)
@@ -711,7 +715,11 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 382: MDI_RLP_AIMK (primaer)
 - 383: BoerseExpress_NIS2_BSI (journalistisch)
 - 384: BMVg_Musterungszentren_Standorte (journalistisch)
+- 386: SPD_Fraktion_HH (primaer)
+- 388: BfV_VSW_Sicherheitstagung (primaer)
+- 389: DIHK_NIS2_Mehr (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
+- 390: EU_Commission_Hantavirus (primaer)
 - 41: DTIC_Lykke_Development (sekundaer)
 - 42: Marshall_Lykke_AWC (sekundaer)
 - 44: IMK_AG_Bericht (primaer)
@@ -782,6 +790,7 @@ graph LR
     D17["17: Bayika_Gebbeken_KRITIS<br/>GRA | 32 URLs"]
     D197["197: Arbeitspapier_Sicherheitspolitik<br/>UNB | 18 URLs"]
     D199["199: Finnland_Turvallisuuskomitea<br/>UNB | 9 URLs"]
+    D20["20: RadioHH_Bevoelkerungsschutz_Umbau<br/>JOU | 2 URLs"]
     D200["200: Finnland_Security_Strategy<br/>PRI | 2 URLs"]
     D216["216: Bertelsmann_EU_Preparedness<br/>SEK | 21 URLs"]
     D219["219: CSIS_Russia_Shadow<br/>SEK | 170 URLs"]
@@ -807,6 +816,7 @@ graph LR
     D322["322: IMI_Operationsplan_Deutschland<br/>AKT | 1 URLs"]
     D324["324: SWP_Bendiek_Kerttunen<br/>SEK | 104 URLs"]
     D33["33: JRC_Cross_Border<br/>SEK | 10 URLs"]
+    D336["336: Pakt_Bevoelkerungsschutz<br/>JOU | 1 URLs"]
     D338["338: NSRI_Sicherheitsindex_DGAP<br/>JOU | 1 URLs"]
     D339["339: SWP_Studie_Mit<br/>SEK | 217 URLs"]
     D349["349: DKKV-Magazin-2025-2-WaX<br/>GRA | 60 URLs"]
@@ -819,6 +829,8 @@ graph LR
     D375["375: BMG_Roadmap_Hitzeschutz<br/>PRI | 36 URLs"]
     D376["376: CIMIC_COE_Resilience<br/>GRA | 17 URLs"]
     D38["38: MWI_Beyond_Ends<br/>SEK | 15 URLs"]
+    D385["385: BehoerdenSpiegel_Pakt_Bevoelkerungsschutz<br/>JOU | 1 URLs"]
+    D387["387: RadioHamburg_Bevoelkerungsschutz_Umbau<br/>JOU | 1 URLs"]
     D40["40: StrategyCentral_Bad_Strategy<br/>SEK | 8 URLs"]
     D48["48: Correctiv_Hybride_Kriegfuehrung<br/>JOU | 4 URLs"]
     D49["49: Correctiv_Vorsorge_Kriegspanik<br/>JOU | 18 URLs"]
@@ -868,11 +880,11 @@ graph LR
     D14 -->|2| D15
     D16 -->|2| D17
     D197 -->|2| D199
-    D219 -->|2| D324
     D219 -->|2| D30
     D30 -->|2| D339
-    D30 -->|2| D324
+    D219 -->|2| D324
     D30 -->|2| D33
+    D30 -->|2| D324
     D324 -->|2| D339
     D36 -->|2| D40
     D65 -->|2| D66
@@ -883,13 +895,13 @@ graph LR
     D07 -->|1| D269
     D08 -->|1| D269
     D08 -->|1| D255
+    D100 -->|1| D102
+    D100 -->|1| D60
+    D60 -->|1| D85
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
-    D100 -->|1| D60
-    D60 -->|1| D85
-    D100 -->|1| D102
     D101 -->|1| D141
     D102 -->|1| D349
     D103 -->|1| D104
@@ -922,14 +934,15 @@ graph LR
     D17 -->|1| D93
     D199 -->|1| D324
     D200 -->|1| D234
+    D20 -->|1| D387
     D216 -->|1| D30
-    D219 -->|1| D38
-    D219 -->|1| D261
-    D219 -->|1| D31
     D219 -->|1| D234
     D219 -->|1| D339
     D234 -->|1| D30
     D234 -->|1| D339
+    D219 -->|1| D261
+    D219 -->|1| D31
+    D219 -->|1| D38
     D225 -->|1| D322
     D241 -->|1| D357
     D261 -->|1| D324
@@ -940,6 +953,7 @@ graph LR
     D303 -->|1| D356
     D305 -->|1| D320
     D30 -->|1| D66
+    D336 -->|1| D385
     D338 -->|1| D370
     D349 -->|1| D96
     D373 -->|1| D50
@@ -953,6 +967,6 @@ graph LR
     style D102,D112,D16,D165,D216,D219,D234,D241,D261,D324,D33,D339,D357,D36,D37,D38,D40,D65,D66,D67,D69 fill:#7c3aed,color:#fff
     style D100,D60,D85 fill:#6b7280,color:#fff
     style D101,D106,D108,D120,D124,D148,D151,D17,D24,D266,D30,D303,D31,D349,D376,D50,D73,D74,D76,D79,D95 fill:#d97706,color:#fff
-    style D110,D115,D116,D275,D305,D320,D321,D338,D370,D48,D49,D58,D59,D62,D80,D87,D91,D93,D94 fill:#059669,color:#fff
+    style D110,D115,D116,D20,D275,D305,D320,D321,D336,D338,D370,D385,D387,D48,D49,D58,D59,D62,D80,D87,D91,D93,D94 fill:#059669,color:#fff
     style D111,D225,D322,D356 fill:#dc2626,color:#fff
 ```

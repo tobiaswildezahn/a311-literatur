@@ -1380,28 +1380,28 @@
     "typ": "grau"
   },
   "336": {
-    "typ": "journalistisch",
+    "evidenzgrad": "mittel",
     "institution": "Behörden Spiegel",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "journalistisch"
   },
   "337": {
-    "typ": "journalistisch",
+    "evidenzgrad": "mittel",
     "institution": "security-network.com",
     "jahr": 2024,
-    "evidenzgrad": "mittel"
+    "typ": "journalistisch"
   },
   "338": {
-    "typ": "journalistisch",
+    "evidenzgrad": "mittel",
     "institution": "ESUT",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "journalistisch"
   },
   "339": {
-    "typ": "sekundaer",
+    "evidenzgrad": "hoch",
     "institution": "SWP",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "sekundaer"
   },
   "34": {
     "evidenzgrad": "mittel",
@@ -1410,124 +1410,124 @@
     "typ": "grau"
   },
   "340": {
-    "typ": "journalistisch",
+    "evidenzgrad": "mittel",
     "institution": "ZDF heute",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "journalistisch"
   },
   "341": {
-    "typ": "sekundaer",
+    "evidenzgrad": "mittel",
     "institution": "Deloitte Legal",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "sekundaer"
   },
   "342": {
-    "typ": "grau",
+    "evidenzgrad": "mittel",
     "institution": "Notfallakademie",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "grau"
   },
   "343": {
-    "typ": "grau",
+    "evidenzgrad": "mittel",
     "institution": "3-core",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "grau"
   },
   "344": {
-    "typ": "sekundaer",
+    "evidenzgrad": "hoch",
     "institution": "GOERG Rechtsanwaelte",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "sekundaer"
   },
   "345": {
-    "typ": "grau",
+    "evidenzgrad": "mittel",
     "institution": "Behoerden Spiegel",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "grau"
   },
   "346": {
-    "typ": "grau",
+    "evidenzgrad": "mittel",
     "institution": "Behoerden Spiegel",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "grau"
   },
   "347": {
-    "typ": "sekundaer",
+    "evidenzgrad": "mittel",
     "institution": "DGAP",
     "jahr": 2023,
-    "evidenzgrad": "mittel"
+    "typ": "sekundaer"
   },
   "348": {
-    "typ": "sekundaer",
+    "evidenzgrad": "hoch",
     "institution": "DGAP",
     "jahr": 2021,
-    "evidenzgrad": "hoch"
+    "typ": "sekundaer"
   },
   "349": {
-    "typ": "grau",
+    "evidenzgrad": "hoch",
     "institution": "Deutsches Komitee Katastrophenvorsorge (DKKV)",
     "jahr": 2025,
-    "evidenzgrad": "hoch"
+    "typ": "grau"
   },
   "350": {
-    "typ": "journalistisch",
+    "evidenzgrad": "niedrig",
     "institution": "drohnen.de",
     "jahr": 2025,
-    "evidenzgrad": "niedrig"
+    "typ": "journalistisch"
   },
   "351": {
-    "typ": "journalistisch",
+    "evidenzgrad": "niedrig",
     "institution": "GFA-News",
     "jahr": 2026,
-    "evidenzgrad": "niedrig"
+    "typ": "journalistisch"
   },
   "352": {
-    "typ": "journalistisch",
+    "evidenzgrad": "niedrig",
     "institution": "Smarter Service",
     "jahr": 2026,
-    "evidenzgrad": "niedrig"
+    "typ": "journalistisch"
   },
   "353": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "Bundesministerium der Verteidigung",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "354": {
-    "typ": "grau",
+    "evidenzgrad": "mittel",
     "institution": "DGAP",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "grau"
   },
   "355": {
-    "typ": "journalistisch",
+    "evidenzgrad": "mittel",
     "institution": "Das Parlament (Bundestag)",
     "jahr": 2025,
-    "evidenzgrad": "mittel"
+    "typ": "journalistisch"
   },
   "356": {
-    "typ": "aktivistisch",
+    "evidenzgrad": "niedrig",
     "institution": "Reservistenverband / OPLAN.de",
     "jahr": 2026,
-    "evidenzgrad": "niedrig"
+    "typ": "aktivistisch"
   },
   "357": {
-    "typ": "sekundaer",
+    "evidenzgrad": "mittel",
     "institution": "Heinrich-Boell-Stiftung",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "sekundaer"
   },
   "358": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "NATO HQ",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "359": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "Bundeswehr",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "36": {
     "evidenzgrad": "hoch",
@@ -1536,64 +1536,64 @@
     "typ": "sekundaer"
   },
   "360": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "BBK",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "361": {
-    "typ": "journalistisch",
+    "evidenzgrad": "mittel",
     "institution": "KOMMUNAL",
     "jahr": 2025,
-    "evidenzgrad": "mittel"
+    "typ": "journalistisch"
   },
   "362": {
-    "typ": "journalistisch",
+    "evidenzgrad": "mittel",
     "institution": "Table.Briefings",
     "jahr": 2025,
-    "evidenzgrad": "mittel"
+    "typ": "journalistisch"
   },
   "363": {
-    "typ": "grau",
+    "evidenzgrad": "hoch",
     "institution": "BIS Hamburg",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "grau"
   },
   "364": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "BBK",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "365": {
-    "typ": "sekundaer",
+    "evidenzgrad": "hoch",
     "institution": "Heinrich Boell Stiftung",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "sekundaer"
   },
   "366": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "THW",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "367": {
-    "typ": "aktivistisch",
+    "evidenzgrad": "mittel",
     "institution": "THW-Bundesvereinigung",
     "jahr": 2022,
-    "evidenzgrad": "mittel"
+    "typ": "aktivistisch"
   },
   "368": {
-    "typ": "journalistisch",
+    "evidenzgrad": "niedrig",
     "institution": "ad-hoc-news.de",
     "jahr": 2026,
-    "evidenzgrad": "niedrig"
+    "typ": "journalistisch"
   },
   "369": {
-    "typ": "journalistisch",
+    "evidenzgrad": "mittel",
     "institution": "ZDFheute",
     "jahr": 2025,
-    "evidenzgrad": "mittel"
+    "typ": "journalistisch"
   },
   "37": {
     "evidenzgrad": "hoch",
@@ -1602,64 +1602,64 @@
     "typ": "sekundaer"
   },
   "370": {
-    "typ": "journalistisch",
+    "evidenzgrad": "mittel",
     "institution": "esut.de",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "journalistisch"
   },
   "371": {
-    "typ": "sekundaer",
+    "evidenzgrad": "hoch",
     "institution": "DGAP",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "sekundaer"
   },
   "372": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "BfV",
     "jahr": 2025,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "373": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "Deutscher Bundestag",
     "jahr": 2025,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "374": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "Deutscher Bundestag",
     "jahr": 2025,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "375": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "BMG",
     "jahr": 2025,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "376": {
-    "typ": "grau",
+    "evidenzgrad": "mittel",
     "institution": "CIMIC COE (NATO)",
     "jahr": 2018,
-    "evidenzgrad": "mittel"
+    "typ": "grau"
   },
   "377": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "BMVg",
     "jahr": 2025,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "378": {
-    "typ": "grau",
+    "evidenzgrad": "mittel",
     "institution": "IM NRW",
     "jahr": 2025,
-    "evidenzgrad": "mittel"
+    "typ": "grau"
   },
   "379": {
-    "typ": "grau",
+    "evidenzgrad": "hoch",
     "institution": "Bundesregierung",
     "jahr": 2025,
-    "evidenzgrad": "hoch"
+    "typ": "grau"
   },
   "38": {
     "evidenzgrad": "mittel",
@@ -1668,40 +1668,76 @@
     "typ": "sekundaer"
   },
   "380": {
-    "typ": "grau",
+    "evidenzgrad": "hoch",
     "institution": "BfV",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "grau"
   },
   "381": {
-    "typ": "journalistisch",
+    "evidenzgrad": "mittel",
     "institution": "SecurityToday",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "journalistisch"
   },
   "382": {
-    "typ": "primaer",
+    "evidenzgrad": "hoch",
     "institution": "MDI Rheinland-Pfalz",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "primaer"
   },
   "383": {
-    "typ": "journalistisch",
+    "evidenzgrad": "mittel",
     "institution": "boerse-express.com",
     "jahr": 2026,
-    "evidenzgrad": "mittel"
+    "typ": "journalistisch"
   },
   "384": {
-    "typ": "journalistisch",
+    "evidenzgrad": "hoch",
     "institution": "Bundeswehr-Journal",
     "jahr": 2026,
-    "evidenzgrad": "hoch"
+    "typ": "journalistisch"
+  },
+  "385": {
+    "evidenzgrad": "mittel",
+    "institution": "Behörden Spiegel",
+    "jahr": 2026,
+    "typ": "journalistisch"
+  },
+  "386": {
+    "evidenzgrad": "hoch",
+    "institution": "SPD-Fraktion Hamburgische Bürgerschaft",
+    "jahr": 2023,
+    "typ": "primaer"
+  },
+  "387": {
+    "evidenzgrad": "niedrig",
+    "institution": "Radio Hamburg",
+    "jahr": 2024,
+    "typ": "journalistisch"
+  },
+  "388": {
+    "evidenzgrad": "hoch",
+    "institution": "Bundesamt für Verfassungsschutz",
+    "jahr": 2026,
+    "typ": "primaer"
+  },
+  "389": {
+    "evidenzgrad": "mittel",
+    "institution": "DIHK",
+    "jahr": 2026,
+    "typ": "grau"
   },
   "39": {
     "evidenzgrad": "mittel",
     "institution": "Army War College War Room",
     "jahr": 2021,
     "typ": "sekundaer"
+  },
+  "390": {
+    "evidenzgrad": "hoch",
+    "institution": "European Commission (DG ECHO)",
+    "jahr": 2026,
+    "typ": "primaer"
   },
   "40": {
     "evidenzgrad": "mittel",

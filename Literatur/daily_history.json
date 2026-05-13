@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-12T05:13:41",
-  "run_count": 48,
+  "last_run": "2026-05-13T05:09:29",
+  "run_count": 49,
   "corpus_state": {
-    "total_docs": 362,
-    "total_urls": 2286,
-    "unique_urls": 2069,
-    "connected_docs": 91,
-    "isolated_docs": 271,
-    "edges": 106
+    "total_docs": 368,
+    "total_urls": 2293,
+    "unique_urls": 2074,
+    "connected_docs": 95,
+    "isolated_docs": 273,
+    "edges": 108
   },
   "known_urls": [
     "http://Forsvarsmakten.se",
@@ -122,6 +122,7 @@
     "https://civil-protection",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/funding-evaluations/financing-civil-protection_en",
+    "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-coordinates-european-response-hantavirus-outbreak-2026-05-11_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-invites-150-eu-citizens-help-shape-future-preparedness-actions-2026-03-19_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commission-launches-new-strategy-tackle-rising-wildfire-threat-2026-03-25_en",
     "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-hosts-high-level-conference-mark-1-year-its-preparedness-union-strategy-2026-03-23_en",
@@ -648,6 +649,7 @@
     "https://www.bsi.bund.de/DE/IT-Sicherheitsvorfall/Unternehmen/Ich-habe-einen-IT-Sicherheitsvorfall-Checkliste-Organisatorisches/ich-habe-einen-it-sicherheitsvorfall-checkliste-organisatorisches_node.html",
     "https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/2026/Cybersicherheit-Gesundheitswesen_260420.html",
     "https://www.bsi.bund.de/DE/Service-Navi/Publikationen/Lagebericht/lagebericht_node.html",
+    "https://www.bsi.bund.de/DE/Themen/Regulierte-Wirtschaft/NIS-2-regulierte-Unternehmen/nis-2-regulierte-unternehmen_node.html",
     "https://www.bsi.bund.de/cae/servlet/contentblob/476038/",
     "https://www.buchalik-broemmekamp.de/ihre-karriere",
     "https://www.bundesbank.de/en/publications/research/discussion-papers/geopolitical-hybrid-threats--961186",
@@ -782,6 +784,7 @@
     "https://www.deutschlandfunk.de/wegner-nennt-anschlag-auf-stromversorgung-in-berlin-terrorismus-100.html",
     "https://www.diewirtschaft-koeln.de/neues-abwehrzentrum-gegen-hybride-bedrohungen-_id13068.html",
     "https://www.dihk.de/de/newsroom/dihk-bewertet-kritis-dachgesetz-sicherheit-und-resilienz-kritischer-infrastrukturen-staerken-157462",
+    "https://www.dihk.de/de/serviceportal/fuer-gewerbetreibende-unternehmer/recht-regeln-und-sicherheit/gesetzliche-neuregelungen/nis-2-mehr-verantwortung-fuer-cybersicherheit-ab-2026-141670",
     "https://www.dke.de/de",
     "https://www.donaukurier.de/lokales/landkreis-pfaffenhofen/dammbruch-bei-baar-ebenhausen-bewohner-sollen-umgehend-das-erdgeschoss-verlassen-16167291",
     "https://www.donaukurier.de/lokales/landkreis-pfaffenhofen/ueberflutungen-ungeahnten-ausmasses-landkreis-pfaffenhofen-besonders-stark-betroffen-16170384",
@@ -1198,6 +1201,7 @@
     "https://www.smard.de/home",
     "https://www.smard.de/page/home/topic-article/444/215556",
     "https://www.smarter-service.com/2026/04/29/gesamtstaatliches-sicherheitsoekosystem-2030-warum-verteidigung-zur-wachstumsfrage-wird/",
+    "https://www.spd-fraktion-hamburg.de/buergerschaft/antraege/detail/neuausrichtung-des-katastrophenschutzes-in-hamburg",
     "https://www.spdfraktion-rlp.de/presse/mitteilungen/abschlussbericht-des-untersuchungsausschusses-veroeffentlicht",
     "https://www.spektrum.de/lexikon/geogra",
     "https://www.spektrum.de/lexikon/geographie/schleppkraft/6979",
@@ -1338,6 +1342,7 @@
     "https://www.verfassungsschutz.de/SharedDocs/hintergruende/DE/spionage-und-proliferationsabwehr/die-neue-bedrohung-sabotage-durch-fremde-nachrichtendienste.html",
     "https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2024/2024-08-28-studie-bitkom.html",
     "https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2026/2026-01-08-proliferation.html",
+    "https://www.verfassungsschutz.de/SharedDocs/pressemitteilungen/DE/2026/pressemitteilung-2026-03-19-vsw-sicherheitstagung.html",
     "https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/spionage-und-proliferationsabwehr/2025-05-gefaehrdungen-durch-russische-spionage-sabotage-und-desinformation.html",
     "https://www.vodafone.de/hilfe/cell-broadcast.html",
     "https://www.vogel.de/ueber-uns/unternehmensgruppe/",
@@ -1896,6 +1901,34 @@
       "new_added": 4,
       "duplicates_detected": 14,
       "failed_downloads": 2
+    },
+    {
+      "date": "2026-05-13",
+      "queries": [
+        "bundesrecht: KRITIS-Dachgesetz, Zivilschutzgesetz, ZSG/BBKG",
+        "landesrecht: Katastrophenschutz, Bevoelkerungsschutz",
+        "parldok: Katastrophenschutz/Bevoelkerungsschutz Mai 2026 (HTTP 503 offline)",
+        "web: Bevoelkerungsschutz Zivilschutz Mai 2026 Bundestag BMI",
+        "web: KRITIS-Dachgesetz Bundestag Verabschiedung 2026",
+        "web: NATO civil preparedness baseline requirements 2026",
+        "web: Katastrophenschutz Hamburg Buergerschaft Mai 2026",
+        "web: BBK Pressemitteilung Mai 2026",
+        "web: DGAP SWP Resilienz Gesamtverteidigung 2026",
+        "web: hybride Bedrohung Sabotage Unterwasserkabel Ostsee Mai 2026",
+        "web: LUEKEX 2026 Hamburg Auswertung Pakt Bevoelkerungsschutz",
+        "web: Behoerden Spiegel Bevoelkerungsschutz Heimatschutz Mai 2026",
+        "web: Pakt fuer den Bevoelkerungsschutz Dobrindt Eckpunkte Mai 2026",
+        "web: BSI Lagebericht IT-Sicherheit Mai 2026 NIS2",
+        "web: Operationsplan Deutschland OPLAN 2026 Gesamtverteidigung",
+        "web: Cell Broadcast Warnung Bevoelkerung 2026 Reform",
+        "web: EU CER civil protection mechanism 2026 directive"
+      ],
+      "results_inspected": 80,
+      "candidates": 8,
+      "new_added": 6,
+      "duplicates_detected": 13,
+      "failed_downloads": 1,
+      "notes": "Pakt-Bevoelkerungsschutz-Cluster (385 BSpgl, 388 BfV). Hamburg-Cluster (386 SPD-Antrag 2023, 387 Radio Hamburg 2024). NIS-2 (389 DIHK) und EU-Civil-Protection (390 Hantavirus). table.media Paywall skip. parldok HTTP 503."
     }
   ],
   "failed_downloads": [
