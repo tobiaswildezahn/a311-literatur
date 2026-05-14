@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_run": "2026-05-13T05:09:29",
-  "run_count": 49,
+  "last_run": "2026-05-14T05:08:40",
+  "run_count": 50,
   "corpus_state": {
-    "total_docs": 368,
-    "total_urls": 2293,
-    "unique_urls": 2074,
+    "total_docs": 370,
+    "total_urls": 2295,
+    "unique_urls": 2076,
     "connected_docs": 95,
-    "isolated_docs": 273,
+    "isolated_docs": 275,
     "edges": 108
   },
   "known_urls": [
@@ -1401,7 +1401,9 @@
     "https://zdb-katalog.de/list.xhtml?t=iss%3D%222195-1349%22&key=cql",
     "https://zentrum-klimaanpassung.de/",
     "https://ziviz.de/sites/ziv/files/2026-01/ehrenamtsstudie_freiwillige_feuerwehren_in_rheinland-pfalz_langfassung.pdf",
-    "https://zoes-bund.de/publikationen/gruenbuch-zmz/"
+    "https://zoes-bund.de/publikationen/gruenbuch-zmz/",
+    "https://www.staatsanzeiger.de/nachrichten/politik-und-verwaltung/interschutz-2026-bevoelkerungsschutz-im-fokus/",
+    "https://www.iiss.org/research-paper/2026/04/civil-defence-in-europe-an-initial-assessment/"
   ],
   "processed_sources": [],
   "search_log": [
@@ -1929,6 +1931,24 @@
       "duplicates_detected": 13,
       "failed_downloads": 1,
       "notes": "Pakt-Bevoelkerungsschutz-Cluster (385 BSpgl, 388 BfV). Hamburg-Cluster (386 SPD-Antrag 2023, 387 Radio Hamburg 2024). NIS-2 (389 DIHK) und EU-Civil-Protection (390 Hantavirus). table.media Paywall skip. parldok HTTP 503."
+    },
+    {
+      "date": "2026-05-14",
+      "queries": [
+        "Bevoelkerungsschutz/Zivilschutz Mai 2026",
+        "KRITIS-Dachgesetz Mai 2026",
+        "NATO resilience civil preparedness 2026",
+        "Katastrophenschutz Hamburg 2026",
+        "OPLAN Deutschland/Gesamtverteidigung 2026",
+        "BBK Pressemitteilung Mai 2026",
+        "DGAP/SWP Zivilschutz 2026",
+        "IISS civil defence Europe 2026 report"
+      ],
+      "results_total": 80,
+      "new_candidates": 14,
+      "downloaded": 2,
+      "failed": 2,
+      "corpus_after": 370
     }
   ],
   "failed_downloads": [
@@ -1940,6 +1960,8 @@
     "https://www.kas.de/en/country-reports/detail/-/content/finnlands-reaktion-auf-hybride-bedrohungen-in-der-ostsee",
     "https://www.naadsn.ca/wp-content/uploads/2025/11/25nov3-NAADSN-7BLR-Policy-Primer-RD-PWL.pdf",
     "https://www.nzz.ch/international/kriegsschauplatz-ostsee-kommen-nach-den-kabelschneidern-die-umweltzerstoerer-ld.1868615",
-    "https://ziviz.de/sites/ziv/files/2026-01/ehrenamtsstudie_freiwillige_feuerwehren_in_rheinland-pfalz_langfassung.pdf"
+    "https://ziviz.de/sites/ziv/files/2026-01/ehrenamtsstudie_freiwillige_feuerwehren_in_rheinland-pfalz_langfassung.pdf",
+    "https://www.iiss.org/research-paper/2026/04/civil-defence-in-europe-an-initial-assessment/",
+    "https://www.iiss.org/press/2026/04/iiss-stockholm-civil-defence-forum-report-uncovers-patchwork-of-european-defence-and-resilience-capabilities/"
   ]
 }
