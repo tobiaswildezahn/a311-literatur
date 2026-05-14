@@ -1,13 +1,13 @@
 # Wissensgraph — A311 Literaturkorpus
 
-Stand: 2026-05-13
+Stand: 2026-05-14
 
 ## Statistik
 
-- **368** Dokumente im Korpus
-- **2074** unique externe URLs
+- **370** Dokumente im Korpus
+- **2076** unique externe URLs
 - **95** Dokumente mit geteilten Quellen
-- **273** isolierte Dokumente (keine geteilten URLs)
+- **275** isolierte Dokumente (keine geteilten URLs)
 - **108** Verbindungen (mind. 2 geteilte URLs)
 
 ## Hub-Dokumente (meiste Verbindungen)
@@ -27,8 +27,8 @@ Stand: 2026-05-13
 | 100 | Wikipedia_Hochwasser_Sueddeutschland | 5 |
 | 85 | Wikipedia_Brandanschlag_Berlin | 5 |
 | 08 | BBK_Risikoanalysen_Uebersicht | 4 |
-| 60 | Wikipedia_OPLAN_Deutschland | 4 |
 | 141 | UA_Flut_RLP | 4 |
+| 60 | Wikipedia_OPLAN_Deutschland | 4 |
 
 ## Meistzitierte externe Quellen
 
@@ -36,8 +36,8 @@ Stand: 2026-05-13
 |-----|-----------|
 | https://www.nato.int/cps/en/natohq/topics_132722.htm | 148, 165, 24, 261, 30, 31, 376, 69 |
 | https://www.nato.int/cps/en/natohq/topics_50093.htm | 148, 24, 261, 30, 31, 376 |
-| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 261, 31, 376 |
 | https://www.nato.int/cps/en/natohq/topics\\_50093.htm | 148, 24, 261, 31, 376 |
+| https://www.nato.int/cps/en/natohq/topics\\_132722.htm | 148, 24, 261, 31, 376 |
 | https://www.youtube.com/watch | 100, 141, 85, 87 |
 | https://www.bundestag.de/dokumente/textarchiv/2026/kw05-de-kritische-infrastruktur-1137002 | 15, 16, 17, 79 |
 | https://www | 219, 234, 30, 339 |
@@ -45,8 +45,8 @@ Stand: 2026-05-13
 | https://dserver.bundestag.de/btd/21/036/2103600.pdf | 07, 08, 269 |
 | https://zdb-katalog.de/list.xhtml | 100, 60, 85 |
 | https://www.fkfb.de | 124, 266, 272 |
-| https://www.undp.org/content/undp/en/home/climate-and-disaster-resilience/disaster-risk-reduction.html | 148, 24, 376 |
 | https://www.nato.int/cps/en/natohq/topics_50321.htm | 148, 24, 376 |
+| https://eeas.europa.eu/sites/eeas/files/join\\_2017\\_21\\_f1\\_communication\\_ | 148, 24, 376 |
 | https://www.nato.int/cps/en/natohq/news_160130.htm | 148, 24, 376 |
 | https://www.preparecenter.org/sites/default/files/topics/gender\\_perspectives\\_ifrc.pdf | 148, 24, 376 |
 
@@ -82,9 +82,9 @@ Stand: 2026-05-13
 | Typ | Anzahl | Anteil |
 |-----|--------|--------|
 | Primaerquelle | 96 | 26% |
-| Sekundaerquelle | 65 | 18% |
+| Sekundaerquelle | 66 | 18% |
 | Graue Literatur | 91 | 25% |
-| Journalistische Quelle | 81 | 22% |
+| Journalistische Quelle | 82 | 22% |
 | Tertiaerquelle | 7 | 2% |
 | Aktivistische Quelle | 9 | 2% |
 
@@ -92,8 +92,8 @@ Stand: 2026-05-13
 
 | Evidenzgrad | Anzahl | Anteil |
 |-------------|--------|--------|
-| hoch | 142 | 39% |
-| mittel | 166 | 45% |
+| hoch | 143 | 39% |
+| mittel | 167 | 45% |
 | niedrig | 41 | 11% |
 
 ### Farbcodierung im Graph
@@ -477,6 +477,8 @@ Stand: 2026-05-13
 | 388 | BfV_VSW_Sicherheitstagung | primaer | Bundesamt für Verfassungsschutz | 2026 | hoch |
 | 389 | DIHK_NIS2_Mehr | grau | DIHK | 2026 | mittel |
 | 390 | EU_Commission_Hantavirus | primaer | European Commission (DG ECHO) | 2026 | hoch |
+| 391 | Staatsanzeiger_Interschutz_2026 | journalistisch | Staatsanzeiger Baden-Wuerttemberg | 2026 | mittel |
+| 392 | IISS_Civil_Defence | sekundaer | International Institute for Strategic Studies (IISS) | 2026 | hoch |
 
 ## Isolierte Dokumente
 
@@ -720,6 +722,8 @@ Diese Dokumente teilen keine URLs mit anderen Dokumenten im Korpus:
 - 389: DIHK_NIS2_Mehr (grau)
 - 39: WarRoom_Models_Metaphors (sekundaer)
 - 390: EU_Commission_Hantavirus (primaer)
+- 391: Staatsanzeiger_Interschutz_2026 (journalistisch)
+- 392: IISS_Civil_Defence (sekundaer)
 - 41: DTIC_Lykke_Development (sekundaer)
 - 42: Marshall_Lykke_AWC (sekundaer)
 - 44: IMK_AG_Bericht (primaer)
@@ -883,8 +887,8 @@ graph LR
     D219 -->|2| D30
     D30 -->|2| D339
     D219 -->|2| D324
-    D30 -->|2| D33
     D30 -->|2| D324
+    D30 -->|2| D33
     D324 -->|2| D339
     D36 -->|2| D40
     D65 -->|2| D66
@@ -895,13 +899,13 @@ graph LR
     D07 -->|1| D269
     D08 -->|1| D269
     D08 -->|1| D255
-    D100 -->|1| D102
-    D100 -->|1| D60
-    D60 -->|1| D85
     D100 -->|1| D141
     D100 -->|1| D87
     D141 -->|1| D85
     D141 -->|1| D87
+    D100 -->|1| D102
+    D100 -->|1| D60
+    D60 -->|1| D85
     D101 -->|1| D141
     D102 -->|1| D349
     D103 -->|1| D104
@@ -936,13 +940,13 @@ graph LR
     D200 -->|1| D234
     D20 -->|1| D387
     D216 -->|1| D30
+    D219 -->|1| D38
     D219 -->|1| D234
     D219 -->|1| D339
     D234 -->|1| D30
     D234 -->|1| D339
     D219 -->|1| D261
     D219 -->|1| D31
-    D219 -->|1| D38
     D225 -->|1| D322
     D241 -->|1| D357
     D261 -->|1| D324

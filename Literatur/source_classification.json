@@ -2092,5 +2092,17 @@
     "institution": "Greenpeace",
     "jahr": 2024,
     "typ": "aktivistisch"
+  },
+  "391": {
+    "evidenzgrad": "mittel",
+    "institution": "Staatsanzeiger Baden-Wuerttemberg",
+    "jahr": 2026,
+    "typ": "journalistisch"
+  },
+  "392": {
+    "evidenzgrad": "hoch",
+    "institution": "International Institute for Strategic Studies (IISS)",
+    "jahr": 2026,
+    "typ": "sekundaer"
   }
 }

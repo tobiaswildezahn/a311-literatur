@@ -25,6 +25,13 @@ Stand: 2026-05-02
 | https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2026/05/ein-jahr-breg.html | BMI Ein-Jahr-Bilanz Bundesregierung Mai 2026 — HTTP 400 (zweiter Versuch). Manueller Download. |
 | https://www.nzz.ch/international/kriegsschauplatz-ostsee-kommen-nach-den-kabelschneidern-die-umweltzerstoerer-ld.1868615 | NZZ Ostsee Kabelsabotage — HTTP 402 Paywall. Falls Zugang vorhanden, Volltext speichern. |
 
+## Neu 2026-05-14
+
+| URL | Hinweis |
+|-----|---------|
+| https://www.iiss.org/research-paper/2026/04/civil-defence-in-europe-an-initial-assessment/ | IISS Civil Defence in Europe Vollbericht (4 Chapters) — Stub als Nr. 392 angelegt, Volltext aber hinter IISS-Login. Falls IISS-Zugang vorhanden: PDF/HTML der vier Kapitel manuell in inbox/ ablegen, dann `/a311-daily --inbox-only`. |
+| https://www.iiss.org/press/2026/04/iiss-stockholm-civil-defence-forum-report-uncovers-patchwork-of-european-defence-and-resilience-capabilities/ | IISS Press Release zur Studie — JS-Render verhindert WebFetch. Manueller Browser-Download in inbox/. |
+
 ---
 
 ## Anleitung
